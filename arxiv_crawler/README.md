@@ -252,6 +252,36 @@ TODO:
 
 
 
+
+## Update on 2026-02-15
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-02-12|2026-02-12|Function-Space Decoupled Diffusion for Forward and Inverse Modeling in Carbon Capture and Storage|Xin Ju|[2602.12274v1](https://arxiv.org/pdf/2602.12274v1)|
+|2026-01-30|2026-02-12|Decoupled Diffusion Sampling for Inverse Problems on Function Spaces|Thomas Y. L. Lin|[2601.23280v2](https://arxiv.org/pdf/2601.23280v2)|
+|2024-08-19|2026-02-12|Coprime Bivariate Bicycle Codes and Their Layouts on Cold Atoms|Ming Wang|[2408.10001v6](https://arxiv.org/pdf/2408.10001v6)|
+|2026-02-12|2026-02-12|Holographic Equidistribution|Nico Cooper|[2602.12265v1](https://arxiv.org/pdf/2602.12265v1)|
+|2025-09-04|2026-02-12|Zero and Nonzero Energy Majorana Modes in an Extended Kitaev Chain|Mohammad Ghuneim|[2509.04420v2](https://arxiv.org/pdf/2509.04420v2)|
+|2026-02-12|2026-02-12|Think like a Scientist: Physics-guided LLM Agent for Equation Discovery|Jianke Yang|[2602.12259v1](https://arxiv.org/pdf/2602.12259v1)|
+|2025-11-08|2026-02-12|EGG-SR: Embedding Symbolic Equivalence into Symbolic Regression via Equality Graph|Nan Jiang|[2511.05849v2](https://arxiv.org/pdf/2511.05849v2)|
+|2026-02-12|2026-02-12|Extending the Cosmological Collider: New Scaling Regimes and Constraints from BOSS|Daniel Green|[2602.12232v1](https://arxiv.org/pdf/2602.12232v1)|
+|2026-02-12|2026-02-12|Phase Estimation from Amplitude Collapse in Correlated Matter-Wave Interference|Daniel Derr|[2602.12227v1](https://arxiv.org/pdf/2602.12227v1)|
+|2026-02-12|2026-02-12|The Observer Effect in World Models: Invasive Adaptation Corrupts Latent Physics|Christian Internò|[2602.12218v1](https://arxiv.org/pdf/2602.12218v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-02-12|2026-02-12|MonarchRT: Efficient Attention for Real-Time Video Generation|Krish Agarwal|[2602.12271v1](https://arxiv.org/pdf/2602.12271v1)|
+|2026-02-12|2026-02-12|T3D: Few-Step Diffusion Language Models via Trajectory Self-Distillation with Direct Discriminative Optimization|Tunyu Zhang|[2602.12262v1](https://arxiv.org/pdf/2602.12262v1)|
+|2026-02-12|2026-02-12|On the implicit regularization of Langevin dynamics with projected noise|Govind Menon|[2602.12257v1](https://arxiv.org/pdf/2602.12257v1)|
+|2026-02-12|2026-02-12|Categorical Flow Maps|Daan Roos|[2602.12233v1](https://arxiv.org/pdf/2602.12233v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-02-12|2026-02-12|MEME: Modeling the Evolutionary Modes of Financial Markets|Taian Guo|[2602.11918v1](https://arxiv.org/pdf/2602.11918v1)|
+|2026-02-12|2026-02-12|AlphaPROBE: Alpha Mining via Principled Retrieval and On-graph biased evolution|Taian Guo|[2602.11917v1](https://arxiv.org/pdf/2602.11917v1)|
 ## Update on 2026-02-05
 
 ### Physics
