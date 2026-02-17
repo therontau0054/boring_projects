@@ -253,6 +253,36 @@ TODO:
 
 
 
+
+## Update on 2026-02-17
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-02-16|2026-02-16|Complementarity of di-top and four-top searches in interpreting possible signals of new physics|Henning Bahl|[2602.15027v1](https://arxiv.org/pdf/2602.15027v1)|
+|2026-02-16|2026-02-16|Controlled Theory of Skyrmion Chern Bands in Moiré Quantum Materials: Quantum Geometry and Collective Dynamics|Yi-Hsien Du|[2602.15016v1](https://arxiv.org/pdf/2602.15016v1)|
+|2026-02-16|2026-02-16|Invariant Gibbs dynamics for the hyperbolic sinh-Gordon model|Justin Forlano|[2602.14996v1](https://arxiv.org/pdf/2602.14996v1)|
+|2026-02-16|2026-02-16|ThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery|Ayush Shrivastava|[2602.14989v1](https://arxiv.org/pdf/2602.14989v1)|
+|2025-06-12|2026-02-16|Information thermodynamics of cellular ion pumps|Julian D. Jiménez-Paz|[2506.11248v2](https://arxiv.org/pdf/2506.11248v2)|
+|2026-02-16|2026-02-16|Multielectron ionization in O$_2^+$ driven by intense infrared laser pulses|Georgios Petros Katsoulis|[2602.14982v1](https://arxiv.org/pdf/2602.14982v1)|
+|2026-02-16|2026-02-16|Sub-part-per-trillion test of the Standard Model with atomic hydrogen|Lothar Maisenbacher|[2602.14980v1](https://arxiv.org/pdf/2602.14980v1)|
+|2026-02-03|2026-02-16|Accelerating Scientific Research with Gemini: Case Studies and Common Techniques|David P. Woodruff|[2602.03837v2](https://arxiv.org/pdf/2602.03837v2)|
+|2026-02-16|2026-02-16|Faster Molecular Dynamics with Neural Network Potentials via Distilled Multiple Time-Stepping and Non-Conservative Forces|Nicolaï Gouraud|[2602.14975v1](https://arxiv.org/pdf/2602.14975v1)|
+|2022-06-20|2026-02-16|Fate of false vacuum in non-perturbative regimes: Gravity effects|Gianluca Calcagni|[2206.09965v2](https://arxiv.org/pdf/2206.09965v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-02-16|2026-02-16|Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation|Cai Zhou|[2602.15022v1](https://arxiv.org/pdf/2602.15022v1)|
+|2026-02-16|2026-02-16|Scaling Beyond Masked Diffusion Language Models|Subham Sekhar Sahoo|[2602.15014v1](https://arxiv.org/pdf/2602.15014v1)|
+|2026-02-16|2026-02-16|Efficient Sampling with Discrete Diffusion Models: Sharp and Adaptive Guarantees|Daniil Dmitriev|[2602.15008v1](https://arxiv.org/pdf/2602.15008v1)|
+|2026-02-16|2026-02-16|MacroGuide: Topological Guidance for Macrocycle Generation|Alicja Maksymiuk|[2602.14977v1](https://arxiv.org/pdf/2602.14977v1)|
+|2025-11-14|2026-02-16|Algorithms Trained on Normal Chest X-rays Can Predict Health Insurance Types|Chi-Yu Chen|[2511.11030v5](https://arxiv.org/pdf/2511.11030v5)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-02-15|2026-02-15|Factor Engine: A Python Library for Systematic Financial Factor Computation and Analysis|Ata Keskin|[2602.14138v1](https://arxiv.org/pdf/2602.14138v1)|
 ## Update on 2026-02-15
 
 ### Physics
