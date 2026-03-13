@@ -254,6 +254,37 @@ TODO:
 
 
 
+
+## Update on 2026-03-13
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-03-12|2026-03-12|$\bar{D}$-meson Nucleon Scattering from Lattice QCD at the Physical Point|Wren Yamada|[2603.12251v1](https://arxiv.org/pdf/2603.12251v1)|
+|2026-03-12|2026-03-12|Separable neural architectures as a primitive for unified predictive and generative intelligence|Reza T. Batley|[2603.12244v1](https://arxiv.org/pdf/2603.12244v1)|
+|2026-03-12|2026-03-12|Factorization vs. Non-Factorization: S-Matrix Corrections for Precision Neutrino Physics|D. Delepine|[2603.12242v1](https://arxiv.org/pdf/2603.12242v1)|
+|2026-03-12|2026-03-12|Onset of Ergodicity Across Scales on a Digital Quantum Processor|Faisal Alam|[2603.12236v1](https://arxiv.org/pdf/2603.12236v1)|
+|2026-03-12|2026-03-12|Transition from Statistical to Hardware-Limited Scaling in Photonic Quantum State Reconstruction|Attila Baumann|[2603.12235v1](https://arxiv.org/pdf/2603.12235v1)|
+|2026-03-12|2026-03-12|Schwinger Model with a Dynamical Axion|Gabriel Rouxinol|[2603.12194v1](https://arxiv.org/pdf/2603.12194v1)|
+|2026-03-12|2026-03-12|Non-Markovian Entropy Dynamics in Living Systems from the Keldysh Formalism|Feiyi Liu|[2603.12184v1](https://arxiv.org/pdf/2603.12184v1)|
+|2026-03-12|2026-03-12|Coherent perfect absorption of anti-modes in an indirect coupled magnon-polariton system|Chenyang Lu|[2603.12174v1](https://arxiv.org/pdf/2603.12174v1)|
+|2026-03-12|2026-03-12|Le Roy, Lerch and Legendre chi functions and generalised Borel-Le Roy transform|Giuseppe Dattoli|[2603.12164v1](https://arxiv.org/pdf/2603.12164v1)|
+|2026-03-09|2026-03-12|Experimental Realization of the Markov Chain Monte Carlo Algorithm on a Quantum Computer|Baptiste Claudon|[2603.08395v2](https://arxiv.org/pdf/2603.08395v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-11|2026-03-12|NeuralOS: Towards Simulating Operating Systems via Neural Generative Models|Luke Rivard|[2507.08800v2](https://arxiv.org/pdf/2507.08800v2)|
+|2026-03-12|2026-03-12|BiGain: Unified Token Compression for Joint Generation and Classification|Jiacheng Liu|[2603.12240v1](https://arxiv.org/pdf/2603.12240v1)|
+|2026-03-12|2026-03-12|FlashMotion: Few-Step Controllable Video Generation with Trajectory Guidance|Quanhao Li|[2603.12146v1](https://arxiv.org/pdf/2603.12146v1)|
+|2026-03-12|2026-03-12|Coarse-Guided Visual Generation via Weighted h-Transform Sampling|Yanghao Wang|[2603.12057v1](https://arxiv.org/pdf/2603.12057v1)|
+|2025-05-23|2026-03-12|Strictly Constrained Generative Modeling via Split Augmented Langevin Sampling|Matthieu Blanke|[2505.18017v4](https://arxiv.org/pdf/2505.18017v4)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-03|2026-03-11|From Text to Alpha: Can LLMs Track Evolving Signals in Corporate Disclosures?|Chanyeol Choi|[2510.03195v4](https://arxiv.org/pdf/2510.03195v4)|
+|2026-03-10|2026-03-10|Constructing a Portfolio Optimization Benchmark Framework for Evaluating Large Language Models|Hanyong Cho|[2603.09301v1](https://arxiv.org/pdf/2603.09301v1)|
 ## Update on 2026-02-17
 
 ### Physics
