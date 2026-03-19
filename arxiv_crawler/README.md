@@ -255,6 +255,36 @@ TODO:
 
 
 
+
+## Update on 2026-03-19
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-03-18|2026-03-18|Asymptotics of superfluid Bjorken flow|Alexander Soloviev|[2603.17985v1](https://arxiv.org/pdf/2603.17985v1)|
+|2026-03-18|2026-03-18|Investigating students' gender expression and its relation to sense of belonging in introductory physics courses|Noah Leibnitz|[2603.17966v1](https://arxiv.org/pdf/2603.17966v1)|
+|2026-03-12|2026-03-18|Thermodynamic Descriptors from Molecular Dynamics as Machine Learning Features for Extrapolable Property Prediction|Nuria H. Espejo|[2603.12017v2](https://arxiv.org/pdf/2603.12017v2)|
+|2026-03-18|2026-03-18|Approaching the ultimate limit of quantum multiparameter estimation by many-body physics|Mankei Tsang|[2603.17955v1](https://arxiv.org/pdf/2603.17955v1)|
+|2026-03-18|2026-03-18|Physical Approaches to Metabolic Scaling in Living Systems|Efe Ilker|[2603.17950v1](https://arxiv.org/pdf/2603.17950v1)|
+|2023-05-09|2026-03-18|Circuit locality from relativistic locality in scalar field mediated entanglement|Andrea Di Biagio|[2305.05645v4](https://arxiv.org/pdf/2305.05645v4)|
+|2026-02-14|2026-03-18|Higher Connection in Open String Field Theory|Yichul Choi|[2602.13627v2](https://arxiv.org/pdf/2602.13627v2)|
+|2025-09-27|2026-03-18|Electric Dipole Moments and New Physics|Maxim Pospelov|[2509.23531v2](https://arxiv.org/pdf/2509.23531v2)|
+|2026-03-11|2026-03-18|Hamiltonian formulation and matrix discretization for axisymmetric magnetohydrodynamics|Michael Roop|[2603.10946v2](https://arxiv.org/pdf/2603.10946v2)|
+|2026-01-16|2026-03-18|Existence of Decreasing Nambu Solutions to the Rainbow Ladder Gap Equation of QCD by Cone Compression|Alex Roberts|[2601.11752v2](https://arxiv.org/pdf/2601.11752v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-01-14|2026-03-18|Global Optimization By Gradient From Hierarchical Score-Matching Spaces|Ming Li|[2601.11639v3](https://arxiv.org/pdf/2601.11639v3)|
+|2026-03-18|2026-03-18|Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control|Zunzhe Zhang|[2603.17834v1](https://arxiv.org/pdf/2603.17834v1)|
+|2025-11-09|2026-03-18|Adaptive Multi-view Graph Contrastive Learning via Fractional-order Neural Diffusion Networks|Yanan Zhao|[2511.06216v3](https://arxiv.org/pdf/2511.06216v3)|
+|2026-03-18|2026-03-18|ChopGrad: Pixel-Wise Losses for Latent Video Diffusion via Truncated Backpropagation|Dmitriy Rivkin|[2603.17812v1](https://arxiv.org/pdf/2603.17812v1)|
+|2026-03-18|2026-03-18|Towards Infinitely Long Neural Simulations: Self-Refining Neural Surrogate Models for Dynamical Systems|Qi Liu|[2603.17750v1](https://arxiv.org/pdf/2603.17750v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-03-06|2026-03-06|P vs NP Problem in Portfolio Optimization: Integrating the Markowitz-CAPM Framework with Cardinality Constraints and Black-Scholes Derivative Pricing|Davit Gondauri|[2603.15652v1](https://arxiv.org/pdf/2603.15652v1)|
 ## Update on 2026-03-13
 
 ### Physics

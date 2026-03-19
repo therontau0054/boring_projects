@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "Asymptotics of superfluid Bjorken flow",
+            "authors": "Alexander Soloviev, Micha\u0142 Spali\u0144ski",
+            "summary": "We consider the dynamics of an expanding superfluid modeled by Mueller-Israel-Stewart theory coupled to a complex scalar field with a $U(1)$ symmetry that is spontaneously broken. This is a manageable theoretical setting for explorations of the chiral phase transition of expanding quark-gluon plasma. We study the late proper-time behavior of Bjorken flow in this physical system and find that asymptotic solutions can be expressed as a transseries of a novel form, which contains factors like $\u03c4^{-a\\ln \u03c4}$. This transseries describes how the information encoded in the initial data is diluted in the course of dissipative evolution. These solutions retain memory of the symmetry-breaking transition and describe two qualitatively different late-time behaviors of the dynamical variables, depending on condensate relaxation rate: either a purely damped fall-off or damped oscillations. The possibility that such oscillations could be imprinted in the observed outcomes of heavy ion collision experiments is the main physical insight that follows from our analysis.",
+            "pdf_url": "https://arxiv.org/pdf/2603.17985v1",
+            "published": "2026-03-18 17:46:51+00:00",
+            "updated": "2026-03-18 17:46:51+00:00"
+        },
+        {
+            "title": "Investigating students' gender expression and its relation to sense of belonging in introductory physics courses",
+            "authors": "Noah Leibnitz, Yangqiuting Li",
+            "summary": "Despite nation efforts to promote diversity and inclusion, women and gender minorities remain underrepresented in physics. One common approach to studying gender in physics contexts treats gender as a categorical identity variable (e.g. \"man,\" \"woman\"). In contrast, approaches that center gender expression focus on the nuanced and context-dependent ways in which gender is socially enacted and interpreted. They are therefore well-suited for exploring how gender permeates the small-scale interactions that ultimately shape students' persistence and perceptions of inclusivity. In the present study, we utilized gender expression as a lens to investigate gendered patterns in introductory undergraduate physics students' sense of belonging in the discipline. Specifically, this qualitative investigation expands on our previous quantitative work to investigate why students may feel misperceived by their peers in physics and how that experience influences their belonging. Results indicated that students' sense of belonging may be impacted by perceived pressures to alter their gender expression in physics contexts. Many interviewees expressed a felt need to present themselves more \"masculinely\" to fit in. Contrastingly, pressure to present \"femininely\" was most often associated with standing out. Implications for supporting students' authentic self-ex in physics contexts are discussed.",
+            "pdf_url": "https://arxiv.org/pdf/2603.17966v1",
+            "published": "2026-03-18 17:34:28+00:00",
+            "updated": "2026-03-18 17:34:28+00:00"
+        },
+        {
+            "title": "Thermodynamic Descriptors from Molecular Dynamics as Machine Learning Features for Extrapolable Property Prediction",
+            "authors": "Nuria H. Espejo, Pablo Llombart, Andr\u00e9s Gonz\u00e1lez de Castilla, Jorge Ramirez, Jorge R. Espinosa, Adiran Garaizar",
+            "summary": "The limited extrapolative power of structure-based machine learning (ML) models is a critical bottleneck in chemical discovery, particularly for industrial R&D, where navigating uncharted chemical space to find next-generation materials or drugs is paramount. These models, reliant on structural descriptors or graph neural networks (GNNs), often fail when predicting properties for molecules with novel chemotypes. Here, we introduce a physics-augmented ML framework that overcomes this limitation. Our approach replaces conventional structural inputs with thermodynamic properties such as cohesive energy, heat of vaporization, and density, derived directly from molecular dynamics (MD) simulations. While performing comparably to structure-based models on known organic compounds, our method uniquely maintains low error when extrapolating to dissimilar chemical spaces. Crucially, it accurately predicts boiling points for entire chemical classes absent from the training set, including inorganic compounds, salts, and molecules with elements such as Si, B, and Te. By learning from the intermolecular forces that govern phase transitions, our framework provides a more fundamental and generalizable strategy for molecular property prediction, enabling chemical exploration beyond established structural domains.",
+            "pdf_url": "https://arxiv.org/pdf/2603.12017v2",
+            "published": "2026-03-12 14:59:42+00:00",
+            "updated": "2026-03-18 17:31:02+00:00"
+        },
+        {
+            "title": "Approaching the ultimate limit of quantum multiparameter estimation by many-body physics",
+            "authors": "Mankei Tsang",
+            "summary": "I propose a physical measurement scheme on multiple independent and identically distributed quantum objects to approach the Holevo--Nagaoka bound for quantum multiparameter estimation. The scheme entails a physical interaction of the objects with bosonic ancillas, followed by a general-dyne measurement of the ancillas. The proposal offers a more concrete description of the experimental setup needed to achieve the ultimate precision limit set by the bound.",
+            "pdf_url": "https://arxiv.org/pdf/2603.17955v1",
+            "published": "2026-03-18 17:28:57+00:00",
+            "updated": "2026-03-18 17:28:57+00:00"
+        },
+        {
+            "title": "Physical Approaches to Metabolic Scaling in Living Systems",
+            "authors": "Efe Ilker, Michael Hinczewski, Xingbo Yang, Frank J\u00fclicher",
+            "summary": "Living systems continuously transform matter and energy through the chemical processes that constitute their metabolism. The overall metabolic rate of an organism correlates positively with its body mass, however both the exact scaling behavior and possible explanations for this behavior have been under intense debate for two centuries. This review synthesizes empirical findings and theoretical frameworks on the energetics of living systems from an interdisciplinary perspective, with a focus on physical concepts. A general thermodynamic framework to study metabolism is laid out, together with a coarse-grained description of metabolic biochemistry. The rich history of experimental work in this field is surveyed, revealing a variety of metabolic scaling patterns at different levels of biological organization, from individual cells to whole populations. Several biophysical models proposed to explain the sublinear scaling of metabolic rate with body mass are summarized. Though the traditional focus has been on adult organisms, the review also highlights recent advances that probe metabolism during development. Improvements in experimental techniques, extensive datasets, and a host of open questions, suggest the field will continue gaining momentum in the near term. The review concludes with an outlook for this future progress: an interdisciplinary approach to elucidate metabolic scaling across different developmental stages and organism sizes.",
+            "pdf_url": "https://arxiv.org/pdf/2603.17950v1",
+            "published": "2026-03-18 17:25:14+00:00",
+            "updated": "2026-03-18 17:25:14+00:00"
+        },
+        {
+            "title": "Circuit locality from relativistic locality in scalar field mediated entanglement",
+            "authors": "Andrea Di Biagio, Richard Howl, \u010caslav Brukner, Carlo Rovelli, Marios Christodoulou",
+            "summary": "Locality is a central notion in modern physics, but different disciplines understand it in different ways. Quantum field theory focuses on relativistic locality, based on spacetime regions, while quantum information theory focuses circuit locality, based on the notion of subsystems. Here, we investigate how spacetime and subsystem locality are related in the context of systems getting entangled while interacting via a scalar field. We show how, when the systems are put in a quantum-controlled superposition of localised states, relativistic locality (in the form of microcausality) gives rise to a specific kind of circuit. The relation between these forms of locality is relevant for understanding whether it is possible to formulate quantum field theory in quantum circuit language, and has bearing on the recent discussions on low-energy tests of quantum gravity.",
+            "pdf_url": "https://arxiv.org/pdf/2305.05645v4",
+            "published": "2023-05-09 17:43:28+00:00",
+            "updated": "2026-03-18 17:06:56+00:00"
+        },
+        {
+            "title": "Higher Connection in Open String Field Theory",
+            "authors": "Yichul Choi",
+            "summary": "We define a 2-form connection in the space of classical solutions of the bosonic open string field theory, using the open string star product and integration. The corresponding higher holonomies and the 3-form curvature are new observables invariant under the infinite-dimensional gauge algebra of open string field theory. The definition is analogous to that of Berry phase in quantum mechanics and is motivated by recent studies on higher Berry phase in condensed matter physics and quantum field theory. We suggest identifying this 2-form connection with the Kalb-Ramond $B$-field of the closed string background at least in favorable situations. Also discussed are sigma models whose target space is the moduli space of conformal boundary conditions of a two-dimensional CFT with the $B$-field given by a cousin of this 2-form connection.",
+            "pdf_url": "https://arxiv.org/pdf/2602.13627v2",
+            "published": "2026-02-14 06:35:33+00:00",
+            "updated": "2026-03-18 16:57:47+00:00"
+        },
+        {
+            "title": "Electric Dipole Moments and New Physics",
+            "authors": "Maxim Pospelov, Adam Ritz",
+            "summary": "Searches for intrinsic electric dipole moments (EDMs) of nucleons, atoms and molecules are precision flavor-diagonal probes of new $CP$-odd physics, as motivated by the need to explain the matter-antimatter asymmetry in the universe. We review and summarise the effective field theory analysis of the observable EDMs in terms of a general set of $CP$-odd operators at 1~GeV, and the ensuing model-independent constraints on new physics. We also review and discuss the EDMs induced by $CP$-violation in the Standard Model, and the implications of EDM limits for various models of physics beyond the Standard Model.",
+            "pdf_url": "https://arxiv.org/pdf/2509.23531v2",
+            "published": "2025-09-27 23:54:04+00:00",
+            "updated": "2026-03-18 16:46:29+00:00"
+        },
+        {
+            "title": "Hamiltonian formulation and matrix discretization for axisymmetric magnetohydrodynamics",
+            "authors": "Michael Roop",
+            "summary": "Equations of ideal magnetohydrodynamics (MHD) play an important role in the studies of turbulence, astrophysics, and plasma physics. These equations possess remarkable geometric structures and symmetries. Indeed, they admit a geodesic formulation in the sense of Arnold, as a Lie--Poisson flow on the dual of an infinite-dimensional Lie algebra. Zeitlin's model, previously developed for MHD on the flat torus and the two-sphere, is a matrix approximation of MHD consistent with the underlying geometric structures. In this paper, we derive the reduced model of axially symmetric magnetohydrodynamics on the three-sphere and give its Hamiltonian formulation. We further extend finite dimensional Zeitlin's matrix model for MHD from 2D to axially symmetric 3D flows of magnetized fluids, yielding the first discrete model for 3D magnetohydrodynamics compatible with the underlying Lie--Poisson structure.",
+            "pdf_url": "https://arxiv.org/pdf/2603.10946v2",
+            "published": "2026-03-11 16:35:40+00:00",
+            "updated": "2026-03-18 16:41:54+00:00"
+        },
+        {
+            "title": "Existence of Decreasing Nambu Solutions to the Rainbow Ladder Gap Equation of QCD by Cone Compression",
+            "authors": "Alex Roberts",
+            "summary": "Studying Nambu solutions of the rainbow-ladder gap equation in QCD at zero temperature and chemical potential, we prove that the mass function emerges continuously from zero as the interaction strength is increased past the critical point for all positive, asymptotically perturbative kernels almost everywhere continuous in $L^1$ using the Krasnosel'skii-Guo Cone Compression Theorem. We prove that the coupled system of equations must have a positive, continuous Nambu solution with decreasing mass function for all current quark masses for a class of models which includes the physical point of a popular model of QCD by using a hybrid Krasnosel'skii-Schauder Fixed Point Theorem.",
+            "pdf_url": "https://arxiv.org/pdf/2601.11752v2",
+            "published": "2026-01-16 20:04:51+00:00",
+            "updated": "2026-03-18 16:41:13+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Global Optimization By Gradient From Hierarchical Score-Matching Spaces",
+            "authors": "Ming Li",
+            "summary": "Gradient-based methods are widely used to solve various optimization problems, however, they are either constrained by local optima dilemmas, simple convex constraints, and continuous differentiability requirements, or limited to low-dimensional simple problems. This work solve these limitations and restrictions by unifying all optimization problems with various complex constraints as a general hierarchical optimization objective without constraints, which is optimized by gradient obtained through score matching. The proposed method is verified through simple-constructed and complex-practical experiments. Even more importantly, it reveals the profound connection between global optimization and diffusion based generative modeling.",
+            "pdf_url": "https://arxiv.org/pdf/2601.11639v3",
+            "published": "2026-01-14 15:26:01+00:00",
+            "updated": "2026-03-18 16:42:09+00:00"
+        },
+        {
+            "title": "Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control",
+            "authors": "Zunzhe Zhang, Runhan Huang, Yicheng Liu, Shaoting Zhu, Linzhan Mou, Hang Zhao",
+            "summary": "Diffusion models and flow matching have become a cornerstone of robotic imitation learning, yet they suffer from a structural inefficiency where inference is often bound to a fixed integration schedule that is agnostic to state complexity. This paradigm forces the policy to expend the same computational budget on trivial motions as it does on complex tasks. We introduce Generative Control as Optimization (GeCO), a time-unconditional framework that transforms action synthesis from trajectory integration into iterative optimization. GeCO learns a stationary velocity field in the action-sequence space where expert behaviors form stable attractors. Consequently, test-time inference becomes an adaptive process that allocates computation based on convergence--exiting early for simple states while refining longer for difficult ones. Furthermore, this stationary geometry yields an intrinsic, training-free safety signal, as the field norm at the optimized action serves as a robust out-of-distribution (OOD) detector, remaining low for in-distribution states while significantly increasing for anomalies. We validate GeCO on standard simulation benchmarks and demonstrate seamless scaling to pi0-series Vision-Language-Action (VLA) models. As a plug-and-play replacement for standard flow-matching heads, GeCO improves success rates and efficiency with an optimization-native mechanism for safe deployment. Video and code can be found at https://hrh6666.github.io/GeCO/",
+            "pdf_url": "https://arxiv.org/pdf/2603.17834v1",
+            "published": "2026-03-18 15:27:17+00:00",
+            "updated": "2026-03-18 15:27:17+00:00"
+        },
+        {
+            "title": "Adaptive Multi-view Graph Contrastive Learning via Fractional-order Neural Diffusion Networks",
+            "authors": "Yanan Zhao, Feng Ji, Jingyang Dai, Jiaze Ma, Keyue Jiang, Kai Zhao, Wee Peng Tay",
+            "summary": "Graph contrastive learning (GCL) learns node and graph representations by contrasting multiple views of the same graph. Existing methods typically rely on fixed, handcrafted views-usually a local and a global perspective, which limits their ability to capture multi-scale structural patterns. We present an augmentation-free, multi-view GCL framework grounded in fractional-order continuous dynamics. By varying the fractional derivative order $\u03b1\\in (0,1]$, our encoders produce a continuous spectrum of views: small $\u03b1$ yields localized features, while large $\u03b1$ induces broader, global aggregation. We treat $\u03b1$ as a learnable parameter so the model can adapt diffusion scales to the data and automatically discover informative views. This principled approach generates diverse, complementary representations without manual augmentations. Extensive experiments on standard benchmarks demonstrate that our method produces more robust and expressive embeddings and outperforms state-of-the-art GCL baselines.",
+            "pdf_url": "https://arxiv.org/pdf/2511.06216v3",
+            "published": "2025-11-09 04:01:46+00:00",
+            "updated": "2026-03-18 15:12:05+00:00"
+        },
+        {
+            "title": "ChopGrad: Pixel-Wise Losses for Latent Video Diffusion via Truncated Backpropagation",
+            "authors": "Dmitriy Rivkin, Parker Ewen, Lili Gao, Julian Ost, Stefanie Walz, Rasika Kangutkar, Mario Bijelic, Felix Heide",
+            "summary": "Recent video diffusion models achieve high-quality generation through recurrent frame processing where each frame generation depends on previous frames. However, this recurrent mechanism means that training such models in the pixel domain incurs prohibitive memory costs, as activations accumulate across the entire video sequence. This fundamental limitation also makes fine-tuning these models with pixel-wise losses computationally intractable for long or high-resolution videos. This paper introduces ChopGrad, a truncated backpropagation scheme for video decoding, limiting gradient computation to local frame windows while maintaining global consistency. We provide a theoretical analysis of this approximation and show that it enables efficient fine-tuning with frame-wise losses. ChopGrad reduces training memory from scaling linearly with the number of video frames (full backpropagation) to constant memory, and compares favorably to existing state-of-the-art video diffusion models across a suite of conditional video generation tasks with pixel-wise losses, including video super-resolution, video inpainting, video enhancement of neural-rendered scenes, and controlled driving video generation.",
+            "pdf_url": "https://arxiv.org/pdf/2603.17812v1",
+            "published": "2026-03-18 15:04:57+00:00",
+            "updated": "2026-03-18 15:04:57+00:00"
+        },
+        {
+            "title": "Towards Infinitely Long Neural Simulations: Self-Refining Neural Surrogate Models for Dynamical Systems",
+            "authors": "Qi Liu, Laure Zanna, Joan Bruna",
+            "summary": "Recent advances in autoregressive neural surrogate models have enabled orders-of-magnitude speedups in simulating dynamical systems. However, autoregressive models are generally prone to distribution drift: compounding errors in autoregressive rollouts that severely degrade generation quality over long time horizons. Existing work attempts to address this issue by implicitly leveraging the inherent trade-off between short-time accuracy and long-time consistency through hyperparameter tuning. In this work, we introduce a unifying mathematical framework that makes this tradeoff explicit, formalizing and generalizing hyperparameter-based strategies in existing approaches. Within this framework, we propose a robust, hyperparameter-free model implemented as a conditional diffusion model that balances short-time fidelity with long-time consistency by construction. Our model, Self-refining Neural Surrogate model (SNS), can be implemented as a standalone model that refines its own autoregressive outputs or as a complementary model to existing neural surrogates to ensure long-time consistency. We also demonstrate the numerical feasibility of SNS through high-fidelity simulations of complex dynamical systems over arbitrarily long time horizons.",
+            "pdf_url": "https://arxiv.org/pdf/2603.17750v1",
+            "published": "2026-03-18 14:14:40+00:00",
+            "updated": "2026-03-18 14:14:40+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "P vs NP Problem in Portfolio Optimization: Integrating the Markowitz-CAPM Framework with Cardinality Constraints and Black-Scholes Derivative Pricing",
+            "authors": "Davit Gondauri",
+            "summary": "This paper makes the Millennium Prize problem P vs NP operational in quantitative finance by studying cardinality-constrained portfolio selection. Starting from the convex Markowitz mean-variance program with CAPM-based expected returns (Rf plus beta times ERP), we impose a hard sparsity rule that limits the portfolio to K assets out of approximately 94 industry portfolios (Damodaran). The constraint couples discrete subset selection with continuous weight optimization, yielding a mixed-integer quadratic program and an NP-hard search space that grows combinatorially with n and K. We therefore evaluate scalable approximation schemes (greedy screening, Monte Carlo sampling, and genetic algorithms) under a replication-oriented protocol with random-seed control, distributional performance summaries (median and quantiles), runtime profiling, and convergence diagnostics. Dependence structure is documented via correlation and covariance diagnostics and positive-semidefinite checks to link algorithm behavior to the geometry implied by the risk matrix. To support the title's derivatives component, we add a European call option priced by the Black-Scholes model and map it into CAPM-consistent moments using delta-based linearization, validated with a bump test and moneyness/maturity sensitivity. Results highlight how the cardinality constraint reshapes the attainable efficient frontier, why stability and computational-cost trade-offs matter more than single-best runs, and how common-factor dependence can limit diversification in K-sparse solutions. The study provides a reproducible template for NP-hard portfolio optimization with transparent inputs and extensible derivative overlays.",
+            "pdf_url": "https://arxiv.org/pdf/2603.15652v1",
+            "published": "2026-03-06 09:53:33+00:00",
+            "updated": "2026-03-06 09:53:33+00:00"
+        }
+    ]
+}
