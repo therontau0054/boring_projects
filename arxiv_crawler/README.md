@@ -256,6 +256,36 @@ TODO:
 
 
 
+
+## Update on 2026-03-21
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-02-27|2026-03-19|A compact accelerator for MHz high repetition rate soft x-ray free electron laser|Ji Qiang|[2603.00294v4](https://arxiv.org/pdf/2603.00294v4)|
+|2026-03-19|2026-03-19|Power spectra via the van der Waals effect in the two-dimensional Poiseuille and Couette flow|Rafail V. Abramov|[2603.19190v1](https://arxiv.org/pdf/2603.19190v1)|
+|2025-11-25|2026-03-19|Image2Gcode: Image-to-G-code Generation for Additive Manufacturing Using Diffusion-Transformer Model|Ziyue Wang|[2511.20636v3](https://arxiv.org/pdf/2511.20636v3)|
+|2026-03-19|2026-03-19|Formation and Decay of Oscillons in Einstein-Cartan Higgs Inflation|Javier Rubio|[2603.19178v1](https://arxiv.org/pdf/2603.19178v1)|
+|2026-03-19|2026-03-19|Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation|Swagat Padhan|[2603.19166v1](https://arxiv.org/pdf/2603.19166v1)|
+|2026-03-19|2026-03-19|Rigorous Error Certification for Neural PDE Solvers: From Empirical Residuals to Solution Guarantees|Amartya Mukherjee|[2603.19165v1](https://arxiv.org/pdf/2603.19165v1)|
+|2026-03-19|2026-03-19|Spectral reconstruction techniques, their shortcomings and relevance to the electric conductivity coefficient|C. Andratschke|[2603.19156v1](https://arxiv.org/pdf/2603.19156v1)|
+|2025-03-30|2026-03-19|Topological consequences of null-geodesic refocusing and applications to $Z^x$ manifolds|Friedrich Bauermeister|[2503.23565v6](https://arxiv.org/pdf/2503.23565v6)|
+|2026-02-09|2026-03-19|WISPedia -- the WISPs Encyclopedia|Conrado Albertus|[2602.09089v2](https://arxiv.org/pdf/2602.09089v2)|
+|2026-03-19|2026-03-19|Spectral continuity of almost commutative manifolds for the $C^1$ topology on Riemannian metrics|Frederic Latremoliere|[2603.19128v1](https://arxiv.org/pdf/2603.19128v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-03-19|2026-03-19|Spectrally-Guided Diffusion Noise Schedules|Carlos Esteves|[2603.19222v1](https://arxiv.org/pdf/2603.19222v1)|
+|2026-03-06|2026-03-19|Score Reversal Is Not Free for Quantum Diffusion Models|Ammar Fayad|[2603.06488v3](https://arxiv.org/pdf/2603.06488v3)|
+|2026-03-19|2026-03-19|MIDST Challenge at SaTML 2025: Membership Inference over Diffusion-models-based Synthetic Tabular data|Masoumeh Shafieinejad|[2603.19185v1](https://arxiv.org/pdf/2603.19185v1)|
+|2026-03-11|2026-03-19|WebWeaver: Breaking Topology Confidentiality in LLM Multi-Agent Systems with Stealthy Context-Based Inference|Zixun Xiong|[2603.11132v2](https://arxiv.org/pdf/2603.11132v2)|
+|2026-03-19|2026-03-19|SOL-ExecBench: Speed-of-Light Benchmarking for Real-World GPU Kernels Against Hardware Limits|Edward Lin|[2603.19173v1](https://arxiv.org/pdf/2603.19173v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-03-18|2026-03-18|ARTEMIS: A Neuro Symbolic Framework for Economically Constrained Market Dynamics|Rahul D Ray|[2603.18107v1](https://arxiv.org/pdf/2603.18107v1)|
 ## Update on 2026-03-19
 
 ### Physics
