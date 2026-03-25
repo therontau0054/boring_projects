@@ -257,6 +257,36 @@ TODO:
 
 
 
+
+## Update on 2026-03-25
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-01|2026-03-24|A Variational Scalar Conformal Flow for Lorentz-Contracted Geometry: Algebraic Decay and Canonical Normalization|Anton Alexa|[2506.01146v4](https://arxiv.org/pdf/2506.01146v4)|
+|2025-01-06|2026-03-24|Reconsidering Velocity Addition/Subtraction in Special Relativity|Domenico Giulini|[2501.03149v2](https://arxiv.org/pdf/2501.03149v2)|
+|2026-03-24|2026-03-24|VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs|Haoran Yuan|[2603.23481v1](https://arxiv.org/pdf/2603.23481v1)|
+|2026-03-24|2026-03-24|Bridging the numerical-physical gap in acoustic holography via end-to-end differentiable structural optimization|Moon Hwan Lee|[2603.23475v1](https://arxiv.org/pdf/2603.23475v1)|
+|2026-03-02|2026-03-24|Bridging the Prandtl number gap: 3D simulations of thermohaline convection in astrophysical regimes|Adrian E. Fraser|[2603.02306v2](https://arxiv.org/pdf/2603.02306v2)|
+|2026-03-24|2026-03-24|Information-Theoretic Scaling Laws of Neural Quantum States|Yiming Lu|[2603.23468v1](https://arxiv.org/pdf/2603.23468v1)|
+|2026-03-24|2026-03-24|Search for new particles decaying into top quark-antiquark pairs in proton-proton collisions at $\sqrt{s}$ = 13 TeV|CMS Collaboration|[2603.23454v1](https://arxiv.org/pdf/2603.23454v1)|
+|2026-03-18|2026-03-24|EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards|Ruixiang Wang|[2603.17808v2](https://arxiv.org/pdf/2603.17808v2)|
+|2024-07-16|2026-03-24|Stimulated absorption of single gravitons: First light on quantum gravity|Victoria Shenderov|[2407.11929v2](https://arxiv.org/pdf/2407.11929v2)|
+|2025-09-17|2026-03-24|JaGuard: Position Error Correction of GNSS Jamming with Deep Temporal Graphs|Ivana Kesić|[2509.14000v3](https://arxiv.org/pdf/2509.14000v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-03-24|2026-03-24|InverFill: One-Step Inversion for Enhanced Few-Step Diffusion Inpainting|Duc Vu|[2603.23463v1](https://arxiv.org/pdf/2603.23463v1)|
+|2026-03-24|2026-03-24|RealMaster: Lifting Rendered Scenes into Photorealistic Video|Dana Cohen-Bar|[2603.23462v1](https://arxiv.org/pdf/2603.23462v1)|
+|2026-03-22|2026-03-24|LPNSR: Prior-Enhanced Diffusion Image Super-Resolution via LR-Guided Noise Prediction|Shuwei Huang|[2603.21045v2](https://arxiv.org/pdf/2603.21045v2)|
+|2026-03-24|2026-03-24|Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation|Michal Balcerak|[2603.23398v1](https://arxiv.org/pdf/2603.23398v1)|
+|2025-09-07|2026-03-24|DreamAudio: Customized Text-to-Audio Generation with Diffusion Models|Yi Yuan|[2509.06027v2](https://arxiv.org/pdf/2509.06027v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-03-24|2026-03-24|High-Resolution Tensor-Network Fourier Methods for Exponentially Compressed Non-Gaussian Aggregate Distributions|Juan José Rodríguez-Aldavero|[2603.23106v1](https://arxiv.org/pdf/2603.23106v1)|
 ## Update on 2026-03-21
 
 ### Physics
