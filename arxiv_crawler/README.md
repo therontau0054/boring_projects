@@ -258,6 +258,36 @@ TODO:
 
 
 
+
+## Update on 2026-03-31
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-11-11|2026-03-30|ViPRA: Video Prediction for Robot Actions|Sandeep Routray|[2511.07732v2](https://arxiv.org/pdf/2511.07732v2)|
+|2026-03-30|2026-03-30|Spatial Degrees of Freedom and Channel Strength for Antenna Systems|Mats Gustafsson|[2603.28749v1](https://arxiv.org/pdf/2603.28749v1)|
+|2026-03-30|2026-03-30|See it to Place it: Evolving Macro Placements with Vision-Language Models|Ikechukwu Uchendu|[2603.28733v1](https://arxiv.org/pdf/2603.28733v1)|
+|2026-03-30|2026-03-30|From Double Colloidal Networks to Core-Shell and Mixed Composites through Sequential Gelation|Alexander Kaltashov|[2603.28729v1](https://arxiv.org/pdf/2603.28729v1)|
+|2024-10-01|2026-03-30|Role of non-classicality in mediated spatial quantum correlations|Salvatore Raia|[2410.00824v2](https://arxiv.org/pdf/2410.00824v2)|
+|2026-03-30|2026-03-30|Robust Floquet-induced gap in irradiated graphite|Fei Wang|[2603.28724v1](https://arxiv.org/pdf/2603.28724v1)|
+|2026-03-30|2026-03-30|Categorical Time-Reversal Symmetries|Rui Wen|[2603.28720v1](https://arxiv.org/pdf/2603.28720v1)|
+|2026-03-30|2026-03-30|A Convex Route to Thermomechanics: Learning Internal Energy and Dissipation|Hagen Holthusen|[2603.28707v1](https://arxiv.org/pdf/2603.28707v1)|
+|2026-03-30|2026-03-30|ACE2-NEMO: Coupling an ML atmospheric emulator to a full-depth dynamical ocean model|Bobby Antonio|[2603.28704v1](https://arxiv.org/pdf/2603.28704v1)|
+|2025-12-12|2026-03-30|CANTON-$μ$ Proposal: A Next-Generation Muon $g-2$ Measurement at Sub-0.1 ppm Precision|Ce Zhang|[2512.11486v3](https://arxiv.org/pdf/2512.11486v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-03-30|2026-03-30|Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds|N Alex Cayco Gajic|[2603.28764v1](https://arxiv.org/pdf/2603.28764v1)|
+|2026-03-30|2026-03-30|On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers|Omer Dahary|[2603.28762v1](https://arxiv.org/pdf/2603.28762v1)|
+|2026-03-30|2026-03-30|Stepwise Credit Assignment for GRPO on Flow-Matching Models|Yash Savani|[2603.28718v1](https://arxiv.org/pdf/2603.28718v1)|
+|2026-03-30|2026-03-30|Unsafe2Safe: Controllable Image Anonymization for Downstream Utility|Mih Dinh|[2603.28605v1](https://arxiv.org/pdf/2603.28605v1)|
+|2026-03-30|2026-03-30|Unrestrained Simplex Denoising for Discrete Data. A Non-Markovian Approach Applied to Graph Generation|Yoann Boget|[2603.28572v1](https://arxiv.org/pdf/2603.28572v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-03-25|2026-03-25|S$^{3}$G: Stock State Space Graph for Enhanced Stock Trend Prediction|Yao Lu|[2603.24236v1](https://arxiv.org/pdf/2603.24236v1)|
 ## Update on 2026-03-25
 
 ### Physics
