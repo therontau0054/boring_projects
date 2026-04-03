@@ -259,6 +259,38 @@ TODO:
 
 
 
+
+## Update on 2026-04-03
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-04-02|2026-04-02|Detecting Symmetry-Resolved Entanglement: A Quantum Monte Carlo Approach|Kuangjie Chen|[2604.02307v1](https://arxiv.org/pdf/2604.02307v1)|
+|2026-03-23|2026-04-02|Primordial Non-Gaussianity and the Field-Level Cramer-Rao Bound|Eugene Chen|[2603.22415v2](https://arxiv.org/pdf/2603.22415v2)|
+|2026-04-02|2026-04-02|VOID: Video Object and Interaction Deletion|Saman Motamed|[2604.02296v1](https://arxiv.org/pdf/2604.02296v1)|
+|2026-04-02|2026-04-02|Recursive relations from diffeomorphism in the Randall-Sundrum model|Haiying Cai|[2604.02294v1](https://arxiv.org/pdf/2604.02294v1)|
+|2026-03-25|2026-04-02|Raman phonon dynamics and its control for enhanced optical frequency conversion|Yi-Hao Chen|[2603.24386v3](https://arxiv.org/pdf/2603.24386v3)|
+|2026-02-05|2026-04-02|Compact self-matched gyrators using edge magnetoplasmons|Aldo Tarascio|[2602.05439v3](https://arxiv.org/pdf/2602.05439v3)|
+|2026-04-02|2026-04-02|Retrieval-Augmented Question Answering over Scientific Literature for the Electron-Ion Collider|Tina. J. Jat|[2604.02259v1](https://arxiv.org/pdf/2604.02259v1)|
+|2026-04-02|2026-04-02|Generalized Beth-Uhlenbeck Approach to the 2+1D Gross-Neveu Model|Biplab Mahato|[2604.02246v1](https://arxiv.org/pdf/2604.02246v1)|
+|2026-04-02|2026-04-02|Quantum Time-Space Tradeoffs for Exponential Dynamic Programming|Susanna Caroppo|[2604.02233v1](https://arxiv.org/pdf/2604.02233v1)|
+|2026-01-06|2026-04-02|One Sample to Rule Them All: Extreme Data Efficiency in Multidiscipline Reasoning with Reinforcement Learning|Yiyuan Li|[2601.03111v2](https://arxiv.org/pdf/2601.03111v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-04-02|2026-04-02|ActionParty: Multi-Subject Action Binding in Generative Video Games|Alexander Pondaven|[2604.02330v1](https://arxiv.org/pdf/2604.02330v1)|
+|2026-01-21|2026-04-02|LaVR: Scene Latent Conditioned Generative Video Trajectory Re-Rendering using Large 4D Reconstruction Models|Mingyang Xie|[2601.14674v2](https://arxiv.org/pdf/2601.14674v2)|
+|2026-03-10|2026-04-02|Hybrid Hidden Markov Model for Modeling Equity Excess Growth Rate Dynamics: A Discrete-State Approach with Jump-Diffusion|Abdulrahman Alswaidan|[2603.10202v2](https://arxiv.org/pdf/2603.10202v2)|
+|2026-04-02|2026-04-02|Crystalite: A Lightweight Transformer for Efficient Crystal Modeling|Tin Hadži Veljković|[2604.02270v1](https://arxiv.org/pdf/2604.02270v1)|
+|2026-04-02|2026-04-02|Smoothing the Landscape: Causal Structure Learning via Diffusion Denoising Objectives|Hao Zhu|[2604.02250v1](https://arxiv.org/pdf/2604.02250v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-04-02|2026-04-02|Quantitative Universal Approximation for Noisy Quantum Neural Networks|Lukas Gonon|[2604.02064v1](https://arxiv.org/pdf/2604.02064v1)|
+|2026-04-01|2026-04-01|JetPrism: diagnosing convergence for generative simulation and inverse problems in nuclear physics|Zeyu Xia|[2604.01313v1](https://arxiv.org/pdf/2604.01313v1)|
+|2026-04-01|2026-04-01|Optimsyn: Influence-Guided Rubrics Optimization for Synthetic Data Generation|Zhiting Fan|[2604.00536v1](https://arxiv.org/pdf/2604.00536v1)|
 ## Update on 2026-03-31
 
 ### Physics
