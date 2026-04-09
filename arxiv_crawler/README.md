@@ -260,6 +260,38 @@ TODO:
 
 
 
+
+## Update on 2026-04-09
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-04-08|2026-04-08|MoRight: Motion Control Done Right|Shaowei Liu|[2604.07348v1](https://arxiv.org/pdf/2604.07348v1)|
+|2023-09-25|2026-04-08|Quantum Superpositions of Conscious States in a Minimal Integrated Information Model|Kelvin J. McQueen|[2309.13826v2](https://arxiv.org/pdf/2309.13826v2)|
+|2026-01-07|2026-04-08|Replacing Tunable Parameters in Weather and Climate Models with State-Dependent Functions using Reinforcement Learning|Pritthijit Nath|[2601.04268v2](https://arxiv.org/pdf/2601.04268v2)|
+|2026-02-15|2026-04-08|Geometric phase of arbitrary Mueller evolutions and its two-level quantum analogue|José J Gil|[2602.14245v2](https://arxiv.org/pdf/2602.14245v2)|
+|2026-04-08|2026-04-08|Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability|Akzhol Almukhametov|[2604.07292v1](https://arxiv.org/pdf/2604.07292v1)|
+|2026-04-08|2026-04-08|Multispectral representation of Distributed Acoustic Sensing data: a framework for physically interpretable feature extraction and visualization|Sergio Morell-Monzó|[2604.07290v1](https://arxiv.org/pdf/2604.07290v1)|
+|2026-04-08|2026-04-08|Physics-Informed Discrete-Event Simulation of Polarization-Encoded Quantum Networks|Abderrahim Amlou|[2604.07289v1](https://arxiv.org/pdf/2604.07289v1)|
+|2025-04-29|2026-04-08|A Giant-Step Baby-Step Classifier For Scalable and Real-Time Anomaly Detection In Industrial Control Systems and Water Treatment Systems|Sarad Venugopalan|[2504.20906v4](https://arxiv.org/pdf/2504.20906v4)|
+|2026-04-08|2026-04-08|Two-dimensional shelving spectroscopy of ultraviolet ground state transitions in dysprosium|Kevin S. H. Ng|[2604.07283v1](https://arxiv.org/pdf/2604.07283v1)|
+|2024-10-15|2026-04-08|Molecular Quantum Control Algorithm Design by Reinforcement Learning|Anastasia Pipi|[2410.11839v4](https://arxiv.org/pdf/2410.11839v4)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-11|2026-04-08|Computational bottlenecks for denoising diffusions|Andrea Montanari|[2503.08028v3](https://arxiv.org/pdf/2503.08028v3)|
+|2026-04-08|2026-04-08|Region-Graph Optimal Transport Routing for Mixture-of-Experts Whole-Slide Image Classification|Xin Tian|[2604.07298v1](https://arxiv.org/pdf/2604.07298v1)|
+|2026-04-08|2026-04-08|Diffusion Processes on Implicit Manifolds|Victor Kawasaki-Borruat|[2604.07213v1](https://arxiv.org/pdf/2604.07213v1)|
+|2026-04-08|2026-04-08|SBBTS: A Unified Schrödinger-Bass Framework for Synthetic Financial Time Series|Alexandre Alouadi|[2604.07159v1](https://arxiv.org/pdf/2604.07159v1)|
+|2026-04-08|2026-04-08|Bridging MRI and PET physiology: Untangling complementarity through orthogonal representations|Sonja Adomeit|[2604.07154v1](https://arxiv.org/pdf/2604.07154v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-03-27|2026-04-07|Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation|Xue Liu|[2604.02368v3](https://arxiv.org/pdf/2604.02368v3)|
+|2026-04-04|2026-04-04|TableVision: A Large-Scale Benchmark for Spatially Grounded Reasoning over Complex Hierarchical Tables|Xiaoyu Chen|[2604.03660v1](https://arxiv.org/pdf/2604.03660v1)|
+|2025-07-20|2026-04-03|Decoding RWA Tokenized U.S. Treasuries: Functional Dissection and Address Role Inference|Junliang Luo|[2507.14808v2](https://arxiv.org/pdf/2507.14808v2)|
 ## Update on 2026-04-03
 
 ### Physics
