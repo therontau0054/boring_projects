@@ -1,0 +1,186 @@
+# Abstracts of Papers
+
+## Physics
+### SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds
+**Authors**: Yunsong Zhou, Hangxu Liu, Xuekun Jiang, Xing Shen, Yuanzhen Zhou, Hui Wang, Baole Fang, Yang Tian, Mulin Yu, Qiaojun Yu, Li Ma, Hengjie Li, Hanqing Wang, Jia Zeng, Jiangmiao Pang
+
+**Published Date**: 2026-04-09
+
+**Updated Date**: 2026-04-09
+
+**PDF Url**: [2604.08544v1](https://arxiv.org/pdf/2604.08544v1)
+
+**Abstract**: Robotic manipulation with deformable objects represents a data-intensive regime in embodied learning, where shape, contact, and topology co-evolve in ways that far exceed the variability of rigids. Although simulation promises relief from the cost of real-world data acquisition, prevailing sim-to-real pipelines remain rooted in rigid-body abstractions, producing mismatched geometry, fragile soft dynamics, and motion primitives poorly suited for cloth interaction. We posit that simulation fails not for being synthetic, but for being ungrounded. To address this, we introduce SIM1, a physics-aligned real-to-sim-to-real data engine that grounds simulation in the physical world. Given limited demonstrations, the system digitizes scenes into metric-consistent twins, calibrates deformable dynamics through elastic modeling, and expands behaviors via diffusion-based trajectory generation with quality filtering. This pipeline transforms sparse observations into scaled synthetic supervision with near-demonstration fidelity. Experiments show that policies trained on purely synthetic data achieve parity with real-data baselines at a 1:15 equivalence ratio, while delivering 90% zero-shot success and 50% generalization gains in real-world deployment. These results validate physics-aligned simulation as scalable supervision for deformable manipulation and a practical pathway for data-efficient policy learning.
+
+
+### AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation
+**Authors**: Ziwei Zhou, Zeyuan Lai, Rui Wang, Yifan Yang, Zhen Xing, Yuqing Yang, Qi Dai, Lili Qiu, Chong Luo
+
+**Published Date**: 2026-04-09
+
+**Updated Date**: 2026-04-09
+
+**PDF Url**: [2604.08540v1](https://arxiv.org/pdf/2604.08540v1)
+
+**Abstract**: Text-to-Audio-Video (T2AV) generation is rapidly becoming a core interface for media creation, yet its evaluation remains fragmented. Existing benchmarks largely assess audio and video in isolation or rely on coarse embedding similarity, failing to capture the fine-grained joint correctness required by realistic prompts. We introduce AVGen-Bench, a task-driven benchmark for T2AV generation featuring high-quality prompts across 11 real-world categories. To support comprehensive assessment, we propose a multi-granular evaluation framework that combines lightweight specialist models with Multimodal Large Language Models (MLLMs), enabling evaluation from perceptual quality to fine-grained semantic controllability. Our evaluation reveals a pronounced gap between strong audio-visual aesthetics and weak semantic reliability, including persistent failures in text rendering, speech coherence, physical reasoning, and a universal breakdown in musical pitch control. Code and benchmark resources are available at http://aka.ms/avgenbench.
+
+
+### An SU(2)-symmetric Semidefinite Programming Hierarchy for Quantum Max Cut
+**Authors**: Jun Takahashi, Chaithanya Rayudu, Cunlu Zhou, Robbie King, Kevin Thompson, Ojas Parekh
+
+**Published Date**: 2023-07-28
+
+**Updated Date**: 2026-04-09
+
+**PDF Url**: [2307.15688v3](https://arxiv.org/pdf/2307.15688v3)
+
+**Abstract**: Understanding and approximating extremal energy states of local Hamiltonians is a central problem in quantum physics and complexity theory. Recent work has focused on developing approximation algorithms for local Hamiltonians, and in particular the ``Quantum Max Cut'' (QMax-Cut) problem, which is closely related to the antiferromagnetic Heisenberg model. In this work, we introduce a family of semidefinite programming (SDP) relaxations based on the Navascues-Pironio-Acin (NPA) hierarchy which is tailored for QMaxCut by taking into account its SU(2) symmetry. We show that the hierarchy converges to the optimal QMaxCut value at a finite level, which is based on a new characterization of the algebra of SWAP operators. We give several analytic proofs and computational results showing exactness/inexactness of our hierarchy at the lowest level on several important families of graphs.
+  We also discuss relationships between SDP approaches for QMaxCut and frustration-freeness in condensed matter physics and numerically demonstrate that the SDP-solvability practically becomes an efficiently-computable generalization of frustration-freeness. Furthermore, by numerical demonstration we show the potential of SDP algorithms to perform as an approximate method to compute physical quantities and capture physical features of some Heisenberg-type statistical mechanics models even away from the frustration-free regions.
+
+
+### Kinetic and canonical momentum broadening in the Glasma
+**Authors**: Dana Avramescu, Carlos Lamas, Tuomas Lappi, Meijian Li, Carlos A. Salgado
+
+**Published Date**: 2026-04-09
+
+**Updated Date**: 2026-04-09
+
+**PDF Url**: [2604.08520v1](https://arxiv.org/pdf/2604.08520v1)
+
+**Abstract**: We lay the foundations for a quantum formalism describing the real-time evolution of particles in the Glasma phase of a heavy-ion collision, focusing on the implications of gauge invariance in the definition of the momentum of a particle in a classical background field. We first establish the correspondence between the classical Wong's equations and the Heisenberg equations of motion for a particle in a classical non-Abelian background field. Using this correspondence, we obtain equations of motion for both the kinetic momentum -- the gauge invariant, physically measurable quantity -- and the canonical momentum, which is conjugate to the coordinates in the Hamiltonian. In particular, the kinetic momentum broadening receives non-trivial contributions from the transverse field components, even in the eikonal limit. Finally, we demonstrate that imposing a transverse Coulomb gauge condition at the initial time significantly reduces the accumulation of numerical errors, thereby providing an optimized framework for the forthcoming quantum implementation.
+
+
+### Henri Poincare Saint Louis Lecture of 1904: Early Publication and International Dissemination
+**Authors**: Hector Giacomini
+
+**Published Date**: 2026-03-24
+
+**Updated Date**: 2026-04-09
+
+**PDF Url**: [2603.23410v2](https://arxiv.org/pdf/2603.23410v2)
+
+**Abstract**: Henri Poincare Saint Louis lecture, delivered on 24 September 1904 at the International Congress of Arts and Science, occupies a distinctive place in the pre history of twentieth century theoretical physics. In this text, Poincare formulated the principle of relativity in explicit and general terms, not as a narrow empirical rule limited to electrodynamics, but as one of the major guiding principles of mathematical physics. The lecture also offered a principle based conception of theory centered on invariance, least action, and general theoretical coherence. Although the conceptual importance of the Saint Louis lecture has long been recognized in the historiography of relativity, far less attention has been devoted to the material conditions under which it entered international circulation. This article examines the editorial, commercial, and institutional pathways through which the lecture was disseminated between late 1904 and early 1905. It reconstructs the three principal early publication channels of the text: its first printed appearance in La Revue des idees in November 1904, which inserted it into a commercially organized and interdisciplinary intellectual review; its republication in the Bulletin des sciences mathematiques in December 1904, which brought it into a widely distributed specialized mathematical network and later provided the standard reference most often used by historians; and its English translation in The Monist in January 1905, which extended its reach into a transatlantic forum devoted to philosophy, science, and the foundations of knowledge.
+
+
+### Einstein connection of nonsymmetric pseudo-Riemannian manifold, II
+**Authors**: Vladimir Rovenski, Milan Zlatanović, Miroslav Maksimović
+
+**Published Date**: 2026-04-09
+
+**Updated Date**: 2026-04-09
+
+**PDF Url**: [2604.08486v1](https://arxiv.org/pdf/2604.08486v1)
+
+**Abstract**: Advances in modern physics since Einstein have made the nonsymmetric metric (0,2)-tensor $G=g+F$, where $g$ is a pseudo-Riemannian metric associated with gravity, and $F\ne0$ is a skew-symmetric tensor associated with electromagnetism, more attractive than~ever. A.Einstein considered a linear connection $\nabla$ with torsion $T$ such that $(\nabla_X\,G)(Y,Z)=G(T(Y,X),Z)$. In this paper, we explicitly present the Einstein connection of $G=g+F$ using a weak almost contact structure $(f,ξ,η)$ with $g(X,fY)=F(X,Y)$ with a natural condition (trivial in the almost contact case). We discuss special Einstein connections, and give an example in terms of the weighted product of almost Hermitian~manifold and a real line.
+
+
+### Looking inside jets: an introduction to jet substructure and boosted-object phenomenology
+**Authors**: Simone Marzani, Gregory Soyez, Michael Spannowsky
+
+**Published Date**: 2019-01-29
+
+**Updated Date**: 2026-04-09
+
+**PDF Url**: [1901.10342v5](https://arxiv.org/pdf/1901.10342v5)
+
+**Abstract**: The study of the internal structure of hadronic jets has become in recent years a very active area of research in particle physics. Jet substructure techniques are increasingly used in experimental analyses by the LHC collaborations, both in the context of searching for new physics and for Standard Model measurements. On the theory side, the quest for a deeper understanding of jet substructure algorithms has contributed to a renewed interest in all-order calculations in QCD. This has resulted in new ideas about how to design better observables and how to provide a solid theoretical description for them. In the last years, jet substructure has seen its scope extended, for example, with an increasing impact in the study of heavy-ion collisions, or with the exploration of deep-learning techniques. Furthermore, jet physics is an area in which experimental and theoretical approaches meet together, where cross-pollination and collaboration between the two communities often bear the fruits of innovative techniques. Despite the wealth of literature on this topic, we feel that a comprehensive and, at the same time, pedagogical introduction to jet substructure is still missing. This makes the endeavour of approaching the field particularly hard, as newcomers have to digest an increasing number of substructure algorithms and techniques, too often characterised by opaque terminology and jargon. Furthermore, while first-principle calculations in QCD have successfully been applied in order to understand and characterise the substructure of jets, they often make use of calculational techniques, such as resummation, which are not the usual textbook material. Thus, the idea of combining our experience in different aspects of jet substructure phenomenology to put together this set of lecture notes, which we hope could help and guide someone who moves their first steps in the physics of jet substructure.
+
+
+### Separability and entanglement of resonating valence-bond states
+**Authors**: Gilles Parez, Clément Berthiere, William Witczak-Krempa
+
+**Published Date**: 2022-12-22
+
+**Updated Date**: 2026-04-09
+
+**PDF Url**: [2212.11740v4](https://arxiv.org/pdf/2212.11740v4)
+
+**Abstract**: We investigate separability and entanglement of Rokhsar-Kivelson (RK) states and resonating valence-bond (RVB) states. These states play a prominent role in condensed matter physics, as they can describe quantum spin liquids and quantum critical states of matter, depending on their underlying lattices. For dimer RK states on arbitrary tileable graphs, we prove the exact separability of the reduced density matrix of $k$ disconnected subsystems, implying the absence of bipartite and multipartite entanglement between the subsystems. For more general RK states with local constraints, we argue separability in the thermodynamic limit, and show that any local RK state has zero logarithmic negativity, even if the density matrix is not exactly separable. In the case of adjacent subsystems, we find an exact expression for the logarithmic negativity in terms of partition functions of the underlying statistical model. For RVB states, we show separability for disconnected subsystems up to exponentially small terms in the distance $d$ between the subsystems, and that the logarithmic negativity is exponentially suppressed with $d$. We argue that separability does hold in the scaling limit, even for arbitrarily small ratio $d/L$, where $L$ is the characteristic size of the subsystems. Our results hold for arbitrary lattices, and encompass a large class of RK and RVB states, which include certain gapped quantum spin liquids and gapless quantum critical systems.
+
+
+### Hard-constrained Physics-informed Neural Networks for Interface Problems
+**Authors**: Seung Whan Chung, Stephen Castonguay, Sumanta Roy, Michael Penwarden, Yucheng Fu, Pratanu Roy
+
+**Published Date**: 2026-04-09
+
+**Updated Date**: 2026-04-09
+
+**PDF Url**: [2604.08453v1](https://arxiv.org/pdf/2604.08453v1)
+
+**Abstract**: Physics-informed neural networks (PINNs) have emerged as a flexible framework for solving partial differential equations, but their performance on interface problems remains challenging because continuity and flux conditions are typically imposed through soft penalty terms. The standard soft-constraint formulation leads to imperfect interface enforcement and degraded accuracy near interfaces. We introduce two ansatz-based hard-constrained PINN formulations for interface problems that embed the interface physics into the solution representation and thereby decouple interface enforcement from PDE residual minimization. The first, termed the windowing approach, constructs the trial space from compactly supported windowed subnetworks so that interface continuity and flux balance are satisfied by design. The second, called the buffer approach, augments unrestricted subnetworks with auxiliary buffer functions that enforce boundary and interface constraints at discrete points through a lightweight correction. We study these formulations on one- and two-dimensional elliptic interface benchmarks and compare them with soft-constrained baselines. In one-dimensional problems, hard constraints consistently improve interface fidelity and remove the need for loss-weight tuning; the windowing approach attains very high accuracy (as low as $O(10^{-9})$) on simple structured cases, whereas the buffer approach remains accurate ($\sim O(10^{-5})$) across a wider range of source terms and interface configurations. In two dimensions, the buffer formulation is shown to be more robust because it enforces constraints through a discrete buffer correction, as the windowing construction becomes more sensitive to overlap and corner effects and over-constrains the problem. This positions the buffer method as a straightforward and geometrically flexible approach to complex interface problems.
+
+
+### Continued AI Scaling Requires Repeated Efficiency Doublings
+**Authors**: Chien-Ping Lu
+
+**Published Date**: 2026-03-30
+
+**Updated Date**: 2026-04-09
+
+**PDF Url**: [2603.28507v2](https://arxiv.org/pdf/2603.28507v2)
+
+**Abstract**: This paper argues that continued AI scaling requires repeated efficiency doublings. Classical AI scaling laws remain useful because they make progress predictable despite diminishing returns, but the compute variable in those laws is best read as logical compute, not as a record of one fixed physical implementation. Practical burden therefore depends on the efficiency with which physical resources realize that compute. Under that interpretation, diminishing returns mean rising operational burden, not merely a flatter curve. Sustained progress then requires recurrent gains in hardware, algorithms, and systems that keep additional logical compute feasible at acceptable cost. The relevant analogy is Moore's Law, understood less as a theorem than as an organizing expectation of repeated efficiency improvement. AI does not yet have a single agreed cadence for such gains, but recent evidence suggests trends that are at least Moore-like and sometimes faster. The paper's claim is therefore simple: if AI scaling is to remain active, repeated efficiency doublings are not optional. They are required.
+
+
+## Diffusion
+### RewardFlow: Generate Images by Optimizing What You Reward
+**Authors**: Onkar Susladkar, Dong-Hwan Jang, Tushar Prakash, Adheesh Juvekar, Vedant Shah, Ayush Barik, Nabeel Bashir, Muntasir Wahed, Ritish Shrirao, Ismini Lourentzou
+
+**Published Date**: 2026-04-09
+
+**Updated Date**: 2026-04-09
+
+**PDF Url**: [2604.08536v1](https://arxiv.org/pdf/2604.08536v1)
+
+**Abstract**: We introduce RewardFlow, an inversion-free framework that steers pretrained diffusion and flow-matching models at inference time through multi-reward Langevin dynamics. RewardFlow unifies complementary differentiable rewards for semantic alignment, perceptual fidelity, localized grounding, object consistency, and human preference, and further introduces a differentiable VQA-based reward that provides fine-grained semantic supervision through language-vision reasoning. To coordinate these heterogeneous objectives, we design a prompt-aware adaptive policy that extracts semantic primitives from the instruction, infers edit intent, and dynamically modulates reward weights and step sizes throughout sampling. Across several image editing and compositional generation benchmarks, RewardFlow delivers state-of-the-art edit fidelity and compositional alignment.
+
+
+### A Generalized Sinkhorn Algorithm for Mean-Field Schrödinger Bridge
+**Authors**: Asmaa Eldesoukey, Yongxin Chen, Abhishek Halder
+
+**Published Date**: 2026-04-08
+
+**Updated Date**: 2026-04-09
+
+**PDF Url**: [2604.06531v2](https://arxiv.org/pdf/2604.06531v2)
+
+**Abstract**: The mean-field Schrödinger bridge (MFSB) problem concerns designing a minimum-effort controller that guides a diffusion process with nonlocal interaction to reach a given distribution from another by a fixed deadline. Unlike the standard Schrödinger bridge, the dynamical constraint for MFSB is the mean-field limit of a population of interacting agents with controls. It serves as a natural model for large-scale multi-agent systems. The MFSB is computationally challenging because the nonlocal interaction makes the problem nonconvex. We propose a generalization of the Hopf-Cole transform for MFSB and, building on it, design a Sinkhorn-type recursive algorithm to solve the associated system of integro-PDEs. Under mild assumptions on the interaction potential, we discuss convergence guarantees for the proposed algorithm. We present numerical examples with repulsive and attractive interactions to illustrate the theoretical contributions.
+
+
+### MCLR: Improving Conditional Modeling via Inter-Class Likelihood-Ratio Maximization and Unifying Classifier-Free Guidance with Alignment Objectives
+**Authors**: Xiang Li, Yixuan Jia, Xiao Li, Jeffrey A. Fessler, Rongrong Wang, Qing Qu
+
+**Published Date**: 2026-03-23
+
+**Updated Date**: 2026-04-09
+
+**PDF Url**: [2603.22364v2](https://arxiv.org/pdf/2603.22364v2)
+
+**Abstract**: Diffusion models have achieved state-of-the-art performance in generative modeling, but their success often relies heavily on classifier-free guidance (CFG), an inference-time heuristic that modifies the sampling trajectory. From a theoretical perspective, diffusion models trained with standard denoising score matching (DSM) are expected to recover the target data distribution, raising the question of why inference-time guidance is necessary in practice. In this work, we ask whether the DSM training objective can be modified in a principled manner such that standard reverse-time sampling, without inference-time guidance, yields effects comparable to CFG. We identify insufficient inter-class separation as a key limitation of standard diffusion models. To address this, we propose MCLR, a principled alignment objective that explicitly maximizes inter-class likelihood-ratios during training. Models fine-tuned with MCLR exhibit CFG-like improvements under standard sampling, achieving comparable qualitative and quantitative gains without requiring inference-time guidance. Beyond empirical benefits, we provide a theoretical result showing that the CFG-guided score is exactly the optimal solution to a weighted MCLR objective. This establishes a formal equivalence between classifier-free guidance and alignment-based objectives, offering a mechanistic interpretation of CFG.
+
+
+### Bias-Constrained Diffusion Schedules for PDE Emulations: Reconstruction Error Minimization and Efficient Unrolled Training
+**Authors**: Constantin Le Cleï, Nils Thürey, Xiaoxiang Zhu
+
+**Published Date**: 2026-04-09
+
+**Updated Date**: 2026-04-09
+
+**PDF Url**: [2604.08357v1](https://arxiv.org/pdf/2604.08357v1)
+
+**Abstract**: Conditional Diffusion Models are powerful surrogates for emulating complex spatiotemporal dynamics, yet they often fail to match the accuracy of deterministic neural emulators for high-precision tasks. In this work, we address two critical limitations of autoregressive PDE diffusion models: their sub-optimal single-step accuracy and the prohibitive computational cost of unrolled training. First, we characterize the relationship between the noise schedule, the reconstruction error reduction rate and the diffusion exposure bias, demonstrating that standard schedules lead to suboptimal reconstruction error. Leveraging this insight, we propose an \textit{Adaptive Noise Schedule} framework that minimizes inference reconstruction error by dynamically constraining the model's exposure bias. We further show that this optimized schedule enables a fast \textit{Proxy Unrolled Training} method to stabilize long-term rollouts without the cost of full Markov Chain sampling. Both proposed methods enable significant improvements in short-term accuracy and long-term stability over diffusion and deterministic baselines on diverse benchmarks, including forced Navier-Stokes, Kuramoto-Sivashinsky and Transonic Flow.
+
+
+## Quantitative Finance
+### Causal PDE-Control Models for Dynamic Portfolio Optimization with Latent Drivers
+**Authors**: Alejandro Rodriguez Dominguez
+
+**Published Date**: 2025-09-11
+
+**Updated Date**: 2026-04-09
+
+**PDF Url**: [2509.09585v3](https://arxiv.org/pdf/2509.09585v3)
+
+**Abstract**: Classical portfolio models degrade under structural breaks, whereas flexible machine-learning allocation methods often lack arbitrage consistency and interpretability. We propose Causal PDE-Control Models (CPCMs), a framework that integrates structural causal drivers, nonlinear filtering, and forward-backward PDE control to produce robust and transparent allocation rules under partial information. We construct driver-conditional risk-neutral measures on the observable filtration via filtering together with the corresponding martingale representation, linking pricing, hedging, and portfolio choice under a common information set. We further establish a projection-divergence duality showing that restricting portfolios to the causal driver span selects the feasible allocation closest to the unconstrained optimum under a convex divergence, thereby quantifying the stability cost of deviations from the causal manifold, and derive a causal completeness condition identifying when a finite driver span captures systematic premia. Markowitz, CAPM/APT, and Black-Litterman arise as limiting cases, while reinforcement learning and deep hedging appear as unconstrained approximations within the same pricing-control geometry. Empirically, on a U.S.equity panel with more than 300 candidate drivers, CPCM solvers achieve higher Sharpe ratios, lower turnover, and more persistent premia than econometric and machine-learning benchmarks.
+
+

@@ -261,6 +261,35 @@ TODO:
 
 
 
+
+## Update on 2026-04-11
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-04-09|2026-04-09|SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds|Yunsong Zhou|[2604.08544v1](https://arxiv.org/pdf/2604.08544v1)|
+|2026-04-09|2026-04-09|AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation|Ziwei Zhou|[2604.08540v1](https://arxiv.org/pdf/2604.08540v1)|
+|2023-07-28|2026-04-09|An SU(2)-symmetric Semidefinite Programming Hierarchy for Quantum Max Cut|Jun Takahashi|[2307.15688v3](https://arxiv.org/pdf/2307.15688v3)|
+|2026-04-09|2026-04-09|Kinetic and canonical momentum broadening in the Glasma|Dana Avramescu|[2604.08520v1](https://arxiv.org/pdf/2604.08520v1)|
+|2026-03-24|2026-04-09|Henri Poincare Saint Louis Lecture of 1904: Early Publication and International Dissemination|Hector Giacomini|[2603.23410v2](https://arxiv.org/pdf/2603.23410v2)|
+|2026-04-09|2026-04-09|Einstein connection of nonsymmetric pseudo-Riemannian manifold, II|Vladimir Rovenski|[2604.08486v1](https://arxiv.org/pdf/2604.08486v1)|
+|2019-01-29|2026-04-09|Looking inside jets: an introduction to jet substructure and boosted-object phenomenology|Simone Marzani|[1901.10342v5](https://arxiv.org/pdf/1901.10342v5)|
+|2022-12-22|2026-04-09|Separability and entanglement of resonating valence-bond states|Gilles Parez|[2212.11740v4](https://arxiv.org/pdf/2212.11740v4)|
+|2026-04-09|2026-04-09|Hard-constrained Physics-informed Neural Networks for Interface Problems|Seung Whan Chung|[2604.08453v1](https://arxiv.org/pdf/2604.08453v1)|
+|2026-03-30|2026-04-09|Continued AI Scaling Requires Repeated Efficiency Doublings|Chien-Ping Lu|[2603.28507v2](https://arxiv.org/pdf/2603.28507v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-04-09|2026-04-09|RewardFlow: Generate Images by Optimizing What You Reward|Onkar Susladkar|[2604.08536v1](https://arxiv.org/pdf/2604.08536v1)|
+|2026-04-08|2026-04-09|A Generalized Sinkhorn Algorithm for Mean-Field Schrödinger Bridge|Asmaa Eldesoukey|[2604.06531v2](https://arxiv.org/pdf/2604.06531v2)|
+|2026-03-23|2026-04-09|MCLR: Improving Conditional Modeling via Inter-Class Likelihood-Ratio Maximization and Unifying Classifier-Free Guidance with Alignment Objectives|Xiang Li|[2603.22364v2](https://arxiv.org/pdf/2603.22364v2)|
+|2026-04-09|2026-04-09|Bias-Constrained Diffusion Schedules for PDE Emulations: Reconstruction Error Minimization and Efficient Unrolled Training|Constantin Le Cleï|[2604.08357v1](https://arxiv.org/pdf/2604.08357v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-11|2026-04-09|Causal PDE-Control Models for Dynamic Portfolio Optimization with Latent Drivers|Alejandro Rodriguez Dominguez|[2509.09585v3](https://arxiv.org/pdf/2509.09585v3)|
 ## Update on 2026-04-09
 
 ### Physics
