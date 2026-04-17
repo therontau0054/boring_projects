@@ -262,6 +262,36 @@ TODO:
 
 
 
+
+## Update on 2026-04-17
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-04-16|2026-04-16|AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving|Fabrizio Genilotti|[2604.15291v1](https://arxiv.org/pdf/2604.15291v1)|
+|2026-04-16|2026-04-16|New frontiers in quantum science and technology using van der Waals Josephson junctions|Joydip Sarkar|[2604.15276v1](https://arxiv.org/pdf/2604.15276v1)|
+|2026-04-16|2026-04-16|Charmonium radiative transitions to dileptons from lattice QCD: The case of $h_c \to η_c \ell^+\ell^-$ and $χ_{c1} \to J/ψ\,\ell^+\ell^-$|D. Bečirević|[2604.15256v1](https://arxiv.org/pdf/2604.15256v1)|
+|2025-03-25|2026-04-16|Collapse-based models for gravity do not violate the entanglement-based witness of non-classicality|Tianfeng Feng|[2503.19774v3](https://arxiv.org/pdf/2503.19774v3)|
+|2026-04-16|2026-04-16|Universal quantum state purification with energy-preserving operations|Xing-Chen Guo|[2604.15228v1](https://arxiv.org/pdf/2604.15228v1)|
+|2025-05-05|2026-04-16|Parameter estimation for land-surface models using Neural Physics|Ruiyue Huang|[2505.02979v3](https://arxiv.org/pdf/2505.02979v3)|
+|2023-05-05|2026-04-16|Testing holographic duality in hyperbolic lattices|Jingming Chen|[2305.04862v3](https://arxiv.org/pdf/2305.04862v3)|
+|2026-04-16|2026-04-16|Low-Cost System for Automatic Recognition of Driving Pattern in Assessing Interurban Mobility using Geo-Information|Oscar Romero|[2604.15216v1](https://arxiv.org/pdf/2604.15216v1)|
+|2026-04-16|2026-04-16|3D Finite Element-Based Multiphysics Simulation of a Shape Memory Alloy Hybrid Composite Module|Lukas Handl|[2604.15211v1](https://arxiv.org/pdf/2604.15211v1)|
+|2026-04-15|2026-04-16|A Core Representation Theorem for Scheme-Invariant Collinear Factorization in QCD|Dustin Keller|[2604.13439v2](https://arxiv.org/pdf/2604.13439v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-04-16|2026-04-16|An Analysis of Regularization and Fokker-Planck Residuals in Diffusion Models for Image Generation|Onno Niemann|[2604.15171v1](https://arxiv.org/pdf/2604.15171v1)|
+|2026-02-06|2026-04-16|Continuous-time reinforcement learning: ellipticity enables model-free value function approximation|Wenlong Mou|[2602.06930v2](https://arxiv.org/pdf/2602.06930v2)|
+|2026-04-16|2026-04-16|Towards Faster Language Model Inference Using Mixture-of-Experts Flow Matching|Aihua Li|[2604.15009v1](https://arxiv.org/pdf/2604.15009v1)|
+|2024-10-02|2026-04-16|Edge-preserving noise for diffusion models|Jente Vandersanden|[2410.01540v4](https://arxiv.org/pdf/2410.01540v4)|
+|2025-11-18|2026-04-16|Towards Deploying VLA without Fine-Tuning: Plug-and-Play Inference-Time VLA Policy Steering via Embodied Evolutionary Diffusion|Zhuo Li|[2511.14178v2](https://arxiv.org/pdf/2511.14178v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-04-15|2026-04-15|ReSS: Learning Reasoning Models for Tabular Data Prediction via Symbolic Scaffold|Chenlang Yi|[2604.13392v1](https://arxiv.org/pdf/2604.13392v1)|
 ## Update on 2026-04-11
 
 ### Physics
