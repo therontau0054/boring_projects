@@ -263,6 +263,35 @@ TODO:
 
 
 
+
+## Update on 2026-04-21
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-04-20|2026-04-20|Physics-Informed Neural Networks for Biological $2\mathrm{D}{+}t$ Reaction-Diffusion Systems|William Lavery|[2604.18548v1](https://arxiv.org/pdf/2604.18548v1)|
+|2026-04-20|2026-04-20|AtomTwin.jl: a physics-native digital twin framework for neutral-atom quantum processors|Shannon Whitlock|[2604.18531v1](https://arxiv.org/pdf/2604.18531v1)|
+|2026-04-20|2026-04-20|Tunable Optical Torque by Asymmetry-Induced Spin-Hall Effect in Tightly Focused Spinless Gaussian Beams|Sauvik Roy|[2604.18514v1](https://arxiv.org/pdf/2604.18514v1)|
+|2026-04-20|2026-04-20|Physics-Informed Neural Networks for Maximizing Quantum Fisher Information in Time-Dependent Many-Body Systems|Antonio Ferrer-Sánchez|[2604.18506v1](https://arxiv.org/pdf/2604.18506v1)|
+|2026-04-20|2026-04-20|Multiscale phase dynamics and $2π$ phase kinks in injection-locked optoelectronic oscillators with large delay|Abhijit Banerjee|[2604.18499v1](https://arxiv.org/pdf/2604.18499v1)|
+|2026-01-23|2026-04-20|NO LESS: Novel Opportunities for Light Exotic Searches at the SPS|Babette Döbrich|[2601.17119v2](https://arxiv.org/pdf/2601.17119v2)|
+|2025-07-14|2026-04-20|Latent Space Dynamics Identification for Interface Tracking with Application to Shock-Induced Pore Collapse|Seung Whan Chung|[2507.10647v2](https://arxiv.org/pdf/2507.10647v2)|
+|2026-04-20|2026-04-20|Steadily moving semi-infinite fracture in plane poroelasticity|Evgenii Kanin|[2604.18483v1](https://arxiv.org/pdf/2604.18483v1)|
+|2026-04-20|2026-04-20|Physics-Informed Neural Networks: A Didactic Derivation of the Complete Training Cycle|Abdeladhim Tahimi|[2604.18481v1](https://arxiv.org/pdf/2604.18481v1)|
+|2026-04-20|2026-04-20|pyTRAIN -- a modern TRAIN implementation|Michi Hostettler|[2604.18466v1](https://arxiv.org/pdf/2604.18466v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-04-20|2026-04-20|Sessa: Selective State Space Attention|Liubomyr Horbatko|[2604.18580v1](https://arxiv.org/pdf/2604.18580v1)|
+|2026-04-10|2026-04-20|Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories|Wonbong Jang|[2604.09429v2](https://arxiv.org/pdf/2604.09429v2)|
+|2026-04-20|2026-04-20|UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models|Jiaqi Wang|[2604.18518v1](https://arxiv.org/pdf/2604.18518v1)|
+|2026-04-20|2026-04-20|NI Sampling: Accelerating Discrete Diffusion Sampling by Token Order Optimization|Enshu Liu|[2604.18471v1](https://arxiv.org/pdf/2604.18471v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-04-20|2026-04-20|QRAFTI: An Agentic Framework for Empirical Research in Quantitative Finance|Terence Lim|[2604.18500v1](https://arxiv.org/pdf/2604.18500v1)|
 ## Update on 2026-04-17
 
 ### Physics
