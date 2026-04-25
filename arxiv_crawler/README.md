@@ -264,6 +264,36 @@ TODO:
 
 
 
+
+## Update on 2026-04-25
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-04-23|2026-04-23|Algorithmic Locality via Provable Convergence in Quantum Tensor Networks|Siddhant Midha|[2604.21919v1](https://arxiv.org/pdf/2604.21919v1)|
+|2026-04-23|2026-04-23|Wave physics as a choreographic notation for partner dance|Fernando Ramiro-Manzano|[2604.21918v1](https://arxiv.org/pdf/2604.21918v1)|
+|2026-04-23|2026-04-23|Cryogenic shock exfoliation for ultrahigh mobility rhombohedral graphite nanoelectronics|Ludwig Holleis|[2604.21912v1](https://arxiv.org/pdf/2604.21912v1)|
+|2026-04-23|2026-04-23|Heavy Quark Transport is Non-Gaussian Beyond Leading Log|Jean F. Du Plessis|[2604.21895v1](https://arxiv.org/pdf/2604.21895v1)|
+|2026-01-28|2026-04-23|NPU Design for Diffusion Language Model Inference|Binglei Lou|[2601.20706v2](https://arxiv.org/pdf/2601.20706v2)|
+|2026-04-23|2026-04-23|A Multi-Stage Warm-Start Deep Learning Framework for Unit Commitment|Muhy Eddin Za'ter|[2604.21891v1](https://arxiv.org/pdf/2604.21891v1)|
+|2026-04-23|2026-04-23|Enhancing Coherence of Spin Centers in p-n Diodes via Optimization Algorithms|Jonatan A. Posligua|[2604.21874v1](https://arxiv.org/pdf/2604.21874v1)|
+|2026-04-23|2026-04-23|Analytical and Machine Learning Methods for Model Discernment at CE$ν$NS Experiments|Iain A. Bisset|[2604.21869v1](https://arxiv.org/pdf/2604.21869v1)|
+|2025-12-22|2026-04-23|Classical billiards can compute|Eva Miranda|[2512.19156v3](https://arxiv.org/pdf/2512.19156v3)|
+|2025-06-24|2026-04-23|Fake or Real, Can Robots Tell? Evaluating VLM Robustness to Domain Shift in Single-View Robotic Scene Understanding|Federico Tavella|[2506.19579v3](https://arxiv.org/pdf/2506.19579v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-04-23|2026-04-23|A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models|Max Defez|[2604.21903v1](https://arxiv.org/pdf/2604.21903v1)|
+|2026-04-23|2026-04-23|Quotient-Space Diffusion Models|Yixian Xu|[2604.21809v1](https://arxiv.org/pdf/2604.21809v1)|
+|2025-07-21|2026-04-23|Algebraic Language Models for Inverse Design of Metamaterials via Diffusion Transformers|Li Zheng|[2507.15753v2](https://arxiv.org/pdf/2507.15753v2)|
+|2026-04-17|2026-04-23|Reasoning on the Manifold: Bidirectional Consistency for Self-Verification in Diffusion Language Models|Jiaoyang Ruan|[2604.16565v2](https://arxiv.org/pdf/2604.16565v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-04-23|2026-04-23|Research Streams in Biodiversity Finance: A Bibliometric Analysis and Research Agenda|Lennart Ante|[2604.21569v1](https://arxiv.org/pdf/2604.21569v1)|
+|2026-04-22|2026-04-22|Deep FinResearch Bench: Evaluating AI's Ability to Conduct Professional Financial Investment Research|Mirazul Haque|[2604.21006v1](https://arxiv.org/pdf/2604.21006v1)|
 ## Update on 2026-04-21
 
 ### Physics
