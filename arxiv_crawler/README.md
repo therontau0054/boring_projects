@@ -265,6 +265,36 @@ TODO:
 
 
 
+
+## Update on 2026-05-09
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-07|2026-05-07|The Kubo-Thermalization Correspondence|Songtao Huang|[2605.06666v1](https://arxiv.org/pdf/2605.06666v1)|
+|2026-05-07|2026-05-07|Pro-Tensor Network|Gen Yue|[2605.06661v1](https://arxiv.org/pdf/2605.06661v1)|
+|2026-05-07|2026-05-07|From Baby Universes to Narain Moduli: Topological Boundary Averaging in SymTFTs|Xingyang Yu|[2605.06653v1](https://arxiv.org/pdf/2605.06653v1)|
+|2026-05-07|2026-05-07|Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction|Yuchen Xiong|[2605.06644v1](https://arxiv.org/pdf/2605.06644v1)|
+|2026-05-07|2026-05-07|The Phases of the Scalar S-Matrix Island|Joan Elias Miro|[2605.06613v1](https://arxiv.org/pdf/2605.06613v1)|
+|2026-05-07|2026-05-07|AI CFD Scientist: Toward Open-Ended Computational Fluid Dynamics Discovery with Physics-Aware AI Agents|Nithin Somasekharan|[2605.06607v1](https://arxiv.org/pdf/2605.06607v1)|
+|2026-05-07|2026-05-07|ReActor: Reinforcement Learning for Physics-Aware Motion Retargeting|David Müller|[2605.06593v1](https://arxiv.org/pdf/2605.06593v1)|
+|2026-05-07|2026-05-07|BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation|Richard Hildebrandt|[2605.06591v1](https://arxiv.org/pdf/2605.06591v1)|
+|2026-05-07|2026-05-07|On the dual nature of a plane angle|M. I. Kalinin|[2605.06586v1](https://arxiv.org/pdf/2605.06586v1)|
+|2026-05-07|2026-05-07|Probing unknown nonperturbative effects in $b \to s \ell\ell$ with inclusive and exclusive observables|P. Alvarez-Cartelle|[2605.06567v1](https://arxiv.org/pdf/2605.06567v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-07|2026-05-07|ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation|Omar El Khalifi|[2605.06667v1](https://arxiv.org/pdf/2605.06667v1)|
+|2025-11-11|2026-05-07|Generative AI Meets 6G and Beyond: Diffusion Models for Semantic Communications|Hai-Long Qin|[2511.08416v3](https://arxiv.org/pdf/2511.08416v3)|
+|2026-05-07|2026-05-07|Diverse Sampling in Diffusion Models with Marginal Preserving Particle Guidance|Gal Vinograd|[2605.06553v1](https://arxiv.org/pdf/2605.06553v1)|
+|2026-05-07|2026-05-07|Continuous Latent Diffusion Language Model|Hongcan Guo|[2605.06548v1](https://arxiv.org/pdf/2605.06548v1)|
+|2026-03-06|2026-05-07|DC-DiT: Adaptive Compute and Elastic Inference for Visual Generation via Dynamic Chunking|Akash Haridas|[2603.06351v2](https://arxiv.org/pdf/2603.06351v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-07|2026-05-07|Arbitrage and the Stability of AMM Price Tracking|Peihao Li|[2605.06060v1](https://arxiv.org/pdf/2605.06060v1)|
 ## Update on 2026-04-25
 
 ### Physics
