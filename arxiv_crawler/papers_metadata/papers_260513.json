@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "Anomalies in Neural Network Field Theory",
+            "authors": "Christian Ferko, Samuel Frank, James Halverson, Vishnu Jejjala",
+            "summary": "Neural network field theory (NN-FT) formulates field theory in terms of a network architecture and a density on its parameters. We derive Schwinger--Dyson equations and Ward identities in NN-FT and utilize them to study anomalies. The equations depend on a conserved parameter space current that characterizes symmetries and how they break. It is relevant even in non-local NN-FTs, but can recover local currents in the case of a local Lagrangian by an appropriate fiber-wise average. In machine learning, this formalism is applied to feedforward networks and the attention mechanism. In physics, we use this machinery to study $U(1)$ symmetry for a complex scalar, the scale anomaly in $4d$ massless $\u03c6^4$ theory, the Weyl anomaly for the bosonic string (including a new computation of the critical dimension), and examples involving discrete topological data, such as winding numbers and T-duality. Since the results are obtained in network parameter space rather than the standard field space, they represent a new way to understand symmetries in quantum field theories.",
+            "pdf_url": "https://arxiv.org/pdf/2605.12488v1",
+            "published": "2026-05-12 17:59:01+00:00",
+            "updated": "2026-05-12 17:59:01+00:00"
+        },
+        {
+            "title": "Towards Affordable Energy: A Gymnasium Environment for Electric Utility Demand-Response Programs",
+            "authors": "Jose E. Aguilar Escamilla, Lingdong Zhou, Xiangqi Zhu, Huazheng Wang",
+            "summary": "Extreme weather and volatile wholesale electricity markets expose residential consumers to catastrophic financial risks, yet demand response at the distribution level remains an underutilized tool for grid flexibility and energy affordability. While a demand-response program can shield consumers by issuing financial credits during high-price periods, optimizing this sequential decision-making process presents a unique challenge for reinforcement learning despite the plentiful offline historical smart meter and wholesale pricing data available publicly. Offline historical data fails to capture the dynamic, interactive feedback loop between an electric utility's pricing signals and customer acceptance and adaptation to a demand-response program. To address this, we introduce DR-Gym, an open-source, online Gymnasium-compatible environment designed to train and evaluate demand-response from the electric utility's perspective. Unlike existing device-level energy simulators, our environment focuses on the market-level electric utility setting and provides a rich observational space relevant to the electric utility. The simulator additionally features a regime-switching wholesale price model calibrated to real-world extreme events, alongside physics-based building demand profiles. For our learning signal, we use a configurable, multi-objective reward function for specifying diverse learning objectives. We demonstrate through baseline strategies and data snapshots the capability of our simulator to create realistic and learnable environments.",
+            "pdf_url": "https://arxiv.org/pdf/2605.12462v1",
+            "published": "2026-05-12 17:48:45+00:00",
+            "updated": "2026-05-12 17:48:45+00:00"
+        },
+        {
+            "title": "Axion-Exchange Contribution to the Energy of Lithium-Like Ions",
+            "authors": "R. R. Abdullin, A. V. Volotka, D. A. Glazov, M. G. Kozlov, A. D. Moshkin, D. V. Chubukov",
+            "summary": "Axions and axion-like particles are among the most promising candidates for dark matter and for manifestations of new physics beyond the Standard Model. In the present work, the contribution of axion exchange to the energy of lithium-like ions is investigated within the framework of relativistic bound-state quantum electrodynamics. A formalism for the interelectronic interaction mediated by axion exchange is developed in the Furry picture with finite nuclear size taken into account. Energy shifts are calculated for a wide range of nuclear charge numbers \\(Z\\) and axion masses. The magnitude of the axion-induced contribution is shown to increase with increasing \\(Z\\) for all states considered. Based on the analysis of lithium-like bismuth, constraints on the axion-electron interaction parameters are obtained in the high-mass region. The results indicate that precision spectroscopy of highly charged ions is a promising tool for searches for new physics associated with the exchange of pseudoscalar bosons.",
+            "pdf_url": "https://arxiv.org/pdf/2605.12444v1",
+            "published": "2026-05-12 17:39:05+00:00",
+            "updated": "2026-05-12 17:39:05+00:00"
+        },
+        {
+            "title": "Programmable Superradiance in an Interacting Qubit Array",
+            "authors": "Botao Du, Qihao Guo, Ruichao Ma",
+            "summary": "When multiple quantum emitters couple to a common electromagnetic environment, interference in their collective radiative dynamics gives rise to superradiance and subradiance. In regimes where coherent interactions and collective dissipation compete, the microscopic many-body dynamics and quantum correlations among the emitters that underlie superradiance and subradiance are theoretically challenging and remain experimentally elusive, even though collective emission has been observed in many physical systems. Here, we realize a superconducting qubit array coupled to a common microwave waveguide that mediates collective dissipation, with simultaneous access to coherent interactions and microscopic measurements of many-body dynamics. Engineered qubit-waveguide couplings with tunable amplitude and phase enable control of collective interference and the resulting super- and subradiant states. Leveraging site-resolved control and readout, we directly observe the microscopic decay dynamics of multi-qubit states across different excitation manifolds and track the evolution of populations and tunable quantum correlations. We reveal collective decay in regimes beyond the ideal Dicke model, where strong qubit-qubit interactions stabilize superradiance and subradiance against local dephasing and reshape decay pathways through spatially and spectrally structured many-body eigenstates. Our results establish a flexible platform for exploring collective phenomena in many-body quantum optics and driven-dissipative approaches to robust quantum information processing.",
+            "pdf_url": "https://arxiv.org/pdf/2605.12442v1",
+            "published": "2026-05-12 17:36:45+00:00",
+            "updated": "2026-05-12 17:36:45+00:00"
+        },
+        {
+            "title": "Measurements of transverse-momentum dependent effects in semi-inclusive DIS at COMPASS",
+            "authors": "Jan Matousek",
+            "summary": "Its cornerstone were studies of hadron production in deep inelastic scattering (DIS), which can be interpreted in the transverse-momentum-dependent (TMD) factorisation framework, allowing to access the distributions of polarisation and transverse momentum of quarks within the nucleon in the language of TMD PDFs, and the hadronisation in terms of TMD fragmentation functions. The data collected with a liquid hydrogen target in 2016-2017 will soon bring new information on the transverse momentum and may allow for the first time to extract the transverse polarisation of quarks within an unpolarised nucleon described by the Boer-Mulders function. The unique data collected with a transversely polarised deuteron target have already improved the knowledge of the d-quark transversity (transverse counterpart of the helicity PDF), reducing the uncertainties by a factor of 2.5 at large Bjorken x, and are yet to yield a number of interesting results.",
+            "pdf_url": "https://arxiv.org/pdf/2605.12423v1",
+            "published": "2026-05-12 17:21:03+00:00",
+            "updated": "2026-05-12 17:21:03+00:00"
+        },
+        {
+            "title": "On periodic distributed representations using Fourier embeddings",
+            "authors": "Jakeb Chouinard",
+            "summary": "Periodic signals are critical for representing physical and perceptual phenomena. Scalar, real angular measures, e.g., radians and degrees, result in difficulty processing and distinguishing nearby angles, especially when their absolute difference exceeds pi. We can avoid this problem by using real-valued, periodic embeddings in high-dimensional space. These representations also allow us to control the nature of their dot product similarities, allowing us to construct a variety of different kernel shapes. In this work, we aim of highlight how these representations can be constructed and focus on the formalization of Dirichlet and periodic Gaussian kernels using the neurally-plausible representation scheme of Spatial Semantic Pointers.",
+            "pdf_url": "https://arxiv.org/pdf/2605.10818v2",
+            "published": "2026-05-11 16:35:32+00:00",
+            "updated": "2026-05-12 17:19:23+00:00"
+        },
+        {
+            "title": "On the Consistency of Null Strings Literature: The Tale of an Overlooked Symmetry",
+            "authors": "M. M. Sheikh-Jabbari, H. Yavartanoo",
+            "summary": "We observe that the null string action possesses a previously overlooked local symmetry. By correctly accounting for this symmetry, we show that the number of physical propagating degrees of freedom of null strings in $D$ dimensional target space is $D-3$, in contrast to $D-2$ that one finds in the literature. Overlooking this symmetry has led to an unphysical over-counting of states, rendering the null string analyses inconsistent. Thus, our observation calls for a thorough revision of all statements and results in the null string literature.",
+            "pdf_url": "https://arxiv.org/pdf/2605.12414v1",
+            "published": "2026-05-12 17:11:44+00:00",
+            "updated": "2026-05-12 17:11:44+00:00"
+        },
+        {
+            "title": "ChemFit: A framework for automated high-dimensional model parameter optimization",
+            "authors": "Moritz Sallermann, Amrita Goswami, Rosana Collepardo-Guevara, Alberto Ocana, Hannes J\u00f3nsson, Elvar \u00d6. J\u00f3nsson, Jorge R. Espinosa",
+            "summary": "The parameterization of simulation-based models is a central yet laborious task in computational chemistry and physics, often driven by human intuition and manual iteration. Automating this task necessitates the definition of suitable objective functions, which tend to be expensive to evaluate, noisy, non-differentiable, or composed of heterogeneous contributions originating from separate sets of simulations. Gradient-free and black-box optimization algorithms are powerful tools which are particularly well-suited to minimizing such objective functions. Here, we introduce ChemFit, a flexible Python framework for the definition, composition, and massively concurrent evaluation of simulation-based objective functions, which is designed to operate in conjunction with these algorithms. We demonstrate the broad applicability of this approach by using ChemFit for three representative examples of increasing complexity and real-world relevance. First, we obtain the parameters of the Lennard-Jones potential for liquid argon from experimental measurements of the density. Second, we parameterize a polarizable and flexible potential energy function to reproduce the structure of small H$_2$O clusters obtained from density functional theory calculations. Finally, we tune a small subset of the parameters of a residue-level coarse-grained protein force-field, with the goal to reproduce the experimental critical solution temperature of the low complexity domain of the wild-type hnRNPA1 sequence and an arginine-enriched mutant of this protein. hnRNPA1 is an RNA-binding protein linked to amyotrophic lateral sclerosis. Together, these examples illustrate how ChemFit enables scalable, reproducible, and optimizer-agnostic parameter fitting for broadly applicable multiscale models.",
+            "pdf_url": "https://arxiv.org/pdf/2603.11769v2",
+            "published": "2026-03-12 10:19:45+00:00",
+            "updated": "2026-05-12 17:08:12+00:00"
+        },
+        {
+            "title": "Lower overhead fault-tolerant building blocks for noisy quantum computers",
+            "authors": "Prithviraj Prabhu",
+            "summary": "Quantum computation holds the promise of solving certain complex problems exponentially faster than classical computers. However, the high prevalent noise in current quantum devices impedes the accurate execution of even basic algorithms. This can be remedied by protecting quantum information with a quantum error-correcting code, where the logical information of an algorithmic qubit is spread across multiple physical qubits. Individual quantum errors are then located and corrected by the fault-tolerant measurement of multi-qubit stabilizer operators (parity checks). Unfortunately, error correction and fault tolerance both impose large demands on the qubit overhead: hundreds to thousands of physical qubits per logical qubit.\n  We reduce the spacetime cost of fault tolerance by redesigning key building blocks of an error-corrected quantum computer. First, we develop a combinatorial proof with flag fault tolerance that exponentially reduces the extra qubits needed to measure a stabilizer of any size, while tolerating one fault. We leverage these proofs to then design state preparation circuits for the Steane and Golay codes with 100% yield. Next, we improve error correction on a planar layout by showing that a distance-four code encoding six logical qubits protects information as well as the distance-five surface code, using one-tenth as many physical qubits. Finally, we optimize the time overhead of logical gates in surface code quantum computers by protecting measurement results with a classical code, cutting computation time by a factor of two to six. Our hardware-agnostic optimizations of fault tolerance overheads thus suggest new routes to advance the timeline of error-free quantum computing.",
+            "pdf_url": "https://arxiv.org/pdf/2605.12385v1",
+            "published": "2026-05-12 16:47:51+00:00",
+            "updated": "2026-05-12 16:47:51+00:00"
+        },
+        {
+            "title": "Super-Higher-Form Symmetries",
+            "authors": "Pietro Antonio Grassi, Silvia Penati",
+            "summary": "We review the construction of higher-form symmetries for supersymmetric theories using a supergeometry framework. This reveals an enlarged set of topological conserved supercurrents, including Chern-Weil symmetries and new geometric Chern-Weil symmetries built from invariant supermanifold forms. In N=1 super-Maxwell theory in three dimensions, we construct the corresponding operators and charged defects, with charges determined by a super-linking number between their supporting hypersurfaces. At the end we provide as an original unpublished contribution some hints on how to construct super-symTFT for Chern-Weil and geometric Chern-Weil symmetries directly from supergravity.",
+            "pdf_url": "https://arxiv.org/pdf/2605.12383v1",
+            "published": "2026-05-12 16:45:39+00:00",
+            "updated": "2026-05-12 16:45:39+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward",
+            "authors": "Runhui Huang, Jie Wu, Rui Yang, Zhe Liu, Hengshuang Zhao",
+            "summary": "In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabilities without an additional cold-start stage. Our approach unlocks the model's intrinsic potential to perform advanced reasoning tasks: Reasoning Text-to-Image Generation, where the model actively infers implicit user intents, and Self-Reflective Refinement, where it autonomously diagnoses and corrects misalignments in generated outputs. To address the challenge of providing stable supervision for real-world multimodal generation, we introduce the Decompositional Verifiable Reward (DVReward). Unlike holistic scalar rewards, DVReward utilizes an LLM to decompose complex user requests into atomic, verifiable semantic and quality questions, which are then evaluated by a general MLLM to provide reliable and interpretable feedback. Extensive experiments demonstrate that AlphaGRPO yields robust improvements across multimodal generation benchmarks, including GenEval, TIIF-Bench, DPG-Bench and WISE, while also achieving significant gains in editing tasks on GEdit without training on editing tasks. These results validate that our self-reflective reinforcement approach effectively leverages inherent understanding to guide high-fidelity generation. Project page: https://huangrh99.github.io/AlphaGRPO/",
+            "pdf_url": "https://arxiv.org/pdf/2605.12495v1",
+            "published": "2026-05-12 17:59:47+00:00",
+            "updated": "2026-05-12 17:59:47+00:00"
+        },
+        {
+            "title": "OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation",
+            "authors": "Guohui Zhang, XiaoXiao Ma, Jie Huang, Hang Xu, Hu Yu, Siming Fu, Yuming Li, Zeyue Xue, Lin Song, Haoyang Huang, Nan Duan, Feng Zhao",
+            "summary": "Recent advances in joint audio-video generation have been remarkable, yet real-world applications demand strong per-modality fidelity, cross-modal alignment, and fine-grained synchronization. Reinforcement Learning (RL) offers a promising paradigm, but its extension to multi-objective and multi-modal joint audio-video generation remains unexplored. Notably, our in-depth analysis first reveals that the primary obstacles to applying RL in this stem from: (i) multi-objective advantages inconsistency, where the advantages of multimodal outputs are not always consistent within a group; (ii) multi-modal gradients imbalance, where video-branch gradients leak into shallow audio layers responsible for intra-modal generation; (iii) uniform credit assignment, where fine-grained cross-modal alignment regions fail to get efficient exploration. These shortcomings suggest that vanilla RL fine-tuning strategy with a single global advantage often leads to suboptimal results. To address these challenges, we propose OmniNFT, a novel modality-aware online diffusion RL framework with three key innovations: (1) Modality-wise advantage routing, which routes independent per-reward advantages to their respective modality generation branches. (2) Layer-wise gradient surgery, which selectively detaches video-branch gradients on shallow audio layers while retaining those for cross-modal interaction layers. (3) Region-wise loss reweighting, which modulates policy optimization toward critical regions related to audio-video synchronization and fine-grained alignment. Extensive experiments on JavisBench and VBench with the LTX-2 backbone demonstrate that OmniNFT achieves comprehensive improvements in audio and video perceptual quality, cross-modal alignment, and audio-video synchronization.",
+            "pdf_url": "https://arxiv.org/pdf/2605.12480v1",
+            "published": "2026-05-12 17:56:59+00:00",
+            "updated": "2026-05-12 17:56:59+00:00"
+        },
+        {
+            "title": "Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner",
+            "authors": "Cai Zhou, Chenxiao Yang, Yi Hu, Chenyu Wang, Chubin Zhang, Muhan Zhang, Lester Mackey, Tommi Jaakkola, Stephen Bates, Dinghuai Zhang",
+            "summary": "Diffusion language models, especially masked discrete diffusion models, have achieved great success recently. While there are some theoretical and primary empirical results showing the advantages of latent reasoning with looped transformers or continuous chain-of-thoughts, continuous diffusion models typically underperform their discrete counterparts. In this paper, we argue that diffusion language models do not necessarily need to be in the discrete space. In particular, we prove that continuous diffusion models have stronger expressivity than discrete diffusions and looped transformers. We attribute the contradiction between the theoretical expressiveness and empirical performance to their practical trainability: while continuous diffusion provides intermediate supervision that looped transformers lack, they introduce additional difficulty decoding tokens into the discrete token space from the continuous representation space. We therefore propose Coevolutionary Continuous Discrete Diffusion (CCDD), which defines a joint multimodal diffusion process on the union of a continuous representation space and a discrete token space, leveraging a single model to simultaneously denoise in the joint space. By combining two modalities, CCDD is expressive with rich semantics in the latent space, as well as good trainability and sample quality with the help of explicit discrete tokens. We also propose effective architectures and advanced training/sampling techniques for CCDD, which reveals strong empirical performance in extensive language modeling experiments on real-world tasks.",
+            "pdf_url": "https://arxiv.org/pdf/2510.03206v2",
+            "published": "2025-10-03 17:44:41+00:00",
+            "updated": "2026-05-12 17:53:41+00:00"
+        },
+        {
+            "title": "Aligning Flow Map Policies with Optimal Q-Guidance",
+            "authors": "Christos Ziakas, Alessandra Russo, Avishek Joey Bose",
+            "summary": "Generative policies based on expressive model classes, such as diffusion and flow matching, are well-suited to complex control problems with highly multimodal action distributions. Their expressivity, however, comes at a significant inference cost: generating each action typically requires simulating many steps of the generative process, compounding latency across sequential decision-making rollouts. We introduce flow map policies, a novel class of generative policies designed for fast action generation by learning to take arbitrary-size jumps including one-step jumps-across the generative dynamics of existing flow-based policies. We instantiate flow map policies for offline-to-online reinforcement learning (RL) and formulate online adaptation as a trust-region optimization problem that improves the critic's Q-value while remaining close to the offline policy. We theoretically derive FLOW MAP Q-GUIDANCE (FMQ), a principled closed-form learning target that is optimal for adapting offline flow map policies under a critic-guided trust-region constraint. We further introduce Q-GUIDED BEAM SEARCH (QGBS), a stochastic flow-map sampler that combines renoising with beam search to enable iterative inference-time refinement. Across 12 challenging robotic manipulation and locomotion tasks from OGBench and RoboMimic, FMQ achieves state-of-the-art performance in offline-to-online RL, outperforming the previous one-step policy MVP by a relative improvement of 21.3% on the average success rate.",
+            "pdf_url": "https://arxiv.org/pdf/2605.12416v1",
+            "published": "2026-05-12 17:12:29+00:00",
+            "updated": "2026-05-12 17:12:29+00:00"
+        },
+        {
+            "title": "Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges",
+            "authors": "Eitan Kosman, Gabriele Serussi, Chaim Baskin",
+            "summary": "Modality translation is inherently under-constrained, as multiple cross-modal mappings may yield the same marginals. Recent work has shown that diffusion bridges are effective for this task. However, most existing approaches rely on fully paired datasets, thereby imposing a single data-driven constraint. We propose a diffusion-bridge framework that characterizes the space of admissible solutions and restricts it via alignment constraints, treating paired supervision as an optional heuristic rather than a prerequisite. We validate our method on synthetic and real modality translation benchmarks across unpaired, semi-paired, and paired regimes, showing consistent performance across supervision levels. Notably, \\textbf{it achieves near fully-paired quality with a substantial relaxation in pairing requirements, and remaining applicable in the unpaired regime}. These results highlight diffusion bridges as a flexible foundation for modality translation beyond fully paired data.",
+            "pdf_url": "https://arxiv.org/pdf/2605.02973v3",
+            "published": "2026-05-03 16:17:38+00:00",
+            "updated": "2026-05-12 16:45:17+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "TimeClaw: A Time-Series AI Agent with Exploratory Execution Learning",
+            "authors": "Hangchen Liu, Dongyuan Li, Renhe Jiang, Jiewen Deng, Weiwei Ye, Yoshihide Sekimoto",
+            "summary": "Time series analysis underpins forecasting, monitoring, and decision making in domains such as finance and weather, where solving a task often requires both numerical accuracy and contextual reasoning. Recent progress has moved from specialized neural predictors to approaches built on LLMs and foundation models that can reason over time series inputs and use external tools. However, most such systems remain execution-centric: they focus on solving the current instance but learn little from exploratory execution. This is especially limiting in verifiable numeric settings, where multiple candidate executions and tool-use procedures may all be task-valid yet differ sharply in quantitative quality, and where early success can trigger tool-prior collapse that suppresses further exploration. To address this limitation, we present TimeClaw, an exploratory execution learning framework that turns exploratory execution into reusable hierarchical distilled experience through a four-stage loop: Explore, Compare, Distill, and Reinject. TimeClaw combines metric-supervised exploratory execution learning, task-aware tool dropout, and hierarchical distilled experience for inference-time reinjection, while keeping the base model frozen and avoiding online test-time adaptation. In an MTBench-aligned evaluation with 17 tasks that span finance and weather prediction and reasoning tasks, TimeClaw delivers consistent gains over the baselines. These results suggest that, for scientific systems, the bottleneck is not only execution-time capability, but how exploratory experience is compared, distilled, and reused.",
+            "pdf_url": "https://arxiv.org/pdf/2605.10038v1",
+            "published": "2026-05-11 06:09:17+00:00",
+            "updated": "2026-05-11 06:09:17+00:00"
+        }
+    ]
+}

@@ -266,6 +266,36 @@ TODO:
 
 
 
+
+## Update on 2026-05-13
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-12|2026-05-12|Anomalies in Neural Network Field Theory|Christian Ferko|[2605.12488v1](https://arxiv.org/pdf/2605.12488v1)|
+|2026-05-12|2026-05-12|Towards Affordable Energy: A Gymnasium Environment for Electric Utility Demand-Response Programs|Jose E. Aguilar Escamilla|[2605.12462v1](https://arxiv.org/pdf/2605.12462v1)|
+|2026-05-12|2026-05-12|Axion-Exchange Contribution to the Energy of Lithium-Like Ions|R. R. Abdullin|[2605.12444v1](https://arxiv.org/pdf/2605.12444v1)|
+|2026-05-12|2026-05-12|Programmable Superradiance in an Interacting Qubit Array|Botao Du|[2605.12442v1](https://arxiv.org/pdf/2605.12442v1)|
+|2026-05-12|2026-05-12|Measurements of transverse-momentum dependent effects in semi-inclusive DIS at COMPASS|Jan Matousek|[2605.12423v1](https://arxiv.org/pdf/2605.12423v1)|
+|2026-05-11|2026-05-12|On periodic distributed representations using Fourier embeddings|Jakeb Chouinard|[2605.10818v2](https://arxiv.org/pdf/2605.10818v2)|
+|2026-05-12|2026-05-12|On the Consistency of Null Strings Literature: The Tale of an Overlooked Symmetry|M. M. Sheikh-Jabbari|[2605.12414v1](https://arxiv.org/pdf/2605.12414v1)|
+|2026-03-12|2026-05-12|ChemFit: A framework for automated high-dimensional model parameter optimization|Moritz Sallermann|[2603.11769v2](https://arxiv.org/pdf/2603.11769v2)|
+|2026-05-12|2026-05-12|Lower overhead fault-tolerant building blocks for noisy quantum computers|Prithviraj Prabhu|[2605.12385v1](https://arxiv.org/pdf/2605.12385v1)|
+|2026-05-12|2026-05-12|Super-Higher-Form Symmetries|Pietro Antonio Grassi|[2605.12383v1](https://arxiv.org/pdf/2605.12383v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-12|2026-05-12|AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward|Runhui Huang|[2605.12495v1](https://arxiv.org/pdf/2605.12495v1)|
+|2026-05-12|2026-05-12|OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation|Guohui Zhang|[2605.12480v1](https://arxiv.org/pdf/2605.12480v1)|
+|2025-10-03|2026-05-12|Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner|Cai Zhou|[2510.03206v2](https://arxiv.org/pdf/2510.03206v2)|
+|2026-05-12|2026-05-12|Aligning Flow Map Policies with Optimal Q-Guidance|Christos Ziakas|[2605.12416v1](https://arxiv.org/pdf/2605.12416v1)|
+|2026-05-03|2026-05-12|Structured Diffusion Bridges: Inductive Bias for Denoising Diffusion Bridges|Eitan Kosman|[2605.02973v3](https://arxiv.org/pdf/2605.02973v3)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-11|2026-05-11|TimeClaw: A Time-Series AI Agent with Exploratory Execution Learning|Hangchen Liu|[2605.10038v1](https://arxiv.org/pdf/2605.10038v1)|
 ## Update on 2026-05-09
 
 ### Physics
