@@ -1,73 +1,59 @@
 import os
 import json
+import time
 import arxiv
 import datetime
-import requests
-from bs4 import BeautifulSoup
-
-
-def id_filter(id_list):
-    """
-    Filter the papers by the doi.
-    """
-    papers_list_path = "./entry_id.list"
-    if os.path.exists(papers_list_path):
-        with open(papers_list_path, 'r', encoding = "utf8") as f:
-            id_filtered = f.readlines()
-        id_filtered = [id.strip() for id in id_filtered]
-    else:
-        id_filtered = []
-    id_new = []
-    with open(papers_list_path, 'a', encoding = "utf8") as f:
-        for id in id_list:
-            if id not in id_filtered:
-                f.write(id + "\n")
-                id_new.append(id)
-    return id_new
 
 
 def search_by_keyword(keyword: str, max_results: int):
     """
-    Search arXiv by keyword and return the results.
+    Search arXiv by keyword and return new papers not seen before.
     """
-    assert max_results < 25, "modify the size in url with 25, 50, 100, 150"
-    keyword += " AND %28cs.LG OR cs.AI%29"
-    keyword = '+'.join(keyword.split())
-    url = f"https://arxiv.org/search/?searchtype=all&query={keyword}&abstracts=show&size=25&order=-submitted_date"
-    id_list = []
-    try:
-        response = requests.get(url, timeout = 20)
-        if response.status_code == 200:
-            soup = BeautifulSoup(response.text, "html.parser")
-            p_tags = soup.find_all('p', class_ = "list-title is-inline-block")
-            if not p_tags:
-                print(f"Warning: No results parsed from arXiv search page for keyword '{keyword}'")
-            for i, p_tag in enumerate(p_tags):
-                a_tag = p_tag.find('a')
-                if a_tag:
-                    a_text = a_tag.text
-                    print(a_text)
-                    id_list.append(a_text.split(':')[-1])
-                if len(id_list) > max_results:
-                    break
-        else:
-            print(f"Warning: arXiv search returned status {response.status_code} for keyword '{keyword}'")
-    except Exception as e:
-        print(f"Warning: Failed to fetch arXiv search results for keyword '{keyword}': {e}")
+    papers_list_path = "./entry_id.list"
+    if os.path.exists(papers_list_path):
+        with open(papers_list_path, 'r', encoding = "utf8") as f:
+            existing_ids = set(line.strip() for line in f)
+    else:
+        existing_ids = set()
 
-    print(id_list)
-    id_list = id_filter(id_list)
-    if not id_list:
-        print(f"No new papers for keyword '{keyword}', skipping.")
-        return []
-    client = arxiv.Client()
-    search = arxiv.Search(
-        query = "",
-        id_list = id_list,
-        max_results = max_results,
-        sort_by = arxiv.SortCriterion.LastUpdatedDate
+    query = f"{keyword} AND (cs.LG OR cs.AI)"
+    client = arxiv.Client(
+        page_size = 50,
+        delay_seconds = 30.0, 
+        num_retries = 3
     )
-    return list(client.results(search))
+    search = arxiv.Search(
+        query = query,
+        max_results = max_results * 5,
+        sort_by = arxiv.SortCriterion.SubmittedDate,
+        sort_order = arxiv.SortOrder.Descending
+    )
+
+    try:
+        results = list(client.results(search))
+    except arxiv.HTTPError as e:
+        print(f"Warning: arXiv API returned HTTP {e.status} for keyword '{keyword}', skipping.")
+        return []
+    except Exception as e:
+        print(f"Warning: Failed to fetch from arXiv API for keyword '{keyword}': {e}")
+        return []
+
+    new_papers = []
+    with open(papers_list_path, 'a', encoding = "utf8") as f:
+        for paper in results:
+            paper_id = paper.entry_id.split('/')[-1][:-2]
+            if paper_id not in existing_ids:
+                f.write(paper_id + "\n")
+                existing_ids.add(paper_id)
+                new_papers.append(paper)
+                print(f"arXiv:{paper_id}")
+                if len(new_papers) >= max_results:
+                    break
+
+    print([paper.entry_id.split('/')[-1][:-2] for paper in new_papers])
+    if not new_papers:
+        print(f"No new papers for keyword '{keyword}', skipping.")
+    return new_papers
 
 
 def get_paper_authors(paper):
@@ -180,9 +166,14 @@ def main():
     max_results = [6, 6, 6, 6]
     papers = {}
     for i, keyword in enumerate(keywords):
-        papers_per_keyword = search_by_keyword(keyword, max_results[i])
-        if papers_per_keyword:
-            papers[keyword] = papers_per_keyword
+        time.sleep(30)
+        try:
+            papers_per_keyword = search_by_keyword(keyword, max_results[i])
+            if papers_per_keyword:
+                papers[keyword] = papers_per_keyword
+        except Exception as e:
+            print(f"Warning: Unexpected error for keyword '{keyword}': {e}")
+        
     if papers:
         papers_metadata = save_to_json(papers)
         dict_to_md(papers_metadata = papers_metadata)

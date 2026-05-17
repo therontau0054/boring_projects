@@ -2,9 +2,7 @@
 
 Search papers on arXiv though key words and conclude the content by LLM.
 
-However, due to the lack of money, LLM is not available. = =.
-
-And the shown content is just the abstract of the paper.
+Due to the lack of money, LLM is not available. = =.
 
 [arxiv_crawler_server](../arxiv_crawler_server) can provide more papers and higher update frequency.
 
@@ -17,6 +15,8 @@ TODO:
 - [x] Web UI (see [arxiv_crawler_server](../arxiv_crawler_server)).
 
 - [ ] ...
+
+
 
 
 
