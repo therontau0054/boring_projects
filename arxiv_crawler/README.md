@@ -268,6 +268,28 @@ TODO:
 
 
 
+
+## Update on 2026-05-17
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-12|2026-05-12|TMRL: Diffusion Timestep-Modulated Pretraining Enables Exploration for Efficient Policy Finetuning|Matthew M. Hong|[2605.12236v1](https://arxiv.org/pdf/2605.12236v1)|
+|2026-05-12|2026-05-12|Premover: Fast Vision-Language-Action Control by Acting Before Instructions Are Complete|Joonha Park|[2605.12160v1](https://arxiv.org/pdf/2605.12160v1)|
+|2026-05-12|2026-05-12|Beyond World-Frame Action Heads: Motion-Centric Action Frames for Vision-Language-Action Models|Huoren Yang|[2605.11809v1](https://arxiv.org/pdf/2605.11809v1)|
+|2026-05-12|2026-05-12|DreamAvoid: Critical-Phase Test-Time Dreaming to Avoid Failures in VLA Policies|Xianzhe Fan|[2605.11750v1](https://arxiv.org/pdf/2605.11750v1)|
+|2026-05-12|2026-05-12|OOM-Free Alpamayo via CPU-GPU Memory Swapping for Vision-Language-Action Models|Seungwoo Roh|[2605.11678v1](https://arxiv.org/pdf/2605.11678v1)|
+|2026-05-12|2026-05-14|Overcoming Dynamics-Blindness: Training-Free Pace-and-Path Correction for VLA Models|Yanyan Zhang|[2605.11459v2](https://arxiv.org/pdf/2605.11459v2)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-14|2026-05-14|Orchard: An Open-Source Agentic Modeling Framework|Baolin Peng|[2605.15040v1](https://arxiv.org/pdf/2605.15040v1)|
+|2026-05-14|2026-05-14|AI Knows When It's Being Watched: Functional Strategic Action and Contextual Register Modulation in Large Language Models|Vinicius Covas|[2605.15034v1](https://arxiv.org/pdf/2605.15034v1)|
+|2026-05-14|2026-05-14|WARD: Adversarially Robust Defense of Web Agents Against Prompt Injections|Tri Cao|[2605.15030v1](https://arxiv.org/pdf/2605.15030v1)|
+|2026-05-14|2026-05-14|COTCAgent: Preventive Consultation via Probabilistic Chain-of-Thought Completion|Zihan Deng|[2605.15016v1](https://arxiv.org/pdf/2605.15016v1)|
+|2026-05-14|2026-05-14|GraphFlow: An Architecture for Formally Verifiable Visual Workflows Enabling Reliable Agentic AI Automation|Drewry H. Morris|[2605.14968v1](https://arxiv.org/pdf/2605.14968v1)|
+|2026-05-14|2026-05-14|Efficient Online Conformal Selection with Limited Feedback|Sreenivas Gollapudi|[2605.14953v1](https://arxiv.org/pdf/2605.14953v1)|
 ## Update on 2026-05-17
 
 ### World Model
