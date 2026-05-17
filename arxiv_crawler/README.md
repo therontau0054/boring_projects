@@ -267,6 +267,38 @@ TODO:
 
 
 
+
+## Update on 2026-05-17
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-14|2026-05-14|ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both|Ziyu Guo|[2605.15198v1](https://arxiv.org/pdf/2605.15198v1)|
+|2026-05-14|2026-05-14|RefDecoder: Enhancing Visual Generation with Conditional Video Decoding|Xiang Fan|[2605.15196v1](https://arxiv.org/pdf/2605.15196v1)|
+|2026-05-14|2026-05-14|FutureSim: Replaying World Events to Evaluate Adaptive Agents|Shashwat Goel|[2605.15188v1](https://arxiv.org/pdf/2605.15188v1)|
+|2026-05-14|2026-05-14|VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction|Kaixin Zhu|[2605.15186v1](https://arxiv.org/pdf/2605.15186v1)|
+|2026-05-14|2026-05-14|Quantitative Video World Model Evaluation for Geometric-Consistency|Jiaxin Wu|[2605.15185v1](https://arxiv.org/pdf/2605.15185v1)|
+|2026-05-14|2026-05-14|When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability|ML Nissen Gonzalez|[2605.15183v1](https://arxiv.org/pdf/2605.15183v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-14|2026-05-14|Hand-in-the-Loop: Improving Dexterous VLA via Seamless Interventional Correction|Zhuohang Li|[2605.15157v1](https://arxiv.org/pdf/2605.15157v1)|
+|2026-05-14|2026-05-14|IntentVLA: Short-Horizon Intent Modeling for Aliased Robot Manipulation|Shijie Lian|[2605.14712v1](https://arxiv.org/pdf/2605.14712v1)|
+|2026-05-13|2026-05-13|AttenA+: Rectifying Action Inequality in Robotic Foundation Models|Daojie Peng|[2605.13548v1](https://arxiv.org/pdf/2605.13548v1)|
+|2026-05-13|2026-05-14|D-VLA: A High-Concurrency Distributed Asynchronous Reinforcement Learning Framework for Vision-Language-Action Models|Yucheng Guo|[2605.13276v2](https://arxiv.org/pdf/2605.13276v2)|
+|2026-05-13|2026-05-13|Towards Long-horizon Embodied Agents with Tool-Aligned Vision-Language-Action Models|Zixing Lei|[2605.13119v1](https://arxiv.org/pdf/2605.13119v1)|
+|2026-05-12|2026-05-12|Reinforcing VLAs in Task-Agnostic World Models|Yucen Wang|[2605.12334v1](https://arxiv.org/pdf/2605.12334v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-14|2026-05-14|Position: Behavioural Assurance Cannot Verify the Safety Claims Governance Now Demands|Pratinav Seth|[2605.15164v1](https://arxiv.org/pdf/2605.15164v1)|
+|2026-05-14|2026-05-14|Self-Distilled Agentic Reinforcement Learning|Zhengxi Lu|[2605.15155v1](https://arxiv.org/pdf/2605.15155v1)|
+|2026-05-14|2026-05-14|APWA: A Distributed Architecture for Parallelizable Agentic Workflows|Evan Rose|[2605.15132v1](https://arxiv.org/pdf/2605.15132v1)|
+|2026-05-14|2026-05-14|Why Neighborhoods Matter: Traversal Context and Provenance in Agentic GraphRAG|Riccardo Terrenzi|[2605.15109v1](https://arxiv.org/pdf/2605.15109v1)|
+|2026-05-14|2026-05-14|Concurrency without Model Changes: Future-based Asynchronous Function Calling for LLMs|Guangyu Feng|[2605.15077v1](https://arxiv.org/pdf/2605.15077v1)|
+|2026-05-14|2026-05-14|SpeakerLLM: A Speaker-Specialized Audio-LLM for Speaker Understanding and Verification Reasoning|KiHyun Nam|[2605.15044v1](https://arxiv.org/pdf/2605.15044v1)|
 ## Update on 2026-05-13
 
 ### Physics
