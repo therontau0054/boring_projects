@@ -38,18 +38,29 @@ def search_by_keyword(keyword: str, max_results: int):
     keyword = '+'.join(keyword.split())
     url = f"https://arxiv.org/search/?searchtype=all&query={keyword}&abstracts=show&size=25&order=-submitted_date"
     id_list = []
-    response = requests.get(url, timeout = 30)
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.text, "html.parser")
-        p_tags = soup.find_all('p', class_ = "list-title is-inline-block")
-        for i, p_tag in enumerate(p_tags):
-            a_tag = p_tag.find('a')
-            if a_tag:
-                a_text = a_tag.text
-                id_list.append(a_text.split(':')[-1])
+    try:
+        response = requests.get(url, timeout = 30)
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.text, "html.parser")
+            p_tags = soup.find_all('p', class_ = "list-title is-inline-block")
+            if not p_tags:
+                print(f"Warning: No results parsed from arXiv search page for keyword '{keyword}'")
+            for i, p_tag in enumerate(p_tags):
+                a_tag = p_tag.find('a')
+                if a_tag:
+                    a_text = a_tag.text
+                    print(a_text)
+                    id_list.append(a_text.split(':')[-1])
+        else:
+            print(f"Warning: arXiv search returned status {response.status_code} for keyword '{keyword}'")
+    except Exception as e:
+        print(f"Warning: Failed to fetch arXiv search results for keyword '{keyword}': {e}")
 
-    # 获取失败暂时就不管了 反正隔几天就会更新一次
+    print(id_list)
     id_list = id_filter(id_list, max_results)
+    if not id_list:
+        print(f"No new papers for keyword '{keyword}', skipping.")
+        return []
     client = arxiv.Client()
     search = arxiv.Search(
         query = "",
@@ -111,6 +122,8 @@ def get_papers_metadata(keywords, max_results):
             papers[keyword] = papers_per_keyword
     if papers:
         save_to_json(papers)
+    else:
+        print("No new papers found for any keyword.")
 
 
 if __name__ == "__main__":

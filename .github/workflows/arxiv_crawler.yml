@@ -48,5 +48,5 @@ jobs:
           commit-message: "update papers"
           files: ./arxiv_crawler/
           rebase: 'true'
-          name: SuperJokerayo
+          name: therontau0054
           email: 1072843554@qq.com

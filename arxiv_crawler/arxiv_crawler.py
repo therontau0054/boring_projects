@@ -35,22 +35,31 @@ def search_by_keyword(keyword: str, max_results: int):
     keyword = '+'.join(keyword.split())
     url = f"https://arxiv.org/search/?searchtype=all&query={keyword}&abstracts=show&size=25&order=-submitted_date"
     id_list = []
-    response = requests.get(url, timeout = 20)
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.text, "html.parser")
-        p_tags = soup.find_all('p', class_ = "list-title is-inline-block")
-        for i, p_tag in enumerate(p_tags):
-            a_tag = p_tag.find('a')
-            if a_tag:
-                a_text = a_tag.text
-                print(a_text)
-                id_list.append(a_text.split(':')[-1])
-            if len(id_list) > max_results:
-                break
+    try:
+        response = requests.get(url, timeout = 20)
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.text, "html.parser")
+            p_tags = soup.find_all('p', class_ = "list-title is-inline-block")
+            if not p_tags:
+                print(f"Warning: No results parsed from arXiv search page for keyword '{keyword}'")
+            for i, p_tag in enumerate(p_tags):
+                a_tag = p_tag.find('a')
+                if a_tag:
+                    a_text = a_tag.text
+                    print(a_text)
+                    id_list.append(a_text.split(':')[-1])
+                if len(id_list) > max_results:
+                    break
+        else:
+            print(f"Warning: arXiv search returned status {response.status_code} for keyword '{keyword}'")
+    except Exception as e:
+        print(f"Warning: Failed to fetch arXiv search results for keyword '{keyword}': {e}")
 
     print(id_list)
-    # 获取失败暂时就不管了 反正隔几天就会更新一次
     id_list = id_filter(id_list)
+    if not id_list:
+        print(f"No new papers for keyword '{keyword}', skipping.")
+        return []
     client = arxiv.Client()
     search = arxiv.Search(
         query = "",
@@ -167,8 +176,8 @@ def json_to_md(json_path):
 
 
 def main():
-    keywords = ["Physics", "Diffusion", "Quantitative Finance"]
-    max_results = [10, 5, 5]
+    keywords = ["World Model", "Generation", "VLA", "Agent"]
+    max_results = [6, 6, 6, 6]
     papers = {}
     for i, keyword in enumerate(keywords):
         papers_per_keyword = search_by_keyword(keyword, max_results[i])
@@ -177,6 +186,8 @@ def main():
     if papers:
         papers_metadata = save_to_json(papers)
         dict_to_md(papers_metadata = papers_metadata)
+    else:
+        print("No new papers found for any keyword.")
 
 
 if __name__ == "__main__":
