@@ -269,6 +269,48 @@ TODO:
 
 
 
+
+## Update on 2026-05-19
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-18|2026-05-18|DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention|Yuxiang Huang|[2605.18753v1](https://arxiv.org/pdf/2605.18753v1)|
+|2026-05-18|2026-05-18|A Readiness-Driven Runtime for Pipeline-Parallel Training under Runtime Variability|Ruitao Liu|[2605.18750v1](https://arxiv.org/pdf/2605.18750v1)|
+|2026-05-18|2026-05-18|Code as Agent Harness|Xuying Ning|[2605.18747v1](https://arxiv.org/pdf/2605.18747v1)|
+|2026-05-18|2026-05-18|ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop|Yining Hong|[2605.18746v1](https://arxiv.org/pdf/2605.18746v1)|
+|2026-05-18|2026-05-18|SURGE: Approximation-free Training Free Particle Filter for Diffusion Surrogate|Lifu Wei|[2605.18745v1](https://arxiv.org/pdf/2605.18745v1)|
+|2026-05-18|2026-05-18|Actionable World Representation|Kunqi Xu|[2605.18743v1](https://arxiv.org/pdf/2605.18743v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-18|2026-05-18|Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation|Qianhao Yuan|[2605.18740v1](https://arxiv.org/pdf/2605.18740v1)|
+|2026-05-18|2026-05-18|General Preference Reinforcement Learning|Muhammad Umer|[2605.18721v1](https://arxiv.org/pdf/2605.18721v1)|
+|2026-05-18|2026-05-18|Semantic Generative Tuning for Unified Multimodal Models|Songsong Yu|[2605.18714v1](https://arxiv.org/pdf/2605.18714v1)|
+|2026-05-18|2026-05-18|Learned Memory Attenuation in Sage-Husa Kalman Filters for Robust UAV State Estimation|Kenan Majewski|[2605.18704v1](https://arxiv.org/pdf/2605.18704v1)|
+|2026-05-18|2026-05-18|EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL|Minrui Xu|[2605.18703v1](https://arxiv.org/pdf/2605.18703v1)|
+|2026-05-18|2026-05-18|Learning Normal Representations for Blood Biomarkers|Aashna P. Shah|[2605.18701v1](https://arxiv.org/pdf/2605.18701v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-18|2026-05-18|SPATIOROUTE: Dynamic Prompt Routing for Zero-Shot Spatial Reasoning|Pawat Chunhachatrachai|[2605.18209v1](https://arxiv.org/pdf/2605.18209v1)|
+|2026-05-17|2026-05-17|DyGRO-VLA: Cross-Task Scaling of Vision-Language-Action Models via Dynamic Grouped Residual Optimization|Sixu Lin|[2605.17486v1](https://arxiv.org/pdf/2605.17486v1)|
+|2026-05-17|2026-05-17|CLAP: Contrastive Latent-space Prompt Optimization for End-to-end Autonomous Driving|Ruiyang Zhu|[2605.17284v1](https://arxiv.org/pdf/2605.17284v1)|
+|2026-05-17|2026-05-17|Is VLA Reasoning Faithful? Probing Safety of Chain-of-Causation|Nicanor Mayumu|[2605.17268v1](https://arxiv.org/pdf/2605.17268v1)|
+|2026-05-17|2026-05-17|Event-Grounded Sparse Autoencoders for Vision-Language-Action Policies|Xinchen Jin|[2605.17204v1](https://arxiv.org/pdf/2605.17204v1)|
+|2026-05-16|2026-05-16|Contrastive Conceptor Activation Steering (COAST): Unlocking Vision-Language-Action Models through Hidden States|Miranda Muqing Miao|[2605.17144v1](https://arxiv.org/pdf/2605.17144v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-18|2026-05-18|DexHoldem: Playing Texas Hold'em with Dexterous Embodied System|Feng Chen|[2605.18727v1](https://arxiv.org/pdf/2605.18727v1)|
+|2026-05-18|2026-05-18|SkillGenBench: Benchmarking Skill Generation Pipelines for LLM Agents|Yifan Zhou|[2605.18693v1](https://arxiv.org/pdf/2605.18693v1)|
+|2026-05-18|2026-05-18|Democratizing Large-Scale Re-Optimization with LLM-Guided Model Patches|Tinghan Ye|[2605.18692v1](https://arxiv.org/pdf/2605.18692v1)|
+|2026-05-18|2026-05-18|Reversa: A Reverse Documentation Engineering Framework for Converting Legacy Software into Operational Specifications for AI Agents|Sanderson Oliveira de Macedo|[2605.18684v1](https://arxiv.org/pdf/2605.18684v1)|
+|2026-05-18|2026-05-18|Position: A Three-Layer Probabilistic Assume-Guarantee Architecture Is Structurally Required for Safe LLM Agent Deployment|S. Bensalem|[2605.18672v1](https://arxiv.org/pdf/2605.18672v1)|
+|2026-05-18|2026-05-18|AI for Auto-Research: Roadmap & User Guide|Lingdong Kong|[2605.18661v1](https://arxiv.org/pdf/2605.18661v1)|
 ## Update on 2026-05-17
 
 ### VLA
