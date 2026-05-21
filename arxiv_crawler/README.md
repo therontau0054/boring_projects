@@ -270,6 +270,48 @@ TODO:
 
 
 
+
+## Update on 2026-05-21
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-20|2026-05-20|Variance Reduction for Expectations with Diffusion Teachers|Jesse Bettencourt|[2605.21489v1](https://arxiv.org/pdf/2605.21489v1)|
+|2026-05-20|2026-05-20|Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning|Benhao Huang|[2605.21488v1](https://arxiv.org/pdf/2605.21488v1)|
+|2026-05-20|2026-05-20|Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate|Dayal Singh Kalra|[2605.21486v1](https://arxiv.org/pdf/2605.21486v1)|
+|2026-05-20|2026-05-20|EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation|Mansoor Ahmed|[2605.21485v1](https://arxiv.org/pdf/2605.21485v1)|
+|2026-05-20|2026-05-20|Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction|Tilman Tröster|[2605.21483v1](https://arxiv.org/pdf/2605.21483v1)|
+|2026-05-20|2026-05-20|DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation|Sixiong Xie|[2605.21482v1](https://arxiv.org/pdf/2605.21482v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-20|2026-05-20|AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists|Junshu Pan|[2605.21481v1](https://arxiv.org/pdf/2605.21481v1)|
+|2026-05-20|2026-05-20|WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata|Basel Shbita|[2605.21479v1](https://arxiv.org/pdf/2605.21479v1)|
+|2026-05-20|2026-05-20|Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling|Caleb Winston|[2605.21470v1](https://arxiv.org/pdf/2605.21470v1)|
+|2026-05-20|2026-05-20|DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards|Kaiyi Zhang|[2605.21467v1](https://arxiv.org/pdf/2605.21467v1)|
+|2026-05-20|2026-05-20|Mem-$π$: Adaptive Memory through Learning When and What to Generate|Xiaoqiang Wang|[2605.21463v1](https://arxiv.org/pdf/2605.21463v1)|
+|2026-05-20|2026-05-20|Quality and Security Signals in AI-Generated Python Refactoring Pull Requests|Mohamed Almukhtar|[2605.21453v1](https://arxiv.org/pdf/2605.21453v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-20|2026-05-20|Lost in Fog: Sensor Perturbations Expose Reasoning Fragility in Driving VLAs|Abhinaw Priyadershi|[2605.21446v1](https://arxiv.org/pdf/2605.21446v1)|
+|2026-05-20|2026-05-20|Grounding Driving VLA via Inverse Kinematics|Junsung Park|[2605.21061v1](https://arxiv.org/pdf/2605.21061v1)|
+|2026-05-19|2026-05-19|Beyond Binary Success: A Diagnostic Meta-Evaluation Framework for Fine-Grained Manipulation|He-Yang Xu|[2605.19986v1](https://arxiv.org/pdf/2605.19986v1)|
+|2026-05-19|2026-05-19|DEFLECT: Delay-Robust Execution via Flow-matching Likelihood-Estimated Counterfactual Tuning for VLA Policies|Yixiang Zhu|[2605.19294v1](https://arxiv.org/pdf/2605.19294v1)|
+|2026-05-19|2026-05-19|Rethinking Muon Beyond Pretraining: Spectral Failures and High-Pass Remedies for VLA and RLVR|Chongyu Fan|[2605.19282v1](https://arxiv.org/pdf/2605.19282v1)|
+|2026-05-15|2026-05-15|Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation|Jin Shi|[2605.16241v1](https://arxiv.org/pdf/2605.16241v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-20|2026-05-20|roto 2.0: The Robot Tactile Olympiad|Elle Miller|[2605.21429v1](https://arxiv.org/pdf/2605.21429v1)|
+|2026-05-20|2026-05-20|FedCritic: Serverless Federated Critic Learning-based Resource Allocation for Multi-Cell OFDMA in 6G|Amin Farajzadeh|[2605.21418v1](https://arxiv.org/pdf/2605.21418v1)|
+|2026-05-20|2026-05-20|Stdlib or Third-Party? Empirical Performance and Correctness of LLM-Assisted Zero-Dependency Python Libraries|Peng Ding|[2605.21405v1](https://arxiv.org/pdf/2605.21405v1)|
+|2026-05-20|2026-05-20|What Twelve LLM Agent Benchmark Papers Disclose About Themselves: A Pilot Audit and an Open Scoring Schema|Mahdi Naser Moghadasi|[2605.21404v1](https://arxiv.org/pdf/2605.21404v1)|
+|2026-05-20|2026-05-20|Open-source LLMs administer maximum electric shocks in a Milgram-like obedience experiment|Roland Pihlakas|[2605.21401v1](https://arxiv.org/pdf/2605.21401v1)|
+|2026-05-20|2026-05-20|Towards Resilient and Autonomous Networks: A BlueSky Vision on AI-Native 6G|Liang Wu|[2605.21395v1](https://arxiv.org/pdf/2605.21395v1)|
 ## Update on 2026-05-19
 
 ### World Model
