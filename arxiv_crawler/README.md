@@ -271,6 +271,48 @@ TODO:
 
 
 
+
+## Update on 2026-05-23
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-21|2026-05-21|Tokenisation via Convex Relaxations|Jan Tempus|[2605.22821v1](https://arxiv.org/pdf/2605.22821v1)|
+|2026-05-21|2026-05-21|Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs|Jongseo Lee|[2605.22823v1](https://arxiv.org/pdf/2605.22823v1)|
+|2026-05-21|2026-05-21|Integrable Elasticity via Neural Demand Potentials|Carlos Heredia|[2605.22820v1](https://arxiv.org/pdf/2605.22820v1)|
+|2026-05-21|2026-05-21|Cambrian-P: Pose-Grounded Video Understanding|Jihan Yang|[2605.22819v1](https://arxiv.org/pdf/2605.22819v1)|
+|2026-05-21|2026-05-21|Vector Policy Optimization: Training for Diversity Improves Test-Time Search|Ryan Bahlous-Boldi|[2605.22817v1](https://arxiv.org/pdf/2605.22817v1)|
+|2026-05-21|2026-05-21|Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration|Lily Goli|[2605.22814v1](https://arxiv.org/pdf/2605.22814v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-21|2026-05-21|Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models|Krishnakumar Balasubramanian|[2605.22795v1](https://arxiv.org/pdf/2605.22795v1)|
+|2026-05-21|2026-05-21|MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems|Qianshu Cai|[2605.22794v1](https://arxiv.org/pdf/2605.22794v1)|
+|2026-05-21|2026-05-21|Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention|Ali Hatamizadeh|[2605.22791v1](https://arxiv.org/pdf/2605.22791v1)|
+|2026-05-21|2026-05-21|FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection|Huanchi Wang|[2605.22779v1](https://arxiv.org/pdf/2605.22779v1)|
+|2026-05-21|2026-05-21|SDPM: Survival Diffusion Probabilistic Model for Continuous-Time Survival Analysis|Stanislav R. Kirpichenko|[2605.22776v1](https://arxiv.org/pdf/2605.22776v1)|
+|2026-05-21|2026-05-21|CogAdapt: Transferring Clinical ECG Foundation Models to Wearable Cognitive Load Assessment via Lead Adaptation|Amir Mousavi|[2605.22774v1](https://arxiv.org/pdf/2605.22774v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-21|2026-05-21|Pre-VLA: Preemptive Runtime Verification for Reliable Vision-Language-Action and World-Model Rollouts|Zhen Sun|[2605.22446v1](https://arxiv.org/pdf/2605.22446v1)|
+|2026-05-21|2026-05-21|Action with Visual Primitives|Weilong Guo|[2605.22183v1](https://arxiv.org/pdf/2605.22183v1)|
+|2026-05-21|2026-05-21|LVDrive: Latent Visual Representation Enhanced Vision-Language-Action Autonomous Driving Model|Xiaodong Mei|[2605.22089v1](https://arxiv.org/pdf/2605.22089v1)|
+|2026-05-21|2026-05-21|EvoScene-VLA: Evolving Scene Beliefs Inside the Action Decoder for Chunked Robot Control|Chushan Zhang|[2605.21862v1](https://arxiv.org/pdf/2605.21862v1)|
+|2026-05-21|2026-05-21|CrossVLA: Cross-Paradigm Post-Training and Inference Optimization for Vision-Language-Action Models|Zhi Liu|[2605.21854v1](https://arxiv.org/pdf/2605.21854v1)|
+|2026-05-15|2026-05-15|Learn Where Outcomes Diverge: Efficient VLA RL via Probabilistic Chunk Masking|Vaidehi Bagaria|[2605.16154v1](https://arxiv.org/pdf/2605.16154v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-21|2026-05-21|LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems|Sadia Asif|[2605.22786v1](https://arxiv.org/pdf/2605.22786v1)|
+|2026-05-21|2026-05-21|DeltaBox: Scaling Stateful AI Agents with Millisecond-Level Sandbox Checkpoint/Rollback|Yunpeng Dong|[2605.22781v1](https://arxiv.org/pdf/2605.22781v1)|
+|2026-05-21|2026-05-21|Deep Reinforcement Learning for Flexible Job Shop Scheduling with Random Job Arrivals|Yu Tang|[2605.22773v1](https://arxiv.org/pdf/2605.22773v1)|
+|2026-05-21|2026-05-21|Advancing Mathematics Research with AI-Driven Formal Proof Search|George Tsoukalas|[2605.22763v1](https://arxiv.org/pdf/2605.22763v1)|
+|2026-05-21|2026-05-21|Towards a General Intelligence and Interface for Wearable Health Data|Girish Narayanswamy|[2605.22759v1](https://arxiv.org/pdf/2605.22759v1)|
+|2026-05-21|2026-05-21|Superhuman Safe and Agile Racing through Multi-Agent Reinforcement Learning|Ismail Geles|[2605.22748v1](https://arxiv.org/pdf/2605.22748v1)|
 ## Update on 2026-05-21
 
 ### World Model
