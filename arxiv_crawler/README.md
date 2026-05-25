@@ -272,6 +272,48 @@ TODO:
 
 
 
+
+## Update on 2026-05-25
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-22|2026-05-22|SkillOpt: Executive Strategy for Self-Evolving Agent Skills|Yifan Yang|[2605.23904v1](https://arxiv.org/pdf/2605.23904v1)|
+|2026-05-22|2026-05-22|Geo-Align: Video Generation Alignment via Metric Geometry Reward|Zizun Li|[2605.23903v1](https://arxiv.org/pdf/2605.23903v1)|
+|2026-05-22|2026-05-22|LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws|Xu Ouyang|[2605.23901v1](https://arxiv.org/pdf/2605.23901v1)|
+|2026-05-22|2026-05-22|From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills|Zisu Huang|[2605.23899v1](https://arxiv.org/pdf/2605.23899v1)|
+|2026-05-22|2026-05-22|SPACENUM: Revisiting Spatial Numerical Understanding in VLMs|Jianshu Zhang|[2605.23898v1](https://arxiv.org/pdf/2605.23898v1)|
+|2026-05-22|2026-05-22|ETCHR: Editing To Clarify and Harness Reasoning|Beichen Zhang|[2605.23897v1](https://arxiv.org/pdf/2605.23897v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-22|2026-05-22|Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models|Hongwu Peng|[2605.23893v1](https://arxiv.org/pdf/2605.23893v1)|
+|2026-05-22|2026-05-22|Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers|Shuhong Zheng|[2605.23892v1](https://arxiv.org/pdf/2605.23892v1)|
+|2026-05-22|2026-05-22|PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs|Rim Assouel|[2605.23883v1](https://arxiv.org/pdf/2605.23883v1)|
+|2026-05-22|2026-05-22|On the Stability of Spherical Hellinger-Kantorovich Flows and Their Implications for Differential Privacy|Aratrika Mustafi|[2605.23879v1](https://arxiv.org/pdf/2605.23879v1)|
+|2026-05-22|2026-05-22|Human Decision-Making with Persuasive and Narrative LLM Explanations|Laura R. Marusich|[2605.23867v1](https://arxiv.org/pdf/2605.23867v1)|
+|2026-05-22|2026-05-22|Leveraging Foundation Models for Causal Generative Modeling|Aneesh Komanduri|[2605.23861v1](https://arxiv.org/pdf/2605.23861v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-22|2026-05-22|ChainFlow-VLA: Causal Flow Planning with Vision-Language Models|Xiyang Wang|[2605.23270v1](https://arxiv.org/pdf/2605.23270v1)|
+|2026-05-22|2026-05-22|Autonomous Frontier-Based Exploration with VLM Guidance|Aarush Aitha|[2605.23165v1](https://arxiv.org/pdf/2605.23165v1)|
+|2026-05-21|2026-05-21|Agentic-VLA: Efficient Online Adaptation for Vision-Language-Action Models|Ruofan Jin|[2605.22896v1](https://arxiv.org/pdf/2605.22896v1)|
+|2026-05-15|2026-05-18|Learning Bilevel Policies over Symbolic World Models for Long-Horizon Planning|Dillon Z. Chen|[2605.15975v2](https://arxiv.org/pdf/2605.15975v2)|
+|2026-05-15|2026-05-18|UAM: A Dual-Stream Perspective on Forgetting in VLA Training|Jianke Zhang|[2605.15735v2](https://arxiv.org/pdf/2605.15735v2)|
+|2026-05-14|2026-05-14|PhysBrain 1.0 Technical Report|Shijie Lian|[2605.15298v1](https://arxiv.org/pdf/2605.15298v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-22|2026-05-22|CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces|Joydeep Chandra|[2605.23887v1](https://arxiv.org/pdf/2605.23887v1)|
+|2026-05-22|2026-05-22|Agentic Proving for Program Verification|Alessandro Sosso|[2605.23772v1](https://arxiv.org/pdf/2605.23772v1)|
+|2026-05-22|2026-05-22|PhotoFlow: Agentic 3D Virtual Photography Missions|Jiarui Guo|[2605.23771v1](https://arxiv.org/pdf/2605.23771v1)|
+|2026-05-22|2026-05-22|LLM-driven design of physics-constrained constitutive models: two agents are better than one|Marius Tacke|[2605.23754v1](https://arxiv.org/pdf/2605.23754v1)|
+|2026-05-22|2026-05-22|SeedER: Seed-and-Expand Retrieval from Knowledge Graphs|Hamed Shirzad|[2605.23753v1](https://arxiv.org/pdf/2605.23753v1)|
+|2026-05-22|2026-05-22|MemAudit: Post-hoc Auditing of Poisoned Agent Memory via Causal Attribution and Structural Anomaly Detection|Zhewen Tan|[2605.23723v1](https://arxiv.org/pdf/2605.23723v1)|
 ## Update on 2026-05-23
 
 ### World Model
