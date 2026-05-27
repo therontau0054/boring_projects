@@ -273,6 +273,47 @@ TODO:
 
 
 
+
+## Update on 2026-05-27
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-26|2026-05-26|G3T Up! Gravity Aligned Coordinate Frames Simplify Pointmap Processing|Bharath Raj Nagoor Kani|[2605.27372v1](https://arxiv.org/pdf/2605.27372v1)|
+|2026-05-26|2026-05-26|MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation|Huawei Lin|[2605.27366v1](https://arxiv.org/pdf/2605.27366v1)|
+|2026-05-26|2026-05-26|LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding|Shihao Wang|[2605.27365v1](https://arxiv.org/pdf/2605.27365v1)|
+|2026-05-26|2026-05-26|GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing|Tamerlan Aghayev|[2605.27360v1](https://arxiv.org/pdf/2605.27360v1)|
+|2026-05-26|2026-05-26|MobileMoE: Scaling On-Device Mixture of Experts|Yanbei Chen|[2605.27358v1](https://arxiv.org/pdf/2605.27358v1)|
+|2026-05-26|2026-05-26|Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases|Dongyoon Hahm|[2605.27355v1](https://arxiv.org/pdf/2605.27355v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-26|2026-05-26|Algorithmic Monocultures in Hiring|Rishi Bommasani|[2605.27371v1](https://arxiv.org/pdf/2605.27371v1)|
+|2026-05-26|2026-05-26|From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Models|Yuchen Liang|[2605.27352v1](https://arxiv.org/pdf/2605.27352v1)|
+|2026-05-26|2026-05-26|When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection|Kim Jihyeon|[2605.27348v1](https://arxiv.org/pdf/2605.27348v1)|
+|2026-05-26|2026-05-26|Towards Controllable Image Generation through Representation-Conditioned Diffusion Models|Nithesh Chandher Karthikeyan|[2605.27343v1](https://arxiv.org/pdf/2605.27343v1)|
+|2026-05-26|2026-05-26|Maat: The Agentic Legal Research Assistant for Competition Protection|Basant Mounir|[2605.27331v1](https://arxiv.org/pdf/2605.27331v1)|
+|2026-05-26|2026-05-26|Governed Evolution of Agent Runtimes through Executable Operational Cognition|Mariano Garralda-Barrio|[2605.27328v1](https://arxiv.org/pdf/2605.27328v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-26|2026-05-26|FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies|Xintong Hu|[2605.27284v1](https://arxiv.org/pdf/2605.27284v1)|
+|2026-05-25|2026-05-26|Capability and Robustness Cannot Both Be Free: An Information-Theoretic Bound for Vision-Language-Action Models|Jianwei Tai|[2605.25889v2](https://arxiv.org/pdf/2605.25889v2)|
+|2026-05-25|2026-05-25|OASIS: Observation-Action Space Alignment via SE(3) Trajectory Prediction for Robotic Manipulation|Xinzhe Chen|[2605.25829v1](https://arxiv.org/pdf/2605.25829v1)|
+|2026-05-25|2026-05-25|EXPO-FT: Sample-Efficient Reinforcement Learning Finetuning for Vision-Language-Action Models|Perry Dong|[2605.25477v1](https://arxiv.org/pdf/2605.25477v1)|
+|2026-05-19|2026-05-19|ActQuant: Sub-4-bit Action-Guided Quantization for Vision-Language-Action Models|Arash Akbari|[2605.24011v1](https://arxiv.org/pdf/2605.24011v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-26|2026-05-26|Natural Language Query to Configuration for Retrieval Agents|Melissa Z. Pan|[2605.27361v1](https://arxiv.org/pdf/2605.27361v1)|
+|2026-05-26|2026-05-26|Modeling Agentic Technical Debt and Stochastic Tax: A Standalone Framework for Measurement, Simulation, and Dashboarding|Muhammad Zia Hydari|[2605.27320v1](https://arxiv.org/pdf/2605.27320v1)|
+|2026-05-26|2026-05-26|SIA: Self Improving AI with Harness & Weight Updates|Prannay Hebbar|[2605.27276v1](https://arxiv.org/pdf/2605.27276v1)|
+|2026-05-26|2026-05-26|Learning to Act under Noise: Enhancing Agent Robustness via Noisy Environments|Yuxin Chen|[2605.27209v1](https://arxiv.org/pdf/2605.27209v1)|
+|2026-05-26|2026-05-26|FoundObj: Self-supervised Foundation Models as Rewards for Label-free 3D Object Segmentation|Zihui Zhang|[2605.27178v1](https://arxiv.org/pdf/2605.27178v1)|
+|2026-05-26|2026-05-26|VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions|Yuxin Chen|[2605.27141v1](https://arxiv.org/pdf/2605.27141v1)|
 ## Update on 2026-05-25
 
 ### World Model
