@@ -274,6 +274,48 @@ TODO:
 
 
 
+
+## Update on 2026-05-29
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-28|2026-05-28|Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software|Nhat-Minh Nguyen|[2605.30353v1](https://arxiv.org/pdf/2605.30353v1)|
+|2026-05-28|2026-05-28|GMOS: Grounding Moving Object Segmentation in 3D Space and Time|Junyu Xie|[2605.30352v1](https://arxiv.org/pdf/2605.30352v1)|
+|2026-05-28|2026-05-28|VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion|Hidir Yesiltepe|[2605.30351v1](https://arxiv.org/pdf/2605.30351v1)|
+|2026-05-28|2026-05-28|DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation|Jusuk Lee|[2605.30350v1](https://arxiv.org/pdf/2605.30350v1)|
+|2026-05-28|2026-05-28|LLMSurgeon: Diagnosing Data Mixture of Large Language Models|Yaxin Luo|[2605.30348v1](https://arxiv.org/pdf/2605.30348v1)|
+|2026-05-28|2026-05-28|NeuROK: Generative 4D Neural Object Kinematics|Chen Geng|[2605.30347v1](https://arxiv.org/pdf/2605.30347v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-28|2026-05-28|SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations|Qinpei Luo|[2605.30345v1](https://arxiv.org/pdf/2605.30345v1)|
+|2026-05-28|2026-05-28|Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection|Xiaona Zhou|[2605.30344v1](https://arxiv.org/pdf/2605.30344v1)|
+|2026-05-28|2026-05-28|Unlocking the Working Memory of Large Language Models for Latent Reasoning|Lukas Aichberger|[2605.30343v1](https://arxiv.org/pdf/2605.30343v1)|
+|2026-05-28|2026-05-28|GPIC: A Giant Permissive Image Corpus for Visual Generation|Keshigeyan Chandrasegaran|[2605.30341v1](https://arxiv.org/pdf/2605.30341v1)|
+|2026-05-28|2026-05-28|Demystifying Data Organization for Enhanced LLM Training|Yalun Dai|[2605.30334v1](https://arxiv.org/pdf/2605.30334v1)|
+|2026-05-28|2026-05-28|SoundnessBench: Can Your AI Scientist Really Tell Good Research Ideas from Bad Ones?|Sy-Tuyen Ho|[2605.30329v1](https://arxiv.org/pdf/2605.30329v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-28|2026-05-28|RoboWits: Unexpected Challenges for Robotic Creative Problem Solving|Chunru Lin|[2605.30326v1](https://arxiv.org/pdf/2605.30326v1)|
+|2026-05-28|2026-05-28|Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments|Qiuyue Wang|[2605.30280v1](https://arxiv.org/pdf/2605.30280v1)|
+|2026-05-28|2026-05-28|BORA: Bridging Offline Reinforcement Learning and Online Residual Adaptation for Real-World Dexterous VLA Models|Zhongxi Chen|[2605.30226v1](https://arxiv.org/pdf/2605.30226v1)|
+|2026-05-28|2026-05-28|VLA-Trace: Diagnosing Vision-Language-Action Models through Representation and Behavior Tracing|Haoyuan Shi|[2605.30117v1](https://arxiv.org/pdf/2605.30117v1)|
+|2026-05-28|2026-05-28|VisualThink-VLA: Visual Intermediate Reasoning for Effective and Low-Latency Vision-Language-Action Policies|Mingjian Gao|[2605.30011v1](https://arxiv.org/pdf/2605.30011v1)|
+|2026-05-28|2026-05-28|VLA-Pro: Cross-Task Procedural Memory Transfer for Vision-Language-Action Models|Shengyu Si|[2605.29562v1](https://arxiv.org/pdf/2605.29562v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-28|2026-05-28|Locally Coherent, Globally Incoherent: Bounding Compositional Incoherence in Multi-Component LLM Agents|Anany Kotawala|[2605.30335v1](https://arxiv.org/pdf/2605.30335v1)|
+|2026-05-28|2026-05-28|Gram: Assessing sabotage propensities via automated alignment auditing|David Lindner|[2605.30322v1](https://arxiv.org/pdf/2605.30322v1)|
+|2026-05-28|2026-05-28|Loong: A Human-Like Long Document Translation Agent with Observe-and-Act Adaptive Context Selection|Yutong Wang|[2605.30274v1](https://arxiv.org/pdf/2605.30274v1)|
+|2026-05-28|2026-05-28|PhyGenHOI: Physically-Aware 4D Generation of Dynamic Human-Object Interactions|Omer Benishu|[2605.30268v1](https://arxiv.org/pdf/2605.30268v1)|
+|2026-05-28|2026-05-28|Unifying Temporal and Structural Credit Assignment in LLM-Based Multi-Agent Prompt Optimization|Wenwu Li|[2605.30227v1](https://arxiv.org/pdf/2605.30227v1)|
+|2026-05-28|2026-05-28|Automating Low-Risk Code Review at Meta: RADAR, Risk Calibration, and Review Efficiency|Chris Adams|[2605.30208v1](https://arxiv.org/pdf/2605.30208v1)|
 ## Update on 2026-05-27
 
 ### World Model
