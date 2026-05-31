@@ -275,6 +275,46 @@ TODO:
 
 
 
+
+## Update on 2026-05-31
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-28|2026-05-28|YoCausal: How Far is Video Generation from World Model? A Causality Perspective|You-Zhe Xie|[2605.30346v1](https://arxiv.org/pdf/2605.30346v1)|
+|2026-05-28|2026-05-28|REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image|Xiaoxuan Ma|[2605.30338v1](https://arxiv.org/pdf/2605.30338v1)|
+|2026-05-28|2026-05-28|Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching|Alaa Khamis|[2605.30337v1](https://arxiv.org/pdf/2605.30337v1)|
+|2026-05-28|2026-05-28|Fairness-Aware Federated Learning with Trajectory Shapley Value|Daniel Kuznetsov|[2605.30336v1](https://arxiv.org/pdf/2605.30336v1)|
+|2026-05-28|2026-05-28|When, why, and how do diffusion posterior samplers fail? A finite-sample lens|Benjamin A. Burns|[2605.30330v1](https://arxiv.org/pdf/2605.30330v1)|
+|2026-05-28|2026-05-28|Reasoning with Sampling: Cutting at Decision Points|Felix Zhou|[2605.30327v1](https://arxiv.org/pdf/2605.30327v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-28|2026-05-28|On Language Generation in the Limit with Bounded Memory|Jon Kleinberg|[2605.30324v1](https://arxiv.org/pdf/2605.30324v1)|
+|2026-05-28|2026-05-28|In-Context Reward Adaptation for Robust Preference Modeling|Zhenyu Sun|[2605.30323v1](https://arxiv.org/pdf/2605.30323v1)|
+|2026-05-28|2026-05-28|Before the Shutter: Aesthetic and Actionable Portrait Photography Planning in 3D Scenes|Ruixiang Jiang|[2605.30318v1](https://arxiv.org/pdf/2605.30318v1)|
+|2026-05-28|2026-05-28|Archon: A Unified Multimodal Model for Holistic Digital Human Generation|Chong Bao|[2605.30311v1](https://arxiv.org/pdf/2605.30311v1)|
+|2026-05-28|2026-05-28|MedCase-Structured: A Text-to-FHIR Dataset for Benchmarking Diagnostic Reasoning in Clinically Realistic EHR Settings|Valentina Bui Muti|[2605.30295v1](https://arxiv.org/pdf/2605.30295v1)|
+|2026-05-28|2026-05-28|Self-Trained Verification for Training- and Test-Time Self-Improvement|Chen Henry Wu|[2605.30290v1](https://arxiv.org/pdf/2605.30290v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-27|2026-05-27|ReasonBreak: Probing Vulnerabilities in Reasoning-Enabled Vision-Language-Action Models for Autonomous Driving|Mohammadreza Teymoorianfard|[2605.29114v1](https://arxiv.org/pdf/2605.29114v1)|
+|2026-05-27|2026-05-27|Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling|Xinyu Wang|[2605.28803v1](https://arxiv.org/pdf/2605.28803v1)|
+|2026-05-27|2026-05-27|How VLAs Fail Differently: Black-Box Action Monitoring Reveals Architecture-Specific Failure Signatures|Krishnam Gupta|[2605.28726v1](https://arxiv.org/pdf/2605.28726v1)|
+|2026-05-27|2026-05-27|ProgVLA: Progress-Aware Robot Manipulation Skill Learning|Seungsu Kim|[2605.28231v1](https://arxiv.org/pdf/2605.28231v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-28|2026-05-28|Mean-Field Diffuser: Scaling Offline MARL to Thousands of Agents|Wenhao Li|[2605.30190v1](https://arxiv.org/pdf/2605.30190v1)|
+|2026-05-28|2026-05-28|Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance|Julius Gabelmann|[2605.30187v1](https://arxiv.org/pdf/2605.30187v1)|
+|2026-05-28|2026-05-28|Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms|Botao Amber Hu|[2605.30169v1](https://arxiv.org/pdf/2605.30169v1)|
+|2026-05-28|2026-05-28|On Distributional Reinforcement Learning in Chaotic Dynamical Systems|James Rudd-Jones|[2605.30160v1](https://arxiv.org/pdf/2605.30160v1)|
+|2026-05-28|2026-05-28|Meta-Cognitive Memory Policy Optimization for Long-Horizon LLM Agents|Ziyan Liu|[2605.30159v1](https://arxiv.org/pdf/2605.30159v1)|
+|2026-05-28|2026-05-28|Do Proactive Agents Really Need an LLM to Decide When to Wake and What to Anchor?|Xiaoze Liu|[2605.30152v1](https://arxiv.org/pdf/2605.30152v1)|
 ## Update on 2026-05-29
 
 ### World Model
