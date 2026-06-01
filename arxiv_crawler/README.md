@@ -276,6 +276,46 @@ TODO:
 
 
 
+
+## Update on 2026-06-01
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-29|2026-05-29|Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models|Jiazheng Xing|[2605.31603v1](https://arxiv.org/pdf/2605.31603v1)|
+|2026-05-29|2026-05-29|KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems|Alireza Kheirandish|[2605.31596v1](https://arxiv.org/pdf/2605.31596v1)|
+|2026-05-29|2026-05-29|Stateful Online Monitoring Catches Distributed Agent Attacks|Davis Brown|[2605.31593v1](https://arxiv.org/pdf/2605.31593v1)|
+|2026-05-29|2026-05-29|CoFiDA-M: Concept-Aware Feature Modulation for Cross-Domain Adaptation with Image-Only Inference|Nurjahan Sultana|[2605.31591v1](https://arxiv.org/pdf/2605.31591v1)|
+|2026-05-29|2026-05-29|Language Models Learn Constructional Semantics, Not To Mention Syntax: Investigating LM Understanding of Paired-Focus Constructions|Wesley Scivetti|[2605.31586v1](https://arxiv.org/pdf/2605.31586v1)|
+|2026-05-29|2026-05-29|LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards|Nianyi Lin|[2605.31584v1](https://arxiv.org/pdf/2605.31584v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-29|2026-05-29|TunerDiT: Training-free Progressive Steering of Diffusion Transformer for Multi-Event Video Generation|Ruotong Liao|[2605.31590v1](https://arxiv.org/pdf/2605.31590v1)|
+|2026-05-29|2026-05-29|Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings|Utsav Dutta|[2605.31580v1](https://arxiv.org/pdf/2605.31580v1)|
+|2026-05-29|2026-05-29|SPECTRA: Synthetic IR Test Collections with Relevance Oracles and Controlled Distractor Diagnostics|Eric Liang|[2605.31575v1](https://arxiv.org/pdf/2605.31575v1)|
+|2026-05-29|2026-05-29|What Gets Unmasked First? Trajectory Analysis of Diffusion Models for Graph-to-Text Generation|Qing Wang|[2605.31564v1](https://arxiv.org/pdf/2605.31564v1)|
+|2026-05-29|2026-05-29|Positional versus Symbolic Attention Heads: Learning Dynamics, RoPE Geometry, and Length Generalization|Felipe Urrutia|[2605.31558v1](https://arxiv.org/pdf/2605.31558v1)|
+|2026-05-29|2026-05-29|Vision-Language Models Suppress Female Representations Under Ambiguous Input|Arnau Marin-Llobet|[2605.31556v1](https://arxiv.org/pdf/2605.31556v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-29|2026-05-29|DeMaVLA: A Vision-Language-Action Foundation Model for Generalizable Deformable Manipulation|Taiyi Su|[2605.31286v1](https://arxiv.org/pdf/2605.31286v1)|
+|2026-05-29|2026-05-29|Does Visual Information Play a Decisive Role in Vision-Language-Action Model Driving Behavior?|Jingtao He|[2605.31041v1](https://arxiv.org/pdf/2605.31041v1)|
+|2026-05-29|2026-05-29|Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring|Seongheon Park|[2605.30834v1](https://arxiv.org/pdf/2605.30834v1)|
+|2026-05-28|2026-05-28|BOKBO (Best of K Bad Options): Calibrated Abstention for VLA Policies|Anya Singh|[2605.30660v1](https://arxiv.org/pdf/2605.30660v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-05-29|2026-05-29|A Tight Theory of Error Feedback Algorithms in Distributed Optimization|Daniel Berg Thomsen|[2605.31594v1](https://arxiv.org/pdf/2605.31594v1)|
+|2026-05-29|2026-05-29|Choosing the Lens: Strategic Perspective Activation in Context-Dependent Argumentation|Albert Sadowski|[2605.31581v1](https://arxiv.org/pdf/2605.31581v1)|
+|2026-05-29|2026-05-29|If LLMs Have Human-Like Attributes, Then So Does Age of Empires II|Adrian de Wynter|[2605.31514v1](https://arxiv.org/pdf/2605.31514v1)|
+|2026-05-29|2026-05-29|Skill Reuse as Compression in Agentic RL|Zhikun Xu|[2605.31509v1](https://arxiv.org/pdf/2605.31509v1)|
+|2026-05-29|2026-05-29|AutoSci: A Memory-Centric Agentic System for the Full Scientific Research Lifecycle|Weitong Qian|[2605.31468v1](https://arxiv.org/pdf/2605.31468v1)|
+|2026-05-29|2026-05-29|GPU Forecasters: Language Models as Selective Surrogates for Kernel Runtime Optimization|Zaid Khan|[2605.31464v1](https://arxiv.org/pdf/2605.31464v1)|
 ## Update on 2026-05-31
 
 ### World Model
