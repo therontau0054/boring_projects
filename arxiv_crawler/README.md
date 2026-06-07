@@ -277,6 +277,48 @@ TODO:
 
 
 
+
+## Update on 2026-06-07
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-04|2026-06-04|HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers|Lizhi Yang|[2606.06493v1](https://arxiv.org/pdf/2606.06493v1)|
+|2026-06-04|2026-06-04|Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution|Liliana Hotsko|[2606.06492v1](https://arxiv.org/pdf/2606.06492v1)|
+|2026-06-04|2026-06-04|TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies|Dong Jing|[2606.06491v1](https://arxiv.org/pdf/2606.06491v1)|
+|2026-06-04|2026-06-04|Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection|Sondos Mahmoud Bsharat|[2606.06481v1](https://arxiv.org/pdf/2606.06481v1)|
+|2026-06-04|2026-06-04|DNQ: Deep Nash Q-Network for Partially Observable n-Player Games|Qintong Xie|[2606.06480v1](https://arxiv.org/pdf/2606.06480v1)|
+|2026-06-04|2026-06-04|Pretraining Recurrent Networks without Recurrence|Akarsh Kumar|[2606.06479v1](https://arxiv.org/pdf/2606.06479v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-04|2026-06-04|RREDCoT: Segment-Level Reward Redistribution for Reasoning Models|Mykyta Ielanskyi|[2606.06475v1](https://arxiv.org/pdf/2606.06475v1)|
+|2026-06-04|2026-06-04|Self-Augmenting Retrieval for Diffusion Language Models|Paul Jünger|[2606.06474v1](https://arxiv.org/pdf/2606.06474v1)|
+|2026-06-04|2026-06-04|MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery|Shangheng Du|[2606.06473v1](https://arxiv.org/pdf/2606.06473v1)|
+|2026-06-04|2026-06-04|How abundant are good interpolators?|August Y. Chen|[2606.06469v1](https://arxiv.org/pdf/2606.06469v1)|
+|2026-06-04|2026-06-04|Goedel-Architect: Streamlining Formal Theorem Proving with Blueprint Generation and Refinement|Jui-Hui Chung|[2606.06468v1](https://arxiv.org/pdf/2606.06468v1)|
+|2026-06-04|2026-06-04|You Only Index Once: Cross-Layer Sparse Attention with Shared Routing|Yutao Sun|[2606.06467v1](https://arxiv.org/pdf/2606.06467v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-04|2026-06-04|MPCoT: Reward-Guided Multi-Path Latent Reasoning for Test-Time Scalable Vision-Language-Action|Boyang Zhang|[2606.06245v1](https://arxiv.org/pdf/2606.06245v1)|
+|2026-06-04|2026-06-04|WorldFly: A World-Model-Based Vision-Language-Action Model for UAV Navigation|Shengtao Zheng|[2606.06147v1](https://arxiv.org/pdf/2606.06147v1)|
+|2026-06-04|2026-06-04|World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis|Yi Yang|[2606.05979v1](https://arxiv.org/pdf/2606.05979v1)|
+|2026-06-04|2026-06-04|DRIFT: A Residual Flow Adapter for Decoding Continuous Outputs in Vision-Language Models|Zhuoming Liu|[2606.05758v1](https://arxiv.org/pdf/2606.05758v1)|
+|2026-06-04|2026-06-04|Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models|Yitong Chen|[2606.05737v1](https://arxiv.org/pdf/2606.05737v1)|
+|2026-06-03|2026-06-03|Output Type Before Quality: A Standards-Derived XAI Admissibility Rubric for Autonomous-Driving Safety|Abhinaw Priyadershi|[2606.05461v1](https://arxiv.org/pdf/2606.05461v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-04|2026-06-04|Benchmark Everything Everywhere All at Once|Shiyun Xiong|[2606.06462v1](https://arxiv.org/pdf/2606.06462v1)|
+|2026-06-04|2026-06-04|Will the Agent Recuse Itself? Measuring LLM-Agent Compliance with In-Band Access-Deny Signals|Thamilvendhan Munirathinam|[2606.06460v1](https://arxiv.org/pdf/2606.06460v1)|
+|2026-06-04|2026-06-04|Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents|Zhuoming Chen|[2606.06453v1](https://arxiv.org/pdf/2606.06453v1)|
+|2026-06-04|2026-06-04|Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads|Yasmine Omri|[2606.06448v1](https://arxiv.org/pdf/2606.06448v1)|
+|2026-06-04|2026-06-04|RiskFlow: Fast and Faithful Safety-Critical Traffic Scenario Generation|Qi Lan|[2606.06423v1](https://arxiv.org/pdf/2606.06423v1)|
+|2026-06-04|2026-06-04|Unsupervised Skill Discovery for Agentic Data Analysis|Zhisong Qiu|[2606.06416v1](https://arxiv.org/pdf/2606.06416v1)|
 ## Update on 2026-06-01
 
 ### World Model
