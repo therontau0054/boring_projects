@@ -1,0 +1,329 @@
+# Abstracts of Papers
+
+## World Model
+### Latent Spatial Memory for Video World Models
+**Authors**: Weijie Wang, Haoyu Zhao, Yifan Yang, Feng Chen, Zeyu Zhang, Yefei He, Zicheng Duan, Donny Y. Chen, Yuqing Yang, Bohan Zhuang
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09828v1](https://arxiv.org/pdf/2606.09828v1)
+
+**Abstract**: Video world models that maintain 3D spatial consistency across generated frames typically rely on explicit point cloud memory constructed in RGB space. This design is both computationally expensive, requiring repeated rendering and VAE encoding, and inherently lossy, as the round trip through pixel space discards rich features of the learned latent representation. In this paper, we introduce \emph{latent spatial memory} for video world models, a persistent 3D cache that stores scene information directly in the diffusion latent space, avoiding pixel-space reconstruction. Building on this, we propose Mirage, a latent-space spatial memory framework that constructs the memory by lifting latent tokens into 3D via depth-guided back-projection and queries it by synthesizing novel views through direct latent-space warping. This unified formulation eliminates both the information loss of pixel-space reconstruction and the computational burden of repeated encoding and rendering. Experiments show that latent spatial memory achieves up to \textbf{10.57}$\times$ faster end-to-end video generation and \textbf{55}$\times$ reduction in memory footprint relative to explicit 3D baselines. Leveraging the geometric prior of the diffusion model, Mirage attains state-of-the-art performance on WorldScore and strong reconstruction quality on RealEstate10K.
+
+
+### MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models
+**Authors**: Hao Shi, Weiye Li, Bin Xie, Yulin Wang, Renping Zhou, Tiancai Wang, Xiangyu Zhang, Ping Luo, Gao Huang
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09827v1](https://arxiv.org/pdf/2606.09827v1)
+
+**Abstract**: Temporal modeling is essential for robotic manipulation, as effective control requires both memory of past interactions and imagination of future states. However, most VLA models rely primarily on the current observation and therefore struggle with long-horizon, temporally dependent tasks. Cognitive science suggests that humans rely on working memory to buffer short-lived context, the hippocampal system to preserve episodic memory of past experience, and internal models to imagine possible future state evolution. Inspired by these mechanisms, we propose MemoryVLA++, a full temporal modeling framework that equips VLA models with memory and imagination for robotic manipulation. A pretrained VLM encodes the current observation into perceptual and cognitive tokens, forming working memory. These tokens query a Perceptual-Cognitive Memory Bank to retrieve relevant historical context. This bank stores low-level details and high-level semantics from past interactions, and is updated through redundancy-aware consolidation. A world model imagines future states in a denoising latent space, and the imagined latents are integrated under memory guidance to form full temporal-aware tokens. The resulting tokens condition a diffusion action expert to predict temporally consistent action sequences. We conduct extensive experiments on 5 simulation benchmarks and 3 categories of real-robot tasks across 3 robots, covering general manipulation, long-horizon temporal tasks, robustness, and generalization. Our method achieves strong performance across Libero, SimplerEnv, Mikasa-Robo, Calvin, Libero-Plus, and diverse real-robot tasks, validating the effectiveness of full temporal modeling with memory and imagination. For example, on real robots, it achieves +9%, +26%, +28% gains on general, memory-dependent, and imagination-dependent tasks. Project Page: https://shihao1895.github.io/MemoryVLA-PP-Web
+
+
+### OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics
+**Authors**: Mingxian Lin, Shengju Qian, Yuqi Liu, Yi-Hua Huang, Yiyu Wang, Wei Huang, Yitang Li, Fan Zhang, Zeyu Hu, Lingting Zhu, Xin Wang, Xiaojuan Qi
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09826v1](https://arxiv.org/pdf/2606.09826v1)
+
+**Abstract**: Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, focus on single-agent Solo play, and lack unified protocols for evaluating heterogeneous agent classes (commercial VLMs, open-weight VLMs, and specialized game policies) on the same footing. We address these gaps with OmniGameArena, a real-time benchmark of twelve newly built Unreal Engine 5 games spanning Solo (7), PvP (3), and Coop (2) with unified action interfaces, and the Improvement Dynamics Curve (IDC), an agentic-reflection harness in which a tool-using reflector LLM autonomously refines a bounded skill prompt across multiple rounds. Beyond cold-start leaderboard scores, IDC exposes two additional observables for each (agent, game) pair: how the score evolves across reflection rounds, and how the learned skill behaves on held-out task variants. We report these observables for twelve VLM agents on the cold-start leaderboard and four top agents under IDC.
+
+
+### An Agency-Transferring Model-Free Policy Enhancement Technique
+**Authors**: Anton Bolychev, Georgiy Malaniya, Sinan Ibrahim, Pavel Osinenko
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09825v1](https://arxiv.org/pdf/2606.09825v1)
+
+**Abstract**: Training reinforcement learning (RL) policies from scratch is
+  costly: it requires careful reward and environment design,
+  extensive tuning, and substantial computation.
+  Yet many control problems already have a functional but
+  suboptimal policy available as a baseline.
+  This paper proposes a method for embedding such a baseline into
+  the RL training process, simultaneously improving training
+  efficiency relative to from-scratch methods and producing a
+  learning policy that outperforms the baseline.
+  At each step, the method arbitrates between the baseline policy
+  and a trainable learning policy, initially relying strongly on
+  the baseline policy and then progressively transferring agency to
+  the learning policy.
+  By the end of training, the learning policy is a standalone
+  neural network that operates without baseline policy support.
+  The paper formalizes what it means for the baseline policy to be
+  functional: under this policy, the agent reaches a goal set and
+  remains there with high probability.
+  The proposed arbitration mechanism is designed to exploit this
+  property during training, yielding high goal-reaching rates right
+  from the beginning of training.
+  A theoretical analysis provides a formal interpretation of this
+  behavior under stated assumptions and extends it to the final
+  baseline-free regime, where explicit lower bounds are derived for
+  the goal-reaching probability of the standalone learning policy.
+  Empirical results on continuous-control benchmarks show that the
+  proposed method achieves returns that match or exceed those of
+  competitive approaches, while maintaining the highest
+  goal-reaching rates throughout training among the compared
+  methods -- including in the final stage, where the learning policy
+  operates without any baseline support.
+
+
+### TSseek: Regular Expression-Based Similarity Search for Distributed Time Series Datasets
+**Authors**: Xiaoshuai Li, Khalid Alnuaim, Mohamed Y. Eltabakh, Elke A. Rundensteiner
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09824v1](https://arxiv.org/pdf/2606.09824v1)
+
+**Abstract**: Similarity search is a fundamental operation in time series analysis. Most existing techniques, however, require users to supply a precise sequence of values (typically an entire time series object) as the query input. This rigid requirement limits real-world applications, where users instead want to express patterns, trends, or value ranges. Flexible, pattern-based search has been explored in text retrieval and complex event processing, but remains underexplored for large-scale distributed time series.
+  To close this gap, we propose TSseek, a regular-expression-powered search framework for distributed time series datasets. TSseek's query language enables users to compose patterns encompassing trends, value ranges, and wildcard segments. We show that conventional approximation techniques (e.g., PAA and SAX) and their index structures are ill-suited for such queries because they cannot operate on regular-expression query constructs.
+  In TSseek, we map the time series objects and the query constructs into the same space by approximating time series objects as sequences of line segments that retain both trend (slope direction) and value range, and translating query constructs into bounding rectangles. To support efficient processing, we build TSseek-X, a distributed spatial index over the time series segments. TSseek supports two fundamental query types, namely whole-matching queries (over entire series) and subsequence-matching queries (over arbitrary windows within a series).
+  Across benchmark and real-world datasets, full-scan, model-based, and SAX-based baselines all sacrifice either accuracy or speed, whereas TSseek returns exact answers efficiently. Also, for subsequence workloads, it achieves significant speedups over state-of-the-art subsequence matching engines.
+
+
+### Rethinking the Divergence Regularization in LLM RL
+**Authors**: Jiarui Yao, Xiangxin Zhou, Penghui Qi, Wee Sun Lee, Liefeng Bo, Tianyu Pang
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09821v1](https://arxiv.org/pdf/2606.09821v1)
+
+**Abstract**: Reinforcement learning (RL) has become a key component of post-training large language models (LLMs). In practice, LLM RL is often off-policy because of training-inference mismatch and policy staleness, making trust-region control essential for stable optimization. Mainstream methods such as PPO and GRPO approximate this control with a ratio-clipping mechanism, but the importance ratio can be a poor proxy for distributional shift in long-tailed vocabularies. Recent work such as DPPO addresses this mismatch by replacing ratio-based clipping with a divergence-based mask, yielding a trust region defined by the sampled token's absolute probability shift. However, DPPO still relies on a hard mask: once a token crosses the trust-region boundary in a harmful direction, its gradient is discarded rather than corrected. To address this, we propose Divergence Regularized Policy Optimization (DRPO), which replaces the hard mask with a smooth advantage-weighted quadratic regularizer on policy shift. DRPO preserves the same trust-region geometry as DPPO while inducing bounded, continuous gradient weights that attenuate diverging updates and provide corrective signals beyond the boundary. Experiments across model scales, architectures, and precision settings show that DRPO improves the stability and efficiency of LLM RL training.
+
+
+## Generation
+### Weighted universal approximation of differentiable maps on infinite-dimensional manifolds
+**Authors**: Philipp Schmocker, Josef Teichmann
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09820v1](https://arxiv.org/pdf/2606.09820v1)
+
+**Abstract**: We generalize the universal approximation theorem for functional input neural networks (FNN) to differentiable maps by including the approximation of the derivatives. A FNN maps the input from a possibly infinite-dimensional weighted manifold to the real-valued hidden layer, on which a non-linear scalar activation function is applied, and then returns the output into a Banach space via some linear readouts. By proving a weighted Nachbin theorem, we establish a universal approximation theorem (UAT) for differentiable maps, which goes beyond the usual formulation on compact sets and also includes the approximation of the derivatives. This leads us to approximation results for non-anticipative functionals including the horizontal and vertical derivatives. As a further application, we show that linear functions of the signature are able to approximate path space functionals including their directional derivatives.
+
+
+### PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws
+**Authors**: Danqi Zhuang, Jisui Huang, Xiaoyue Xi, Andrew Kiggins, Xiaojie Wang, Ke Chen, Yue Wu
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09816v1](https://arxiv.org/pdf/2606.09816v1)
+
+**Abstract**: Standard diffusion models typically use a single time-homogeneous Gaussian terminal distribution as the reference law for generation. While this choice is analytically convenient and empirically powerful, it provides little explicit structure for data concentrated near low-dimensional manifolds, where different regions of the data distribution may correspond to distinct local geometric or semantic factors. As a result, the reverse model must recover manifold-level structure almost entirely from an unstructured terminal reference distribution.
+  We propose PTL-Diffusion, a proof-of-concept diffusion framework whose forward noising process converges to a nonconstant periodic family of Gaussian terminal laws rather than to a single invariant law. Unlike a phase-conditioned DDPM, where phase information only enters the denoising network while the forward process remains unchanged, PTL-Diffusion embeds phase structure directly into the forward noising dynamics.
+  The proposed construction remains close to standard denoising diffusion models: for a periodically forced Ornstein--Uhlenbeck-type forward process, we derive closed-form forward marginals, the limiting periodic Gaussian terminal family, and explicit Gaussian reverse posteriors, enabling standard noise-prediction training. We also introduce an invariant-average regularization term coupling the phase-conditioned reverse dynamics through the averaged periodic reference law. Experiments on torus and cylinder point-cloud benchmarks and the Olivetti face dataset show that PTL-Diffusion improves manifold-level distributional matching over matched DDPM baselines, reducing phase-conditioned errors, feature-space covariance errors, and nearest-neighbour manifold distances. These results suggest structured terminal reference laws as a promising direction, while motivating more expressive phase constructions and larger-scale evaluations.
+
+
+### Echo-Memory: A Controlled Study of Memory in Action World Models
+**Authors**: Wayne King, Zeyue Xue, Yuxuan Bian, Jie Huang, Haoran Li, Yaowei Li, Yaofeng Su, Yuming Li, Haoyu Wang, Shiyi Zhang, Songchun Zhang, Yuwei Niu, Sihan Xu, Junhao Zhuang, Haoyang Huang, Nan Duan
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09803v1](https://arxiv.org/pdf/2606.09803v1)
+
+**Abstract**: We present \textbf{Echo-Memory}, a controlled study of memory mechanisms in action-conditioned world models. These models generate multi-segment videos from a first frame, text prompt, and camera-action sequence, but their central failure is often memory rather than local image synthesis: after the camera leaves and returns, the scene or salient object may silently change. Existing memory designs are hard to compare because gains are entangled with backbone, training, retrieval, and evaluation differences. Echo-Memory fixes the action-to-video interface and varies only how history is stored and read by the generator. Under a shared video diffusion backbone, optimizer, camera-action representation, sampler, and evaluation pipeline, we compare raw context, compression-based memory, spatial summaries with different read-out paths, and state-space recurrence. This matched matrix separates four otherwise conflated axes: \emph{capacity}, \emph{compression}, \emph{read-out}, and \emph{recurrence}. We also evaluate memory through a three-branch protocol: replay quality, in-domain loop revisit, and open-domain return probes. The branches routinely disagree, showing that replay fidelity is not a sufficient proxy for remembering a world. Three findings follow. Raw context is a strong capacity baseline and improves open-domain return far more than it improves replay metrics. Compactness is not a free substitute for capacity: aggressive spatial and hybrid-compression memories lose the salient evidence needed for return. Finally, block-wise state-space recurrence is the strongest open-domain return mechanism in our matrix, showing that the structure of implicit memory matters as much as the decision to use it. These results provide a compact protocol for studying memory in action world models beyond isolated replay metrics.
+
+
+### FASE: Fast Adaptive Semantic Entropy for Code Quality
+**Authors**: Shizhe Lin, Ladan Tahvildari
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09800v1](https://arxiv.org/pdf/2606.09800v1)
+
+**Abstract**: Multi-agent code generation offers a promising paradigm for autonomous software development by simulating the human software engineering lifecycle. However, system reliability remains hindered by LLM hallucinations and error propagation across interacting agents. While semantic entropy provides a principled way to quantify uncertainty without ground-truth answers, current methods often rely on costly LLM-driven equivalence checks. In this work, we introduce Fast Adaptive Semantic Entropy (FASE), a novel metric that approximates functional correctness based on the minimum spanning tree of structural and semantic dissimilarity graphs. Evaluations on HumanEval and BigCodeBench demonstrate that FASE outperforms state-of-the-art semantic entropy by LLM entailment, achieving a 25% average improvement in Spearman correlation and a 19% increase in ROCAUC score against Pass@1 from ground-truth test cases when using the Qwen3-Embedding-8B model. Furthermore, by eliminating costly LLM-driven equivalence evaluation, FASE incurs negligible computational overhead, requiring only approximately 0.3% of the runtime cost of traditional semantic entropy approaches. These results position FASE as a practical, cost-effective solution for optimizing uncertainty quantification in real-world multi-agent workflows.
+
+
+### Zero Touch Predictive Orchestration: Automating Time-Series Models for the Cloud-Edge Continuum
+**Authors**: Abd Elghani Meliani, Arora Sagar, Adlen Ksentini, Raymond Knopp
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09787v1](https://arxiv.org/pdf/2606.09787v1)
+
+**Abstract**: The Cloud-Edge Continuum (CEC) enables latency-critical applications by distributing resources to the far edge, but its extreme volatility makes proactive Zero Touch Management via time-series forecasting essential. However, orchestrators face a severe "cold start" problem: newly discovered nodes lack the historical data required to train localized predictive models, while generalized models fail to capture unique hardware and microservice behaviors. To solve this, we propose a fully automated time-series prediction architecture driven by a novel data-mixing methodology. At the infrastructure level, we introduce a lightweight, technology-agnostic Resource Exposer (RE) that dynamically discovers nodes and continuously collects customizable telemetry (e.g., compute, network, energy). To overcome the sparsity of these initial local samples, our framework automatically merges them with TimeTrack, our publicly available, high-resolution dataset collected at 45-second intervals. This synergizes TimeTrack's foundational, high-frequency temporal patterns with the precise calibration of the local node data. Processed through a Neural Architecture Search (NAS) engine, the system automatically generates highly accurate baseline models. Experimental results demonstrate that merging the target data with TimeTrack effectively mitigates the cold start challenge. This integration significantly improves forecasting accuracy measured in Mean Squared Error (MSE), Mean Absolute Error (MAE), and Mean Absolute Percentage Error (MAPE) and accelerates convergence compared to training on the sparse local samples alone, training solely on generic datasets, or mixing the target data with standard alternative datasets, establishing a robust foundation for continuous MLOps deployment.
+
+
+### Who Earns the Safety? Intervention-Aware Quantum Predictive Control with Safety Attribution
+**Authors**: Yifan Wang
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09778v1](https://arxiv.org/pdf/2606.09778v1)
+
+**Abstract**: Hard safety filters are increasingly placed downstream of learned controllers to guarantee constraint satisfaction at run time. Yet a filtered controller that never violates a constraint may still have learned nothing about safety: the filter can silently repair an incompetent upstream policy, so that post-filter success measures the filter, not the policy. We argue that safe policy learning should ask who earns the safety - the policy or its protective layers - and we make this question measurable. We introduce Intervention-Aware Variational Quantum Differentiable Predictive Control (IA-VQC-DPC), which (i) trains a compact variational quantum circuit (VQC) policy under a primal-dual intervention budget that penalizes reliance on a differentiable Control-Barrier-Function (CBF) projection, and (ii) is evaluated with a safety-attribution protocol that decomposes the executed-trajectory correction into a CBF term and a deployment runtime-guard term, and stress-tests the policy with guard-off evaluation. On closed-loop, high-fidelity BOPTEST building-control emulators (5 seeds, 60 episodes per method), intervention-aware training significantly lowers the quantum policy's raw pre-filter violation and total safety-layer reliance (both p < 10^-4) with no significant energy regression; at an equal approximately 400-parameter budget the quantum policy is significantly safer and more comfortable than a matched classical policy. Guard-off evaluation confirms the improvement is policy-level and exposes a valuable negative result: a learned differentiable energy head is only safe when paired with a distribution-aware runtime guard. The attribution protocol is general beyond quantum policies and buildings.
+
+
+## VLA
+### Your Model Already Knows: Attention-Guided Safety Filter for Vision-Language-Action Models
+**Authors**: Seongbin Park, Fan Zhang, Baharan Mirzasoleiman, Shahriar Talebi, Nader Sehatbakhsh
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09749v1](https://arxiv.org/pdf/2606.09749v1)
+
+**Abstract**: Vision-Language-Action (VLA) models have demonstrated impressive end-to-end performance across a variety of robotic manipulation tasks. However, these policies offer no guarantees against collisions with task-irrelevant objects in the scene. Existing safety filters sidestep this problem by querying a vision-language model (VLM) to identify obstacles and their locations. This, however, is too slow to run in the control loop and can only be invoked at episode initialization, leaving the filter unable to track moving obstacles. We discover that a small number of attention heads within a VLA model reliably localize the object the policy intends to approach. These heads can be exploited within a training-free safety framework that obtains the active target from the attention heads at every step, treats the remainder of the scene as obstacles, and feeds these into a Control Barrier Function (CBF) filter. Together with a lightweight real-time object tracker, this allows for collision avoidance for non-static obstacles. We evaluate our framework on SafeLIBERO, which we extend with moving obstacles. On the original static benchmark, our method performs comparably to an oracle that uses privileged simulator state to identify the target, emulating a VLM-based identification step run once at episode initialization. On the dynamic variant, where the oracle's init-time target assignment becomes stale, our method substantially outperforms it by 43%, on average. Our findings suggest that the perceptual signals needed for real-time safety filtering are already present within VLA policies and can be exploited without additional training or heavy auxiliary models.
+
+
+### ReCoVLA: VLM-Guided Reward Compilation for Failure Recovery in Vision-Language-Action Policies
+**Authors**: Haodi Hu, Chung-Ta Huang, Jing Liu, Ye Wang, Kei Suzuki, Matthew Brand, Toshiaki Koike-Akino
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09630v1](https://arxiv.org/pdf/2606.09630v1)
+
+**Abstract**: Vision-language-action (VLA) policies provide strong priors for language-conditioned manipulation, but remain brittle in off-nominal states requiring targeted recovery. We propose ReCoVLA -- a failure-conditioned residual recovery framework that keeps a pretrained VLA policy frozen, uses an external vision-language model (VLM) to infer the failure mode and recovery stage, and compiles a structured reward from task-relevant components. Rather than using the VLM to generate actions or rewards directly, ReCoVLA uses it as a semantic reward selector: it predicts a recovery descriptor and reward mask for in-simulation residual-policy training, followed by zero-shot sim-to-real deployment of the trained recovery policies. This decouples high-level failure understanding from low-level corrective control to support different VLAs. Experiments across short-horizon, long-horizon, and contact-rich manipulation tasks show that ReCoVLA outperforms the tested baselines on average. In simulation, our reward compiler improves average success from 36.7% for the fine-tuned $π_{0.5}$ baseline to 66.7%. In physical zero-shot sim-to-real experiments, ReCoVLA achieves the best average performance, with 61.7% success.
+
+
+### CT-VAM: A Cerebello-Thalamic-Inspired Vision-Action Model for Efficient Visuomotor Control
+**Authors**: Jiacheng Li, Yize Guo, Jiabin Guo, Qingchen Liu, Jiahu Qin
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09572v1](https://arxiv.org/pdf/2606.09572v1)
+
+**Abstract**: Vision-language-action models have shown strong promise for robot manipulation, yet raw language is primarily needed to specify task intent rather than to be repeatedly processed during high-frequency low-level execution. Motivated by this separation, we propose a cerebello-thalamic-inspired vision-action model (CT-VAM) for efficient task-conditioned visuomotor control. CT-VAM acts as a compact local execution policy that predicts action chunks from dualview visual observations, proprioception, and a lightweight task condition, potentially enabling a practical cloud-edge paradigm in which high-level semantic reasoning can be handled by large models while fast closed-loop control runs on local hardware. To fuse heterogeneous inputs effectively, CT-VAM introduces TARS (Thalamic Action Routing Stream), a stream-separated conditional attention decoder that independently routes action, visual and task streams, preventing dense sensory tokens from overwhelming compact task-relevant conditions. With only 68M parameters, CT-VAM achieves LIBERO success rates competitive with substantially larger VLA models, while reducing inference latency. Together with flow-consistent inpainting for asynchronous chunk execution, CT-VAM supports high-frequency control and demonstrates robust realworld deployment on resource-constrained robotic platforms.
+
+
+### Targeting World Models to Compromise Robot Learning Pipelines
+**Authors**: Ethan Rathbun, Ahmed Agha, Saaduddin Mahmud, Christopher Amato, Alina Oprea, Eugene Bagdasarian
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09499v1](https://arxiv.org/pdf/2606.09499v1)
+
+**Abstract**: World models have recently seen a rapid growth in both their popularity and capability as more data efficient tools for generating robot training data or simulating real world environments, with many works proposing their integration into the robot learning pipeline. While highly practical, in this work we demonstrate that world models introduce a uniquely stealthy and effective data poisoning entry point into the robot learning supply chain that can result in the deployment of unsafe or otherwise compromised robotic policies despite training on seemingly safe ground truth training data. In contrast to traditional data poisoning techniques which directly implant dangerous trajectories into sold or uploaded datasets, our novel attack methods inject malicious prompts or compromising transition dynamics into visibly safe teleoperated datasets which are only activated once fed through a world model as input. This can result in the generation of synthetic, dangerous robot training trajectories and subsequently unsafe or compromised robot policies. We demonstrate the effectiveness of our attacks against both state of the art action conditioned and text conditioned world models, showing a full end-to-end backdoor on a downstream DRL policy and a proof-of-concept for the VLA setting. Overall these findings necessitate research into more secure world models and reevaluating their position within the robot learning supply chain.
+
+
+### Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer
+**Authors**: Sanghoon Lee, Jiyeong Chae, Kyung-Joon Park
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09416v1](https://arxiv.org/pdf/2606.09416v1)
+
+**Abstract**: Robot middleware faces a new role in the era of Physical AI. Learned policies, planners, and vision-language-action (VLA) models now enter deployed robots as causal participants on the control path, but the layer that integrates them with timing, scheduling, and network has not been named. Recent language-agent work names this layer the harness, the external system that mediates tools, manages state, bounds resources, and records execution. The robotics community has not yet adopted this framing, and we propose that robot middleware is that harness. A Physical AI harness differs from a software harness in where it intervenes. A software harness mediates at tool-call boundaries. A Physical AI harness must mediate at control, computing, and communication simultaneously, because a learned policy's output crosses all three: its commands shift the trajectory, its inference time shifts the schedule, and its payload shifts the bandwidth. Robot middleware is the lowest robot-stack layer with mediating abstractions over all three, so it is best positioned to compose their enforcement. It already provides most of what a harness needs but lacks the enforcement for an AI model. We name this missing enforcement as three functions: Projection gates each output at emission, Isolation bounds the model's execution and transmission slot, and Transfer falls back to a verified baseline when checks fail. Each appears today as hand-built application code in deployed robot systems, built on surfaces robot middleware already provides. Robot middleware should host them not as the best single-axis enforcer but as the layer that composes all three. We sketch this as a ROS 2 Harness Profile, a deployment artifact that carries an AI model's declared output region, inference budget, and operating regime while the middleware enforces them across ROS 2, DDS, and Zenoh.
+
+
+### C$^3$ache: Accelerating World Action Models with Cross Inference Chunk Cache
+**Authors**: Weisen Zhao, Lam Nguyen, Zhicong Lu, Yuzhang Shang
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.08962v1](https://arxiv.org/pdf/2606.08962v1)
+
+**Abstract**: World Action Models (WAMs) generalize better than standard Vision-Language-Action (VLA) policies to novel motions and environments, because a video-modeling objective lets them learn from abundant unlabeled video rather than scarce labeled robot demonstrations. This generalization is computationally expensive. To complete a task, a WAM runs over multiple inference chunks, and each chunk requires a costly denoising process. Existing acceleration methods reduce this cost by caching and reusing computation within a single chunk's denoising trajectory. Our empirical analysis reveals a substantial source of redundancy they overlook: redundancy across chunks. When a robot executes a smooth behavior, the residuals computed at a given denoising step are strongly correlated from one chunk to the next. We introduce C$^3$ache, a training-free method that caches and reuses these residuals across inference chunks at the same denoising step. Experiments on benchmarks with a Fast-WAM backbone show that C$^3$ache achieves up to a $2.5\times$ speedup in total wall-clock inference time, with negligible degradation in task success rate.
+
+
+## Agent
+### SIGA: Self-Evolving Coding-Agent Adapters for Scientific Simulation
+**Authors**: Matthew Ho, Brian Liu, Jixuan Chen, Audrey Wang, Lianhui Qin
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09774v1](https://arxiv.org/pdf/2606.09774v1)
+
+**Abstract**: Advanced scientific simulators expose specialized input languages that turn simulation goals into executable configurations, but learning them can cost domain scientists hours to days. We study simulator setup as a problem of agent-tool interface grounding: what minimal simulator-specific adaptations are needed for an off-the-shelf coding agent to operate real scientific software? Our intuition is that coding agents already know how to navigate files, edit code, run commands, and repair outputs, but they lack the simulator's executable contract: its vocabulary, structural constraints, validation rules, and termination conditions. We introduce SIGA, a Simulator-Interface Grounding Adapter that supplies this contract through retrieval, procedural memory, in-trajectory validation, and validation-enforced termination. We primarily evaluate SIGA on GEOS, an open-source multiphysics simulator used in subsurface science. SIGA produces a complete GEOS deck in about five minutes with TreeSim above 0.90, matching an extended-budget human expert who took about three hours, a roughly 36x wall-clock speedup. On a harder held-out set, grounding raises TreeSim from 0.720 to 0.789, a roughly 10% relative gain over the bare agent, and can reduce the across-seed standard deviation by 16x. Self-evolution further improves SIGA by rewriting adapter contents from prior trajectories, yielding the highest held-out GEOS mean and matching or outperforming the strongest hand-designed configuration. Transfers to OpenFOAM and LAMMPS show that the dominant mechanism shifts by interface: validation matters most when structural completeness is the bottleneck, while memory and retrieval matter most when domain correctness is the bottleneck. These results suggest that lightweight, self-improvable grounding layers can turn general coding agents into practical operators of scientific software.
+
+
+### iOSWorld: A Benchmark for Personally Intelligent Phone Agents
+**Authors**: Lawrence Keunho Jang, Mareks Woodside, Geronimo Carom, Andrew Keunwoo Jang, Jing Yu Koh, Ruslan Salakhutdinov
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09764v1](https://arxiv.org/pdf/2606.09764v1)
+
+**Abstract**: A useful phone agent needs to be personally intelligent. It should reason over a user's identity, history, and preferences as they exist on the device, not just follow isolated instructions in an impersonal sandbox. Existing mobile agent benchmarks lack this kind of personalization. We introduce iOSWorld, the first interactive native iOS simulator benchmark built around a persistent user identity spanning 26 newly built iOS apps. These apps contain connected data such as transactions, messages, travel records, social relationships, and financial activity. iOSWorld includes 133 tasks across three increasingly difficult categories. Single-app tasks (27) test one app, multi-app tasks (60) span 2 to 8 apps, and memory and personalization tasks (46) require agents to infer patterns from personal data. We evaluate frontier and open-source computer-use models in both vision-only and privileged vision+XML settings. The best configuration reaches 52\% overall but only 37\% on multi-app tasks. Privileged vision+XML access improves frontier models by up to 26 percentage points, while smaller models do not benefit from added accessibility-tree input. We release iOSWorld as an open-source benchmark with all apps, seeded data, tasks, rubrics, and evaluation code.
+
+
+### Collaborative Human-Agent Protocol (CHAP)
+**Authors**: Arsalan Shahid, Gordon Suttie, Philip Black
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09751v1](https://arxiv.org/pdf/2606.09751v1)
+
+**Abstract**: Foundation models are moving from response generation into operational roles. They plan across steps, call tools, request human input, coordinate with other agents, and increasingly carry responsibility for work that affects customers, claims, code, contracts, and clinical decisions. Production deployments are no longer one human supervising one model. They are multi-human, multi-agent collaborations that cross teams, time zones, and trust boundaries. The technical surface for this collaboration remains weakly specified. When an agent drafts a response and a human edits it before it ships, the moment of human judgement is the most valuable signal in the system. In current practice it is recorded, if at all, in application code, chat threads, ticket comments, and tribal memory. Two protocol standards address adjacent concerns: MCP standardises agent access to tools and data, and A2A standardises agent-to-agent interoperability. Neither defines the shared workspace in which humans and agents perform accountable work together. This paper presents CHAP, the Collaborative Human-Agent Protocol. Under CHAP, the override that used to vanish into a chat thread becomes a structured event carrying a diff, a rationale, and a content hash. The handoff between shifts becomes a portable envelope rather than a pinned message. The human approval of an agent's draft becomes a non-repudiable signed decision that can be replayed years later. The protocol achieves this through a small Core (workspaces, participants, tasks, artefacts, and an append-only evidence log) together with composable profiles that add review, modes, routing, deliberation, handoff, identity, signatures, and transparency-backed audit as deployments require them. Specification, reference implementation, conformance suite, and worked examples are available at: https://github.com/BrightbeamAI/chap
+
+
+### Multi-Turn Evaluation of Deep Research Agents Under Process-Level Feedback
+**Authors**: Rishabh Sabharwal, Hongru Wang, Amos Storkey, Jeff Z. Pan
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09748v1](https://arxiv.org/pdf/2606.09748v1)
+
+**Abstract**: Existing benchmarks for deep research agents (DRAs) assess only single-shot outputs, ignoring a key question: can DRAs improve their reports when guided by feedback? To investigate this, we conduct a multi-turn evaluation of DRAs under two feedback settings: self-reflection, in which the agent revises its report without any external diagnostic signal, and process-level feedback, in which the agent receives guidance targeting gaps in its research strategy. To enable process-level feedback, we design Research Gap Inference (RGI), a method that analyzes patterns of satisfied and unsatisfied rubric criteria to infer research-process gaps. Our analysis reveals three key findings: (i) under self-reflection, agents incorporate and regress on rubric criteria at nearly equal rates, yielding negligible net improvement; (ii) a single round of process-level feedback yields substantial gains, raising the normalized score by approximately $8$-$15$ points and yielding a roughly $35$-$40\%$ incorporation rate; (iii) these gains do not compound over subsequent turns, as agents regress on up to $24\%$ of previously satisfied criteria when rewriting the full report to address remaining gaps. Even with targeted guidance, reliable multi-turn improvement remains out of reach for the DRA architectures we evaluate. Our code and results are publicly available at https://github.com/sabharwalrishabh/Multi-Turn-Evaluation-of-DRAs.
+
+
+### SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research
+**Authors**: Pu Ning, Quan Chen, Kun Tao, Xinyu Tang, Tianshu Wang, Qianggang Cao, Xinyu Kong, Zujie Wen, Zhiqiang Zhang, Jun Zhou
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09730v1](https://arxiv.org/pdf/2606.09730v1)
+
+**Abstract**: Large language models are increasingly expected to handle complex, long-horizon real-world tasks whose context demands can grow without bound, yet model context windows remain inherently finite. Recent work explores a paradigm where a main agent decomposes tasks and dispatches subtasks to subagents, which execute and return only summarized results, conserving the main agent's context budget. However, performing this well requires delegation intelligence: the ability to decompose complex tasks, determine when and what to delegate, and integrate returned results into the ongoing workflow. Training data for this capability is scarce in naturally occurring text, and to our knowledge, how to synthesize such data and train models to acquire this capability remains largely unexplored in the open-source community. To bridge this gap, we present a preliminary exploration targeting deep research, a representative long-horizon agent task. Specifically, we design a harness that guides the model toward high-quality task decomposition and delegation, while constraining subagents to return results properly to support the main agent's workflow. The harness-guided trajectories naturally encode correct delegation decisions, which we use as supervised fine-tuning data to internalize delegation intelligence into model weights. Our resulting model, SearchSwarm-30B-A3B, achieves 68.1 on BrowseComp and 73.3 on BrowseComp-ZH, the best results among all models of comparable scale. We will release our harness, model weights, and training data to facilitate future research.
+
+
+### Observability for Delegated Execution in Agentic AI Systems
+**Authors**: Abhinav Mishra, Kumar Sharad
+
+**Published Date**: 2026-06-08
+
+**Updated Date**: 2026-06-08
+
+**PDF Url**: [2606.09692v1](https://arxiv.org/pdf/2606.09692v1)
+
+**Abstract**: Delegation-scoped execution is not identifiable from standard observables: audit logs and execution traces can be identical under multiple incompatible delegation assignments. This gap is especially acute in LLM-based agentic systems, where agents dynamically select tools, vary execution sequences across runs for the same instruction, and spawn cooperating sub-agents. These dynamics fragment and interleave traces, making delegation-scoped reconstruction from causal structure alone structurally underdetermined. Although individual actions are authorized and logged, existing audit, tracing, and security schemas lack the semantics to reconstruct what actions occurred under a given delegation across heterogeneous systems. We focus on delegation-scoped attribution and access/share footprint reconstruction, not intent inference or reasoning reconstruction. We present an agent-aware observability substrate consisting of a lightweight gateway and a common information model that binds delegation context at execution time. This enables reliable cross-tool delegation-scoped reconstruction and direct forensic queries without heuristic time-window correlation.
+
+

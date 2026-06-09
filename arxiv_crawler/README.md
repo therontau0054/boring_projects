@@ -278,6 +278,48 @@ TODO:
 
 
 
+
+## Update on 2026-06-09
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-08|2026-06-08|Latent Spatial Memory for Video World Models|Weijie Wang|[2606.09828v1](https://arxiv.org/pdf/2606.09828v1)|
+|2026-06-08|2026-06-08|MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models|Hao Shi|[2606.09827v1](https://arxiv.org/pdf/2606.09827v1)|
+|2026-06-08|2026-06-08|OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics|Mingxian Lin|[2606.09826v1](https://arxiv.org/pdf/2606.09826v1)|
+|2026-06-08|2026-06-08|An Agency-Transferring Model-Free Policy Enhancement Technique|Anton Bolychev|[2606.09825v1](https://arxiv.org/pdf/2606.09825v1)|
+|2026-06-08|2026-06-08|TSseek: Regular Expression-Based Similarity Search for Distributed Time Series Datasets|Xiaoshuai Li|[2606.09824v1](https://arxiv.org/pdf/2606.09824v1)|
+|2026-06-08|2026-06-08|Rethinking the Divergence Regularization in LLM RL|Jiarui Yao|[2606.09821v1](https://arxiv.org/pdf/2606.09821v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-08|2026-06-08|Weighted universal approximation of differentiable maps on infinite-dimensional manifolds|Philipp Schmocker|[2606.09820v1](https://arxiv.org/pdf/2606.09820v1)|
+|2026-06-08|2026-06-08|PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws|Danqi Zhuang|[2606.09816v1](https://arxiv.org/pdf/2606.09816v1)|
+|2026-06-08|2026-06-08|Echo-Memory: A Controlled Study of Memory in Action World Models|Wayne King|[2606.09803v1](https://arxiv.org/pdf/2606.09803v1)|
+|2026-06-08|2026-06-08|FASE: Fast Adaptive Semantic Entropy for Code Quality|Shizhe Lin|[2606.09800v1](https://arxiv.org/pdf/2606.09800v1)|
+|2026-06-08|2026-06-08|Zero Touch Predictive Orchestration: Automating Time-Series Models for the Cloud-Edge Continuum|Abd Elghani Meliani|[2606.09787v1](https://arxiv.org/pdf/2606.09787v1)|
+|2026-06-08|2026-06-08|Who Earns the Safety? Intervention-Aware Quantum Predictive Control with Safety Attribution|Yifan Wang|[2606.09778v1](https://arxiv.org/pdf/2606.09778v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-08|2026-06-08|Your Model Already Knows: Attention-Guided Safety Filter for Vision-Language-Action Models|Seongbin Park|[2606.09749v1](https://arxiv.org/pdf/2606.09749v1)|
+|2026-06-08|2026-06-08|ReCoVLA: VLM-Guided Reward Compilation for Failure Recovery in Vision-Language-Action Policies|Haodi Hu|[2606.09630v1](https://arxiv.org/pdf/2606.09630v1)|
+|2026-06-08|2026-06-08|CT-VAM: A Cerebello-Thalamic-Inspired Vision-Action Model for Efficient Visuomotor Control|Jiacheng Li|[2606.09572v1](https://arxiv.org/pdf/2606.09572v1)|
+|2026-06-08|2026-06-08|Targeting World Models to Compromise Robot Learning Pipelines|Ethan Rathbun|[2606.09499v1](https://arxiv.org/pdf/2606.09499v1)|
+|2026-06-08|2026-06-08|Harness Engineering for Physical AI: Robot Middleware Is the Harness Layer|Sanghoon Lee|[2606.09416v1](https://arxiv.org/pdf/2606.09416v1)|
+|2026-06-08|2026-06-08|C$^3$ache: Accelerating World Action Models with Cross Inference Chunk Cache|Weisen Zhao|[2606.08962v1](https://arxiv.org/pdf/2606.08962v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-08|2026-06-08|SIGA: Self-Evolving Coding-Agent Adapters for Scientific Simulation|Matthew Ho|[2606.09774v1](https://arxiv.org/pdf/2606.09774v1)|
+|2026-06-08|2026-06-08|iOSWorld: A Benchmark for Personally Intelligent Phone Agents|Lawrence Keunho Jang|[2606.09764v1](https://arxiv.org/pdf/2606.09764v1)|
+|2026-06-08|2026-06-08|Collaborative Human-Agent Protocol (CHAP)|Arsalan Shahid|[2606.09751v1](https://arxiv.org/pdf/2606.09751v1)|
+|2026-06-08|2026-06-08|Multi-Turn Evaluation of Deep Research Agents Under Process-Level Feedback|Rishabh Sabharwal|[2606.09748v1](https://arxiv.org/pdf/2606.09748v1)|
+|2026-06-08|2026-06-08|SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research|Pu Ning|[2606.09730v1](https://arxiv.org/pdf/2606.09730v1)|
+|2026-06-08|2026-06-08|Observability for Delegated Execution in Agentic AI Systems|Abhinav Mishra|[2606.09692v1](https://arxiv.org/pdf/2606.09692v1)|
 ## Update on 2026-06-07
 
 ### World Model
