@@ -279,6 +279,48 @@ TODO:
 
 
 
+
+## Update on 2026-06-11
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-10|2026-06-10|Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models|Cheng-Yu Yang|[2606.12412v1](https://arxiv.org/pdf/2606.12412v1)|
+|2026-06-10|2026-06-10|Context-Driven Incremental Compression for Multi-Turn Dialogue Generation|Yeongseo Jung|[2606.12411v1](https://arxiv.org/pdf/2606.12411v1)|
+|2026-06-10|2026-06-10|World Pilot: Steering Vision-Language-Action Models with World-Action Priors|Zefu Lin|[2606.12403v1](https://arxiv.org/pdf/2606.12403v1)|
+|2026-06-10|2026-06-10|DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?|Jadelynn Dao|[2606.12402v1](https://arxiv.org/pdf/2606.12402v1)|
+|2026-06-10|2026-06-10|Redesign Mixture-of-Experts Routers with Manifold Power Iteration|Songhao Wu|[2606.12397v1](https://arxiv.org/pdf/2606.12397v1)|
+|2026-06-10|2026-06-10|VLGA: Vision-Language-Geometry-Action Models for Autonomous Driving|Jin Yao|[2606.12396v1](https://arxiv.org/pdf/2606.12396v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-10|2026-06-10|System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5|Haotao Xie|[2606.12392v1](https://arxiv.org/pdf/2606.12392v1)|
+|2026-06-10|2026-06-10|ATLAS: Active Theory Learning for Automated Science|Noémi Éltető|[2606.12386v1](https://arxiv.org/pdf/2606.12386v1)|
+|2026-06-10|2026-06-10|APPO: Agentic Procedural Policy Optimization|Xucong Wang|[2606.12384v1](https://arxiv.org/pdf/2606.12384v1)|
+|2026-06-10|2026-06-10|Breaking Entropy Bounds: Accelerating RL Training via MTP with Rejection Sampling|Yucheng Li|[2606.12370v1](https://arxiv.org/pdf/2606.12370v1)|
+|2026-06-10|2026-06-10|On Subquadratic Architectures: From Applications to Principles|Anamaria-Roberta Hartl|[2606.12364v1](https://arxiv.org/pdf/2606.12364v1)|
+|2026-06-10|2026-06-10|Anatomy of Post-Training: Using Interpretability to Characterize Data and Shape the Learning Signal|Leon Bergen|[2606.12360v1](https://arxiv.org/pdf/2606.12360v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-10|2026-06-10|CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy|Ria Doshi|[2606.12352v1](https://arxiv.org/pdf/2606.12352v1)|
+|2026-06-10|2026-06-10|Learning What to Say to Your VLA: Mostly Harmless Vision Language Action Model Steering|Hyun Joe Jeong|[2606.12299v1](https://arxiv.org/pdf/2606.12299v1)|
+|2026-06-10|2026-06-10|Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning|Chuanke Pang|[2606.12109v1](https://arxiv.org/pdf/2606.12109v1)|
+|2026-06-10|2026-06-10|DAM-VLA: Decoupled Asynchronous Multimodal Vision Language Action model|Pankhuri Vanjani|[2606.12105v1](https://arxiv.org/pdf/2606.12105v1)|
+|2026-06-10|2026-06-10|TacCoRL: Integrating Tactile Feedback into VLA via Simulation|Siyu Ma|[2606.11743v1](https://arxiv.org/pdf/2606.11743v1)|
+|2026-06-09|2026-06-09|Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models|Yifu Yuan|[2606.11324v1](https://arxiv.org/pdf/2606.11324v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-10|2026-06-10|TAHOE: Text-to-SQL with Automated Hint Optimization from Experience|Zhiyi Chen|[2606.12387v1](https://arxiv.org/pdf/2606.12387v1)|
+|2026-06-10|2026-06-10|UniIntervene: Agentic Intervention for Efficient Real-World Reinforcement Learning|Haoyuan Deng|[2606.12372v1](https://arxiv.org/pdf/2606.12372v1)|
+|2026-06-10|2026-06-10|Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks|Mengyu Zheng|[2606.12344v1](https://arxiv.org/pdf/2606.12344v1)|
+|2026-06-10|2026-06-10|Fourier Features Let Agents Learn High Precision Policies with Imitation Learning|Balázs Gyenes|[2606.12334v1](https://arxiv.org/pdf/2606.12334v1)|
+|2026-06-10|2026-06-10|PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents|Ripon Chandra Malo|[2606.12329v1](https://arxiv.org/pdf/2606.12329v1)|
+|2026-06-10|2026-06-10|A Five-Plane Reference Architecture for Runtime Governance of Production AI Agents|Krti Tallam|[2606.12320v1](https://arxiv.org/pdf/2606.12320v1)|
 ## Update on 2026-06-09
 
 ### World Model
