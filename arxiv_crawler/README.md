@@ -280,6 +280,48 @@ TODO:
 
 
 
+
+## Update on 2026-06-13
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-11|2026-06-11|EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments|Jundong Xu|[2606.13681v1](https://arxiv.org/pdf/2606.13681v1)|
+|2026-06-11|2026-06-11|Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning|Zilin Xiao|[2606.13680v1](https://arxiv.org/pdf/2606.13680v1)|
+|2026-06-11|2026-06-11|Improving Robotic Generalist Policies via Flow Reversal Steering|Andy Tang|[2606.13675v1](https://arxiv.org/pdf/2606.13675v1)|
+|2026-06-11|2026-06-11|Modality Forcing for Scalable Spatial Generation|Bardienus Pieter Duisterhof|[2606.13676v1](https://arxiv.org/pdf/2606.13676v1)|
+|2026-06-11|2026-06-11|RepWAM: World Action Modeling with Representation Visual-Action Tokenizers|Junke Wang|[2606.13674v1](https://arxiv.org/pdf/2606.13674v1)|
+|2026-06-11|2026-06-11|SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning|Seokju Cho|[2606.13673v1](https://arxiv.org/pdf/2606.13673v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-11|2026-06-11|Mana: Dexterous Manipulation of Articulated Tools|Zhao-Heng Yin|[2606.13677v1](https://arxiv.org/pdf/2606.13677v1)|
+|2026-06-11|2026-06-11|Automated reproducibility assessments in the social and behavioral sciences using large language models|Tobias Holtdirk|[2606.13670v1](https://arxiv.org/pdf/2606.13670v1)|
+|2026-06-11|2026-06-11|Agents-K1: Towards Agent-native Knowledge Orchestration|Zongsheng Cao|[2606.13669v1](https://arxiv.org/pdf/2606.13669v1)|
+|2026-06-11|2026-06-11|SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation|Marek Šuppa|[2606.13647v1](https://arxiv.org/pdf/2606.13647v1)|
+|2026-06-11|2026-06-11|Aerial Wildfire Suppression Planning with a Hybrid CNN-Cellular Automata Fire Model|Ion Matei|[2606.13633v1](https://arxiv.org/pdf/2606.13633v1)|
+|2026-06-11|2026-06-11|Valid Inference with Synthetic Data via Task Exchangeability|Lezhi Tan|[2606.13629v1](https://arxiv.org/pdf/2606.13629v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-11|2026-06-11|LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories|Baochang Ren|[2606.13578v1](https://arxiv.org/pdf/2606.13578v1)|
+|2026-06-11|2026-06-11|An Embodied Simulation Platform, Benchmark, and Data-Efficient Augmentation Framework for Wet-Lab Robotics|Zhe Liu|[2606.12936v1](https://arxiv.org/pdf/2606.12936v1)|
+|2026-06-10|2026-06-10|PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation|Mahmoud Srewa|[2606.12616v1](https://arxiv.org/pdf/2606.12616v1)|
+|2026-06-10|2026-06-10|$μ$VLA: On Recurrent Memory for Partially Observable Manipulation in VLA Models|Egor Cherepanov|[2606.12497v1](https://arxiv.org/pdf/2606.12497v1)|
+|2026-06-09|2026-06-09|LIBERO-Occ: Evaluating and Improving Vision-Language-Action Models under Scene-Induced Occlusion via Viewpoint Imagination|Taishan Li|[2606.10862v1](https://arxiv.org/pdf/2606.10862v1)|
+|2026-06-09|2026-06-09|Dexterous Point Policy: Learning Point-based Dexterous Hand Policies from Human Demonstrations|Beomjun Kim|[2606.10614v1](https://arxiv.org/pdf/2606.10614v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-11|2026-06-11|EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery|Amy Xin|[2606.13662v1](https://arxiv.org/pdf/2606.13662v1)|
+|2026-06-11|2026-06-11|Beyond Runtime Enforcement: Shield Synthesis as Defensibility Analysis for Adversarial Networks|Achraf Hsain|[2606.13621v1](https://arxiv.org/pdf/2606.13621v1)|
+|2026-06-11|2026-06-11|AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility|Xiaoyuan Liu|[2606.13608v1](https://arxiv.org/pdf/2606.13608v1)|
+|2026-06-11|2026-06-11|Multi-Agent Reinforcement Learning from Delayed Marketplace Feedback for Objective-Weight Adaptation in Three-Sided Dispatch|Haochen Wu|[2606.13604v1](https://arxiv.org/pdf/2606.13604v1)|
+|2026-06-11|2026-06-11|EpiBench: Verifiable Evaluation of AI Agents on Epigenomics Analysis|Harihara Muralidharan|[2606.13602v1](https://arxiv.org/pdf/2606.13602v1)|
+|2026-06-11|2026-06-11|Reward Modeling for Multi-Agent Orchestration|King Yeung Tsang|[2606.13598v1](https://arxiv.org/pdf/2606.13598v1)|
 ## Update on 2026-06-11
 
 ### World Model
