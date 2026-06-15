@@ -281,6 +281,48 @@ TODO:
 
 
 
+
+## Update on 2026-06-15
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-12|2026-06-12|Gaze Heads: How VLMs Look at What They Describe|Rohit Gandikota|[2606.14703v1](https://arxiv.org/pdf/2606.14703v1)|
+|2026-06-12|2026-06-12|Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control|Ruining Li|[2606.14699v1](https://arxiv.org/pdf/2606.14699v1)|
+|2026-06-12|2026-06-12|ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning|Sicheng Yang|[2606.14697v1](https://arxiv.org/pdf/2606.14697v1)|
+|2026-06-12|2026-06-12|Persona-Pruner: Sculpting Lightweight Models for Role-Playing|Jinsu Kim|[2606.14695v1](https://arxiv.org/pdf/2606.14695v1)|
+|2026-06-12|2026-06-12|AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization|Junlong Tong|[2606.14694v1](https://arxiv.org/pdf/2606.14694v1)|
+|2026-06-12|2026-06-12|Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning|Pengxin Wang|[2606.14693v1](https://arxiv.org/pdf/2606.14693v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-12|2026-06-12|A Complexity Measure for Active Learning in Multi-group Mean Estimation|Abdellah Aznag|[2606.14690v1](https://arxiv.org/pdf/2606.14690v1)|
+|2026-06-12|2026-06-12|Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit|Xiaoyu Li|[2606.14688v1](https://arxiv.org/pdf/2606.14688v1)|
+|2026-06-12|2026-06-12|HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification|Mohammed Arif Mainuddin|[2606.14684v1](https://arxiv.org/pdf/2606.14684v1)|
+|2026-06-12|2026-06-12|Optimal Hidden-Target Learning for Online Inventory Optimization on General Convex Sets|Anthony Pineci|[2606.14679v1](https://arxiv.org/pdf/2606.14679v1)|
+|2026-06-12|2026-06-12|Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows|Shikun Liu|[2606.14672v1](https://arxiv.org/pdf/2606.14672v1)|
+|2026-06-12|2026-06-12|Abstracting Cross-Domain Action Sequences into Interpretable Workflows|Gaurav Verma|[2606.14654v1](https://arxiv.org/pdf/2606.14654v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-12|2026-06-12|Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack|He Zhang|[2606.14409v1](https://arxiv.org/pdf/2606.14409v1)|
+|2026-06-12|2026-06-12|Elastic Queries Reinforcement Learning: Self-Aware Policy Execution for VLA Models|Ge Wang|[2606.14375v1](https://arxiv.org/pdf/2606.14375v1)|
+|2026-06-12|2026-06-12|When and How Severely: Scenario-Specific Safety Envelopes for Driving VLAs|Abhinaw Priyadershi|[2606.14238v1](https://arxiv.org/pdf/2606.14238v1)|
+|2026-06-12|2026-06-12|RT-VLA: Real-Time Vision-Language-Action Models via Knowledge Distillation|Xiangyu Huang|[2606.14010v1](https://arxiv.org/pdf/2606.14010v1)|
+|2026-06-11|2026-06-11|PhysVLA: Towards Physically-Grounded VLA for Embodied Robotic Manipulation|Namai Chandra|[2606.13886v1](https://arxiv.org/pdf/2606.13886v1)|
+|2026-06-11|2026-06-11|$μ_0$: A Scalable 3D Interaction-Trace World Model|Seungjae Lee|[2606.13769v1](https://arxiv.org/pdf/2606.13769v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-12|2026-06-12|A Statistical and Machine Learning Framework for Operational Threshold Detection and Deployable Dispatch Controller Development in Hydrogen Multi-Energy Systems|Shadi Heenatigala|[2606.14601v1](https://arxiv.org/pdf/2606.14601v1)|
+|2026-06-12|2026-06-12|Regulating the Machine Contributor: Governance and Policy Alignment in Open Source|Jassem Manita|[2606.14594v1](https://arxiv.org/pdf/2606.14594v1)|
+|2026-06-12|2026-06-12|When Errors Become Narratives: A Longitudinal Taxonomy of Silent Failures in a Production LLM Agent Runtime|Wei Wu|[2606.14589v1](https://arxiv.org/pdf/2606.14589v1)|
+|2026-06-12|2026-06-12|SIMMER: Benchmarking Latent Failures in LLM Executable Planning with a World Model|Xiaoxin Lu|[2606.14574v1](https://arxiv.org/pdf/2606.14574v1)|
+|2026-06-12|2026-06-12|StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance|Guanming Liu|[2606.14571v1](https://arxiv.org/pdf/2606.14571v1)|
+|2026-06-12|2026-06-12|From Shield to Target: Denial-of-Service Attacks on LLM-Based Agent Guardrails|Yuguang Zhou|[2606.14517v1](https://arxiv.org/pdf/2606.14517v1)|
 ## Update on 2026-06-13
 
 ### World Model

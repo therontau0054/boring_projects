@@ -1,0 +1,295 @@
+# Abstracts of Papers
+
+## World Model
+### Gaze Heads: How VLMs Look at What They Describe
+**Authors**: Rohit Gandikota, David Bau
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14703v1](https://arxiv.org/pdf/2606.14703v1)
+
+**Abstract**: How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its language-model backbone, which we call gaze heads, whose attention tracks the image region the model is currently describing. We find them with a simple correlation score from a few forward passes, using comic strips as a controlled testbed where narrative order is laid out spatially. These gaze heads do not just track the image tokens being described: redirecting their attention to a chosen region forces the VLM to describe that region instead. A single attention-mask intervention on the top-100 gaze heads, fewer than 9% of all heads, steers the model's answer to any chosen comic panel at 83.1% accuracy, while the same intervention on random heads fails to redirect the answer, and intervening on all heads destroys generation. The same lever also extends to continuous control: switching the gaze target mid-generation makes the model wrap up its current panel description and move to the new one within a few tokens. Beyond comics, the same intervention redirects answers to chosen regions in natural COCO images. The mechanism further recurs across model sizes from 2B to 32B parameters and across other VLM architectures, although some frozen-encoder families show no comparable head set. More broadly, this shows that targeted edits identified through mechanistic analysis can serve as practical inference-time levers for steering multimodal model behavior, without any retraining. Our code, interactive demo, and datasets are available at https://gaze.baulab.info/
+
+
+### Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control
+**Authors**: Ruining Li, Yuxin Yao, Matt Zhou, Chuanxia Zheng, Christian Rupprecht, Joan Lasenby, Shangzhe Wu, Andrea Vedaldi
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14699v1](https://arxiv.org/pdf/2606.14699v1)
+
+**Abstract**: Reconstructing articulated 3D objects is important for animation, gaming, and robotic simulations. Recent neural networks can estimate the articulated structure of 3D objects, but their generalization remains limited by the scarcity of annotated data for this task. To address this gap, we introduce Instruct-Particulate, a model that takes a 3D mesh together with a target kinematic specification, including part descriptions, connectivity, joint types, and optional point prompts, and predicts the corresponding kinematic part segmentation and joint motion parameters. The kinematic specification disambiguates the task and allows the model to target annotations of different granularity, thereby making it possible to use more abundant heterogeneous training data. At test time, the kinematic specification can be obtained automatically from large-scale vision-language models, so the model can be applied to any input mesh. To train our model at scale, we construct a heterogeneous dataset of more than 150,000 articulated 3D objects, extending existing publicly available collections with data obtained by partially labelling other 3D models (monolithic or already decomposed into parts) with kinematic labels by means of vision-language models. Experiments show that our model generalizes better across categories and to AI-generated meshes, enabling articulated asset reconstruction from real-world images via image-to-3D models.
+
+
+### ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning
+**Authors**: Sicheng Yang, Hangjie Yuan, Wenjun Zhang, Jinwang Wang, Yichen Qian, Weihua Chen, Fan Wang, Lei Zhu
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14697v1](https://arxiv.org/pdf/2606.14697v1)
+
+**Abstract**: Building trustworthy medical multimodal large language models (MLLMs) is critical for reliable clinical decision support. Existing medical hallucination benchmarks mainly focus on data collection, but often ignore where hallucinations originate within the reasoning process. We find that hallucination sources vary across samples: errors may arise from visual misrecognition, incorrect medical knowledge recall, or flawed reasoning integration. To enable source-level hallucination diagnosis, we introduce ClinHallu, a benchmark for stage-wise hallucination diagnosis in medical MLLM reasoning. ClinHallu contains 7,031 validated instances, where each instance is augmented with a structured reasoning trace decomposed into Visual Recognition, Knowledge Recall, and Reasoning Integration. We also use stage-replacement interventions to measure how correcting specific stages affects the final answer. Beyond evaluation, we show that trace-supervised fine-tuning reduces stage-wise hallucinations. ClinHallu provides a fine-grained hallucination testbed for diagnosing and mitigating reasoning failures in medical MLLMs. The benchmark is publicly available at https://github.com/alibaba-damo-academy/ClinHallu.
+
+
+### Persona-Pruner: Sculpting Lightweight Models for Role-Playing
+**Authors**: Jinsu Kim, Jihoon Tack, Noah Lee, Jongheon Jeong
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14695v1](https://arxiv.org/pdf/2606.14695v1)
+
+**Abstract**: Language Models (LMs) have shown remarkable potential as role-playing chatbots, delivering consistent, stylized interactions when given a specification of a character or user persona. However, applying these capabilities to real-world applications (e.g., ecosystems with numerous NPCs interacting simultaneously) exposes a critical inefficiency due to the excessive computational cost. In this paper, we question the necessity of dedicating a full, generalist model to a single persona, hypothesizing that a specific character identity relies on only a fraction of the model's total capacity. We observe that naively pruning LMs often severely degrades the role-playing performance for a specific persona; it does not distinguish between redundant knowledge and essential character traits. We propose Persona-Pruner, a framework that sculpts a lightweight role-playing model by isolating persona-specific sub-networks from a single description. Our experiments consistently show that Persona-Pruner preserves role-playing performance substantially more effectively than existing state-of-the-art LLM pruning techniques, reducing the performance drop from the dense model by up to 93.8% over the strongest baseline on RoleBench in LLM-as-a-judge score, while still maintaining general LLM capabilities. Code is available at https://github.com/jsu-kim/Persona-Pruner.
+
+
+### AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization
+**Authors**: Junlong Tong, Wenqi Xu, Yingqi Fan, Anhao Zhao, Xuan Lu, Yang Tan, Xiaoyu Shen
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14694v1](https://arxiv.org/pdf/2606.14694v1)
+
+**Abstract**: Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. Yet many real-world scenarios are inherently dynamic, such as audio and video stream, where information arrives as a continuous stream and models must reason, update, and respond under partial observations. Recent streaming reasoning methods allow models to think while reading, but they largely rely on supervised imitation of pre-constructed trajectories, which limits their flexibility. In this paper, we propose AdaSR, an adaptive streaming reasoning framework that enables models to reason during input streaming and perform final deliberation once the stream is complete, learning when to think, and how much computation to allocate across different stages. To optimize this hierarchical reasoning process, we introduce Hierarchical Relative Policy Optimization (HRPO), which decomposes policy optimization into streaming reasoning and deep reasoning phases, providing more fine-grained advantage assignment instead of uniformly distributing a single sequence-level advantage over all tokens. HRPO integrates format, accuracy, and adaptive thinking rewards to enforce valid reasoning protocols, preserve final task performance, and encourage latency-aware computation allocation. Experiments show that AdaSR achieves a better balance among reasoning accuracy, computational efficiency, and streaming latency compared with supervised fine-tuning baseline. We release our code at https://github.com/EIT-NLP/StreamingLLM/tree/main/AdaSR.
+
+
+### Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning
+**Authors**: Pengxin Wang, Lihao Guo, Yi Xie, Bo Liu, Siyang Cao, Jingdi Chen
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14693v1](https://arxiv.org/pdf/2606.14693v1)
+
+**Abstract**: Cooperative multi-objective multi-agent reinforcement learning (MOMARL) models team decision making under multiple, potentially conflicting objectives. In this setting, conflicts arise not only across objectives but also across agents with different observations, roles, and contributions. We propose Preference Coordinated Multi-agent Policy Optimization (PCMA), which learns coordinated agent-specific preferences to enable complementary trade-offs among agents. Theoretically, we formulate cooperative MOMARL as a team-optimal game and show that, under suitable conditions, preference diversity can induce team improvement through a first-order improvement decomposition. Experiments on multiple cooperative MOMA environments and a practical traffic-control scenario show that PCMA improves both performance and trade-off coordination.
+
+
+## Generation
+### A Complexity Measure for Active Learning in Multi-group Mean Estimation
+**Authors**: Abdellah Aznag, Rachel Cummings, Adam N. Elmachtoub
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14690v1](https://arxiv.org/pdf/2606.14690v1)
+
+**Abstract**: We study a \emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samples across $d$ groups to minimize the worst-case uncertainty index $\max_{k\in[d]}σ_k^2/n_k$, where $σ_k$ is the standard deviation of the distribution of arm $d$, and $n_k$ is the number of times arm $d$ is sampled. We develop a local minimax framework and prove the first general lower bound for this objective, valid for any finite-variance hypothesis class. The bound separates difficulty into three orthogonal factors: a \emph{budget} term, a \emph{heteroscedasticity} index measuring how unevenly the uncertainty is spread across arms, and a model-dependent complexity measure, the \emph{Variance Local Curvature} ($\mathrm{VLC}$), which captures how much information a local change of variance creates inside the hypothesis class. For smooth classes, the $\mathrm{VLC}$ is a reparametrization of a variance--Fisher information, with closed-form values for common families. Benchmarking against the strongest available upper bound shows near-optimality up to logarithmic factors in broad regimes, and pinpoints a systematic gap in highly heterogeneous instances. Our proof introduces two key ingredients: a loss-induced $\ell_1$ geometry on the decision space, and a representation-based instance generator that reduces hard-instance construction to an explicit random matrix calculation.
+
+
+### Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit
+**Authors**: Xiaoyu Li, Andi Han, Dai Shi, Zheng Gao, Jiaojiao Jiang, Junbin Gao
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14688v1](https://arxiv.org/pdf/2606.14688v1)
+
+**Abstract**: AI systems coupled to proof assistants now generate formal mathematics at scale, and the gap between what a checker can verify and what a mathematician would value has become the binding constraint. We model the generation of valuable mathematics as nested language generation in the limit: a verifiable formal language $F$, accessed through a membership oracle (the proof checker), contains an unknown valuable language $H \in \mathcal{H}$ revealed only through an adversarial enumeration of a core $C \subseteq H$ of exact density $α$ (the literature). Every output is valuable ($\in H$), trivial ($\in F \setminus H$), or a hallucination ($\notin F$). We settle four questions. First, the verifier is not taste: the collections admitting generation with breadth are exactly those of the oracle-free model, characterized fiber-wise by Angluin's condition. Second, the verifier does buy sound coverage, covering all unseen valuable statements while asserting only valid ones: possible with it, impossible without it; it relocates unavoidable errors from false to trivial. Third, and centrally, a sharp dichotomy on the tight family: generators emitting finitely many trivia achieve optimal coverage $α/2$, while any infinite trivia allowance, even at vanishing rate, jumps the optimum to $1-α/2$ (both tight, for cores presented as the candidate intersection), and one generator attains both ends. The transition is in trivia count, not rate; the gap $1-α$ is the unrecorded mass. Fourth, both regimes instantiate in a compression model of mathematics. A perfect verifier cannot substitute for taste: the unbounded stream of correct-but-worthless statements is not an engineering accident but a provable necessity, since covering unrecorded valuable mathematics requires an infinite, but asymptotically negligible, stream of certified trivia.
+
+
+### HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification
+**Authors**: Mohammed Arif Mainuddin, Najifa Tabassum, Omar Ibne Shahid, Riasat Khan
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14684v1](https://arxiv.org/pdf/2606.14684v1)
+
+**Abstract**: Real-time fire classification systems require models that are simultaneously accurate, computationally efficient, and deployable on resource-constrained hardware. This work proposes \textbf{HumP-KD}, a Hybrid Uncertainty-aware Multi-stage Progressive Knowledge Distillation framework for efficient fire classification. Two datasets, FlameVision and Dataset-II, containing 8,600 and 31,309 images, are used. Various CNN and transformer baselines are applied under standard preprocessing, online augmentation, Gaussian noise and motion blur robustness conditions. The proposed HumP-KD model distills knowledge from two frozen heterogeneous transformer teachers, Swin-Tiny and ViT-Base, along with their Meta-MLP ensemble, into a lightweight MobileViT-S student via three tightly integrated components. Hierarchical Progressive Knowledge Distillation employs a Hierarchical Feature Builder. It generates a fused spatial attention mask to guide distillation toward discriminative regions selectively. Multi-Stage Knowledge Distillation progressively activates three distillation stages across training. On Dataset-II, HumP-KD achieves a mean F1 score of $0.9876 \pm 0.0063$ across 10 independent trials, significantly outperforming the MobileViT-S baseline trained without distillation ($0.9537 \pm 0.0351$), with statistical significance confirmed by both independent t-test ($p = 0.0195$) and Wilcoxon signed-rank test ($W = 1$, $p = 0.0039$). The proposed method also demonstrates strong generalization across datasets and robustness under degraded visual conditions. The student model retains only 4.94M parameters and 19.01Mb model size, representing a $5.7\times$ parameter reduction over Swin-Tiny and a $17.5\times$ reduction over ViT-Base, while achieving 37.72 CPU FPS, making it suitable for real-time deployment.
+
+
+### Optimal Hidden-Target Learning for Online Inventory Optimization on General Convex Sets
+**Authors**: Anthony Pineci, Yunzong Xu
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14679v1](https://arxiv.org/pdf/2606.14679v1)
+
+**Abstract**: Online inventory optimization (OIO) is online convex optimization with physical memory: inventory carryover makes the feasible action set depend on the past. A natural principle, used in stochastic inventory learning and recently in OIO under a single linear capacity constraint, is to maintain a hidden target chosen by an online learner and implement its projection onto the currently feasible order-up-to set. We prove that this simple principle is optimal for OIO on arbitrary bounded convex capacity sets. With online gradient descent as the base learner, the method improves the best known regret guarantee for OIO on general convex sets from inverse to inverse-square-root dependence on the common-demand probability, and we prove a matching lower bound. The same principle gives the first polylogarithmic regret guarantee for strongly convex losses and the first dynamic regret guarantee adapting to Euclidean path variation on general convex capacity sets.
+  The analysis introduces a norm alignment principle: the right state variable is the distance from the hidden target to the feasible set, measured in the same norm as the projection. Under norm alignment, this distance evolves pathwise as a scalar queue, with target movement as arrival and common demand as service. This reduction to one-dimensional queue control resolves the state dependence and extends the guarantees to general convex capacity sets, beyond the reach of prior productwise approaches. Experiments on synthetic and real-world inventory data corroborate the theory.
+
+
+### Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows
+**Authors**: Shikun Liu, Mufei Li, Dongqi Fu, Haoyu Wang, Yinglong Xia, Hong Li, Hong Yan, Pan Li
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14672v1](https://arxiv.org/pdf/2606.14672v1)
+
+**Abstract**: Large language models increasingly serve as execution engines for agentic systems, yet they still consume context through a sequential text interface. This creates a mismatch with modern structured agent workflows, in which independent branches explore subtasks, retrieve evidence, or generate candidate solutions before a final synthesis step. Existing systems typically merge these branches by concatenating their textual outputs, which discards the parallel structure and incurs redundant prefill computation. In this work, we introduce Parallel-Synthesis, a plug-and-play framework that enables a synthesizer to directly consume the KV caches produced by parallel worker agents. Parallel-Synthesis combines a cache mapper that calibrates independently generated branch caches with a fine-tuned synthesizer adapter that enables generation from this non-sequential cache interface. We train Parallel-Synthesis using data that exposes the synthesizer to parallel cache contexts, teaches aggregation across cached branches, and distills reasoning behavior from standard text-concatenation-based synthesis. Across nine downstream datasets spanning math, science QA, code generation, GAIA, and multi-agent database diagnosis, Parallel-Synthesis matches or outperforms text-based synthesis on seven datasets and remains close on the other two. It also reduces time-to-first-token by 2.5x-11x, suggesting that direct cache-based synthesis is a promising interface for more native and efficient synthesis over parallel agent branches.
+
+
+### Abstracting Cross-Domain Action Sequences into Interpretable Workflows
+**Authors**: Gaurav Verma, Scott Counts
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14654v1](https://arxiv.org/pdf/2606.14654v1)
+
+**Abstract**: Sequential or time-stamped interaction logs provide objective records of digital application usage, yet their granularity and noise often obscure meaningful insights into people's work. Such insights are essential for improving digital products in ways grounded in real-world user interactions. Prior research has applied deep learning models to cluster user actions into high-level activities, but these approaches are highly sensitive to noise and struggle to generalize across applications. To address this limitation, we introduce WorkflowView, a framework that uses large language models (LLMs) to abstract low-level action sequences into high-level activities. We establish the effectiveness and generality of our approach across three distinct, challenging sequential tasks and diverse domains: (a) zero-shot task description reconstruction from browser logs (achieving high semantic similarity, $μ_{sim} = 0.91$), (b) few-shot student dropout prediction using MOOC interaction logs (reaching weighted $F_1 = 0.90$ with only five few-shot examples), and (c) anonymized, privacy-preserving analysis of AI tool integration within document workflows in Microsoft Word. Our work demonstrates that LLM-based abstraction is a robust and efficient path forward for transforming low-level behavioral data into high-level, interpretable, and actionable insights. We also discuss practical considerations for deploying LLM-based inferences within logging infrastructures, including computational efficiency and user privacy.
+
+
+## VLA
+### Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack
+**Authors**: He Zhang, Lingzhu Xiang, Haitao Lin, Zeyu Huang, Minghui Wang, Dingyan Zhong, Yubo Dong, Yihao Wu, Yongming Rao, Dongsheng Zhang, Wanjia He, Ling Chen, Kai Huang, Jiahao Chen, Sichang Su, Xumin Yu, Ziyi Wang, Chengwei Zhu, Xiao Teng, Yuchun Guo, Yufeng Zhang, Yuandong Liu, Rui Wang, Zisheng Lu, Han Hu, Zhengyou Zhang
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14409v1](https://arxiv.org/pdf/2606.14409v1)
+
+**Abstract**: In this report, we present Hy-Embodied-0.5-VLA, abbreviated as HyVLA-0.5, an end-to-end system that spans the full robot learning stack: data collection, model design, continued pre-training and supervised fine-tuning, RL post-training, and real-world deployment. Each component serves a distinct role in this stack.
+
+
+### Elastic Queries Reinforcement Learning: Self-Aware Policy Execution for VLA Models
+**Authors**: Ge Wang, Xinyu Tan, Xiang Li, Man Luo, Chengsi Yao, Shenhao Yan, Jiahao Yang, Fan Feng, Honghao Cai, Xiangyuan Wang, Zhixin Mai, Yiming Zhao, Yatong Han, Zhen Li
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14375v1](https://arxiv.org/pdf/2606.14375v1)
+
+**Abstract**: Vision-language-action (VLA) models are powerful action generators for robot manipulation, but they are typically executed with fixed inference and replanning schedules. This rigidity ignores the uneven difficulty of robot control: contact-rich or uncertain states may need more computation and fresher feedback, while easier states can often be handled with fewer inference steps and longer open-loop execution. We propose Elastic Queries Reinforcement Learning (EQRL), a framework that makes each VLA policy query elastic. A lightweight latent-schedule adaptor jointly selects the latent input, denoising budget, and action chunk length, without fine-tuning the underlying VLA model. To make scheduling difficulty-aware, EQRL trains a critic over the joint latent-schedule action and derives a state difficulty signal from critic ensemble disagreement. This signal guides compute toward difficult states, while a learned residual allows task-driven correction. We formulate variable chunk execution as query-level macro-action RL with chunk-dependent discounting and an amortized number-of-function-evaluations (NFE) budget. Across simulation and real-robot manipulation, EQRL reduces amortized inference cost while preserving or improving task success.
+
+
+### When and How Severely: Scenario-Specific Safety Envelopes for Driving VLAs
+**Authors**: Abhinaw Priyadershi, Jelena Frtunikj
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14238v1](https://arxiv.org/pdf/2606.14238v1)
+
+**Abstract**: Safety certification of Vision-Language-Action (VLA) driving planners under ISO 21448 (SOTIF) rests on an Operational Design Domain (ODD) specification that answers two complementary questions: when does the planner start to fail, and how severely does it fail once it does? We evaluate Alpamayo R1, a 10B-parameter open-weight driving VLA, on 15,968 (clip, attack) pairs. We find a conservative-aggregate gap: an aggregate safe threshold of $σ\leq 50$ under a 15% average displacement error (ADE) budget masks well-sampled scenarios that tolerate the top of the tested grid ($σ= 70$). A Gaussian Mixture Model (GMM) on the changed-explanation subset identifies six discrete severity bands (BIC-optimal $k{=}6$), so two perturbation conditions with the same mean error can differ materially in their share of high-severity (C4/C5) failures. Joining the two analyses on the same corpus surfaces a finding neither yields in isolation: the scenarios with the loosest noise thresholds are not those with the lowest high-severity rate: STOP_SIGNAL concentrates roughly $4\times$ the C4/C5 share of LANE_KEEPING despite tolerating a larger $σ$. A deployable SOTIF ODD specification for driving VLAs therefore requires a two-dimensional safety envelope, not a single aggregate value per hazard.
+
+
+### RT-VLA: Real-Time Vision-Language-Action Models via Knowledge Distillation
+**Authors**: Xiangyu Huang, Zhenlin Hua, Han Zhou, Shounak Sural, Ragunathan Rajkumar
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14010v1](https://arxiv.org/pdf/2606.14010v1)
+
+**Abstract**: Vision-Language-Action (VLA) models have shown strong potential for end-to-end autonomous driving by jointly modeling visual perception, language reasoning, explainability and action prediction. However, their large vision-language backbones and reasoning modules introduce substantial inference latency and thereby prevent their deployment in the unforgiving reality of the road networks. We propose RT-VLA, a lightweight, distilled VLA model that transfers the driving and reasoning capabilities of the state-of-the-art SimLingo model into a compact student through multi-level supervised distillation. RT-VLA preserves language-based reasoning and supports post-hoc explanation through offline language analysis of safety-critical driving moments without adding latency to real-time control. Compared to the SimLingo teacher, RT-VLA maintains competitive closed-loop driving and language reasoning performance while reducing inference time by 44.8X in vision-only mode and 7.9X in vision+language mode. These results suggest that supervised distillation is a practical approach for building real-time, explainable VLA-style autonomous driving models.
+
+
+### PhysVLA: Towards Physically-Grounded VLA for Embodied Robotic Manipulation
+**Authors**: Namai Chandra, Shriram Damodaran, Lin Wang
+
+**Published Date**: 2026-06-11
+
+**Updated Date**: 2026-06-11
+
+**PDF Url**: [2606.13886v1](https://arxiv.org/pdf/2606.13886v1)
+
+**Abstract**: Vision-Language-Action (VLA) models excel at mapping visual inputs and natural language instructions directly to robotic control policies. However, because they are trained primarily to fit behavioural demonstration data, they do not explicitly enforce fundamental physical principles such as rigid-body dynamics or contact constraints. This exposes a critical physics gap: standard temporal smoothing applied on top of single-step or chunked VLAs trades trajectory quality for added failures that short-term memory cannot resolve. To bridge this gap, we introduce PhysVLA (Physics-VLA), a plug-and-play, inference-time framework designed to wrap any frozen VLA backbone without retraining, fine-tuning, or weight access, with less than 1 ms of overhead per control step. PhysVLA intercepts the predicted control action, captures only the simulator or system state, and applies a dual-layered correction: (i) a phase-aware finite-state machine that structures discrete task segments (approach, grasp, transport, and place), and (ii) a selective Euler-Lagrange gate that activates only when a dynamics oracle detects kinodynamic inconsistency. Evaluated across OpenVLA, OpenVLA-OFT, Force-VLA, and Generalist-VLA on LIBERO-Spatial with a 7-DoF Franka Panda, the framework delivers absolute success rate increases of up to 17% and stability increases of up to 19% with no per-task regressions, improves trajectory efficiency by up to 15% across all four backbones, and shows up to a 10x improvement in trajectory jerk robustness on a Robosuite Lift cross-simulator sweep. We further validate the framework on a real Agilex Piper arm with a pick-and-place task, confirming that PhysVLA transfers to physical hardware without retraining, with success-rate improvements of up to 50%, establishing physical awareness as a composable, backbone-agnostic runtime module.
+
+
+### $μ_0$: A Scalable 3D Interaction-Trace World Model
+**Authors**: Seungjae Lee, Yoonkyo Jung, Jusuk Lee, Jonghun Shin, Amir Hossein Shahidzadeh, Yao-Chih Lee, H. Jin Kim, Jia-Bin Huang, Furong Huang
+
+**Published Date**: 2026-06-11
+
+**Updated Date**: 2026-06-11
+
+**PDF Url**: [2606.13769v1](https://arxiv.org/pdf/2606.13769v1)
+
+**Abstract**: World models that capture how actions induce physical change enable scalable robot learning without reliance on embodiment-specific action labels. Pixel-space video models provide broad visual priors but expend model capacity on dense appearance reconstruction, while direct action models require embodiment-specific labels that hinder scalability. We present $μ_0$, a scalable world model based on 3D traces. Rather than predicting dense pixels or directly modeling actions, $μ_0$ forecasts smooth 3D trajectories for salient interaction points such as objects, tools, hands, and contact regions, yielding a compact, embodiment-agnostic motion interface. To enable training from diverse video sources, our TraceExtract system automatically extracts 3D supervision by selecting keypoints, constructing globally aligned traces, and associating motion segments with hierarchical language captions. This TraceExtract supervision pretrains $μ_0$ by combining a pretrained vision-language backbone with a modular trace expert, which represents each query via B-spline control points and predicts future traces. Experiments show that $μ_0$ outperforms baselines in both 2D and 3D trace prediction, including trace prediction models and tokenized VLM methods. Because $μ_0$ is frozen and reusable, it can be paired with action experts for downstream robot embodiments. Despite action-free pretraining, the resulting trace-conditioned policies achieve performance competitive with VLA models pretrained with action supervision, such as $π_0$. These results establish 3D traces as a scalable and transferable representation for cross-embodiment manipulation.
+
+
+## Agent
+### A Statistical and Machine Learning Framework for Operational Threshold Detection and Deployable Dispatch Controller Development in Hydrogen Multi-Energy Systems
+**Authors**: Shadi Heenatigala, Hasanika Samarasinghe
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14601v1](https://arxiv.org/pdf/2606.14601v1)
+
+**Abstract**: This study presents a statistical and machine learning framework for characterizing a hydrogen-based multi-energy system (H-MES) using one year of high-resolution operational data. Statistical analysis revealed a binary operation driven by renewable surplus, with solar irradiance explaining 45.7% of rank-based variance in hydrogen production, a large effect by conventional standards. Only high-irradiance periods triggered meaningful electrolyzer engagement, while electricity demand exerted a weaker inverse suppression effect ($ε^2 = 0.126$). Multiple regression confirmed electrolyzer power as the dominant linear predictor, with a synergistic solar-wind interaction. Notably, Random Forest analysis ranked wind output first in predictive importance despite its weak bivariate correlation (r = 0.167), revealing non-linear dynamics invisible to parametric methods. A sequence model exploited strong 24-hour autocorrelation (r = 0.845) for operational forecasting, while a reinforcement learning agent optimized hydrogen revenue dispatch. The core contribution is demonstrating that statistical and machine learning approaches are complementary for H-MES modeling and control.
+
+
+### Regulating the Machine Contributor: Governance and Policy Alignment in Open Source
+**Authors**: Jassem Manita, Aziz Amari
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14594v1](https://arxiv.org/pdf/2606.14594v1)
+
+**Abstract**: AI-assisted software development has moved from line-level autocomplete to agents that can plan changes, edit files, and submit pull requests with limited human supervision. Open-source software, however, evolves through a process designed for humans: contributor agreements, codes of conduct, and review norms all assume a legally accountable person who can attest to provenance and answer reviewer questions. Autonomous and semi-autonomous AI contributors strain those assumptions, and the 2025-2026 record of agent-driven incidents, AI-generated nuisance volume, and platform-level shutdowns shows that the gap is operationally consequential. Several open-source organisations have responded with contribution policies, but the result is fragmented, and its alignment with emerging AI governance frameworks (EU AI Act, NIST AI RMF with the UC Berkeley Agentic AI Profile, ISO/IEC 42001 and 23894) is unmapped at the contribution level. We compare policies across six organisations (SymPy, LLVM, matplotlib, OpenInfra, the Apache Software Foundation, and the Linux Foundation) using Most-Similar Systems Design with indicator-based coding and process tracing for SymPy and LLVM. From this we derive a six-dimensional taxonomy (disclosure, responsibility, human oversight, licensing, enforcement, maintainer workload), an ordinal Policy Maturity Score, and a mapping of documented agent incidents onto the dimensions each policy fails to govern. Aligning the dimensions with the regulatory frameworks above identifies overlapping gaps neither side currently closes, and we close by sketching the shape of a harmonised tiered framework and the empirical evaluation needed to calibrate it.
+
+
+### When Errors Become Narratives: A Longitudinal Taxonomy of Silent Failures in a Production LLM Agent Runtime
+**Authors**: Wei Wu
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14589v1](https://arxiv.org/pdf/2606.14589v1)
+
+**Abstract**: LLM agent systems increasingly run as long-lived autonomous runtimes: scheduling jobs, calling tools, maintaining memory, and pushing results to humans. We present a longitudinal study of silent failures in one such system: a personal-assistant agent runtime in continuous production since March 2026, with roughly 40 scheduled jobs, 8 LLM providers, a tool-governance proxy, and a knowledge-base memory plane, defended by 4,286 unit tests and 827 governance checks. Over eight weeks we documented 22 incidents with full root-cause postmortems, in which one meta-pattern -- a failure whose error signal never reaches a human in actionable form -- manifested at least 28 times. We derive a five-class, mechanism-oriented taxonomy: (A) environment and platform quirks, (B) design-assumption mismatches, (C) error swallowing and dilution, (D) chained hallucination and fabrication, (E) operational omission and forensic blind spots. Class D is unique to LLM systems and the most dangerous: the system does not merely fail to report an error -- the LLM transforms it into fluent, plausible narrative delivered to the user. We term this fail-plausible: gray failure's differential observability escalated -- the observer is not just blind, it is convincingly lied to by the failure itself. Three findings: about 70% of silent failures were caught by human user-view observation, not tests or audits; a retrospective audit of 15 incidents found 0% ex-ante prevention but 87% regression blocking -- audits are regression engines, not prediction engines; incident latency (13 hours to 60 days) tracks failure mechanism, not code complexity -- the longest-lived failures lived in the seams between components, where no test runs. We describe the resulting defense framework and distill design principles for agent systems whose failures are loud, attributable, and boring. All postmortems and artifacts are public.
+
+
+### SIMMER: Benchmarking Latent Failures in LLM Executable Planning with a World Model
+**Authors**: Xiaoxin Lu, Ranran Haoran Zhang, Rui Zhang
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14574v1](https://arxiv.org/pdf/2606.14574v1)
+
+**Abstract**: Large language models (LLMs) are increasingly deployed as planners for autonomous agents in household environments. While existing benchmarks evaluate whether LLM-generated plans execute successfully, they overlook a critical type of failure: latent failures. Unlike immediate failures that trigger instant feedback at execution time and enable timely correction, latent failures do not immediately halt plan execution but silently compromise goal achievement. In severe cases, they cause irreversible harm. To address this gap, we introduce SIMMER, a benchmark for evaluating latent failures in LLM planning through a human-curated symbolic world model grounded in the kitchen domain. SIMMER defines a world model comprising 77 actions, 262 unique objects, and approximately 46,800 possible interactions that are semantically realistic, derived from real-world cooking scripts. It then leverages a state machine executor that validates plans against the world model and detects immediate precondition violations, latent hazards, and irreversible failures. Experiments across six LLMs show that even frontier models achieve at most 17% error-free plans. Moreover, up to 56% of plans contain latent failures, the majority of which lead to irreversible consequences. We further demonstrate that explicit state reasoning via counterfactual foresight simulation can reduce latent failures by up to 72% and irreversible cases by up to 75%, suggesting a promising direction for more robust LLM planners.
+
+
+### StreamMemBench: Streaming Evaluation of Agent Memory for Future-Oriented Assistance
+**Authors**: Guanming Liu, Yuqi Ren, Hansu Gu, Peng Zhang, Weihang Wang, Jiahao Liu, Ning Gu, Tun Lu
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14571v1](https://arxiv.org/pdf/2606.14571v1)
+
+**Abstract**: A central role of personal-agent memory is to turn stored information and prior interactions into future-oriented assistance. In daily use, useful cues come from what the agent observes and how the user interacts with the agent, and the agent must carry them forward from the current request to similar future tasks. Existing memory benchmarks usually test dialogue recall or task improvement in isolation, leaving the trajectory from streaming observations to later assistance largely untested. We introduce StreamMemBench, a streaming benchmark that constructs a two-step task sequence around each evidence anchor from EgoLife egocentric streams. The initial task tests evidence use, while the follow-up task tests whether feedback and interaction experience are reused. Four metrics diagnose evidence recall, initial evidence use, feedback incorporation, and follow-up reuse. Experiments with eight memory systems across two backbones show that current systems often fail to use observed evidence or turn feedback into reliable follow-up behavior, even when evidence is stored or feedback is incorporated locally. StreamMemBench is publicly available at https://github.com/landian60/StreamMemBench.
+
+
+### From Shield to Target: Denial-of-Service Attacks on LLM-Based Agent Guardrails
+**Authors**: Yuguang Zhou, Xunguang Wang, Pingchuan Ma, Zhantong Xue, Zhaoyu Wang, Shuai Wang
+
+**Published Date**: 2026-06-12
+
+**Updated Date**: 2026-06-12
+
+**PDF Url**: [2606.14517v1](https://arxiv.org/pdf/2606.14517v1)
+
+**Abstract**: LLM-based guardrails have emerged as a highly effective defense against prompt injection and jailbreak attacks in autonomous agents. However, we reveal that the very reasoning and task-following capabilities enabling this protection introduce a novel vulnerability: attackers can inject crafted data to trap the guardrail in extended reasoning loops, effectuating a systematic denial-of-service (DoS) attack. To systematically expose this threat, we design a beam-search optimization framework that crafts natural-language payloads to maximize guardrail reasoning length, utilizing an LLM proposer guided by a strategy bank. Based on the observation of guardrail's schema-following nature, we also provide another attack framework driven by mechanism-aware structural mutations with less computational load. The attack efficacy is systematically evaluated in two parts. First, in standalone evaluations, the attack generalizes across diverse guardrail architectures, safety templates, and agent benchmarks. Payloads optimized on a single open-source surrogate successfully transfer to eight leading model backbones (e.g., Claude, GPT, Gemini, DeepSeek, and Qwen), achieving a 13--63$\times$ token amplification. Second, in end-to-end real-world agent deployments (web, desktop, code, and multi-agent systems), the attack reveals up to a 148$\times$ latency amplification. We show that a single poisoned document can saturate shared guardrail infrastructures, effectively starving co-located agents and paralyzing the entire system. By uncovering this availability flaw, our work underscores the urgent need to develop cost-bounded, reasoning-robust guardrails.
+
+
