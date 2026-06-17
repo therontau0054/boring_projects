@@ -282,6 +282,48 @@ TODO:
 
 
 
+
+## Update on 2026-06-17
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-16|2026-06-16|Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion|Nils Morbitzer|[2606.18250v1](https://arxiv.org/pdf/2606.18250v1)|
+|2026-06-16|2026-06-16|Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement|Mingtong Zhang|[2606.18247v1](https://arxiv.org/pdf/2606.18247v1)|
+|2026-06-16|2026-06-16|EventDrive: Event Cameras for Vision-Language Driving Intelligence|Dongyue Lu|[2606.18242v1](https://arxiv.org/pdf/2606.18242v1)|
+|2026-06-16|2026-06-16|ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues|Shanda Li|[2606.18237v1](https://arxiv.org/pdf/2606.18237v1)|
+|2026-06-16|2026-06-16|EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation|Qi Chai|[2606.18235v1](https://arxiv.org/pdf/2606.18235v1)|
+|2026-06-16|2026-06-16|Adaptive Volumetric Mechanical Property Fields Invariant to Resolution|Rishit Dagli|[2606.18231v1](https://arxiv.org/pdf/2606.18231v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-16|2026-06-16|Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds|Hao Liang|[2606.18218v1](https://arxiv.org/pdf/2606.18218v1)|
+|2026-06-16|2026-06-16|A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models|Nicola Franco|[2606.18193v1](https://arxiv.org/pdf/2606.18193v1)|
+|2026-06-16|2026-06-16|The Stanford EDGAR Filings Dataset: Reconstructing U.S. Corporate and Financial Disclosures into Layout-Faithful and Token-Efficient Pretraining Data|Nick Bettencourt|[2606.18192v1](https://arxiv.org/pdf/2606.18192v1)|
+|2026-06-16|2026-06-16|DRFLOW: A Deep Research Benchmark for Personalized Workflow Prediction|Md Tawkat Islam Khondaker|[2606.18191v1](https://arxiv.org/pdf/2606.18191v1)|
+|2026-06-16|2026-06-16|Multi-Source Cybersecurity Logs: An ATT&CK-Labeled Dataset and SLM Evaluation|Abir Ashab Niloy|[2606.18190v1](https://arxiv.org/pdf/2606.18190v1)|
+|2026-06-16|2026-06-16|All Smoke, No Alarm: Oracle Signals in Agent-Authored Test Code|Dipayan Banik|[2606.18168v1](https://arxiv.org/pdf/2606.18168v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-16|2026-06-16|Uncertainty Quantification for Flow-Based Vision-Language-Action Models|Ralf Römer|[2606.18043v1](https://arxiv.org/pdf/2606.18043v1)|
+|2026-06-16|2026-06-16|PearlVLA: Progressive Embodied Action-Plan Refinement in Latent Space|Bochen Yang|[2606.17924v1](https://arxiv.org/pdf/2606.17924v1)|
+|2026-06-15|2026-06-15|Geometric Action Model for Robot Policy Learning|Jisang Han|[2606.17046v1](https://arxiv.org/pdf/2606.17046v1)|
+|2026-06-15|2026-06-15|Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes|Tongyan Fang|[2606.17043v1](https://arxiv.org/pdf/2606.17043v1)|
+|2026-06-15|2026-06-15|ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning|Wei Xiao|[2606.17011v1](https://arxiv.org/pdf/2606.17011v1)|
+|2026-06-15|2026-06-15|Learned Image Compression for Vision-Language-Action Models|Hyeonjun Kim|[2606.16253v1](https://arxiv.org/pdf/2606.16253v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-16|2026-06-16|Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents|Ankita Samaddar|[2606.18223v1](https://arxiv.org/pdf/2606.18223v1)|
+|2026-06-16|2026-06-16|RubricsTree: Scalable and Evolving Open-Ended Evaluation of Personal Health Agents across Health Memory and Medical Skills|Weizhi Zhang|[2606.18203v1](https://arxiv.org/pdf/2606.18203v1)|
+|2026-06-16|2026-06-16|Learning Cardiac Electrophysiology Digital Twins Through Agentic Discovery of Hybrid Structure|Ziqi Zhou|[2606.18154v1](https://arxiv.org/pdf/2606.18154v1)|
+|2026-06-16|2026-06-16|WEQA: Wearable hEalth Question Answering with Query-Adaptive Agentic Reasoning|Yuwei Zhang|[2606.18147v1](https://arxiv.org/pdf/2606.18147v1)|
+|2026-06-16|2026-06-16|Memory as a Wasting Asset: Pricing Flash Endurance for Embodied Agents, and the Limits of Doing So|Josef Liyanjun Chen|[2606.18144v1](https://arxiv.org/pdf/2606.18144v1)|
+|2026-06-16|2026-06-16|Your AI Travel Agent Would Book You a Bullfight: An Agentic Benchmark for Implicit Animal Welfare in Frontier AI Models|Jasmine Brazilek|[2606.18142v1](https://arxiv.org/pdf/2606.18142v1)|
 ## Update on 2026-06-15
 
 ### World Model
