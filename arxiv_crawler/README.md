@@ -283,6 +283,48 @@ TODO:
 
 
 
+
+## Update on 2026-06-19
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-18|2026-06-18|MemoryWAM: Efficient World Action Modeling with Persistent Memory|Sizhe Yang|[2606.20562v1](https://arxiv.org/pdf/2606.20562v1)|
+|2026-06-18|2026-06-18|TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living|Arkaprava Sinha|[2606.20561v1](https://arxiv.org/pdf/2606.20561v1)|
+|2026-06-18|2026-06-18|How Transparent is DiffusionGemma?|Joshua Engels|[2606.20560v1](https://arxiv.org/pdf/2606.20560v1)|
+|2026-06-18|2026-06-18|UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning|Wenhao Chi|[2606.20559v1](https://arxiv.org/pdf/2606.20559v1)|
+|2026-06-18|2026-06-18|Optimal Deterministic Multicalibration and Omniprediction|Georgy Noarov|[2606.20557v1](https://arxiv.org/pdf/2606.20557v1)|
+|2026-06-18|2026-06-18|Thinking in Boxes: 3D Editing in Real Images Made Easy|Pradhaan S Bhat|[2606.20556v1](https://arxiv.org/pdf/2606.20556v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-18|2026-06-18|Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation|Ruizhong Qiu|[2606.20554v1](https://arxiv.org/pdf/2606.20554v1)|
+|2026-06-18|2026-06-18|Predictability as a Fine-Grained Measure for Privacy|Linda Lu|[2606.20546v1](https://arxiv.org/pdf/2606.20546v1)|
+|2026-06-18|2026-06-18|Multi-Task Bayesian In-Context Learning|Qingyang Zhu|[2606.20538v1](https://arxiv.org/pdf/2606.20538v1)|
+|2026-06-18|2026-06-18|How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech|Nityanand Mathur|[2606.20532v1](https://arxiv.org/pdf/2606.20532v1)|
+|2026-06-18|2026-06-18|SARLO-80: Worldwide Slant SAR Language Optic Dataset 80cm|Solène Debuysère|[2606.20523v1](https://arxiv.org/pdf/2606.20523v1)|
+|2026-06-18|2026-06-18|FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS|Harshit Singh|[2606.20518v1](https://arxiv.org/pdf/2606.20518v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-18|2026-06-18|Lagrange: An Open-Vocabulary, Energy-Based Sparse Framework for Generalized End-to-End Driving|Shihao Ji|[2606.20274v1](https://arxiv.org/pdf/2606.20274v1)|
+|2026-06-18|2026-06-18|Finetuning Vision-Language-Action Models Requires Fewer Layers Than You Think|Gia-Binh Nguyen|[2606.20246v1](https://arxiv.org/pdf/2606.20246v1)|
+|2026-06-18|2026-06-18|Pose6DAug: Physically Plausible Multi-view Object Swapping for Robot Data Augmentation|Jonghoon Lee|[2606.20118v1](https://arxiv.org/pdf/2606.20118v1)|
+|2026-06-18|2026-06-18|Tri-Info: Generalizable, Interpretable Failure Prediction for VLA Models via Information Theory|Jinghan Yang|[2606.19998v1](https://arxiv.org/pdf/2606.19998v1)|
+|2026-06-17|2026-06-17|Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models|Nikita Kachaev|[2606.19297v1](https://arxiv.org/pdf/2606.19297v1)|
+|2026-06-14|2026-06-14|LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies|Jialei Chen|[2606.15768v1](https://arxiv.org/pdf/2606.15768v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-18|2026-06-18|Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving|Liang Su|[2606.20537v1](https://arxiv.org/pdf/2606.20537v1)|
+|2026-06-18|2026-06-18|LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents|Md Nayem Uddin|[2606.20529v1](https://arxiv.org/pdf/2606.20529v1)|
+|2026-06-18|2026-06-18|Sovereign Execution Brokers: Enforcing Certificate-Bound Authority in Agentic Control Planes|Jun He|[2606.20520v1](https://arxiv.org/pdf/2606.20520v1)|
+|2026-06-18|2026-06-18|Probe-and-Refine Tuning of Repository Guidance for Coding Agents|Asa Shepard|[2606.20512v1](https://arxiv.org/pdf/2606.20512v1)|
+|2026-06-18|2026-06-18|Efficient and Sound Probabilistic Verification for AI Agents|Alaia Solko-Breslin|[2606.20510v1](https://arxiv.org/pdf/2606.20510v1)|
+|2026-06-18|2026-06-18|Contagion Networks: Evaluator Bias Propagation in Multi-Agent LLM Systems|Zewen Liu|[2606.20493v1](https://arxiv.org/pdf/2606.20493v1)|
 ## Update on 2026-06-17
 
 ### World Model
