@@ -284,6 +284,45 @@ TODO:
 
 
 
+
+## Update on 2026-06-21
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-18|2026-06-18|Generating Robot Hands from Human Demonstrations|Sha Yi|[2606.20549v1](https://arxiv.org/pdf/2606.20549v1)|
+|2026-06-18|2026-06-18|Current World Models Lack a Persistent State Core|Jinpeng Lu|[2606.20545v1](https://arxiv.org/pdf/2606.20545v1)|
+|2026-06-18|2026-06-18|Toward Calibrated Mixture-of-Experts Under Distribution Shift|Gina Wong|[2606.20544v1](https://arxiv.org/pdf/2606.20544v1)|
+|2026-06-18|2026-06-18|DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs|Saimun Habib|[2606.20526v1](https://arxiv.org/pdf/2606.20526v1)|
+|2026-06-18|2026-06-18|HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining|Juncheng Ma|[2606.20521v1](https://arxiv.org/pdf/2606.20521v1)|
+|2026-06-18|2026-06-18|Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages|Maria Ivanova|[2606.20517v1](https://arxiv.org/pdf/2606.20517v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-18|2026-06-18|FreeStyle: Free Control of Style-Content Dual-Reference Generation from Community LoRA Mining|Jinghong Lan|[2606.20506v1](https://arxiv.org/pdf/2606.20506v1)|
+|2026-06-18|2026-06-18|Entropy Estimation in Multi-Qutrit Systems via Variational and Classical Neural Networks|Sai Sakunthala Guddanti|[2606.20504v1](https://arxiv.org/pdf/2606.20504v1)|
+|2026-06-18|2026-06-18|Optimal Order of Multi-Agent and General Many-Body Systems|Jake J. Xia|[2606.20485v1](https://arxiv.org/pdf/2606.20485v1)|
+|2026-06-18|2026-06-18|Scalable Training of Spatially Grounded 2D Vision-Language Models for Radiology|Yusuf Salcan|[2606.20477v1](https://arxiv.org/pdf/2606.20477v1)|
+|2026-06-18|2026-06-18|Fisher-Geometric Sharpness and the Implicit Bias of SGD toward Flat Minima|Md Sakir Ahmed|[2606.20469v1](https://arxiv.org/pdf/2606.20469v1)|
+|2026-06-18|2026-06-18|Repurposing a Speech Classifier for Guided Diffusion-Based Speech Generation|Rostislav Makarov|[2606.20457v1](https://arxiv.org/pdf/2606.20457v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-14|2026-06-14|Retrieve, Don't Retrain: Extending Vision Language Action Models to New Tasks at Test Time|Jeongeun Park|[2606.15631v1](https://arxiv.org/pdf/2606.15631v1)|
+|2026-06-13|2026-06-13|Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models|Dianqiao Lei|[2606.15099v1](https://arxiv.org/pdf/2606.15099v1)|
+|2026-06-11|2026-06-11|QPILOTS: Efficient Test-Time Q-Steering for Flow Policies|Yifan Ruan|[2606.14801v1](https://arxiv.org/pdf/2606.14801v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-18|2026-06-18|Marginal Advantage Accumulation for Memory-Driven Agent Self-Evolution|Mingyu Yang|[2606.20475v1](https://arxiv.org/pdf/2606.20475v1)|
+|2026-06-18|2026-06-18|UltraQuant: 4-bit KV Caching for Context-Heavy Agents|Inesh Chakrabarti|[2606.20474v1](https://arxiv.org/pdf/2606.20474v1)|
+|2026-06-18|2026-06-18|Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems|Reza Soosahabi|[2606.20470v1](https://arxiv.org/pdf/2606.20470v1)|
+|2026-06-18|2026-06-18|Agentic Symbolic Search: Characterizing PDEs Beyond Hand-crafted Expressions, Meshes, and Neural Networks|Zongmin Yu|[2606.20467v1](https://arxiv.org/pdf/2606.20467v1)|
+|2026-06-18|2026-06-18|LLM agent safety, multi-turn red-teaming, jailbreak benchmarks, adversarial robustness, safety-critical systems|Hanwool Lee|[2606.20408v1](https://arxiv.org/pdf/2606.20408v1)|
+|2026-06-18|2026-06-18|DataMagic: Transforming Tabular Data into Data Insight Video|Yupeng Xie|[2606.20388v1](https://arxiv.org/pdf/2606.20388v1)|
 ## Update on 2026-06-19
 
 ### World Model
