@@ -285,6 +285,48 @@ TODO:
 
 
 
+
+## Update on 2026-06-23
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-22|2026-06-22|AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection|Mingi Choi|[2606.23689v1](https://arxiv.org/pdf/2606.23689v1)|
+|2026-06-22|2026-06-22|LaST-HD: Learning Latent Physical Reasoning from Scalable Human Data for Robot Manipulation|Jiaming Liu|[2606.23685v1](https://arxiv.org/pdf/2606.23685v1)|
+|2026-06-22|2026-06-22|Semantic Browsing: Controllable Diversity for Image Generation|Sara Dorfman|[2606.23679v1](https://arxiv.org/pdf/2606.23679v1)|
+|2026-06-22|2026-06-22|AIR: Adaptive Interleaved Reasoning with Code in MLLMs|Cong Han|[2606.23678v1](https://arxiv.org/pdf/2606.23678v1)|
+|2026-06-22|2026-06-22|Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?|Dingzhi Yu|[2606.23676v1](https://arxiv.org/pdf/2606.23676v1)|
+|2026-06-22|2026-06-22|PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support|Sunil Wanjari|[2606.23673v1](https://arxiv.org/pdf/2606.23673v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-22|2026-06-22|On the Limits of Prompt-Conditioned Language Models as General-Purpose Learners|David Mguni|[2606.23668v1](https://arxiv.org/pdf/2606.23668v1)|
+|2026-06-22|2026-06-22|Dynamic estimation of slowly varying sequences|Prashant Gokhale|[2606.23655v1](https://arxiv.org/pdf/2606.23655v1)|
+|2026-06-22|2026-06-22|TailorMind: Towards Preference-Aligned Multimodal Content Generation|Hengji Zhou|[2606.23643v1](https://arxiv.org/pdf/2606.23643v1)|
+|2026-06-22|2026-06-22|AI-driven Optimisation of Quality of Recovery (QoR) in Remote Patient Monitoring|Yansong Liu|[2606.23631v1](https://arxiv.org/pdf/2606.23631v1)|
+|2026-06-22|2026-06-22|Diffusion Models Adapt to Low-Dimensional Structure Under Flexible Coefficient Choices|Changxiao Cai|[2606.23627v1](https://arxiv.org/pdf/2606.23627v1)|
+|2026-06-22|2026-06-22|DiT-Reward: Generative Representations for Text-to-Image Reward Modeling|Yuanming Yang|[2606.23626v1](https://arxiv.org/pdf/2606.23626v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-22|2026-06-22|RECALL: Recovery Experience Collection for Active Lifelong Learning in Vision-Language-Action Models|Ulas Berk Karli|[2606.23617v1](https://arxiv.org/pdf/2606.23617v1)|
+|2026-06-22|2026-06-22|Attacking the Trusted Imagination: Oracle-Level Integrity Attacks on Imagine-then-Act World Models|Linghan Chen|[2606.22966v1](https://arxiv.org/pdf/2606.22966v1)|
+|2026-06-22|2026-06-22|Intend, Reflect, Refine: An Adaptive Multimodal Reflection Framework for Autonomous Driving|Zisheng Chen|[2606.22913v1](https://arxiv.org/pdf/2606.22913v1)|
+|2026-06-21|2026-06-21|Reference-Free Assessment of Physical Consistency in World Model-based Video Generation|Yun Oh|[2606.22363v1](https://arxiv.org/pdf/2606.22363v1)|
+|2026-06-21|2026-06-21|Benchmarking Robot Memory Under Interference|Soumil Rathi|[2606.22338v1](https://arxiv.org/pdf/2606.22338v1)|
+|2026-06-19|2026-06-19|Decoupling the Declarative from the Procedural in Vision-Language-Action Models|Nikolaos Tsagkas|[2606.21496v1](https://arxiv.org/pdf/2606.21496v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-22|2026-06-22|MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM Systems?|Juyang Bai|[2606.23664v1](https://arxiv.org/pdf/2606.23664v1)|
+|2026-06-22|2026-06-22|Causal Discovery in the Era of Agents|Yujia Zheng|[2606.23608v1](https://arxiv.org/pdf/2606.23608v1)|
+|2026-06-22|2026-06-22|Decentralized Autonomous Traffic Management through Corridor Networks|Jasmine Jerry Aloor|[2606.23585v1](https://arxiv.org/pdf/2606.23585v1)|
+|2026-06-22|2026-06-22|Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse|Bole Ma|[2606.23581v1](https://arxiv.org/pdf/2606.23581v1)|
+|2026-06-22|2026-06-22|VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct|Haoling Li|[2606.23543v1](https://arxiv.org/pdf/2606.23543v1)|
+|2026-06-22|2026-06-22|Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference|Yuhang Gan|[2606.23521v1](https://arxiv.org/pdf/2606.23521v1)|
 ## Update on 2026-06-21
 
 ### World Model
