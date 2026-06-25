@@ -286,6 +286,48 @@ TODO:
 
 
 
+
+## Update on 2026-06-25
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-24|2026-06-24|Learning Action Priors for Cross-embodiment Robot Manipulation|Dong Jing|[2606.26095v1](https://arxiv.org/pdf/2606.26095v1)|
+|2026-06-24|2026-06-24|RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments|Babak Rahmani|[2606.26094v1](https://arxiv.org/pdf/2606.26094v1)|
+|2026-06-24|2026-06-24|On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity|Andrei Liviu Nicolicioiu|[2606.26091v1](https://arxiv.org/pdf/2606.26091v1)|
+|2026-06-24|2026-06-24|Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents|Changdae Oh|[2606.26080v1](https://arxiv.org/pdf/2606.26080v1)|
+|2026-06-24|2026-06-24|Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models|Akshay Paruchuri|[2606.26079v1](https://arxiv.org/pdf/2606.26079v1)|
+|2026-06-24|2026-06-24|A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding|Sen Li|[2606.26078v1](https://arxiv.org/pdf/2606.26078v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-24|2026-06-24|Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment|Aditya Singh|[2606.26071v1](https://arxiv.org/pdf/2606.26071v1)|
+|2026-06-24|2026-06-24|A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks|Sen Li|[2606.26059v1](https://arxiv.org/pdf/2606.26059v1)|
+|2026-06-24|2026-06-24|The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems|Seth Dobrin|[2606.26057v1](https://arxiv.org/pdf/2606.26057v1)|
+|2026-06-24|2026-06-24|Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining|Juliana Li|[2606.26050v1](https://arxiv.org/pdf/2606.26050v1)|
+|2026-06-24|2026-06-24|Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It|Yupu Hao|[2606.26027v1](https://arxiv.org/pdf/2606.26027v1)|
+|2026-06-24|2026-06-24|Privacy Vulnerabilities of Attention Layers in Tabular Foundation Models and Protection of High-Risk Queries|Tânia Carvalho|[2606.26021v1](https://arxiv.org/pdf/2606.26021v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-24|2026-06-24|FORCE: Efficient VLA Reinforcement Fine-Tuning via Value-Calibrated Warm-up and Self-Distillation|Shuyi Zhang|[2606.26006v1](https://arxiv.org/pdf/2606.26006v1)|
+|2026-06-24|2026-06-24|ROAD-VLA: Robust Online Adaptation via Self-Distillation for Vision-Language-Action Models|Kejing Wang|[2606.25800v1](https://arxiv.org/pdf/2606.25800v1)|
+|2026-06-23|2026-06-23|InSight: Self-Guided Skill Acquisition via Steerable VLAs|Maggie Wang|[2606.24884v1](https://arxiv.org/pdf/2606.24884v1)|
+|2026-06-23|2026-06-23|G$^3$VLA: Geometric inductive bias for Vision-Language-Action Models|Yue Peng|[2606.24472v1](https://arxiv.org/pdf/2606.24472v1)|
+|2026-06-22|2026-06-22|Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs|Xiangbo Gao|[2606.23938v1](https://arxiv.org/pdf/2606.23938v1)|
+|2026-06-19|2026-06-19|ASCII Art Turns LLMs into VLA Controllers|Yitao Jiang|[2606.21470v1](https://arxiv.org/pdf/2606.21470v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-24|2026-06-24|Can Trustless Agents Be Trusted? An Empirical Study of the ERC-8004 Decentralized AI Agent Ecosystem|Xihan Xiong|[2606.26028v1](https://arxiv.org/pdf/2606.26028v1)|
+|2026-06-24|2026-06-24|Hierarchical Reinforcement Learning for Neural Network Compression (HiReLC): Pruning and Quantization|Kamar Hibatallah Baghdadi|[2606.26002v1](https://arxiv.org/pdf/2606.26002v1)|
+|2026-06-24|2026-06-24|Autodata: An agentic data scientist to create high quality synthetic data|Ilia Kulikov|[2606.25996v1](https://arxiv.org/pdf/2606.25996v1)|
+|2026-06-24|2026-06-24|Multi-Agent Goal Recognition with Team- and Goal-Conditioned Reinforcement Learning and Factorized Branch-and-Bound|Thiago Thomas|[2606.25978v1](https://arxiv.org/pdf/2606.25978v1)|
+|2026-06-24|2026-06-24|WinDOM: Self-Family Distillation for Small-Model GUI Grounding|Chengheng Li-Chen|[2606.25964v1](https://arxiv.org/pdf/2606.25964v1)|
+|2026-06-24|2026-06-24|Agentic System as Compressor: Quantifying System Intelligence in Bits|Zihan Qin|[2606.25960v1](https://arxiv.org/pdf/2606.25960v1)|
 ## Update on 2026-06-23
 
 ### World Model
