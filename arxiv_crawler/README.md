@@ -287,6 +287,48 @@ TODO:
 
 
 
+
+## Update on 2026-06-27
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-25|2026-06-25|DanceOPD: On-Policy Generative Field Distillation|Wei Zhou|[2606.27377v1](https://arxiv.org/pdf/2606.27377v1)|
+|2026-06-25|2026-06-25|Scalable Behavior Cloning with Open Data, Training, and Evaluation|Arthur Allshire|[2606.27375v1](https://arxiv.org/pdf/2606.27375v1)|
+|2026-06-25|2026-06-25|World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays|Manish Kumar Govind|[2606.27374v1](https://arxiv.org/pdf/2606.27374v1)|
+|2026-06-25|2026-06-25|PhysiFormer: Learning to Simulate Mechanics in World Space|Yiming Chen|[2606.27364v1](https://arxiv.org/pdf/2606.27364v1)|
+|2026-06-25|2026-06-25|Autoregressive Boltzmann Generators|Danyal Rehman|[2606.27361v1](https://arxiv.org/pdf/2606.27361v1)|
+|2026-06-25|2026-06-25|When are likely answers right? On Sequence Probability and Correctness in LLMs|Johannes Zenn|[2606.27359v1](https://arxiv.org/pdf/2606.27359v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-25|2026-06-25|Reinforcement Learning without Ground-Truth Solutions can Improve LLMs|Yingyu Lin|[2606.27369v1](https://arxiv.org/pdf/2606.27369v1)|
+|2026-06-25|2026-06-25|Error-Conditioned Neural Solvers|Haina Jiang|[2606.27354v1](https://arxiv.org/pdf/2606.27354v1)|
+|2026-06-25|2026-06-25|Language-Based Digital Twins for Elderly Cognitive Assistance|Mohammad Mehdi Hosseini|[2606.27334v1](https://arxiv.org/pdf/2606.27334v1)|
+|2026-06-25|2026-06-25|Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning|Tianyi Men|[2606.27330v1](https://arxiv.org/pdf/2606.27330v1)|
+|2026-06-25|2026-06-25|Hallucination in World Models is Predictable and Preventable|Nicklas Hansen|[2606.27326v1](https://arxiv.org/pdf/2606.27326v1)|
+|2026-06-25|2026-06-25|Blackwell Approachability and Gradient Equilibrium are Equivalent|Brian W. Lee|[2606.27315v1](https://arxiv.org/pdf/2606.27315v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-25|2026-06-25|Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy|Junhao Shi|[2606.27251v1](https://arxiv.org/pdf/2606.27251v1)|
+|2026-06-25|2026-06-25|Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)|Ilia Larchenko|[2606.27163v1](https://arxiv.org/pdf/2606.27163v1)|
+|2026-06-19|2026-06-19|VLA-FAIL: Efficient Task Failure Detection for Finetuned Vision-Language-Action Models|Florian Seligmann|[2606.21386v1](https://arxiv.org/pdf/2606.21386v1)|
+|2026-06-19|2026-06-19|NAC: Neural Action Codec for Vision-Language-Action Models|Ahad Jawaid|[2606.21372v1](https://arxiv.org/pdf/2606.21372v1)|
+|2026-06-19|2026-06-19|PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning|Youngjoon Jeong|[2606.21139v1](https://arxiv.org/pdf/2606.21139v1)|
+|2026-06-18|2026-06-18|FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation|Duc Minh Nguyen|[2606.20867v1](https://arxiv.org/pdf/2606.20867v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-25|2026-06-25|Designing Reward Signals for Portable Query Generation: A Case Study in Industrial Semantic Job Search|Ping Liu|[2606.27291v1](https://arxiv.org/pdf/2606.27291v1)|
+|2026-06-25|2026-06-25|When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models|Josef Chen|[2606.27288v1](https://arxiv.org/pdf/2606.27288v1)|
+|2026-06-25|2026-06-25|Bridging Talk and Thought: Understanding Dialogue Dynamics Across Collaborative Problem-Solving Contexts|Zhengyuan Liu|[2606.27233v1](https://arxiv.org/pdf/2606.27233v1)|
+|2026-06-25|2026-06-25|A Process Harness for Uplifting Legacy Workflows to Agentic BPM: Design and Realization in CUGA FLO|Fabiana Fournier|[2606.27188v1](https://arxiv.org/pdf/2606.27188v1)|
+|2026-06-25|2026-06-25|Automating Potential-based Reward Shaping with Vision Language Model Guidance|Henrik Müller|[2606.27180v1](https://arxiv.org/pdf/2606.27180v1)|
+|2026-06-25|2026-06-25|OpenRCA 2.0: From Outcome Labels to Causal Process Supervision|Aoyang Fang|[2606.27154v1](https://arxiv.org/pdf/2606.27154v1)|
 ## Update on 2026-06-25
 
 ### World Model
