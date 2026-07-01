@@ -288,6 +288,48 @@ TODO:
 
 
 
+
+## Update on 2026-07-01
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-30|2026-06-30|Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision|Zifan Carl Guo|[2606.32038v1](https://arxiv.org/pdf/2606.32038v1)|
+|2026-06-30|2026-06-30|QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents|Sergio Hernández-Gutiérrez|[2606.32034v1](https://arxiv.org/pdf/2606.32034v1)|
+|2026-06-30|2026-06-30|Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs|Gabrielle Kaili-May Liu|[2606.32032v1](https://arxiv.org/pdf/2606.32032v1)|
+|2026-06-30|2026-06-30|When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors|Yuqing Yang|[2606.32029v1](https://arxiv.org/pdf/2606.32029v1)|
+|2026-06-30|2026-06-30|DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation|Ziyu Shan|[2606.32028v1](https://arxiv.org/pdf/2606.32028v1)|
+|2026-06-30|2026-06-30|Freeform Preference Learning for Robotic Manipulation|Marcel Torne|[2606.32027v1](https://arxiv.org/pdf/2606.32027v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-30|2026-06-30|Automated Background Swapping for Robustness against Spurious Backgrounds|Cesar Roder|[2606.32018v1](https://arxiv.org/pdf/2606.32018v1)|
+|2026-06-30|2026-06-30|CoMet: Context and Multiplicity Decomposition for Multimodal Uncertainty Estimation|Sanghyuk Chun|[2606.32012v1](https://arxiv.org/pdf/2606.32012v1)|
+|2026-06-30|2026-06-30|AxDafny: Agentic Verified Code Generation in Dafny|Benjamin Breen|[2606.32007v1](https://arxiv.org/pdf/2606.32007v1)|
+|2026-06-30|2026-06-30|Self-Study Reconsidered: The Hidden Fragility of Learning from Self-Generated QA|Ekaterina Alimaskina|[2606.32002v1](https://arxiv.org/pdf/2606.32002v1)|
+|2026-06-30|2026-06-30|Radial Suppression Accelerates Algorithmic Generalization: A Geometric Analysis of Delayed Generalization|Srijan Tiwari|[2606.32000v1](https://arxiv.org/pdf/2606.32000v1)|
+|2026-06-30|2026-06-30|Amplifying Membership Signal Through Chained Regeneration|Wojciech Łapacz|[2606.31991v1](https://arxiv.org/pdf/2606.31991v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-30|2026-06-30|Z-1: Efficient Reinforcement Learning for Vision-Language-Action Models|Lang Cao|[2606.31846v1](https://arxiv.org/pdf/2606.31846v1)|
+|2026-06-30|2026-06-30|3D HAMSTER: Bridging Planning and Control in Hierarchical Vision Language Action Models through 3D Trajectory Guidance|Dongyoon Hwang|[2606.31329v1](https://arxiv.org/pdf/2606.31329v1)|
+|2026-06-30|2026-06-30|MIRTH: Mutual-Information Reasoning with Temporal Hubs for Vision-Language-Action Agents|Hao Sun|[2606.31167v1](https://arxiv.org/pdf/2606.31167v1)|
+|2026-06-30|2026-06-30|A Modular Vision-Language-Action Robotics Framework for Indoor Environments|Anindya Jana|[2606.31144v1](https://arxiv.org/pdf/2606.31144v1)|
+|2026-06-29|2026-06-29|SA-VLA: State-aware tokenizer for improving Vision-Language-Action Models' performance|Tengyue Jiang|[2606.30113v1](https://arxiv.org/pdf/2606.30113v1)|
+|2026-06-29|2026-06-29|Trust Your Instincts: Confidence-Driven Test-Time RL for Vision-Language-Action Models|Siyao Chen|[2606.29892v1](https://arxiv.org/pdf/2606.29892v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-30|2026-06-30|TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning|Yuanda Xu|[2606.32017v1](https://arxiv.org/pdf/2606.32017v1)|
+|2026-06-30|2026-06-30|TreeAgent: A Generalizable Multi-Agent Framework for Automated Bias Labeling in Forestry via Compiled Expert Rules and Vision-Language Models|Shiyi Chen|[2606.31976v1](https://arxiv.org/pdf/2606.31976v1)|
+|2026-06-30|2026-06-30|MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments|Qingyun Liu|[2606.31966v1](https://arxiv.org/pdf/2606.31966v1)|
+|2026-06-30|2026-06-30|MVP-Nav: Multi-layer Value Map Planner Navigator|Wenyuan Xie|[2606.31919v1](https://arxiv.org/pdf/2606.31919v1)|
+|2026-06-30|2026-06-30|Better Understanding, Understanding Better|Yu Wei|[2606.31892v1](https://arxiv.org/pdf/2606.31892v1)|
+|2026-06-30|2026-06-30|Bridging Local Observation and Global Simulation in Closed-Loop Traffic Modeling|Ziyan Wang|[2606.31844v1](https://arxiv.org/pdf/2606.31844v1)|
 ## Update on 2026-06-27
 
 ### World Model
