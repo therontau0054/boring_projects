@@ -289,6 +289,48 @@ TODO:
 
 
 
+
+## Update on 2026-07-03
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-02|2026-07-02|WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory|Hanlin Wang|[2607.02517v1](https://arxiv.org/pdf/2607.02517v1)|
+|2026-07-02|2026-07-02|Distributed Attacks in Persistent-State AI Control|Josh Hills|[2607.02514v1](https://arxiv.org/pdf/2607.02514v1)|
+|2026-07-02|2026-07-02|LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning|Matteo Boglioni|[2607.02513v1](https://arxiv.org/pdf/2607.02513v1)|
+|2026-07-02|2026-07-02|Program-as-Weights: A Programming Paradigm for Fuzzy Functions|Wentao Zhang|[2607.02512v1](https://arxiv.org/pdf/2607.02512v1)|
+|2026-07-02|2026-07-02|Online Safety Monitoring for LLMs|Mona Schirmer|[2607.02510v1](https://arxiv.org/pdf/2607.02510v1)|
+|2026-07-02|2026-07-02|ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning|Yanjun Zhao|[2607.02509v1](https://arxiv.org/pdf/2607.02509v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-02|2026-07-02|DemoPSD: Disagreement-Modulated Policy Self-Distillation|Yunhe Li|[2607.02502v1](https://arxiv.org/pdf/2607.02502v1)|
+|2026-07-02|2026-07-02|Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials|Gil Harari|[2607.02499v1](https://arxiv.org/pdf/2607.02499v1)|
+|2026-07-02|2026-07-02|Controllable Sim Agents with Behavior Latents|Juanwu Lu|[2607.02496v1](https://arxiv.org/pdf/2607.02496v1)|
+|2026-07-02|2026-07-02|G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models|Timo Bertram|[2607.02491v1](https://arxiv.org/pdf/2607.02491v1)|
+|2026-07-02|2026-07-02|TestEvo-Bench: An Executable and Live Benchmark for Test and Code Co-Evolution|Jiale Amber Wang|[2607.02469v1](https://arxiv.org/pdf/2607.02469v1)|
+|2026-07-02|2026-07-02|OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers|Donghyun Lee|[2607.02461v1](https://arxiv.org/pdf/2607.02461v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-02|2026-07-02|Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs|Junhao Shi|[2607.02466v1](https://arxiv.org/pdf/2607.02466v1)|
+|2026-07-02|2026-07-02|Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies|Liuhaichen Yang|[2607.02092v1](https://arxiv.org/pdf/2607.02092v1)|
+|2026-07-02|2026-07-02|VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment|Guoyang Xia|[2607.01586v1](https://arxiv.org/pdf/2607.01586v1)|
+|2026-07-01|2026-07-01|FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model|Chenyang Ma|[2607.01212v1](https://arxiv.org/pdf/2607.01212v1)|
+|2026-07-01|2026-07-01|Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts|Taewook Kang|[2607.00666v1](https://arxiv.org/pdf/2607.00666v1)|
+|2026-06-28|2026-06-28|Position: Vision-Language-Action Models Cannot Be Verified to Perform Physical Reasoning|Taozhao Chen|[2606.30686v1](https://arxiv.org/pdf/2606.30686v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-02|2026-07-02|What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates|Arman Ghaffarizadeh|[2607.02507v1](https://arxiv.org/pdf/2607.02507v1)|
+|2026-07-02|2026-07-02|EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments|Zhilin Wang|[2607.02440v1](https://arxiv.org/pdf/2607.02440v1)|
+|2026-07-02|2026-07-02|Reasoning effort, not tool access, buys first-try reliability in agentic code generation: an observational study|Achint Mehta|[2607.02436v1](https://arxiv.org/pdf/2607.02436v1)|
+|2026-07-02|2026-07-02|QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition|Quoc Bao Phan|[2607.02426v1](https://arxiv.org/pdf/2607.02426v1)|
+|2026-07-02|2026-07-02|Steerability via constraints: a substrate for scalable oversight of coding agents|Thomas Winninger|[2607.02389v1](https://arxiv.org/pdf/2607.02389v1)|
+|2026-07-02|2026-07-02|Bringing Agentic Search to Earth Observation Data Discovery|Minghan Yu|[2607.02387v1](https://arxiv.org/pdf/2607.02387v1)|
 ## Update on 2026-07-01
 
 ### World Model
