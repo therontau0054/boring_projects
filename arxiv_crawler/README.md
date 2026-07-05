@@ -290,6 +290,48 @@ TODO:
 
 
 
+
+## Update on 2026-07-05
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-02|2026-07-02|Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas|Yuxuan Li|[2607.02504v1](https://arxiv.org/pdf/2607.02504v1)|
+|2026-07-02|2026-07-02|VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation|Shuai Tian|[2607.02503v1](https://arxiv.org/pdf/2607.02503v1)|
+|2026-07-02|2026-07-02|Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots|Ling Xu|[2607.02501v1](https://arxiv.org/pdf/2607.02501v1)|
+|2026-07-02|2026-07-02|Learning Agile Intruder Interception using Differentiable Quadrotor Dynamics|Michael Anoruo|[2607.02472v1](https://arxiv.org/pdf/2607.02472v1)|
+|2026-07-02|2026-07-02|Human Capital, Not Model Benchmarks, Predicts Hybrid Intelligence in Forecasting|Vivienne Ming|[2607.02467v1](https://arxiv.org/pdf/2607.02467v1)|
+|2026-07-02|2026-07-02|Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation|Zhuowei Chen|[2607.02460v1](https://arxiv.org/pdf/2607.02460v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-02|2026-07-02|WorldSample: Closed-loop Real-robot RL with World Modelling|Yuquan Xue|[2607.02431v1](https://arxiv.org/pdf/2607.02431v1)|
+|2026-07-02|2026-07-02|LIME: Learning Intent-aware Camera Motion from Egocentric Video|Boyang Sun|[2607.02417v1](https://arxiv.org/pdf/2607.02417v1)|
+|2026-07-02|2026-07-02|Text-Driven 3D Indoor Scene Synthesis in Non-Manhattan Environments|Xianhui Meng|[2607.02407v1](https://arxiv.org/pdf/2607.02407v1)|
+|2026-07-02|2026-07-02|WattGPU: Predicting Inference Power and Latency on Unseen GPUs and LLMs|Mauricio Fadel Argerich|[2607.02391v1](https://arxiv.org/pdf/2607.02391v1)|
+|2026-07-02|2026-07-02|DecompRL: Solving Harder Problems by Learning Modular Code Generation|Juliette Decugis|[2607.02390v1](https://arxiv.org/pdf/2607.02390v1)|
+|2026-07-02|2026-07-02|Understanding Agent-Based Patching of Compiler Missed Optimizations|Batu Guan|[2607.02370v1](https://arxiv.org/pdf/2607.02370v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-06-28|2026-06-28|Fast Enough to Act: Spatio-Temporal Visual Token Merging for Low-Latency Robotic VLMs and VLAs|Junzhou Chen|[2606.29350v1](https://arxiv.org/pdf/2606.29350v1)|
+|2026-06-28|2026-06-28|SurgVLA-Bench: Towards Evaluating Vision-Language-Action Models for Laparoscopic Surgical Robotics|Jiashuo Sun|[2606.29247v1](https://arxiv.org/pdf/2606.29247v1)|
+|2026-06-28|2026-06-28|Behavior Uncloning: Distilling Mode Redirection into Policy Weights without Inference-Time Steering|Hao Wang|[2606.29201v1](https://arxiv.org/pdf/2606.29201v1)|
+|2026-06-27|2026-06-27|X-Mind: Efficient Visual Chain-of-Thought via Predictive World Model for End-to-End Driving|Bohao Zhao|[2606.28758v1](https://arxiv.org/pdf/2606.28758v1)|
+|2026-06-26|2026-06-26|HAT-4D: Lifting Monocular Video for 4D Multi-Object Interactions via Human-Agent Collaboration|Jiaxin Li|[2606.28215v1](https://arxiv.org/pdf/2606.28215v1)|
+|2026-06-26|2026-06-26|S$^2$-VLA: State-Space Guided Vision-Language-Action Models for Long-Horizon Manipulation|Zhipeng Xie|[2606.27872v1](https://arxiv.org/pdf/2606.27872v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-02|2026-07-02|Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems|Uwe M. Borghoff|[2607.02376v1](https://arxiv.org/pdf/2607.02376v1)|
+|2026-07-02|2026-07-02|SkillFuzz: Fuzzing Skill Composition for Implicit Intents Discovery in Open Skill Marketplaces|Jinwei Hu|[2607.02345v1](https://arxiv.org/pdf/2607.02345v1)|
+|2026-07-02|2026-07-02|Grounded autonomous research: a fault-tolerant LLM pipeline from corpus to manuscript in frontier computational physics|Haonan Huang|[2607.02329v1](https://arxiv.org/pdf/2607.02329v1)|
+|2026-07-02|2026-07-02|AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents|Xiangchen Cheng|[2607.02255v1](https://arxiv.org/pdf/2607.02255v1)|
+|2026-07-02|2026-07-02|Copewell: A Multi-Agent Swarm Architecture for Equitable Mental Wellness Support|Seren Yenikent|[2607.02245v1](https://arxiv.org/pdf/2607.02245v1)|
+|2026-07-02|2026-07-02|Criticality-Based Guard Rail Validation for AI Agent Decisions in Autonomous Telecom Networks|Ravi Kant Sharma|[2607.02210v1](https://arxiv.org/pdf/2607.02210v1)|
 ## Update on 2026-07-03
 
 ### World Model
