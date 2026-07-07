@@ -291,6 +291,48 @@ TODO:
 
 
 
+
+## Update on 2026-07-07
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-06|2026-07-06|From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model|Wenhao Li|[2607.05396v1](https://arxiv.org/pdf/2607.05396v1)|
+|2026-07-06|2026-07-06|Weak-to-Strong Generalization via Direct On-Policy Distillation|Shiyuan Feng|[2607.05394v1](https://arxiv.org/pdf/2607.05394v1)|
+|2026-07-06|2026-07-06|Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification|Raphaël Bonnet-Guerrini|[2607.05393v1](https://arxiv.org/pdf/2607.05393v1)|
+|2026-07-06|2026-07-06|Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models|Hongyu Li|[2607.05390v1](https://arxiv.org/pdf/2607.05390v1)|
+|2026-07-06|2026-07-06|InFlux++: Real and Synthetic Data for Estimating Dynamic Camera Intrinsics|Erich Liang|[2607.05389v1](https://arxiv.org/pdf/2607.05389v1)|
+|2026-07-06|2026-07-06|Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation|Haozhe Wang|[2607.05382v1](https://arxiv.org/pdf/2607.05382v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-06|2026-07-06|LLM-as-a-Verifier: A General-Purpose Verification Framework|Jacky Kwok|[2607.05391v1](https://arxiv.org/pdf/2607.05391v1)|
+|2026-07-06|2026-07-06|CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents|Yujiang Li|[2607.05378v1](https://arxiv.org/pdf/2607.05378v1)|
+|2026-07-06|2026-07-06|Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation|Jiaqi Peng|[2607.05377v1](https://arxiv.org/pdf/2607.05377v1)|
+|2026-07-06|2026-07-06|GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks|Kaiyuan Chen|[2607.05369v1](https://arxiv.org/pdf/2607.05369v1)|
+|2026-07-06|2026-07-06|SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models|Thomas Thebaud|[2607.05365v1](https://arxiv.org/pdf/2607.05365v1)|
+|2026-07-06|2026-07-06|REDDIT: Correcting Model-Generated Timestamp Drift in ASR without Forgetting via Replay-Based Distribution Editing|Cheng-Kang Chou|[2607.05364v1](https://arxiv.org/pdf/2607.05364v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-06|2026-07-06|DSWAM: A Dual-System World Action Foundation Model for Fine-Grained Robot Manipulation|Jian Zhu|[2607.04927v1](https://arxiv.org/pdf/2607.04927v1)|
+|2026-07-06|2026-07-06|Do Vision-Language-Action Models Mean What They Say? On the Role of Faithfulness in Embodied Reasoning|Matthew Foutter|[2607.04681v1](https://arxiv.org/pdf/2607.04681v1)|
+|2026-07-06|2026-07-06|Simple-to-Complex Structured Demonstrations for Vision-Language-Action Learning|Xinchuan Qiu|[2607.04591v1](https://arxiv.org/pdf/2607.04591v1)|
+|2026-07-05|2026-07-05|VLA Grounder: Language-Conditioning Space Optimization for Black-Box VLA Models|Damir Shodiev|[2607.04517v1](https://arxiv.org/pdf/2607.04517v1)|
+|2026-07-05|2026-07-05|XS-VLA: Coupling Coarse-grained Spatial Distillation with Latent Flow Matching for Lightweight Robotic Control|Lei Iok Tong|[2607.04171v1](https://arxiv.org/pdf/2607.04171v1)|
+|2026-07-03|2026-07-03|HiMe: Hierarchical Embodied Memory for Long-Horizon Vision-Language-Action Control|Li Ji|[2607.03449v1](https://arxiv.org/pdf/2607.03449v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-06|2026-07-06|SovereignPA-Bench: Evaluating User-Owned Personal Agents under Evolving Intent, Platform Mediation, and Consent Constraints|Dylan Zongmin Liu|[2607.05363v1](https://arxiv.org/pdf/2607.05363v1)|
+|2026-07-06|2026-07-06|Multiplayer Interactive World Models with Representation Autoencoders|Anthony Hu|[2607.05352v1](https://arxiv.org/pdf/2607.05352v1)|
+|2026-07-06|2026-07-06|OptiAgent: End-to-End Optimization Modeling via Multi-Agent Iterative Refinement|Adriana Laurindo Monteiro|[2607.05346v1](https://arxiv.org/pdf/2607.05346v1)|
+|2026-07-06|2026-07-06|TREK: Distill to Explore, Reinforce to Refine|Yuanda Xu|[2607.05339v1](https://arxiv.org/pdf/2607.05339v1)|
+|2026-07-06|2026-07-06|MetaSkill-Evolve: Recursive Self-Improvement of LLM Agents via Two-Timescale Meta-Skill Evolution|Zefeng Wang|[2607.05297v1](https://arxiv.org/pdf/2607.05297v1)|
+|2026-07-06|2026-07-06|Untrusted Content Masking for Web Agents with Security Guarantees|Kristina Nikolić|[2607.05277v1](https://arxiv.org/pdf/2607.05277v1)|
 ## Update on 2026-07-05
 
 ### World Model
