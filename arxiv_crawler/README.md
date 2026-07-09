@@ -292,6 +292,47 @@ TODO:
 
 
 
+
+## Update on 2026-07-09
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-08|2026-07-08|Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning|Chen Tang|[2607.07708v1](https://arxiv.org/pdf/2607.07708v1)|
+|2026-07-08|2026-07-08|Co-LMLM: Continuous-Query Limited Memory Language Models|Yair Feldman|[2607.07707v1](https://arxiv.org/pdf/2607.07707v1)|
+|2026-07-08|2026-07-08|The Key to Going Linear: Analysis-Driven Transformer Linearization|Anna Kuzina|[2607.07706v1](https://arxiv.org/pdf/2607.07706v1)|
+|2026-07-08|2026-07-08|Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass|Victor Giannakouris|[2607.07696v1](https://arxiv.org/pdf/2607.07696v1)|
+|2026-07-08|2026-07-08|Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety|Yujiao Chen|[2607.07695v1](https://arxiv.org/pdf/2607.07695v1)|
+|2026-07-08|2026-07-08|Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF|Eric Zhu|[2607.07693v1](https://arxiv.org/pdf/2607.07693v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-08|2026-07-08|Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization|Xiangming Huang|[2607.07682v1](https://arxiv.org/pdf/2607.07682v1)|
+|2026-07-08|2026-07-08|Any-Dimensional Learning by Sampling|Eitan Levin|[2607.07680v1](https://arxiv.org/pdf/2607.07680v1)|
+|2026-07-08|2026-07-08|How Data Shapes RoPE Frequency Usage: From Positional Scale Matching to Length Generalization|Xinyi Wu|[2607.07678v1](https://arxiv.org/pdf/2607.07678v1)|
+|2026-07-08|2026-07-08|SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents|Tianming Sha|[2607.07676v1](https://arxiv.org/pdf/2607.07676v1)|
+|2026-07-08|2026-07-08|PeTeR: Post-Training Robustification of Probabilistic Circuits|Adrian Ciotinga|[2607.07671v1](https://arxiv.org/pdf/2607.07671v1)|
+|2026-07-08|2026-07-08|Does Bielik Know What It Doesn't Know? Activation Dispersion Separates Entity Familiarity from Factual Reliability Across Model Scale|Grzegorz Brzezinka|[2607.07670v1](https://arxiv.org/pdf/2607.07670v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-07|2026-07-07|Vision Language Action (VLA) Models for Unmanned Aerial Robotics and Bimanual Manipulation: A Review|Inkyu Sa|[2607.06706v1](https://arxiv.org/pdf/2607.06706v1)|
+|2026-07-07|2026-07-07|Pelican-VLA 0.5: Attending Before Acting Benefits Generalization|Zeyuan Ding|[2607.06655v1](https://arxiv.org/pdf/2607.06655v1)|
+|2026-07-07|2026-07-07|Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement|Ryuji Oi|[2607.06370v1](https://arxiv.org/pdf/2607.06370v1)|
+|2026-07-03|2026-07-03|Embodied Operators and Benchmarking: Toward Reusable and Deployable Embodied Intelligence Systems|Junwu Xiong|[2607.03283v1](https://arxiv.org/pdf/2607.03283v1)|
+|2026-07-03|2026-07-03|AnchorVLA: Bridging Discrete Decisions and Continuous Trajectories for Vision-Language-Action Planning|Qi Liu|[2607.03182v1](https://arxiv.org/pdf/2607.03182v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-08|2026-07-08|Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning|Vladislav Beliaev|[2607.07690v1](https://arxiv.org/pdf/2607.07690v1)|
+|2026-07-08|2026-07-08|Towards Agentic AI Governance: A Preliminary Assessment|Mubarak Raji|[2607.07612v1](https://arxiv.org/pdf/2607.07612v1)|
+|2026-07-08|2026-07-08|CARLA-GS: Decoupling Representation, Reasoning, and Physics Simulation for Autonomous Driving Corner-Case Synthesis|Kaicong Huang|[2607.07601v1](https://arxiv.org/pdf/2607.07601v1)|
+|2026-07-08|2026-07-08|Creativity from Friction: Human-AI Interaction for Exploratory Structural Design|Ricardo Maia Avelino|[2607.07521v1](https://arxiv.org/pdf/2607.07521v1)|
+|2026-07-08|2026-07-08|Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning|Zhenyu Hou|[2607.07508v1](https://arxiv.org/pdf/2607.07508v1)|
+|2026-07-08|2026-07-08|Do LLM-Generated Skills Make Better AI Data Scientists? A Component Ablation Across Data-Science Workflows|Wei-Jung Huang|[2607.07504v1](https://arxiv.org/pdf/2607.07504v1)|
 ## Update on 2026-07-07
 
 ### World Model
