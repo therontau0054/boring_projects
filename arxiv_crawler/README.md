@@ -293,6 +293,44 @@ TODO:
 
 
 
+
+## Update on 2026-07-11
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-09|2026-07-09|LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models|Cheng-De Fan|[2607.08770v1](https://arxiv.org/pdf/2607.08770v1)|
+|2026-07-09|2026-07-09|UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks|Zhekai Chen|[2607.08768v1](https://arxiv.org/pdf/2607.08768v1)|
+|2026-07-09|2026-07-09|OpenCoF: Learning to Reason Through Video Generation|Xinyan Chen|[2607.08763v1](https://arxiv.org/pdf/2607.08763v1)|
+|2026-07-09|2026-07-09|Typicality of Steering for Two-qubit States|Gerard Anglès Munné|[2607.08762v1](https://arxiv.org/pdf/2607.08762v1)|
+|2026-07-09|2026-07-09|MulTTiPop: A Multitrack Transcription Dataset for Pop Music|Nathan Pruyne|[2607.08756v1](https://arxiv.org/pdf/2607.08756v1)|
+|2026-07-09|2026-07-09|SLORR: Simple and Efficient In-Training Low-Rank Regularization|David González-Martínez|[2607.08754v1](https://arxiv.org/pdf/2607.08754v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-09|2026-07-09|Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation|Yifan Zhou|[2607.08758v1](https://arxiv.org/pdf/2607.08758v1)|
+|2026-07-09|2026-07-09|ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation|Kaifeng Zhao|[2607.08741v1](https://arxiv.org/pdf/2607.08741v1)|
+|2026-07-09|2026-07-09|Deep Learning for Joint Narrowband Interference Cancellation and Soft Demodulation in OFDM Systems|Emmanouil Kavvousanos|[2607.08717v1](https://arxiv.org/pdf/2607.08717v1)|
+|2026-07-09|2026-07-09|Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents|Yifan Wu|[2607.08716v1](https://arxiv.org/pdf/2607.08716v1)|
+|2026-07-09|2026-07-09|LTM: Large-scale Terrain Model for Wildfire-prone Landscapes|Xiao Fu|[2607.08711v1](https://arxiv.org/pdf/2607.08711v1)|
+|2026-07-09|2026-07-09|ProjAgent: Procedural Similarity Retrieval for Repository-Level Code Generation|QiHong Chen|[2607.08691v1](https://arxiv.org/pdf/2607.08691v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-09|2026-07-09|WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving|Xuerun Yan|[2607.08375v1](https://arxiv.org/pdf/2607.08375v1)|
+|2026-07-09|2026-07-09|LEEVLA: Seeing What Matters in Latent Environment Evolution for Vision-Language-Action|Qi Lyu|[2607.08182v1](https://arxiv.org/pdf/2607.08182v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-09|2026-07-09|MPFlow: Learning Budgeted Max-Flow Optimization on the Lightning Network with Deep Graph Reinforcement Learning|Harrison Rush|[2607.08703v1](https://arxiv.org/pdf/2607.08703v1)|
+|2026-07-09|2026-07-09|SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets|Shilin Ou|[2607.08681v1](https://arxiv.org/pdf/2607.08681v1)|
+|2026-07-09|2026-07-09|WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search|Xiaoshuai Song|[2607.08662v1](https://arxiv.org/pdf/2607.08662v1)|
+|2026-07-09|2026-07-09|Formal Mechanisms for Market Stability in Self-Interested Agent Societies: A Marketplace Simulation Study|Eugene Ng Yi Sheng|[2607.08652v1](https://arxiv.org/pdf/2607.08652v1)|
+|2026-07-09|2026-07-09|Multi-Modal, Multi-Environment Machine Teaching for Robust Reward Learning|Ali Larian|[2607.08647v1](https://arxiv.org/pdf/2607.08647v1)|
+|2026-07-09|2026-07-09|SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling|Jiahao Wang|[2607.08565v1](https://arxiv.org/pdf/2607.08565v1)|
 ## Update on 2026-07-09
 
 ### World Model
