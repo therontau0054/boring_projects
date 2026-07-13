@@ -294,6 +294,46 @@ TODO:
 
 
 
+
+## Update on 2026-07-13
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-10|2026-07-10|PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis|Ren Takahashi|[2607.09662v1](https://arxiv.org/pdf/2607.09662v1)|
+|2026-07-10|2026-07-10|PanoWorld: Real-World Panoramic Generation|Haoyuan Li|[2607.09661v1](https://arxiv.org/pdf/2607.09661v1)|
+|2026-07-10|2026-07-10|Scalable Visual Pretraining for Language Intelligence|Yiming Zhang|[2607.09657v1](https://arxiv.org/pdf/2607.09657v1)|
+|2026-07-10|2026-07-10|OpenLongTail: Generative Scaling of Long-Tail Driving Data|Lulin Liu|[2607.09655v1](https://arxiv.org/pdf/2607.09655v1)|
+|2026-07-10|2026-07-10|Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models|Shravan Murlidaran|[2607.09654v1](https://arxiv.org/pdf/2607.09654v1)|
+|2026-07-10|2026-07-10|VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents|Katherine Swinea|[2607.09653v1](https://arxiv.org/pdf/2607.09653v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-10|2026-07-10|4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception|Xiaokai Bai|[2607.09629v1](https://arxiv.org/pdf/2607.09629v1)|
+|2026-07-10|2026-07-10|LLM for EDA in Front-End Design: Challenges and Opportunities|Kangwei Xu|[2607.09616v1](https://arxiv.org/pdf/2607.09616v1)|
+|2026-07-10|2026-07-10|PAC-ACT: Post-training Actor-Critic for Action Chunking Transformers|Yujie Pang|[2607.09590v1](https://arxiv.org/pdf/2607.09590v1)|
+|2026-07-10|2026-07-10|TrustX Agent Risk Classification Framework (ARC): Risk-Tiering Internally Created Agentic AI Systems|Hannah M. Liu|[2607.09586v1](https://arxiv.org/pdf/2607.09586v1)|
+|2026-07-10|2026-07-10|Entropy-Constrained Machine Learning with Residual Data Augmentation for Modeling Chemical Kinetics|Okezzi Ukorigho|[2607.09582v1](https://arxiv.org/pdf/2607.09582v1)|
+|2026-07-10|2026-07-10|Beyond Fixed Representations: The Vocabulary and Verifier Gaps in Open-Ended AI|Yuan Cao|[2607.09560v1](https://arxiv.org/pdf/2607.09560v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-10|2026-07-10|Learning More from Less: Reinforcement Learning from Hindsight|Iris Xu|[2607.09042v1](https://arxiv.org/pdf/2607.09042v1)|
+|2026-07-09|2026-07-09|CLAP: Direct VLM-to-VLA Adaptation via Language-Action Grounding|Yuri Ishitoya|[2607.08974v1](https://arxiv.org/pdf/2607.08974v1)|
+|2026-07-09|2026-07-09|FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space|Michael Murray|[2607.08877v1](https://arxiv.org/pdf/2607.08877v1)|
+|2026-07-09|2026-07-09|Prompt-Driven Exploration|Sunshine Jiang|[2607.08837v1](https://arxiv.org/pdf/2607.08837v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-10|2026-07-10|Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection|Cláudio Lúcio do Val Lopes|[2607.09641v1](https://arxiv.org/pdf/2607.09641v1)|
+|2026-07-10|2026-07-10|Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory|Chengkai Zhu|[2607.09632v1](https://arxiv.org/pdf/2607.09632v1)|
+|2026-07-10|2026-07-10|Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026|Nirjhar Das|[2607.09623v1](https://arxiv.org/pdf/2607.09623v1)|
+|2026-07-10|2026-07-10|Agora: Enhancing LLM Agent Reasoning Via Auction-Based Task Allocation|Kaiji Zhou|[2607.09600v1](https://arxiv.org/pdf/2607.09600v1)|
+|2026-07-10|2026-07-10|SAGEAgent: A Self-Evolving Agent for Cost-Aware Modality Acquisition in Multimodal Survival Prediction|Chongyu Qu|[2607.09521v1](https://arxiv.org/pdf/2607.09521v1)|
+|2026-07-10|2026-07-10|Failure as a Process: An Anatomy of CLI Coding Agent Trajectories|Xiangxin Zhao|[2607.09510v1](https://arxiv.org/pdf/2607.09510v1)|
 ## Update on 2026-07-11
 
 ### World Model
