@@ -295,6 +295,48 @@ TODO:
 
 
 
+
+## Update on 2026-07-15
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-14|2026-07-14|Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution|Junjie Yin|[2607.13034v1](https://arxiv.org/pdf/2607.13034v1)|
+|2026-07-14|2026-07-14|DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation|Yu Fang|[2607.13033v1](https://arxiv.org/pdf/2607.13033v1)|
+|2026-07-14|2026-07-14|The Seriality Gap in Video Diffusion Models|Jorge Diaz Chao|[2607.13031v1](https://arxiv.org/pdf/2607.13031v1)|
+|2026-07-14|2026-07-14|On the Detectability of Volcanic Exo-Ios That May Fuel Auroras on Super-Jupiters|Brooke Kotten|[2607.13030v1](https://arxiv.org/pdf/2607.13030v1)|
+|2026-07-14|2026-07-14|TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale|Zhouchonghao Wu|[2607.13028v1](https://arxiv.org/pdf/2607.13028v1)|
+|2026-07-14|2026-07-14|PalmClaw: A Native On-Device Agent Framework for Mobile Phones|Hongru Cai|[2607.13027v1](https://arxiv.org/pdf/2607.13027v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-14|2026-07-14|A Shortcut to Statistically Steady-State Turbulence with Flow Matching|Gianluca Galletti|[2607.13022v1](https://arxiv.org/pdf/2607.13022v1)|
+|2026-07-14|2026-07-14|Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model|Harsha Vardhan Khurdula|[2607.13013v1](https://arxiv.org/pdf/2607.13013v1)|
+|2026-07-14|2026-07-14|Watermark Forensics for Generative Models: An Information-Theoretic Perspective|Xiaoyu Li|[2607.13003v1](https://arxiv.org/pdf/2607.13003v1)|
+|2026-07-14|2026-07-14|Win by Silence: Deletion Non-Monotonicity, Autonomous Exploitation, and Typed-State Gating in LLM Plan Evaluation|Aleh Manchuliantsau|[2607.12986v1](https://arxiv.org/pdf/2607.12986v1)|
+|2026-07-14|2026-07-14|FormalAnalyticGeo: A Neural-Symbolic Based Framework for Multimodal Analytic Geometry Problem Generation|Ruoran Xu|[2607.12982v1](https://arxiv.org/pdf/2607.12982v1)|
+|2026-07-14|2026-07-14|Form, Not Content? A Preregistered, Placebo-Controlled Evaluation of Learned Error-Conditioned Self-Repair Through Prompts and Weights in Frozen Small Code Models|Mehmet Iscan|[2607.12962v1](https://arxiv.org/pdf/2607.12962v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-14|2026-07-14|UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies|Lirui Zhao|[2607.12892v1](https://arxiv.org/pdf/2607.12892v1)|
+|2026-07-14|2026-07-14|Jetson-PI: Towards Onboard Real-Time Robot Control via Foresight-Aligned Asynchronous Inference|Zebin Yang|[2607.12659v1](https://arxiv.org/pdf/2607.12659v1)|
+|2026-07-13|2026-07-13|Technical Report on the CVPR 2026@AdvML Workshop Challenge|Tianyuan Zhang|[2607.11560v1](https://arxiv.org/pdf/2607.11560v1)|
+|2026-07-13|2026-07-13|See like a Robot: Robot-Centric Pointmaps for Vision-Language-Action Models|Byungkun Lee|[2607.11498v1](https://arxiv.org/pdf/2607.11498v1)|
+|2026-07-13|2026-07-13|Towards Predictive, Aligned, and Scalable Robot Learning|Peijun Tang|[2607.11270v1](https://arxiv.org/pdf/2607.11270v1)|
+|2026-07-13|2026-07-13|VIA: Visual Interface Agent for Robot Control|Hengyuan Hu|[2607.11119v1](https://arxiv.org/pdf/2607.11119v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-14|2026-07-14|Knowledge- and Gradient-Guided Reinforcement Learning for Parametrized Action Markov Decision Processes|Jonas Ehrhardt|[2607.12924v1](https://arxiv.org/pdf/2607.12924v1)|
+|2026-07-14|2026-07-14|MemOps: Benchmarking Lifecycle Memory Operations in Long-Horizon Conversations|Xixuan Hao|[2607.12893v1](https://arxiv.org/pdf/2607.12893v1)|
+|2026-07-14|2026-07-14|A Multi-Agent System for Autonomous, Fine-Tuning-Free Clinical Symptom Detection: Development and Validation Study|Cameron Cagan|[2607.12886v1](https://arxiv.org/pdf/2607.12886v1)|
+|2026-07-14|2026-07-14|Unveiling Complex Collective Behaviors from Simple Rewards|Yize Mi|[2607.12861v1](https://arxiv.org/pdf/2607.12861v1)|
+|2026-07-14|2026-07-14|Human-AI Agent Interaction as a Neuroplastic Training Environment|Eranga Bandara|[2607.12823v1](https://arxiv.org/pdf/2607.12823v1)|
+|2026-07-14|2026-07-14|Who Grades the Grader? Co-Evolving Evaluation Metrics and Skills for Self-Improving LLM Agents|Xing Zhang|[2607.12790v1](https://arxiv.org/pdf/2607.12790v1)|
 ## Update on 2026-07-13
 
 ### World Model
