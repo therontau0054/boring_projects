@@ -296,6 +296,48 @@ TODO:
 
 
 
+
+## Update on 2026-07-17
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-16|2026-07-16|Hierarchical Denoising For Multi-Step Visual Reasoning|Zezhong Qian|[2607.15278v1](https://arxiv.org/pdf/2607.15278v1)|
+|2026-07-16|2026-07-16|RoboTTT: Context Scaling for Robot Policies|Yunfan Jiang|[2607.15275v1](https://arxiv.org/pdf/2607.15275v1)|
+|2026-07-16|2026-07-16|MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators|Yushi Huang|[2607.15273v1](https://arxiv.org/pdf/2607.15273v1)|
+|2026-07-16|2026-07-16|Online Neural Space Time Memory for Dynamic Novel View Synthesis|Baback Elmieh|[2607.15271v1](https://arxiv.org/pdf/2607.15271v1)|
+|2026-07-16|2026-07-16|Pretraining Data Can Be Poisoned through Computational Propaganda|Victoria Graf|[2607.15267v1](https://arxiv.org/pdf/2607.15267v1)|
+|2026-07-16|2026-07-16|SceneBind: Binding What and Where Across Vision, Audio and Language|Mingfei Chen|[2607.15265v1](https://arxiv.org/pdf/2607.15265v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-16|2026-07-16|Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents|Paul Kassianik|[2607.15263v1](https://arxiv.org/pdf/2607.15263v1)|
+|2026-07-16|2026-07-16|teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data|Qiwei Li|[2607.15254v1](https://arxiv.org/pdf/2607.15254v1)|
+|2026-07-16|2026-07-16|NeuronSoup: Evolving Asynchronous, Shared-Neuron Temporal Graphs without Backpropagation|Subodh Kalia|[2607.15217v1](https://arxiv.org/pdf/2607.15217v1)|
+|2026-07-16|2026-07-16|Symbal: Detecting Systematic Misalignments in Model-Generated Captions|Maya Varma|[2607.15216v1](https://arxiv.org/pdf/2607.15216v1)|
+|2026-07-16|2026-07-16|BadWAM: When World-Action Models Dream Right but Act Wrong|Qi Li|[2607.15207v1](https://arxiv.org/pdf/2607.15207v1)|
+|2026-07-16|2026-07-16|MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization|Shaoxiong Zhan|[2607.15205v1](https://arxiv.org/pdf/2607.15205v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-16|2026-07-16|FoMoVLA: Bridging Visual Foresight and Motion Guidance for Vision-Language-Action Models|Wei Li|[2607.14739v1](https://arxiv.org/pdf/2607.14739v1)|
+|2026-07-16|2026-07-16|Action QFormer: Structured Representation Shaping under Action Supervision in Vision-Language-Action Models|Yufeng Ji|[2607.14635v1](https://arxiv.org/pdf/2607.14635v1)|
+|2026-07-15|2026-07-15|DiMaS: Distribution Matching for Steering Vision-Language-Action Models|Pegah Khayatan|[2607.14280v1](https://arxiv.org/pdf/2607.14280v1)|
+|2026-07-15|2026-07-15|Never Too Late for Force: Accelerating VLA Post-Training with Reactive Force Injection|Yi Wang|[2607.14236v1](https://arxiv.org/pdf/2607.14236v1)|
+|2026-07-15|2026-07-15|UESF-Bench: Benchmarking and Probing for Unified Embodied Seeking and Following|Kun Yu|[2607.13621v1](https://arxiv.org/pdf/2607.13621v1)|
+|2026-07-15|2026-07-15|Semantic Anchoring for Robotic Action Representations|Yuan Xu|[2607.13597v1](https://arxiv.org/pdf/2607.13597v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-16|2026-07-16|SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions|Yasheng Sun|[2607.15272v1](https://arxiv.org/pdf/2607.15272v1)|
+|2026-07-16|2026-07-16|SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration|Yuyao Zhang|[2607.15257v1](https://arxiv.org/pdf/2607.15257v1)|
+|2026-07-16|2026-07-16|AutoSynthesis: An agentic system for automated meta-analysis|Moein Taherinezhad|[2607.15247v1](https://arxiv.org/pdf/2607.15247v1)|
+|2026-07-16|2026-07-16|When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space|Weimeng Wang|[2607.15218v1](https://arxiv.org/pdf/2607.15218v1)|
+|2026-07-16|2026-07-16|Plover: Steering GUI Agents through Plan-Centric Interaction|Madhumitha Venkatesan|[2607.15193v1](https://arxiv.org/pdf/2607.15193v1)|
+|2026-07-16|2026-07-16|Scaling Behavior Foundation Model for Humanoid Robots|Weishuai Zeng|[2607.15163v1](https://arxiv.org/pdf/2607.15163v1)|
 ## Update on 2026-07-15
 
 ### World Model
