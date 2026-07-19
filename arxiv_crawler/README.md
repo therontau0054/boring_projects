@@ -297,6 +297,47 @@ TODO:
 
 
 
+
+## Update on 2026-07-19
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-16|2026-07-16|Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier|Arthur G. Bubolz|[2607.15258v1](https://arxiv.org/pdf/2607.15258v1)|
+|2026-07-16|2026-07-16|Mutable Low-Rank Sketches for Retrain-Free Recommendation|Hector J. Garcia|[2607.15242v1](https://arxiv.org/pdf/2607.15242v1)|
+|2026-07-16|2026-07-16|In-Place Tokenizer Expansion for Pre-trained LLMs|Jimmy T. H. Smith|[2607.15232v1](https://arxiv.org/pdf/2607.15232v1)|
+|2026-07-16|2026-07-16|CRISP: Constrained Refinement via Iterative Squeezing Process for Robust Medical Image Segmentation under Domain Shift|Yizhou Fang|[2607.15231v1](https://arxiv.org/pdf/2607.15231v1)|
+|2026-07-16|2026-07-16|MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos|Ziren Gong|[2607.15211v1](https://arxiv.org/pdf/2607.15211v1)|
+|2026-07-16|2026-07-16|Self-Evolving Human-Centered Framework for Explainable Depression Symptom Annotation|Hoang-Loc Cao|[2607.15202v1](https://arxiv.org/pdf/2607.15202v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-16|2026-07-16|Mask-Aware Policy Gradients for Diffusion Language Models|Haran Raajesh|[2607.15200v1](https://arxiv.org/pdf/2607.15200v1)|
+|2026-07-16|2026-07-16|The Industrialization of Research ; On AI-Driven Science and Its Consequences|Emmanuel Jeannot|[2607.15164v1](https://arxiv.org/pdf/2607.15164v1)|
+|2026-07-16|2026-07-16|Concept-Guided Spatial Regularization for World Models in Atari Pong|Yukuan Lu|[2607.15142v1](https://arxiv.org/pdf/2607.15142v1)|
+|2026-07-16|2026-07-16|Learning in Infinitesimal Non-Compositional Sketches|Sridhar Mahadevan|[2607.15107v1](https://arxiv.org/pdf/2607.15107v1)|
+|2026-07-16|2026-07-16|Long-Context Fine-Tuning with Limited VRAM|Vladimir Fedosov|[2607.15105v1](https://arxiv.org/pdf/2607.15105v1)|
+|2026-07-16|2026-07-16|Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents|Dylan Van Mulders|[2607.15095v1](https://arxiv.org/pdf/2607.15095v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-11|2026-07-15|ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory|Jiayi Tian|[2607.10350v2](https://arxiv.org/pdf/2607.10350v2)|
+|2026-07-11|2026-07-11|ActiveFly-Bench: Aligning Embodied Question Answering with Vision-Language-Action for Aerial Embodied Perception|Weichen Zhang|[2607.10180v1](https://arxiv.org/pdf/2607.10180v1)|
+|2026-07-11|2026-07-11|On the Efficiency of LoRA Fine-Tuning for Vision-Language-Action Models in Industrial Robotic Manipulation|Finn Ferchau|[2607.10172v1](https://arxiv.org/pdf/2607.10172v1)|
+|2026-07-10|2026-07-10|TS-Mask VLA: 2D Temporal-Spatial Masking for Vision-Language-Action Model with Effective Bridging|Shengzhuo Yang|[2607.09818v1](https://arxiv.org/pdf/2607.09818v1)|
+|2026-07-08|2026-07-15|HELP: Human-Efficient Large-Scale Robot Post-Training with Rollout Segmentation|Shaopeng Zhai|[2607.09776v2](https://arxiv.org/pdf/2607.09776v2)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-16|2026-07-16|BrainPilot: Automating Brain Discovery with Agentic Research|Haoxuan Li|[2607.15079v1](https://arxiv.org/pdf/2607.15079v1)|
+|2026-07-16|2026-07-16|ANet Patu-1: The Value of Connection in the Agent Network|Mu Yuan|[2607.15053v1](https://arxiv.org/pdf/2607.15053v1)|
+|2026-07-16|2026-07-16|LQCDMaster: Agentic Scientific Computing for Lattice Quantum Chromodynamics Research|Haofei Gao|[2607.15001v1](https://arxiv.org/pdf/2607.15001v1)|
+|2026-07-16|2026-07-16|OmniaBench: Benchmarking General AI Agents Across Diverse Scenarios|Chengyu Shen|[2607.14989v1](https://arxiv.org/pdf/2607.14989v1)|
+|2026-07-16|2026-07-16|LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget|Changhai Zhou|[2607.14952v1](https://arxiv.org/pdf/2607.14952v1)|
+|2026-07-16|2026-07-16|StructureClaw: Traceable LLM Agents and an Executable Benchmark for Structural Engineering Workflows|Sizhong Qin|[2607.14896v1](https://arxiv.org/pdf/2607.14896v1)|
 ## Update on 2026-07-17
 
 ### World Model
