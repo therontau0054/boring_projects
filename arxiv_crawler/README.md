@@ -298,6 +298,46 @@ TODO:
 
 
 
+
+## Update on 2026-07-21
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-20|2026-07-20|The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric|Sheng-Yu Wang|[2607.18237v1](https://arxiv.org/pdf/2607.18237v1)|
+|2026-07-20|2026-07-20|Patch Policy: Efficient Embodied Control via Dense Visual Representations|Gaoyue Zhou|[2607.18236v1](https://arxiv.org/pdf/2607.18236v1)|
+|2026-07-20|2026-07-20|Automated Discovery Has No Universally Superior Harness|Akshat Gupta|[2607.18235v1](https://arxiv.org/pdf/2607.18235v1)|
+|2026-07-20|2026-07-20|It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief|Kevin Du|[2607.18232v1](https://arxiv.org/pdf/2607.18232v1)|
+|2026-07-20|2026-07-20|Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs|Yi Tang|[2607.18230v1](https://arxiv.org/pdf/2607.18230v1)|
+|2026-07-20|2026-07-20|Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes|Brian K Chen|[2607.18228v1](https://arxiv.org/pdf/2607.18228v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-20|2026-07-20|Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference|Masahiro Kato|[2607.18225v1](https://arxiv.org/pdf/2607.18225v1)|
+|2026-07-20|2026-07-20|Learning Adaptive Safety Margins for Visual Navigation|Junyi Hu|[2607.18200v1](https://arxiv.org/pdf/2607.18200v1)|
+|2026-07-20|2026-07-20|PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning|Hang Zhang|[2607.18199v1](https://arxiv.org/pdf/2607.18199v1)|
+|2026-07-20|2026-07-20|Three-Body Scattering for Generative Modeling|Peng Sun|[2607.18198v1](https://arxiv.org/pdf/2607.18198v1)|
+|2026-07-20|2026-07-20|EVOLVE: Efficient Learned Volume Compression with Variable-Rate Encoding on a Cross-Domain Database|Kaiyuan Tang|[2607.18187v1](https://arxiv.org/pdf/2607.18187v1)|
+|2026-07-20|2026-07-20|FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications|Krish Agarwal|[2607.18171v1](https://arxiv.org/pdf/2607.18171v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-20|2026-07-20|Reasoning as a Double-Edged Sword: Architecture and Cross-Stage Robustness in Vision-Language-Action Models|Tuan Duong Trinh|[2607.17786v1](https://arxiv.org/pdf/2607.17786v1)|
+|2026-07-19|2026-07-19|VLA-ReID: Video-Level Association for Re-Identification in Multi-Object Tracking with Highly Similar Objects|Yanrong Qin|[2607.17157v1](https://arxiv.org/pdf/2607.17157v1)|
+|2026-07-17|2026-07-17|Foresight Residual RL for Long-Horizon Robot Manipulation with Vision-Language-Action Models|Yuhan Liu|[2607.16506v1](https://arxiv.org/pdf/2607.16506v1)|
+|2026-07-17|2026-07-17|JoyNexus: Service-Oriented Multi-Tenant Post-Training for VLA Models|Haoran Sun|[2607.16074v1](https://arxiv.org/pdf/2607.16074v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-20|2026-07-20|TRIM: Reducing AI-Generated CodeSlop via Agent Trajectory Minimization|Alex Mathai|[2607.18161v1](https://arxiv.org/pdf/2607.18161v1)|
+|2026-07-20|2026-07-20|LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications|Daniela Rojas|[2607.18147v1](https://arxiv.org/pdf/2607.18147v1)|
+|2026-07-20|2026-07-20|O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning|Mei Yuan|[2607.18142v1](https://arxiv.org/pdf/2607.18142v1)|
+|2026-07-20|2026-07-20|SGA: Plug&Play Geometric Verification for Educational Video Synthesis|Lopez Jhon|[2607.18116v1](https://arxiv.org/pdf/2607.18116v1)|
+|2026-07-20|2026-07-20|WorldCupArena: Fine-Grained Evaluation of Language Models and Deep-Research Agents on Football Forecasting|Zhaokai Wang|[2607.18084v1](https://arxiv.org/pdf/2607.18084v1)|
+|2026-07-20|2026-07-20|Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection|Haochen Zhao|[2607.18080v1](https://arxiv.org/pdf/2607.18080v1)|
 ## Update on 2026-07-19
 
 ### World Model
