@@ -299,6 +299,23 @@ TODO:
 
 
 
+
+## Update on 2026-07-23
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-22|2026-07-22|Lipschitzian SLLNs for random functions|Lai Tian|[2607.20411v1](https://arxiv.org/pdf/2607.20411v1)|
+|2026-07-22|2026-07-22|Persian Pixel: A large-scale synthetic OCR dataset for Persian language|Pouria Mahdi|[2607.20385v1](https://arxiv.org/pdf/2607.20385v1)|
+|2026-07-22|2026-07-22|Split Radiance Cascades: Real-Time Global Illumination via Sparse Radiance Probes|Rouli Freeman|[2607.20384v1](https://arxiv.org/pdf/2607.20384v1)|
+|2026-07-22|2026-07-22|FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization|Eva McCord|[2607.20382v1](https://arxiv.org/pdf/2607.20382v1)|
+|2026-07-22|2026-07-22|Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations|Hiskias Dingeto|[2607.20379v1](https://arxiv.org/pdf/2607.20379v1)|
+|2026-07-22|2026-07-22|Distributed Colouring with 4/3 chi Colours for Hyperbolic Random Graphs|Kostas Lakis|[2607.20360v1](https://arxiv.org/pdf/2607.20360v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-22|2026-07-22|Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids|Roger Sala Sisó|[2607.20345v1](https://arxiv.org/pdf/2607.20345v1)|
 ## Update on 2026-07-21
 
 ### World Model
