@@ -326,6 +326,48 @@ TODO:
 
 
 
+
+## Update on 2026-09-17
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-16|2026-09-16|Objective vs. Search: Decomposing What Makes a Good Tokeniser|Ahmetcan Yavuz|[2609.19145v1](https://arxiv.org/pdf/2609.19145v1)|
+|2026-09-16|2026-09-16|A Zeroth-Order Paradigm for LLM Preference Alignment|Peter Chen|[2609.19144v1](https://arxiv.org/pdf/2609.19144v1)|
+|2026-09-16|2026-09-16|PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection|Sara Pieri|[2609.19143v1](https://arxiv.org/pdf/2609.19143v1)|
+|2026-09-16|2026-09-16|PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics|Bardienus P. Duisterhof|[2609.19142v1](https://arxiv.org/pdf/2609.19142v1)|
+|2026-09-16|2026-09-16|Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging|Pranaya Jajoo|[2609.19135v1](https://arxiv.org/pdf/2609.19135v1)|
+|2026-09-16|2026-09-16|ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments|Hejia Geng|[2609.19134v1](https://arxiv.org/pdf/2609.19134v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-16|2026-09-16|Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation|Guanhua Ji|[2609.19137v1](https://arxiv.org/pdf/2609.19137v1)|
+|2026-09-16|2026-09-16|Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation|Daniel P. Jeong|[2609.19093v1](https://arxiv.org/pdf/2609.19093v1)|
+|2026-09-16|2026-09-16|Securing quantum error correction against misleading advice from AI agents|A. Barış Özgüler|[2609.19090v1](https://arxiv.org/pdf/2609.19090v1)|
+|2026-09-16|2026-09-16|MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education|Luyao Zhu|[2609.19088v1](https://arxiv.org/pdf/2609.19088v1)|
+|2026-09-16|2026-09-16|A General Kernel Framework for Non-CND Distance Measures Using |D|-Dimensional Sparse Landmark Embeddings|Marcus M. Noack|[2609.19083v1](https://arxiv.org/pdf/2609.19083v1)|
+|2026-09-16|2026-09-16|Probabilistic Linear Explanations|Frederic Koriche|[2609.19077v1](https://arxiv.org/pdf/2609.19077v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-16|2026-09-16|rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference|Kaijun Zhou|[2609.19104v1](https://arxiv.org/pdf/2609.19104v1)|
+|2026-09-16|2026-09-16|VLA-ULAP: Interleaving Cloud VLA Calls with Ultra-Lightweight Local Action Prediction at the Edge|Deyu Cao|[2609.18663v1](https://arxiv.org/pdf/2609.18663v1)|
+|2026-09-16|2026-09-16|ActiveScale: Scaling Active Perception for Robots across Model, Data, and Hardware|Shuai Zhou|[2609.18514v1](https://arxiv.org/pdf/2609.18514v1)|
+|2026-09-16|2026-09-16|ActionPiece: Rethinking Action Tokenization for Autoregressive Vision-Language-Action Models|Shijie Lian|[2609.18487v1](https://arxiv.org/pdf/2609.18487v1)|
+|2026-09-16|2026-09-16|WetRobo: A Reproducible Robot Kit for Coding Agents in Biological Laboratories|Yuna Oikawa|[2609.18435v1](https://arxiv.org/pdf/2609.18435v1)|
+|2026-09-16|2026-09-16|${M}^2$Tok: Multi-head Multi-codebook Discrete Action Tokenization for Vision-Language-Action Models|Chunpu Xu|[2609.18259v1](https://arxiv.org/pdf/2609.18259v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-16|2026-09-16|Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments|João Meneses dos Santos|[2609.19128v1](https://arxiv.org/pdf/2609.19128v1)|
+|2026-09-16|2026-09-16|Affora: A Design System for Agent-Friendly Interfaces|Jin Gao|[2609.19125v1](https://arxiv.org/pdf/2609.19125v1)|
+|2026-09-16|2026-09-16|Flag Game: A Toy Model for Mechanistic Swarm Interpretability|Elizabeth Pavlova|[2609.19124v1](https://arxiv.org/pdf/2609.19124v1)|
+|2026-09-16|2026-09-16|Evidence-Grounded Agentic Formulation Development in an Autonomous Laboratory|Michael M. Craig|[2609.19099v1](https://arxiv.org/pdf/2609.19099v1)|
+|2026-09-16|2026-09-16|Social Laws for Multi-agent Coordination in Stochastic Environments|Rolando Fernandez|[2609.18929v1](https://arxiv.org/pdf/2609.18929v1)|
+|2026-09-16|2026-09-16|Higher-order pruning of experts in mixture-of-experts language models|Alex M. Tseng|[2609.18916v1](https://arxiv.org/pdf/2609.18916v1)|
 ## Update on 2026-09-11
 
 ### World Model
