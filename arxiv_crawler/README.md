@@ -327,6 +327,48 @@ TODO:
 
 
 
+
+## Update on 2026-09-19
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-17|2026-09-17|Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation|Bingxin Xu|[2609.20822v1](https://arxiv.org/pdf/2609.20822v1)|
+|2026-09-17|2026-09-17|Embedding Models Measure in Peculiar Ways|Juri Opitz|[2609.20821v1](https://arxiv.org/pdf/2609.20821v1)|
+|2026-09-17|2026-09-17|Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision|Nitish Dashora|[2609.20820v1](https://arxiv.org/pdf/2609.20820v1)|
+|2026-09-17|2026-09-17|Can 4D Foundation Models Remember?|Guangzhao He|[2609.20819v1](https://arxiv.org/pdf/2609.20819v1)|
+|2026-09-17|2026-09-17|SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos|Peiyu Liu|[2609.20818v1](https://arxiv.org/pdf/2609.20818v1)|
+|2026-09-17|2026-09-17|FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations|Kevin Qu|[2609.20817v1](https://arxiv.org/pdf/2609.20817v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-17|2026-09-17|Paint-Anything: Unified Any-Color Control for Image Generation and Editing|Ji Xie|[2609.20816v1](https://arxiv.org/pdf/2609.20816v1)|
+|2026-09-17|2026-09-17|PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers|Jiachen Yao|[2609.20794v1](https://arxiv.org/pdf/2609.20794v1)|
+|2026-09-17|2026-09-17|Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations|Sarah Wyer|[2609.20779v1](https://arxiv.org/pdf/2609.20779v1)|
+|2026-09-17|2026-09-17|GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies|Xin Chen|[2609.20776v1](https://arxiv.org/pdf/2609.20776v1)|
+|2026-09-17|2026-09-17|Semantic Action Graph: A Shared Representation for Agent Grounding and Human Interpretation of Sports Highlights|Tica Lin|[2609.20768v1](https://arxiv.org/pdf/2609.20768v1)|
+|2026-09-17|2026-09-17|Agile-WAM: An Agile Tactile World Action Model for Contact-Rich Robot Control|Hanchu Zhou|[2609.20761v1](https://arxiv.org/pdf/2609.20761v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-17|2026-09-17|HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface|Zimu Han|[2609.20659v1](https://arxiv.org/pdf/2609.20659v1)|
+|2026-09-17|2026-09-17|Uni-LaDiR: Latent Diffusion Unifies Multimodal Reasoning|Haoqiang Kang|[2609.19878v1](https://arxiv.org/pdf/2609.19878v1)|
+|2026-09-16|2026-09-16|Acting in Meters: Learning Metric Interactions for Precise Robotic Manipulation|Lijie Wang|[2609.18243v1](https://arxiv.org/pdf/2609.18243v1)|
+|2026-09-16|2026-09-16|Reinforcement Learning for Real-Time Vision-Language-Action Policies|Perry Dong|[2609.18207v1](https://arxiv.org/pdf/2609.18207v1)|
+|2026-09-16|2026-09-16|A Comprehensive Review of Generative Physical Artificial Intelligence|Satyam Gaba|[2609.18111v1](https://arxiv.org/pdf/2609.18111v1)|
+|2026-09-16|2026-09-17|Not All Layers Need Tuning: Diagnosing and Directing Adaptation in Vision-Language-Action Models|Shahram Najam Syed|[2609.18084v2](https://arxiv.org/pdf/2609.18084v2)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-17|2026-09-17|Quantifying Overclaiming Propensity in Frontier LLM Agents|Nolan Smyth|[2609.20812v1](https://arxiv.org/pdf/2609.20812v1)|
+|2026-09-17|2026-09-17|An Empirical Study of Harness Design for Coding Agents|Run-Ze Fan|[2609.20804v1](https://arxiv.org/pdf/2609.20804v1)|
+|2026-09-17|2026-09-17|RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning|Yan Yu|[2609.20784v1](https://arxiv.org/pdf/2609.20784v1)|
+|2026-09-17|2026-09-17|Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation|Sho Kawano|[2609.20758v1](https://arxiv.org/pdf/2609.20758v1)|
+|2026-09-17|2026-09-17|RAFT: A Stateful Retrieval-Augmented Framework for Troubleshooting Agents|Mingxuan Zhang|[2609.20754v1](https://arxiv.org/pdf/2609.20754v1)|
+|2026-09-17|2026-09-17|Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models|Frank E. Bobe|[2609.20722v1](https://arxiv.org/pdf/2609.20722v1)|
 ## Update on 2026-09-17
 
 ### World Model
