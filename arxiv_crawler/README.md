@@ -328,6 +328,48 @@ TODO:
 
 
 
+
+## Update on 2026-09-21
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-18|2026-09-18|Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design|Hongyang Du|[2609.22086v1](https://arxiv.org/pdf/2609.22086v1)|
+|2026-09-18|2026-09-18|SeeQ: Training Generalist Value Functions for Long-Horizon Robotic Manipulation|Saksham Singh|[2609.22085v1](https://arxiv.org/pdf/2609.22085v1)|
+|2026-09-18|2026-09-18|BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings|Alexandre Andre|[2609.22064v1](https://arxiv.org/pdf/2609.22064v1)|
+|2026-09-18|2026-09-18|Predictable Failure in Multi-Hop Retrieval: Score-Distributional Confidence Scoring and Abstention|Andre Bacellar|[2609.22056v1](https://arxiv.org/pdf/2609.22056v1)|
+|2026-09-18|2026-09-18|Benchmarking World Models for Continual Learning on Compositional Tasks|Haoyu Zhou|[2609.22055v1](https://arxiv.org/pdf/2609.22055v1)|
+|2026-09-18|2026-09-18|Design and pricing of a transparent parametric-modeled loss CAT bond: application to German windstorm|John Ery|[2609.22052v1](https://arxiv.org/pdf/2609.22052v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-18|2026-09-18|$λ$-Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource|Yufeng Wang|[2609.22041v1](https://arxiv.org/pdf/2609.22041v1)|
+|2026-09-18|2026-09-18|DiaVLo: Diagnosing Behaviours of Vision-Language Models|Lorenzo Corti|[2609.22008v1](https://arxiv.org/pdf/2609.22008v1)|
+|2026-09-18|2026-09-18|A Lie Detector Test for Language Models: Reading Knowledge a Model Won't Reveal|Hiskias Dingeto|[2609.21996v1](https://arxiv.org/pdf/2609.21996v1)|
+|2026-09-18|2026-09-18|Assessment of Machine Learning-Based Critical Heat Flux Models in the CTF Subchannel Code for Square Rod Bundle Prediction|Aidan Furlong|[2609.21995v1](https://arxiv.org/pdf/2609.21995v1)|
+|2026-09-18|2026-09-18|Time series generation with spectrally aligned latent flow matching|Camilo Carvajal Reyes|[2609.21989v1](https://arxiv.org/pdf/2609.21989v1)|
+|2026-09-18|2026-09-18|Multiplicative Optimism for Constant Regret in Games|Ashkan Soleymani|[2609.21976v1](https://arxiv.org/pdf/2609.21976v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-18|2026-09-18|Outcome-Conditioned End-Effector Geometry Across Vision-Language-Action Policies|Xingyu Lin|[2609.21659v1](https://arxiv.org/pdf/2609.21659v1)|
+|2026-09-18|2026-09-18|SynthDemo-RL: Breaking the Zero-Reward Barrier in VLA Adaptation with LLM-Guided Synthetic Demonstrations|Hiroaki Kingetsu|[2609.21650v1](https://arxiv.org/pdf/2609.21650v1)|
+|2026-09-18|2026-09-18|VLA-Scope: Shift-Aware Failure Prediction for Vision-Language-Action Models|Kaiwen Zhu|[2609.21246v1](https://arxiv.org/pdf/2609.21246v1)|
+|2026-09-18|2026-09-18|FOCAL-VLA: Subtask-Guided Geometry Distillation and Implicit World Modeling for Vision-Language-Action Models|Zhiyuan Gao|[2609.21228v1](https://arxiv.org/pdf/2609.21228v1)|
+|2026-09-18|2026-09-18|Fewer Steps, Better Actions: Rethinking Flow-Matching Inference for VLA Policies|Zhipeng Tang|[2609.21216v1](https://arxiv.org/pdf/2609.21216v1)|
+|2026-09-15|2026-09-15|FluxVLA Engine: A One-Stop VLA Engineering Platform for Embodied Intelligence|Yinhao Li|[2609.17210v1](https://arxiv.org/pdf/2609.17210v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-18|2026-09-18|CodeMidas: Scaling Agentic Coding RL Environments from Code Itself|Bowen Ye|[2609.22068v1](https://arxiv.org/pdf/2609.22068v1)|
+|2026-09-18|2026-09-18|Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw|Renkai Ma|[2609.22067v1](https://arxiv.org/pdf/2609.22067v1)|
+|2026-09-18|2026-09-18|Bayesian Belief Layer for Controllable Opinion Dynamics in LLM Agents|Hafsa Akbar|[2609.21997v1](https://arxiv.org/pdf/2609.21997v1)|
+|2026-09-18|2026-09-18|NemotronLabs VoiceChat: An Open Full-duplex Speech-to-Speech Model with Tool Calling Capabilities|Jagadeesh Balam|[2609.21967v1](https://arxiv.org/pdf/2609.21967v1)|
+|2026-09-18|2026-09-18|Learning to Move Cities: Deep Meta-Models and Reinforcement Policies for Calibration and Control in Urban Networks|Adewumi Augustine Adepitan|[2609.21945v1](https://arxiv.org/pdf/2609.21945v1)|
+|2026-09-18|2026-09-18|Guiding Agents of Quantum Games to Equilibrium using Matrix Exponential Fixed-Point Iteration|Alireza Habibi|[2609.21944v1](https://arxiv.org/pdf/2609.21944v1)|
 ## Update on 2026-09-19
 
 ### World Model
