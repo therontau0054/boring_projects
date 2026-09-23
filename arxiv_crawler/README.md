@@ -329,6 +329,48 @@ TODO:
 
 
 
+
+## Update on 2026-09-23
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-22|2026-09-22|HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis|Shufan Sun|[2609.26793v1](https://arxiv.org/pdf/2609.26793v1)|
+|2026-09-22|2026-09-22|DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving|Ziyang Leng|[2609.26792v1](https://arxiv.org/pdf/2609.26792v1)|
+|2026-09-22|2026-09-22|A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing|Xiaoxing Ren|[2609.26783v1](https://arxiv.org/pdf/2609.26783v1)|
+|2026-09-22|2026-09-22|SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving|Jennifer Williams|[2609.26777v1](https://arxiv.org/pdf/2609.26777v1)|
+|2026-09-22|2026-09-22|A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem|Laizhen Li|[2609.26761v1](https://arxiv.org/pdf/2609.26761v1)|
+|2026-09-22|2026-09-22|Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents|Laizhen Li|[2609.26760v1](https://arxiv.org/pdf/2609.26760v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-22|2026-09-22|SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue|Haobo Zheng|[2609.26780v1](https://arxiv.org/pdf/2609.26780v1)|
+|2026-09-22|2026-09-22|CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents|Trang Nguyen|[2609.26779v1](https://arxiv.org/pdf/2609.26779v1)|
+|2026-09-22|2026-09-22|Type-Safe Is Not Error-Free: A Constrained Decision Head Follows the Option Name, Not the Rubric Bound to It|Yu Sun|[2609.26758v1](https://arxiv.org/pdf/2609.26758v1)|
+|2026-09-22|2026-09-22|FleXray: Universal Clinical X-ray Segmentation|Victor Ion Butoi|[2609.26756v1](https://arxiv.org/pdf/2609.26756v1)|
+|2026-09-22|2026-09-22|EquivSVA: A Formally Verified Dataset of Behavioral Assertions Across Equivalent RTL Implementations|FNU Aditi|[2609.26751v1](https://arxiv.org/pdf/2609.26751v1)|
+|2026-09-22|2026-09-22|Metrics Failure in LLM-Based Code Vulnerability Repair: An Empirical Study and a Change-Aware Screen|Om Nepal|[2609.26749v1](https://arxiv.org/pdf/2609.26749v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-22|2026-09-22|Beyond Reconstruction Error: Analytical and Data-Driven Action Tokenization for Autoregressive Vision-Language-Action Models|Yuxin Yang|[2609.25820v1](https://arxiv.org/pdf/2609.25820v1)|
+|2026-09-22|2026-09-22|IndustrialVLA-Bench: A Traceable Multi-Axis Evaluation of Open Robot Policy Models|Yiqi Wang|[2609.25562v1](https://arxiv.org/pdf/2609.25562v1)|
+|2026-09-22|2026-09-22|HABILIS Brain 0: Geometry-Change Supervision for Vision-Language-Action and Residual Flow Recovery|Jinu Pahk|[2609.25558v1](https://arxiv.org/pdf/2609.25558v1)|
+|2026-09-21|2026-09-21|VLAQuantBench: Closed-Loop Evaluation of Post-Training Quantization for Vision-Language-Action Models|Jiuyi Xu|[2609.25376v1](https://arxiv.org/pdf/2609.25376v1)|
+|2026-09-21|2026-09-21|X-Planner: Event-Structured Task Planning for Embodied Intelligence|Howard Lu|[2609.25187v1](https://arxiv.org/pdf/2609.25187v1)|
+|2026-09-21|2026-09-21|vla.simd: Efficient CPU Inference for Language-Conditioned Manipulation|Khanh D. Nguyen|[2609.24274v1](https://arxiv.org/pdf/2609.24274v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-22|2026-09-22|Measuring the Serving Stack Instead of the Model: Hidden Confounds in Local Tool-Use Evaluation|Lijuan Tang|[2609.26693v1](https://arxiv.org/pdf/2609.26693v1)|
+|2026-09-22|2026-09-22|From Alignment to Access Control: A Framework for GenAI Policy Enforcement|Nathalie Baracaldo|[2609.26682v1](https://arxiv.org/pdf/2609.26682v1)|
+|2026-09-22|2026-09-22|MAGIC: Mixed-Granularity Agent Graphs via Incremental Construction with Dense-Reward Reinforcement Learning|Kairui Yang|[2609.26667v1](https://arxiv.org/pdf/2609.26667v1)|
+|2026-09-22|2026-09-22|The Delegation Blind Spot: Auditing Product Decisions from Agent Choices|Shivam Gupta|[2609.26642v1](https://arxiv.org/pdf/2609.26642v1)|
+|2026-09-22|2026-09-22|The Disciplinary Language Transfer Problem: How Psychological Vocabulary Produces Governance Failures in AI Agent Deployment|Kymberly Lasser-Chere|[2609.26562v1](https://arxiv.org/pdf/2609.26562v1)|
+|2026-09-22|2026-09-22|REFLEX with Jev for Efficient Selective Control in LLM Agents|Tiantong Wu|[2609.26532v1](https://arxiv.org/pdf/2609.26532v1)|
 ## Update on 2026-09-21
 
 ### World Model
