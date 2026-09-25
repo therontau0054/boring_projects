@@ -330,6 +330,48 @@ TODO:
 
 
 
+
+## Update on 2026-09-25
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-24|2026-09-24|LLM Agents Can Easily Tamper With Their Own Traces|Jeremy Qin|[2609.30266v1](https://arxiv.org/pdf/2609.30266v1)|
+|2026-09-24|2026-09-24|AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control|Jiabin Qiu|[2609.30264v1](https://arxiv.org/pdf/2609.30264v1)|
+|2026-09-24|2026-09-24|Agentic Detection of Online Conspiracies|Lior Biton|[2609.30250v1](https://arxiv.org/pdf/2609.30250v1)|
+|2026-09-24|2026-09-24|Rolling-WAM: World Action Models with Rolling Imagination|Yinghua Zhou|[2609.30247v1](https://arxiv.org/pdf/2609.30247v1)|
+|2026-09-24|2026-09-24|JevOut: Natural Context Can Flip Decision Models|Zixiang Xu|[2609.30243v1](https://arxiv.org/pdf/2609.30243v1)|
+|2026-09-24|2026-09-24|Coding Agents for Generalized Task and Motion Planning Problems|Matteo Merler|[2609.30233v1](https://arxiv.org/pdf/2609.30233v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-24|2026-09-24|RAPID: Robot Agentic Programming from Demonstrations|Yuyao Liu|[2609.30249v1](https://arxiv.org/pdf/2609.30249v1)|
+|2026-09-24|2026-09-24|Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority|Mehmet Iscan|[2609.30219v1](https://arxiv.org/pdf/2609.30219v1)|
+|2026-09-24|2026-09-24|Minimally Invasive Steering of Language Models|Taha Entesari|[2609.30218v1](https://arxiv.org/pdf/2609.30218v1)|
+|2026-09-24|2026-09-24|Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure|David Schmotz|[2609.30217v1](https://arxiv.org/pdf/2609.30217v1)|
+|2026-09-24|2026-09-24|A Living Benchmark for Information Retrieval from Electronic Health Records|Jordan L. Cahoon|[2609.30205v1](https://arxiv.org/pdf/2609.30205v1)|
+|2026-09-24|2026-09-24|Search-Aware Reinforcement Learning for Multi-Component Query Understanding in Roblox Game Search|Nayoung Choi|[2609.30177v1](https://arxiv.org/pdf/2609.30177v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-24|2026-09-24|World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal|Yehang Zhang|[2609.29964v1](https://arxiv.org/pdf/2609.29964v1)|
+|2026-09-24|2026-09-24|Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs|Riccardo Andrea Izzo|[2609.29382v1](https://arxiv.org/pdf/2609.29382v1)|
+|2026-09-24|2026-09-24|CrossSafe: Towards Cross-Embodiment Latent Safety Filters|Ihab Tabbara|[2609.28984v1](https://arxiv.org/pdf/2609.28984v1)|
+|2026-09-23|2026-09-23|Uncertainty-Gated Exploration Noise Suppresses Task Collapse in Online RL Fine-Tuning of a Flow-Matching Vision-Language-Action Policy|Mehmet Turan Yardımcı|[2609.28838v1](https://arxiv.org/pdf/2609.28838v1)|
+|2026-09-23|2026-09-23|Less Language, More Latents: Annotation-Efficient VLAs for Driving|Alexey Zakharov|[2609.27747v1](https://arxiv.org/pdf/2609.27747v1)|
+|2026-09-23|2026-09-23|InfiNoVA: Infinite Novel View Augmentation for Viewpoint Invariant Robot Policies|Sai Puneeth Reddy Gottam|[2609.27734v1](https://arxiv.org/pdf/2609.27734v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-24|2026-09-24|Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning|Sudip Bhujel|[2609.30258v1](https://arxiv.org/pdf/2609.30258v1)|
+|2026-09-24|2026-09-24|Underwater C3-JEPA: An Object-Centric Cross-View World Model for ROV Salvage|Yuncong Yang|[2609.30214v1](https://arxiv.org/pdf/2609.30214v1)|
+|2026-09-24|2026-09-24|Jev-Mobile: Jev as an Executor for Mobile GUI Agents|Linghua Zhang|[2609.30186v1](https://arxiv.org/pdf/2609.30186v1)|
+|2026-09-24|2026-09-24|Graph-Based Inference and Topology-Aware Multi-Agent Reinforcement Learning for Large-Scale Railway Network Management|Giacomo Arcieri|[2609.30150v1](https://arxiv.org/pdf/2609.30150v1)|
+|2026-09-24|2026-09-24|GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI|Arunabh Srivastava|[2609.30147v1](https://arxiv.org/pdf/2609.30147v1)|
+|2026-09-24|2026-09-24|Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale|Edesio Alcoba|[2609.30137v1](https://arxiv.org/pdf/2609.30137v1)|
 ## Update on 2026-09-23
 
 ### World Model
