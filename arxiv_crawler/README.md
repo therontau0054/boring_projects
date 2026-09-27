@@ -331,6 +331,48 @@ TODO:
 
 
 
+
+## Update on 2026-09-27
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-24|2026-09-24|To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech|Debajyoti Mazumder|[2609.30227v1](https://arxiv.org/pdf/2609.30227v1)|
+|2026-09-24|2026-09-24|PoEM: Predicting RL Outcomes from Existing Policies|Kimia Hamidieh|[2609.30226v1](https://arxiv.org/pdf/2609.30226v1)|
+|2026-09-24|2026-09-24|TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations|Ayush Jain|[2609.30222v1](https://arxiv.org/pdf/2609.30222v1)|
+|2026-09-24|2026-09-24|WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation|Yubo Zhu|[2609.30221v1](https://arxiv.org/pdf/2609.30221v1)|
+|2026-09-24|2026-09-24|A Nearly Quadratic Lower Bound for Linear Optimization over Convex Bodies in the Membership Oracle Model|Santosh S. Vempala|[2609.30215v1](https://arxiv.org/pdf/2609.30215v1)|
+|2026-09-24|2026-09-24|ReVAMP: Vector-Accelerated Motion Planning for Kinematically-Constrained Systems via Reparameterization|Shrutheesh R. Iyer|[2609.30213v1](https://arxiv.org/pdf/2609.30213v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-24|2026-09-24|GridSFM: A Foundation Model for Solving AC Optimal Power Flow|Luke Bhan|[2609.30173v1](https://arxiv.org/pdf/2609.30173v1)|
+|2026-09-24|2026-09-24|Learning and interpreting policies for simultaneous entanglement requests in quantum networks|Leon Rode|[2609.30157v1](https://arxiv.org/pdf/2609.30157v1)|
+|2026-09-24|2026-09-24|EnigmaForge: The Question Is Hidden in the Story|Daniel Eisner|[2609.30144v1](https://arxiv.org/pdf/2609.30144v1)|
+|2026-09-24|2026-09-24|HEXIS: Compiling Skills into Extended Finite State Machines|Minghao LI|[2609.30123v1](https://arxiv.org/pdf/2609.30123v1)|
+|2026-09-24|2026-09-24|R-DEIM Net: An Efficient Rationale-Augmented Dual-Expert Interaction Model for Paraphrase Detection| Pushp|[2609.30100v1](https://arxiv.org/pdf/2609.30100v1)|
+|2026-09-24|2026-09-24|Reachability-Based Formal Verification of Graph Neural Networks with Node and Edge Features|Anne M. Tumlin|[2609.30079v1](https://arxiv.org/pdf/2609.30079v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-23|2026-09-23|BEE: Intervention-Adaptive Real-World Reinforcement Learning with Vision-Language-Action Models|Weihui Zhao|[2609.27450v1](https://arxiv.org/pdf/2609.27450v1)|
+|2026-09-21|2026-09-23|ActiveArena: Benchmarking and Understanding Active Perception in Robotic Manipulation|Yibo Li|[2609.24124v2](https://arxiv.org/pdf/2609.24124v2)|
+|2026-09-20|2026-09-20|ReVeal: A Reconstruction-Aware Real-to-Sim Framework for VLA Policy Evaluation|Xinyi Wang|[2609.23910v1](https://arxiv.org/pdf/2609.23910v1)|
+|2026-09-20|2026-09-20|Beyond Appearance Shifts: Task-Semantic Action Calibration for VLA Models|Shuaijun Liu|[2609.23650v1](https://arxiv.org/pdf/2609.23650v1)|
+|2026-09-20|2026-09-20|MaskVLA: Visual Masking Against Trajectory Overfitting of Vision-Language-Action Model|Yuxuan Jiang|[2609.23565v1](https://arxiv.org/pdf/2609.23565v1)|
+|2026-09-19|2026-09-19|Anatomy of a Closed-Loop Collapse: A Causal Case Study of a Compressed VLA Policy|Fengze Jia|[2609.23048v1](https://arxiv.org/pdf/2609.23048v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-24|2026-09-24|KernelOPT: Dispatch-Aware Agentic Search for GPU Kernel Optimization|Aheli Poddar|[2609.30059v1](https://arxiv.org/pdf/2609.30059v1)|
+|2026-09-24|2026-09-24|Era by Eon: Benchmarking Enterprise Agents on Hidden Knowledge|Benjamin Gruenbaum|[2609.30055v1](https://arxiv.org/pdf/2609.30055v1)|
+|2026-09-24|2026-09-24|How does Adversarial Influence Scale in Multi-Agent Systems?|Addison J. Wu|[2609.30028v1](https://arxiv.org/pdf/2609.30028v1)|
+|2026-09-24|2026-09-24|Low-Cost Assays for Measuring Model Behavior Across Vendors and Releases|Tapan Parikh|[2609.30012v1](https://arxiv.org/pdf/2609.30012v1)|
+|2026-09-24|2026-09-24|Advancing Model Research in AgentX: Long-Horizon Autonomy for Industrial Recommender Systems|Shuang Yang|[2609.30001v1](https://arxiv.org/pdf/2609.30001v1)|
+|2026-09-24|2026-09-24|Multi-Dimensional Matching|Irene Aldridge|[2609.29958v1](https://arxiv.org/pdf/2609.29958v1)|
 ## Update on 2026-09-25
 
 ### World Model
