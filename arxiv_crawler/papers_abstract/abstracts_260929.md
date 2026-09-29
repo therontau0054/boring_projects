@@ -1,0 +1,294 @@
+# Abstracts of Papers
+
+## World Model
+### FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets
+**Authors**: Srinjay Sarkar, Prakhar Kaushik, Soumava Paul, Alan Yuille
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35770v1](https://arxiv.org/pdf/2609.35770v1)
+
+**Abstract**: Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets. Fur usually covers most of an animal's body, with large inter-species and intra-species variability. We present FurE, an efficient strand-based animal fur reconstruction method that recovers a per-strand, editable groom by optimizing a root-conditioned latent field, decoded into strand geometry via a PCA-based decoder. We reconstruct a defurred animal body using local fur-thickness cues from a surface-constrained Gaussian Frosting representation together with part-based priors. We further show that a PCA-based decoder learned from human-hair strand data can alleviate animal-data scarcity while enabling substantially faster optimization. FurE achieves a 10x speedup in strand training over current SOTA dense per-strand optimization while retaining strand fidelity and generalizing across synthetic and real-world sequences, with quantitative and qualitative validation despite the reduction in training time.
+
+
+### Telescopic Language Models
+**Authors**: Zhilin Guo, Boqiao Zhang, Hakan Aktas, Kyle Fogarty, Nursena Koprucu Aslan, Wenzhao Li, Canberk Baykal, Albert Miao, Siyu Hong, Yixiao Liu, Adam Wu, Ashish Kumar Singh, Sakar Khattar, Chenliang Zhou, Weihao Xia, Cristina Nader Vasconcelos, Cengiz Oztireli
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35769v1](https://arxiv.org/pdf/2609.35769v1)
+
+**Abstract**: One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to be that continuum: a nested-capacity Transformer supervised by stochastic prefix supervision with a full anchor. At every step, one randomly truncated prefix of the capacity axis is trained against the full next-token target, alongside one full-capacity pass, so the trained artifact is a valid language model at every depth. Two forward-backward passes per step, no architectural change, nothing extra at inference. Fixed-exit suites such as Matryoshka Language Model Suites (MLMS) occupy one point in this design space, and the point has a cost: supervising only a few fixed exits leaves the nested model at chance level everywhere else (perplexity 10^2-10^5 in our baselines). On a 200M proxy suite (20B FineWeb-Edu tokens, identical data stream for all methods), a single TLM run is a valid language model at every one of its twenty layer prefixes, in perplexity and on perplexity-sensitive downstream tasks, reducing the area under the quality-budget curve by 43-44% relative to the fixed-exit suites while matching them at full capacity, at ~12% lower GPU cost per run. The prefix sampling density is a dial: concentrating it on a few depths recovers fixed-exit quality there at the price of the continuum, so the operating points become a training-time choice rather than an architectural one. These results indicate that the training objective, not the nesting itself, is what makes a model elastic.
+
+
+### PDMD: Projected Distribution Matching Distillation for Video Diffusion Models
+**Authors**: Zimo Wang, Junkun Yuan, Angtian Wang, Haotian Yang, Canyu Zhang, Siyuan Yuan, Xingchang Huang, Bo Liu, Yizhi Wang, Yiding Yang, Chongyang Ma, Gordon Guocheng Qian
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35768v1](https://arxiv.org/pdf/2609.35768v1)
+
+**Abstract**: Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) to just a few. However, DMD samples can degrade during training, exhibiting progressive oversaturation and artifacts. We trace this instability to critic errors, which enter successive student updates and accumulate over time. We introduce Projected Distribution Matching Distillation (PDMD) to filter critic errors. PDMD projects out the component of the DMD update parallel to the student-critic endpoint residual. At a fixed noisy query, we prove that this residual is an unbiased estimate of the critic's endpoint error. Under high-dimensional assumptions, this projection removes a constant fraction of critic error while discarding only a vanishing fraction of ideal DMD signal. Empirically, the projection stabilizes training and improves sample quality where DMD degrades and develops unnatural textures. PDMD requires only a one-line code change to DMD, with no extra loss, network, data, model pass, or multi-stage training. With Wan2.1, PDMD achieves a VBench total score of 83.73 at 4 NFE, surpassing matched DMD by 1.03 points. On MiniMax-H3 joint video-audio generation, PDMD achieves a VideoGen-Eval visual total score of 83.17, 0.41 points above the strongest distilled baseline. PDMD also achieves the best performance on all six audio metrics among the compared 4-NFE models. Qualitative comparisons and user studies favor PDMD over the distilled baselines in visual quality, motion, and audio quality. Code and models are available at https://pdmd2026.github.io/.
+
+
+### Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning
+**Authors**: Yijia Fan, Ziqi Huang, Zhongang Cai, Yan Li, Zimo Wen, Wanqi Yin, Haiwen Diao, Ziwei Liu
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35767v1](https://arxiv.org/pdf/2609.35767v1)
+
+**Abstract**: Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose again. Whether a revision helps is known only after it is rendered, so the reflection text and the image generation must be learned jointly, over the whole loop. Supervised fine-tuning (SFT) on reflection trajectories gives a cold start but does not find the high-success repair paths, and naive RL that optimizes only the renderer or only one head leaves most of the gain untapped. We introduce UMM-Reflection, which applies reinforcement learning (RL) to complete reflection trajectories inside one unified model: sibling trajectories share one initial image, so the group-relative advantage compares reflection strategies, and one trajectory-level advantage updates both the reflection tokens and the flow-based revisions, avoiding the combinatorial blow-up of per-round credit assignment. Unlike single-round editing or pipelines with an external critic, credit flows across rounds and to both roles of the same model, and no verifier is needed at inference. On BAGEL, UMM-Reflection improves GenEval by 12.05 points over SFT, and the gains transfer to WISE (+10.97), OneIG-Bench (+3.48), and T2I-CompBench++ (+4.63), none of which is used in training.
+
+
+### Unifying Distributional Training for One-Step Visual Generation
+**Authors**: Chi Zhang, Haoyang Shi, Yueyi Liu, Ruichuan An, Junkang Zhou, Chang Li, Xiuyuan Lu, Yichi Zhang, Bo Wang, Yuhang Wu, Sen Cui, Miao Liu
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35763v1](https://arxiv.org/pdf/2609.35763v1)
+
+**Abstract**: \emph{Distributional training} provides collective supervision for one-step visual generation by matching real and generated features in frozen representation spaces. We introduce \emph{a unified theoretical framework} that separates distribution modeling from matching discrepancy and connects global objectives to pointwise feature updates through Wasserstein gradient flow. Under this framework, FD-Loss and Gaussian-kernel Drifting are recovered through Gaussian optimal transport and kernel-density-based KL matching, respectively. The framework motivates \textbf{MGFlow}, which models feature distributions with Gaussian mixtures at an adjustable granularity between global moments and sample-based representations. MGFlow supports both optimal transport and score-based matching, and couples mass-constrained sample assignment with paired component updates to address mode collapse that mixture expressivity alone does not resolve. On ImageNet $256\times256$, MGFlow substantially surpasses the FD-Loss baseline, achieving state-of-the-art results with \textbf{1.45} $\mathrm{FDr}^6$ on pMF-H and \textbf{1.64} on JiT-H. For text-to-image generation, MGFlow post-trains FLUX.2 [klein] 4B into a one-step generator that outperforms the original four-step model on both GenEval and PickScore. Project page: https://shihaoyang0423.github.io/MGFlow-website/
+
+
+### DexRoam: Learning Mobile Bimanual Dexterous Manipulation from Egocentric Whole-Body Human Demonstrations
+**Authors**: Rui Zhou, Yibo Yuan, Junkai Zhao, Fangyuan Zhao, Xiaoguang Zhao, Shanghang Zhang, Sirui Han
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35761v1](https://arxiv.org/pdf/2609.35761v1)
+
+**Abstract**: Mobile bimanual dexterous manipulation requires continuous coordination of locomotion, whole-body motion, and finger-level dexterity within a single trajectory, creating a severe robot demonstration bottleneck. Egocentric human demonstrations offer a scalable alternative, but prior approaches ease the transfer by simplifying human motion, discarding exactly the fine-grained, coupled structure such tasks depend on. We present DexRoam, a complete system for learning mobile bimanual dexterous manipulation from human demonstrations, in which whole-body motion remains continuous and coupled throughout the human-to-robot transfer process. To enable scalable collection of whole-body human manipulation demonstrations, we develop a tracker-free capture system using only a consumer VR headset and a head-mounted stereo camera, without external cameras or motion trackers. We then perform three explicit alignment stages---embodiment, action-semantic, and temporal---to map captured motion into the robot action space, preserving fine-grained whole-body motion and allowing human and robot demonstrations to be jointly learned by standard VLA policies. Real-world experiments with different VLA backbones show that human demonstrations consistently improve policy learning across training paradigms, raising average success from 29% to 56% on GR00T N1.7 and from 32% to 57% on pi0.5, while matching robot-only training with half the robot demonstrations. Ablations confirm that each alignment stage is necessary. These results highlight the potential of human demonstrations for scalable whole-body mobile manipulation with preserved fine-grained motion structure.
+
+
+## Generation
+### FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents
+**Authors**: Hoyoung Lee, Suyeol Yun, Jack Haverty, Yunju Cho, Meesong Kim, Daekyung Park, Sumin Kim, Jihoon Kwon, Jasmine Jia Geng, Andrew Chin, Yin Luo, Edward Tong, Yu Yu, Zach Golkhou, Minkyu Kim, Igor Halperin, Young Cha, Alejandro Lopez-Lira, Chanyeol Choi, Yongjae Lee
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35744v1](https://arxiv.org/pdf/2609.35744v1)
+
+**Abstract**: Evaluating finance research agents requires rubrics that reflect expert standards and fix the values correct as of an information cutoff. Expert-reviewed finance benchmarks rely on fixed, per-item rubrics, which are costly to extend and cannot encode each institution's own standard. In FinAutoRubric, experts specify reusable evaluation guidance, while agents and code carry out query-specific rubric generation, review, and validation. This expert guidance governs every agent, as prompts and as rules that code enforces, and a Task Bank of reusable criteria carries it across tasks. In long-horizon loops that follow the expert guidance, a writer agent researches every expected value and a reviewer agent verifies it, and failures escalate to a human. On three expert-authored finance benchmarks, its rubrics track expert scoring as closely as the strongest evaluated generator while stating the expert rubric's expected value for more criteria, their scores agree with human grading, and in-house analysts prefer them in a blind review. The released 100-query FinAutoRubric Benchmark, built from in-house analysts' key questions across 78 tasks and eight asset classes, shows that rubrics from an earlier model generation still leave headroom for a later one.
+
+
+### Shockingly Simple Self-retrospection Improves Agentic Models Without RL
+**Authors**: Jonathan Light, Christopher Zhang Cui, Jeonghye Kim, Roger Creus Castanyer, Emiliano Penaloza, Zhengyan Shi, Alessandro Sordoni, Marc-Alexandre Côté, Xingdi Yuan, Minseon Kim
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35741v1](https://arxiv.org/pdf/2609.35741v1)
+
+**Abstract**: People learn not only by repeating successful actions, but also by recounting and explaining their experiences, revising their understanding to guide future behavior. Can a language-model agent improve its future actions by training only on explanations of its own experience? We investigate this question by studying Retrospection-Only Fine-Tuning (ROFT), a minimal online procedure designed to isolate the effect of explanation-only training on subsequent behavior. The agent attempts a task, observes available feedback, generates a retrospective explanation, and is fine-tuned with a next-token prediction loss on the explanation tokens alone. The procedure uses neither an external teacher nor a reward-based policy update. In software-engineering experiments with Qwen3.5-4B, ROFT is trained on problems with mixed successful and unsuccessful base-model attempts. On held-out SWE-bench Verified and Pro, it reaches 49.2% and 26.8% solve rates after 20 updates without using a verifier, compared with GRPO's 48.0% and 25.3% after 40 updates in the evaluated runs, and makes faster early progress in training time and sampled attempts. It also learns to solve individual tasks on which all 64 sampled base-model attempts failed, showing that learning can begin without any initially successful trajectories. Behavioral analyses find that ROFT indirectly assigns credit to actions, encouraging good actions and discouraging incorrect ones. Moreover, prompting retrospections to emphasize more direct solutions yields shorter subsequent attempts even without an explicit length penalty. Together, these findings show that learning to explain can also improve learning to do, establishing self-generated retrospections as useful training targets and motivating further study of explanation-to-action transfer.
+
+
+### Failure-Transparent Agents: Benchmarking Post-Failure Reporting in Tool-Using Language Models
+**Authors**: Junru Zhu, Shiming Xie, Aime Lu Fan Chen, Xiaoqing Ding, Chunxin Tang, Ruoyu Qi, Yulang Fei
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35732v1](https://arxiv.org/pdf/2609.35732v1)
+
+**Abstract**: Tool-using agents can fail twice: a required tool can fail, and the agent can then report success without the evidence needed to justify it. Existing benchmarks often entangle this reporting failure with tool selection, recovery, and environment dynamics. We introduce Failure-Transparent Agents (FTA), a controlled benchmark that fixes the failed observation and required evidence state before generation, making post-failure claims directly auditable. FTA contains 100 tasks with deterministic failure traces spanning five failure families, a neutral control, and four user-pressure conditions, and evaluates unsupported claims alongside useful recovery. Across six models, three response policies, and 3,600 human-annotated responses, false-success rates are 22.8% under the baseline policy, 9.3% with a transparency instruction, and 0.8% with a structured evidence contract. Fabricated-detail rates decrease from 28.3% to 14.3% and 0.8%, while useful responses increase from 74.9% to 89.2% and 98.8%, respectively. The tested evidence-contract policy is associated with substantially lower post-failure reporting errors while useful-response rates remain high within this blocked-task benchmark.
+
+
+### X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets
+**Authors**: Prithwish Dan, Chenyang Ma, Wei Zhan
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35715v1](https://arxiv.org/pdf/2609.35715v1)
+
+**Abstract**: Reinforcement learning (RL) in simulation can train dexterous manipulation policies without robot demonstrations, but training a single generalist policy with task-agnostic rewards faces a severe exploration problem: approaching, grasping, and reorienting diverse objects with many degrees of freedom is difficult to discover from scratch. Prior works make exploration tractable with high-quality robot demonstrations, per-task reward shaping, or by restricting policies to narrow modes of behavior. We propose X-Reset, a framework that instead resolves exploration with human hand-object demonstrations. Rather than imitating or tracking retargeted human motion, X-Reset kinematically retargets hand-object states to noisy robot states, filters out states that are unstable in simulation, and samples the remainder as resets during RL training with general-purpose object-centric rewards. The resulting policy depends only on object state and goal, with demonstrations entering training through the reset distribution. We show that X-Reset trains generalist policies on 20 objects across three embodiments---a 22-DoF hand on two different arms and a parallel-jaw gripper---and resolves the exploration challenges of RL from scratch. X-Reset scales with the number of training objects, generalizes to unseen objects, can learn from imperfect hand-pose estimates, and transfers behaviors zero-shot from sim-to-real.
+
+
+### Provable Benefits of Regularization: Fast Rates for Adversarial Imitation Learning
+**Authors**: Hanbin Zhou, Shangzhe Li, Alexander Braverman, Weitong Zhang
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35698v1](https://arxiv.org/pdf/2609.35698v1)
+
+**Abstract**: We study adversarial imitation learning (AIL), in which an agent learns to imitate expert demonstrations by optimizing a policy against an adversarial reward that distinguishes expert and learner behavior. Historically, reward regularization and entropy-based policy regularization are key components of empirically successful methods such as GAIL and LS-IQ, yet their finite-sample benefits remain underexplored. We establish fast rates for jointly regularized AIL in finite-horizon Markov decision processes with general function approximation. Our model-free algorithm, Dually Regularized AIL, combines KL policy regularization with a quadratic reward penalty weighted by expert and learner occupancies. With K online episodes and N expert trajectories, we prove a $\widetilde{O}\left(\frac{1}{K}+\frac{1}{N}\right)$ bound on the regularized imitation gap for fixed regularization parameters. Our analysis combines an online mirror descent construction for general convex reward classes to control estimation error from finite expert data and stochastic learner feedback, with a sharp analysis of optimistic KL-regularized policy learning. To the best of our knowledge, Dually Regularized AIL is the first algorithm to simultaneously achieve $\widetilde{O}\left(\frac{1}ε\right)$ sample complexity in both expert demonstrations and online interactions for this regularized AIL objective, even with stochastic experts. These results provide a rigorous characterization of the complementary statistical benefits of reward and policy regularization in AIL.
+
+
+### Rethinking Personalized Generation: Test-Time Alignment via Factorized Ranking Models
+**Authors**: Qiyao Ma, Junshan Zhang, Zhe Zhao
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35695v1](https://arxiv.org/pdf/2609.35695v1)
+
+**Abstract**: Aligning large language models (LLMs) to diverse user preferences is fundamentally hindered by standard alignment paradigms that optimize for monolithic users. In this work, empirical studies are first used to reveal the existence of a massive, untapped performance headroom for personalized generation through test-time alignment. We demonstrate that personalized generation is uniquely suited for test-time scaling methods like Best-of-N (BoN) because it can be viewed primarily as a candidate matching problem rather than a generator capability bottleneck. While reward models could in principle exploit this headroom, they are poorly calibrated for personalization, and their billion-parameter scale makes scoring large candidate pools prohibitively expensive. To overcome this limitation, we propose a parameter-efficient framework utilizing million-parameter scale multi-layer perceptron (MLP) ranking models. Our personalized ranking model directly reuses the internal embeddings of the base generator with minimal overhead. By scaling train-time data to provide fine-grained personalized preferences, this million-parameter ranking model accurately scores large candidate pools and can seamlessly guide generation to reduce the cost of materializing N candidates. Extensive experiments on nine datasets spanning three personalized generation settings show that our personalized ranking model effectively exploits the discovered headroom, outperforming billion-parameter generalist reward models on every dataset, with under 0.4% of their parameters and four orders of magnitude lower scoring latency.
+
+
+## VLA
+### Rethinking Causal Action Tokenization with Conditional Annealing in Flow Matching
+**Authors**: Chenyu Zhang, Yuhang Cao, Daru Du, Yingxi Lu, Jing Shao, Ruoqu Chen, Jiajun Liu, Liu Cao, Yicheng Liu, Hang Zhao, Mengdi Xu
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35469v1](https://arxiv.org/pdf/2609.35469v1)
+
+**Abstract**: Autoregressive Vision-Language-Action (VLA) models offer a scalable path to robot learning, yet existing action tokenizers treat tokenization as a compression problem, producing representations that are semantically misaligned with the autoregressive backbone. We propose CATok, a causal action tokenizer that reframes tokenization as a causally structured generative process. CATok introduces a conditional annealing mechanism that extracts action tokens by progressively annealing a flow-matching process: each token is conditioned on all preceding tokens and encodes the residual reconstruction signal at a specific noise level, establishing a coarse-to-fine causal token space whose generative semantics are structurally aligned with autoregressive modeling. A token-conditioned flow-matching decoder built on Multimodal Diffusion Transformer (MMDiT) reconstructs continuous action chunks from these discrete tokens with the precision of hybrid diffusion-head architectures. This discrete bottleneck enforces knowledge insulation by design, cleanly separating high-level semantic reasoning from low-level motor execution without requiring explicit attention masking. Extensive evaluations across three simulation benchmarks and real-world robotic manipulation tasks demonstrate that CATok consistently surpasses existing tokenization methods in both reconstruction fidelity-compression tradeoff and inference efficiency, while improving VLA task success rate and training efficiency, establishing a high-performance, scalable foundation for purely autoregressive VLA systems.
+
+
+### LLMs are General Asynchronous Agents
+**Authors**: George Yakushev, Denis Mazur, Vladimir Bartenev, Vyacheslav Zhdanovskiy, Timofey Byzov, Vladimir Kaurkin, Vadim Pastushenko
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35427v1](https://arxiv.org/pdf/2609.35427v1)
+
+**Abstract**: Modern LLMs are increasingly capable as autonomous agents, but they follow sequential interaction cycles: read, think, reply or call tools, repeat. Many real-world use cases are not sequential: voice assistants, embodied agents, and monitoring systems receive new inputs while they think or perform another task. Modern LLMs address this with specialized architectures for voice interaction and video streams, VLAs for robot control, asynchronous tool calling for API usage, and others. In this work, we generalize from different asynchronous tasks to general asynchronous agents that can adapt to different types of concurrency. To achieve this, we develop an asynchronous LLM framework that lets users (or the agents themselves) define inference coroutines with overlapping memory states. We showcase that Qwen 3.x models are capable of asynchronous operation for streaming video understanding, videogames, and monitoring, without task-specific training.
+
+
+### Spatial Grafting: Grounding 3D Features for Flow-Matching Robot Policies
+**Authors**: Dingsheng Liu, Yangzheng Wu, Mahboubeh Asadi, Zhiyuan Li, Jinbang Huang, Yixin Xiao, Tongtong Cao, Yingxue Zhang
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35249v1](https://arxiv.org/pdf/2609.35249v1)
+
+**Abstract**: Pretrained robot manipulation policies such as vision-language-action models (VLAs) or world-action models (WAMs) leave interaction-relevant metric geometry implicit. Recent breakthroughs in spatial reconstruction can supply the necessary geometry reliably, but their features describe local shape without stating where it lies with respect to the robot. How best to deliver these features to a pretrained policy remains unresolved. We propose Spatial Grafting, a versatile, lightweight spatial module that binds frozen reconstruction features to metric, robot-relative geometry. Spatial Grafting constructs metric-grounded spatial tokens and injects them into the flow-matching action expert through cross-attention, without modifying the host's perceptual pathway, so the host retains the full benefit of its pretraining. We evaluate it more broadly than any geometry-aware policy we compare against: one graft architecture, with no per-host redesign, on two VLAs and two WAMs, across four simulation benchmarks that span short-horizon manipulation, visual robustness, clutter and long-horizon mobile manipulation, and on three real-robot platforms with single- and dual-arm configurations. On RoboTwin 2.0, a dual-arm manipulation benchmark, the graft improves every host across VLAs and WAMs. Grafted $π_{0.5}$ gains 11.3% and 15.6% on clean and randomized scenes, reaching 94.0% and 92.4%, above the strongest published 3D-conditioned policy, WAM4D (93.8% and 89.9%). The margin widens as the horizon lengthens: on tasks from BEHAVIOR-1K, a dual-arm mobile manipulation challenge scored by average task progress, it surpasses the 2025 challenge winner on five of six tasks,by up to 0.47 Q-score, and exceeds a map-conditioned spatial policy on average across the three tasks both report.
+
+
+### Learning to Act under Visual Interruptions with Vision-Language-Action Models
+**Authors**: Mingle Jiang, Rui Xu, Yunke Wang, Chang Xu
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35003v1](https://arxiv.org/pdf/2609.35003v1)
+
+**Abstract**: Vision-language-action (VLA) models have demonstrated strong capabilities in robotic manipulation, but they are typically developed and evaluated with all camera streams available throughout task execution. When a camera stops delivering frames during task execution, the policy must continue acting without access to subsequent observations from the missing view. Despite its practical importance, how such interruptions affect closed-loop manipulation remains insufficiently understood. To investigate this problem, we introduce MAIL-Bench, a benchmark that evaluates visual interruptions with VLA models. By interrupting different cameras at multiple stages of each policy's successful reference trajectory, MAIL-Bench measures how well policies retain their capabilities when visual inputs become unavailable. Building on this benchmark, we propose MINT, which first trains VLA policies to remain functional under missing visual inputs. At inference time, MINT selectively supplements missing observations using optical-flow extrapolation or an action-conditioned world model, and withdraws predicted views when they become unreliable. Experiments on $π_{0.5}$ and GR00T N1.5 show that MINT significantly improves task success under camera loss over the original models. Experiments on AgiBot G2 further demonstrate the real-robot deployment under camera loss. The benchmark is available at https://minglejiang.github.io/Mail-Bench/
+
+
+### RoboFL: Federated Expert Assembly for World Action Models
+**Authors**: Rongyu Zhang, Ruizhi Fan, Yunfan Lou, Hengyu Fang, Shenli Zheng, Chenrui Wu, Yili Jin, Li Du, Dan Wang, Yuan Du, Shanghang Zhang
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.34968v1](https://arxiv.org/pdf/2609.34968v1)
+
+**Abstract**: Vision-language-action and world-action models are increasingly popular, yet remain bottlenecked by physical interaction data that is scarce, institutionally siloed, and task-heterogeneous. A natural federated solution is to let each client adapt a shared foundation model through parameter-efficient fine-tuning, avoiding the exchange of full-model updates. However, federating these adapters is nontrivial, as naive aggregation can entangle incompatible updates, while incorporating MoE-style routing into federated aggregation may dilute specialization and destabilize expert selection. We present RoboFL, which instantiates MoSAIC (Mixture of Slotted Adapters) for federated world-action learning. MoSAIC directly installs locally trained LoRA adapters as the expert branches of a server MoE. Server-side routers learn token assignments over these prior-informed branches while jointly refining routing and expert parameters. Foresight-to-Action Routing Distillation (FARD) aligns routing across the model's three paths, while Path-Consensus Expert Aggregation (PCEA) converts complete expert updates into a compact global adapter for personalized redistribution. Experiments on RoboTwin 2.0, RLBench, and a real-world Franka robot arm show the superiority of RoboFL with structured expert assembly, as it outperforms centralized PEFT InternVLA-A1 by 12.23% on the Franka arm, while reducing per-round client communication by up to 86.81% relative to MoE-based federated VLA baselines.
+
+
+### Adjoint Guidance Flow: Amortized Critic Guidance for VLA Policies
+**Authors**: Jeongsol Kim, Youngjun Jun, Kyumin Choi, Youngmin Kim, Seonghyun Jin, Sunwoo Park, Jangho Park, Kwanyoung Kim, Jong Chul Ye
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.34944v1](https://arxiv.org/pdf/2609.34944v1)
+
+**Abstract**: Flow-based Vision-Language-Action (VLA) policies are typically trained by behavior cloning and thus do not explicitly optimize long-term task return. Critic guidance steers generation toward higher-value actions, but existing methods differentiate the critic through a one-step surrogate of the sampler and back-propagate a critic ensemble at every flow step. In contrast, here we propose Adjoint Guidance Flow (AGF), which amortizes trajectory-aware critic guidance into a lightweight guidance network while preserving the pretrained VLA policy. Specifically, we formulate critic-guided flow generation as a deterministic optimal control problem, whose optimal guidance is a costate that carries the terminal critic gradient back through the remaining flow, and regress the guidance network onto this costate while keeping both the VLA and critic frozen. This design provides favorable memory and throughput scaling during training, and inference needs one guidance-network forward pass per step, without the critic ensemble, back-propagation, or adjoint computation. Across LIBERO, RoboCasa, and LIBERO-Pro, AGF consistently improves pretrained VLAs, remains competitive with critic-guidance and policy-fine-tuning baselines, and is the most robust method when a single guidance strength is deployed across tasks. Compared with QGF, AGF runs $3.6\times$ faster per guidance step with $7.0\times$ fewer parameters, with comparable and even better performance, showing that critic guidance can be trajectory-aware and lightweight.
+
+
+## Agent
+### TokenCast: Forecasting Token Consumption During LLM Agent Execution
+**Authors**: Chaoqian Ouyang, Ling Yue, Libin Zheng, Huanghui Guo, Shengxiang Xu, YiShu Wang, Ran Li, Jian Yin, Shaowu Pan, Shimin Di
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35760v1](https://arxiv.org/pdf/2609.35760v1)
+
+**Abstract**: When a large language model (LLM) agent executes the same task, token consumption can vary by over an order of magnitude across runs. The agent chooses its next steps based on tool feedback and intermediate results, while the growing context steadily inflates the input size of every subsequent call. The total consumption of a task is therefore hard to predict before execution and the prediction must be revised as the run unfolds. In this paper, we propose TokenCast, which learns a composable cost representation for each execution segment, recording its own consumption and the context growth it introduces. Composing adjacent segments yields a cumulative estimate that captures the extra input cost incurred when context from earlier segments is re-read by every later call. As execution unfolds, newly observed evidence refreshes the forecast, requiring no additional LLM calls and incurring a mean cumulative prediction time of 32.8 ms per run on SWE-bench Verified. Across 4 task suites and 6 agent models, TokenCast's mean absolute error reduction against the strongest comparator averages 14.5% over 96 evaluated combinations. In offline budget-control replay, TokenCast uses 21.3% fewer tokens on average than a fixed-budget policy at matched trace completion. The code is available at https://github.com/DEFENSE-SEU/TokenCast.
+
+
+### KV-streams for Efficient Compaction in Agentic Reinforcement Learning
+**Authors**: Emiliano Penaloza, Dane Malenfant, Dheeraj Vattikonda, Roger Creus Castanyer, Siddarth Venkatraman, Abhay Puri, Jonathan Light, Matthew James Sargent, Augustine N. Mavor-Parker, Massimo Caccia, Lucas Caccia, Glen Berseth, Esmeralda S. Whitammer, Alessandro Sordoni, Minseon Kim, Marc-Alexandre Côté, Laurent Charlin, Guillaume Lajoie
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35750v1](https://arxiv.org/pdf/2609.35750v1)
+
+**Abstract**: Scaling the horizon of agentic LLMs is bottlenecked by the need to fit ever longer context traces in GPU memory. Context compaction has been the most popular mechanism to alleviate this issue, keeping GPU memory constant for a given trace. Unfortunately, most compaction strategies rely on prefilling the LLM context many times over, hindering training throughput. To alleviate this bottleneck and enable efficient trainable compaction, we propose KV-streams, a plug-and-play strategy compatible with any compaction strategy that substantially increases throughput while showing no evidence of hindering performance. KV-streams enable scalable compaction by streaming the KV cache forward rather than flushing it after each compaction. We show that KV-streams enable three different compaction strategies, achieving a 2.6 to 5x wall-clock speedup in training. Beyond efficiency, we find that the streamed KV cache can act as a recurrent state, carrying forward information that has long since disappeared from the context. Specifically, in a controlled setting we show that, contrary to prior work, RL alone is all that is needed for this behavior to emerge. Overall, we show KV-streams to be an efficient and lightweight plug-and-play addition to any post-training pipeline.
+
+
+### Harness Learning Enables Generalizable Test-Time Adaptation
+**Authors**: Alvin Zhang, Xuecheng Liu, Zixuan Wang, Fahim Tajwar, Daman Arora, Ruslan Salakhutdinov, Daniel Khashabi, Yuda Song, Andrea Zanette
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35738v1](https://arxiv.org/pdf/2609.35738v1)
+
+**Abstract**: A language-model agent is jointly defined by its model and its harness, the executable program that organizes model calls, tool use, and information flow. Because different tasks call for different ways of organizing these operations, the harness needs to be adapted using feedback from the task at hand. We introduce harness learning, which trains a proposer model to revise a solver's harness using execution feedback. We formulate this process as meta-learning over executable programs, with harness revisions playing the role of weight updates in gradient-based adaptation. We train the proposer with reinforcement learning, using the task performance of revised harnesses as the reward. At test time, the proposer uses feedback from successive executions on a new task to refine the harness, without performing any parameter-space update. Experiments on reasoning and multi-hop question answering show that harness learning improves revision quality and that the ability to adapt at test time transfers to unseen tasks. Policies trained on individual revisions can continue improving harnesses over multiple rounds, while the benefits of training on revision sequences vary across settings. These findings suggest a path towards continually learning agents that turn accumulated experience into generalizable improvements.
+
+
+### Reinforcing Agentic Creativity in Scientific Ideation with Night Science
+**Authors**: Priyanka Kargupta, Silviu Cucerzan, Shweti Mahajan, Allen Herring, Jiawei Han, Ryen W. White, Sujay Kumar Jauhar
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35706v1](https://arxiv.org/pdf/2609.35706v1)
+
+**Abstract**: Large language models (LLMs) excel at structured, verifiable tasks, but their low-entropy bias can produce homogeneous and predictable outputs, limiting their utility for open-ended scientific ideation. Effective discovery, however, spans a broader creative spectrum: from structured day science to loosely structured, serendipitous night science that reaches ideas beyond those typically considered. We introduce AI Night-Scientist, an agentic framework that uses reinforcement learning to teach models when and how to depart from predictable reasoning. Grounded in cognitive science, we model creativity along three axes: action (what to do and how creatively), process (when to explore versus exploit), and outcome (the novelty and usefulness of the resulting idea). We use these axes to train models with GRPO, exposing them to varying degrees and forms of creativity throughout training. This produces substantially more diverse scientific proposals, expanding the range of research directions by 27.8% and contribution types by 14.9% over the base model. It also improves predicted citation impact by up to 32.0 percentage points and originality by 66.2 points. These gains cannot be reproduced by simply increasing decoding temperature; instead, we find that semantic guidance specifying what kind of creativity to pursue is critical. Overall, our results suggest that creativity is a learnable, multi-level ability that can be shaped to help researchers reach ideas beyond those typically explored by LLMs.
+
+
+### Report: Progressive Disclosure of Agent Skills
+**Authors**: Guilin Zhang, Kai Zhao, Priyanka Mudgal, Waleed Ammar, Xiquan Cui, Xu Chu, Alet Blanken
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35692v1](https://arxiv.org/pdf/2609.35692v1)
+
+**Abstract**: Users of Workday's deployed LLM-based agents often request features which can be addressed by defining named procedures, also known as skills, in the LLM context, effectively augmenting agents' capabilities. However, as an agent's skills library grows in size, so does the agent's operational cost. Progressive disclosure (lazy-loading) of skills as needed may reduce operational costs, but its impact on overall latency and skill-retrieval quality remains unclear. In this report, we investigate the impact empirically and find that progressive disclosure improves skill-retrieval quality but marginally degrades overall latency.
+
+
+### PhoneCLI: From App Interfaces to Callable Commands for Mobile Agents
+**Authors**: Yangqin Jiang, Lingrui Xu, Chao Huang
+
+**Published Date**: 2026-09-28
+
+**Updated Date**: 2026-09-28
+
+**PDF Url**: [2609.35671v1](https://arxiv.org/pdf/2609.35671v1)
+
+**Abstract**: Mobile GUI agents operate through a perception--action loop: at each step they screenshot the device, invoke a vision--language model (VLM), and emit an action. It is slow, costly, and brittle, yet most of what it does is navigation---and everyday navigation is static, ordered, and endlessly repeated. We present PhoneCLI, which compiles an app's GUI navigation into callable commands, without any app-internal API, runtime instrumentation, or model training. Offline, PhoneCLI explores a target app from the outside and distills its screens, interactive elements, and navigation edges into a semantically annotated map; each screen yields one deterministic command: a replay sequence that reaches it. Online, the agent selects a command, verifies it before execution, and then executes it deterministically in sub-second time at zero VLM cost; open-ended interaction and every failure of the compiled path fall back to the embedded VLM interpreter, exactly the pure VLM agent, so compilation can only help. On AndroidLab, PhoneCLI improves the task success rate while reducing steps and token consumption, and it transfers to AndroidWorld's official M3A agent with consistent efficiency gains. What PhoneCLI compiles is the app's navigation rather than one run, so it serves new tasks, not only repeated ones.
+
+

@@ -332,6 +332,48 @@ TODO:
 
 
 
+
+## Update on 2026-09-29
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-28|2026-09-28|FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets|Srinjay Sarkar|[2609.35770v1](https://arxiv.org/pdf/2609.35770v1)|
+|2026-09-28|2026-09-28|Telescopic Language Models|Zhilin Guo|[2609.35769v1](https://arxiv.org/pdf/2609.35769v1)|
+|2026-09-28|2026-09-28|PDMD: Projected Distribution Matching Distillation for Video Diffusion Models|Zimo Wang|[2609.35768v1](https://arxiv.org/pdf/2609.35768v1)|
+|2026-09-28|2026-09-28|Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning|Yijia Fan|[2609.35767v1](https://arxiv.org/pdf/2609.35767v1)|
+|2026-09-28|2026-09-28|Unifying Distributional Training for One-Step Visual Generation|Chi Zhang|[2609.35763v1](https://arxiv.org/pdf/2609.35763v1)|
+|2026-09-28|2026-09-28|DexRoam: Learning Mobile Bimanual Dexterous Manipulation from Egocentric Whole-Body Human Demonstrations|Rui Zhou|[2609.35761v1](https://arxiv.org/pdf/2609.35761v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-28|2026-09-28|FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents|Hoyoung Lee|[2609.35744v1](https://arxiv.org/pdf/2609.35744v1)|
+|2026-09-28|2026-09-28|Shockingly Simple Self-retrospection Improves Agentic Models Without RL|Jonathan Light|[2609.35741v1](https://arxiv.org/pdf/2609.35741v1)|
+|2026-09-28|2026-09-28|Failure-Transparent Agents: Benchmarking Post-Failure Reporting in Tool-Using Language Models|Junru Zhu|[2609.35732v1](https://arxiv.org/pdf/2609.35732v1)|
+|2026-09-28|2026-09-28|X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets|Prithwish Dan|[2609.35715v1](https://arxiv.org/pdf/2609.35715v1)|
+|2026-09-28|2026-09-28|Provable Benefits of Regularization: Fast Rates for Adversarial Imitation Learning|Hanbin Zhou|[2609.35698v1](https://arxiv.org/pdf/2609.35698v1)|
+|2026-09-28|2026-09-28|Rethinking Personalized Generation: Test-Time Alignment via Factorized Ranking Models|Qiyao Ma|[2609.35695v1](https://arxiv.org/pdf/2609.35695v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-28|2026-09-28|Rethinking Causal Action Tokenization with Conditional Annealing in Flow Matching|Chenyu Zhang|[2609.35469v1](https://arxiv.org/pdf/2609.35469v1)|
+|2026-09-28|2026-09-28|LLMs are General Asynchronous Agents|George Yakushev|[2609.35427v1](https://arxiv.org/pdf/2609.35427v1)|
+|2026-09-28|2026-09-28|Spatial Grafting: Grounding 3D Features for Flow-Matching Robot Policies|Dingsheng Liu|[2609.35249v1](https://arxiv.org/pdf/2609.35249v1)|
+|2026-09-28|2026-09-28|Learning to Act under Visual Interruptions with Vision-Language-Action Models|Mingle Jiang|[2609.35003v1](https://arxiv.org/pdf/2609.35003v1)|
+|2026-09-28|2026-09-28|RoboFL: Federated Expert Assembly for World Action Models|Rongyu Zhang|[2609.34968v1](https://arxiv.org/pdf/2609.34968v1)|
+|2026-09-28|2026-09-28|Adjoint Guidance Flow: Amortized Critic Guidance for VLA Policies|Jeongsol Kim|[2609.34944v1](https://arxiv.org/pdf/2609.34944v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-28|2026-09-28|TokenCast: Forecasting Token Consumption During LLM Agent Execution|Chaoqian Ouyang|[2609.35760v1](https://arxiv.org/pdf/2609.35760v1)|
+|2026-09-28|2026-09-28|KV-streams for Efficient Compaction in Agentic Reinforcement Learning|Emiliano Penaloza|[2609.35750v1](https://arxiv.org/pdf/2609.35750v1)|
+|2026-09-28|2026-09-28|Harness Learning Enables Generalizable Test-Time Adaptation|Alvin Zhang|[2609.35738v1](https://arxiv.org/pdf/2609.35738v1)|
+|2026-09-28|2026-09-28|Reinforcing Agentic Creativity in Scientific Ideation with Night Science|Priyanka Kargupta|[2609.35706v1](https://arxiv.org/pdf/2609.35706v1)|
+|2026-09-28|2026-09-28|Report: Progressive Disclosure of Agent Skills|Guilin Zhang|[2609.35692v1](https://arxiv.org/pdf/2609.35692v1)|
+|2026-09-28|2026-09-28|PhoneCLI: From App Interfaces to Callable Commands for Mobile Agents|Yangqin Jiang|[2609.35671v1](https://arxiv.org/pdf/2609.35671v1)|
 ## Update on 2026-09-27
 
 ### World Model
