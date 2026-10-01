@@ -333,6 +333,48 @@ TODO:
 
 
 
+
+## Update on 2026-10-01
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-30|2026-09-30|Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis|Tian Xia|[2609.40361v1](https://arxiv.org/pdf/2609.40361v1)|
+|2026-09-30|2026-09-30|Semifactual Credit-Augmented Policy Optimization|Junshu Pan|[2609.40360v1](https://arxiv.org/pdf/2609.40360v1)|
+|2026-09-30|2026-09-30|Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model|Liming Lu|[2609.40358v1](https://arxiv.org/pdf/2609.40358v1)|
+|2026-09-30|2026-09-30|ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing|Xinghao Chen|[2609.40356v1](https://arxiv.org/pdf/2609.40356v1)|
+|2026-09-30|2026-09-30|Image Classifiers are Efficient Self-Supervised Video Representation Learners|Owais Iqbal|[2609.40347v1](https://arxiv.org/pdf/2609.40347v1)|
+|2026-09-30|2026-09-30|Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?|Zhihao Sun|[2609.40341v1](https://arxiv.org/pdf/2609.40341v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-30|2026-09-30|Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text|Dulhan Jayalath|[2609.40359v1](https://arxiv.org/pdf/2609.40359v1)|
+|2026-09-30|2026-09-30|Turbo Harness: Instance-Adaptive Harness Optimization|Tunyu Zhang|[2609.40330v1](https://arxiv.org/pdf/2609.40330v1)|
+|2026-09-30|2026-09-30|Cogentic: Multi-Agent Orchestration for Automated Proof Discovery|Yang Cai|[2609.40324v1](https://arxiv.org/pdf/2609.40324v1)|
+|2026-09-30|2026-09-30|MatLoom: Layered Text-to-Material Generation in a Compact Program Space|Anson Y. Lam|[2609.40322v1](https://arxiv.org/pdf/2609.40322v1)|
+|2026-09-30|2026-09-30|Compression Footprints as Security Signals for Model-Poisoning Defense in Federated Learning|Sachi Shome|[2609.40312v1](https://arxiv.org/pdf/2609.40312v1)|
+|2026-09-30|2026-09-30|Looped Diffusion Transformer|Yong Xien Chng|[2609.40305v1](https://arxiv.org/pdf/2609.40305v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-30|2026-09-30|WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents|Ziyan Jiang|[2609.40325v1](https://arxiv.org/pdf/2609.40325v1)|
+|2026-09-30|2026-09-30|DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents|Haoyuan Deng|[2609.40306v1](https://arxiv.org/pdf/2609.40306v1)|
+|2026-09-30|2026-09-30|PrefPI: Preference-Guided Steering into Out-of-Distribution Behaviors|Seungeun Rho|[2609.40165v1](https://arxiv.org/pdf/2609.40165v1)|
+|2026-09-30|2026-09-30|Tactile Curiosity Drives Robot Interaction|Klemens Iten|[2609.40134v1](https://arxiv.org/pdf/2609.40134v1)|
+|2026-09-30|2026-09-30|When Instructions Retrieve Trajectories: Diagnosing and Mitigating Generalization Failures in VLA Models|Hung-Jen Chen|[2609.39971v1](https://arxiv.org/pdf/2609.39971v1)|
+|2026-09-30|2026-09-30|Learning from Runtime Feedback through Failure-Bank Self-Evolution for Vision-Language-Action Models|Mingyue Cui|[2609.39820v1](https://arxiv.org/pdf/2609.39820v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-30|2026-09-30|How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?|Kirill Brilliantov|[2609.40303v1](https://arxiv.org/pdf/2609.40303v1)|
+|2026-09-30|2026-09-30|PivotOPD: Learning to Recover from Pivotal Mistakes in Multi-Turn Agents|Yinghui He|[2609.40285v1](https://arxiv.org/pdf/2609.40285v1)|
+|2026-09-30|2026-09-30|cua-speedrun: Standardized Benchmarking of the Speed of Computer-Use Agents|Pranjal Aggarwal|[2609.40284v1](https://arxiv.org/pdf/2609.40284v1)|
+|2026-09-30|2026-09-30|Belief-Aware Multi-Agent Path Finding under Map Uncertainty|Viraj Parimi|[2609.40269v1](https://arxiv.org/pdf/2609.40269v1)|
+|2026-09-30|2026-09-30|ComputerSD: Online Self-Distillation from Real-Time Feedback for Computer-Use Agents|Yong Du|[2609.40253v1](https://arxiv.org/pdf/2609.40253v1)|
+|2026-09-30|2026-09-30|STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction|Nathan Tsoi|[2609.40245v1](https://arxiv.org/pdf/2609.40245v1)|
 ## Update on 2026-09-29
 
 ### World Model
