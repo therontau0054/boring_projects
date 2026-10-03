@@ -334,6 +334,48 @@ TODO:
 
 
 
+
+## Update on 2026-10-03
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-01|2026-10-01|One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars|Ramazan Fazylov|[2610.02207v1](https://arxiv.org/pdf/2610.02207v1)|
+|2026-10-01|2026-10-01|KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards|Pengfei Li|[2610.02206v1](https://arxiv.org/pdf/2610.02206v1)|
+|2026-10-01|2026-10-01|ROWBench: Do Video Models Render What the Program Specifies?|Zheng-Hui Huang|[2610.02205v1](https://arxiv.org/pdf/2610.02205v1)|
+|2026-10-01|2026-10-01|Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents|Yen-Jen Wang|[2610.02204v1](https://arxiv.org/pdf/2610.02204v1)|
+|2026-10-01|2026-10-01|Embedding Prediction Helps Image Generation|Sihan Xu|[2610.02203v1](https://arxiv.org/pdf/2610.02203v1)|
+|2026-10-01|2026-10-01|ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research|Sohyeon Kim|[2610.02202v1](https://arxiv.org/pdf/2610.02202v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-01|2026-10-01|SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation|Tianjiao Yu|[2610.02201v1](https://arxiv.org/pdf/2610.02201v1)|
+|2026-10-01|2026-10-01|VISTA: A Visual Harness for Reasoning in an Interactive World|Qiushi Han|[2610.02200v1](https://arxiv.org/pdf/2610.02200v1)|
+|2026-10-01|2026-10-01|Cost-augmented Schrödinger bridges on graphs are exactly solvable: a Feynman-Kac tilt replaces learned control|Akshay Balsubramani|[2610.02195v1](https://arxiv.org/pdf/2610.02195v1)|
+|2026-10-01|2026-10-01|Hierarchical Continuous Diffusion Language Models|Hui Ren|[2610.02193v1](https://arxiv.org/pdf/2610.02193v1)|
+|2026-10-01|2026-10-01|The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models|Shuo Xing|[2610.02191v1](https://arxiv.org/pdf/2610.02191v1)|
+|2026-10-01|2026-10-01|Generative modeling of intrinsically disordered protein regions by reinforcing sparse autoencoder features|Jason X. Liu|[2610.02189v1](https://arxiv.org/pdf/2610.02189v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-01|2026-10-01|DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication|Hanchu Zhou|[2610.02161v1](https://arxiv.org/pdf/2610.02161v1)|
+|2026-10-01|2026-10-01|Divide-and-Remember: Recursive Action-Relevant Memory for Long-Horizon VLA Policies|Xuehui Yu|[2610.00982v1](https://arxiv.org/pdf/2610.00982v1)|
+|2026-09-30|2026-09-30|MIKASA-Robo-VLA: Benchmarking Memory in VLA Models for Long-Horizon Manipulation|Egor Cherepanov|[2610.00604v1](https://arxiv.org/pdf/2610.00604v1)|
+|2026-09-30|2026-09-30|When Reasoning Helps Action: Monitoring and Steering Chain-of-Thought in Vision-Language-Action Policies|Sathwik Karnik|[2610.00601v1](https://arxiv.org/pdf/2610.00601v1)|
+|2026-09-30|2026-09-30|Same Scene, Different Task: Skill Alignment for Compositional Generalization in VLAs|Taegeun Yang|[2610.00524v1](https://arxiv.org/pdf/2610.00524v1)|
+|2026-09-30|2026-09-30|GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives|Qize Yu|[2609.39601v1](https://arxiv.org/pdf/2609.39601v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-01|2026-10-01|When Do Intrinsic Rewards Lead to Exploration?|Scott W. Viteri|[2610.02159v1](https://arxiv.org/pdf/2610.02159v1)|
+|2026-10-01|2026-10-01|From Knowledge Access to Source Learning: Developing Source-Specific Competence|Lucheng Fu|[2610.02150v1](https://arxiv.org/pdf/2610.02150v1)|
+|2026-10-01|2026-10-01|Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows|Gabriel Tomitsuka|[2610.02122v1](https://arxiv.org/pdf/2610.02122v1)|
+|2026-10-01|2026-10-01|Homomorphic Advantage Operator: Stabilizing Reinforcement Learning Under Fully Homomorphic Encryption Constraints|Abid Mohamed Nadhir|[2610.02074v1](https://arxiv.org/pdf/2610.02074v1)|
+|2026-10-01|2026-10-01|Mimir: Physics-Grounded LLM Agents for Long-Horizon Irrigation Control|Yimeng Liu|[2610.02038v1](https://arxiv.org/pdf/2610.02038v1)|
+|2026-10-01|2026-10-01|Global Coherence: When Every Agent Is Right and the Team Is Still Wrong - A Local-to-Global Semantic Foundation for Multi-Agent Collaboration|Xin Heng|[2610.02036v1](https://arxiv.org/pdf/2610.02036v1)|
 ## Update on 2026-10-01
 
 ### World Model
