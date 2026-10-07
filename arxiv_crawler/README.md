@@ -335,6 +335,48 @@ TODO:
 
 
 
+
+## Update on 2026-10-07
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-06|2026-10-06|World Models' Last Exam in Physics|Mingju Gao|[2610.08791v1](https://arxiv.org/pdf/2610.08791v1)|
+|2026-10-06|2026-10-06|Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective|Kevin Zhang|[2610.08785v1](https://arxiv.org/pdf/2610.08785v1)|
+|2026-10-06|2026-10-06|PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation|Kun Song|[2610.08784v1](https://arxiv.org/pdf/2610.08784v1)|
+|2026-10-06|2026-10-06|4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction|Shiqi Li|[2610.08782v1](https://arxiv.org/pdf/2610.08782v1)|
+|2026-10-06|2026-10-06|IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas|Ziyu Chen|[2610.08781v1](https://arxiv.org/pdf/2610.08781v1)|
+|2026-10-06|2026-10-06|DepthWorld: 3D World Model for Robot Manipulation|Jai Bardhan|[2610.08780v1](https://arxiv.org/pdf/2610.08780v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-06|2026-10-06|Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?|Ankit Sonthalia|[2610.08775v1](https://arxiv.org/pdf/2610.08775v1)|
+|2026-10-06|2026-10-06|WorldSonus: Bringing Sound to Worlds|Pengjun Fang|[2610.08760v1](https://arxiv.org/pdf/2610.08760v1)|
+|2026-10-06|2026-10-06|Linear Bandits under Exact Sliding-Window Constraints|Seyed Mohammad Hadi Hosseini|[2610.08745v1](https://arxiv.org/pdf/2610.08745v1)|
+|2026-10-06|2026-10-06|On the Computational Tractability of Robust Bandits|Vanessa Kosoy|[2610.08740v1](https://arxiv.org/pdf/2610.08740v1)|
+|2026-10-06|2026-10-06|Denoising Hierarchical Representations: Joint Continuous Diffusion for Language Modeling|Mathias Ollu|[2610.08738v1](https://arxiv.org/pdf/2610.08738v1)|
+|2026-10-06|2026-10-06|WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?|Siru Jiang|[2610.08720v1](https://arxiv.org/pdf/2610.08720v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-06|2026-10-06|EgoLAP: Learning from Egocentric Human Data through Language-Action Reasoning|Lihan Zha|[2610.08726v1](https://arxiv.org/pdf/2610.08726v1)|
+|2026-10-06|2026-10-06|VOMMI: Collecting and Leveraging Portable Demonstrations for Mobile Manipulation|Yutian Zhang|[2610.08220v1](https://arxiv.org/pdf/2610.08220v1)|
+|2026-10-06|2026-10-06|Adapting Vision-Language-Action Models to Unknown Visual Disruptions During Execution|Ahin Lee|[2610.07946v1](https://arxiv.org/pdf/2610.07946v1)|
+|2026-10-06|2026-10-06|SMART: Zero-Shot Sim-to-Real Articulated Object Manipulation via Large-Scale Synthetic Pretraining|Jicong Ao|[2610.07652v1](https://arxiv.org/pdf/2610.07652v1)|
+|2026-10-06|2026-10-06|Seeing the Invisible: Physics-Guided Visual Prompting for Temperature- and Radiation-Aware VLA Navigation|Hojoon Son|[2610.07558v1](https://arxiv.org/pdf/2610.07558v1)|
+|2026-10-05|2026-10-05|Recursive Video In-Context Learning for Agentic Robot|Wenrui Bao|[2610.06843v1](https://arxiv.org/pdf/2610.06843v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-06|2026-10-06|AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model|Sarim Hashmi|[2610.08773v1](https://arxiv.org/pdf/2610.08773v1)|
+|2026-10-06|2026-10-06|VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning|Zewei Zhou|[2610.08761v1](https://arxiv.org/pdf/2610.08761v1)|
+|2026-10-06|2026-10-06|Does an Agent's History Tell You When Compaction Will Hurt? A Modest, Bounded Effect on the TRACE Paired-Replay Corpus|Egor Pakhomov|[2610.08722v1](https://arxiv.org/pdf/2610.08722v1)|
+|2026-10-06|2026-10-06|nanoMuse: An Open-Source Personal Agent for Every Device You Own|Guangyi Liu|[2610.08699v1](https://arxiv.org/pdf/2610.08699v1)|
+|2026-10-06|2026-10-06|ScienceClaw: Benchmarking Continual Self-Evolution of AI-for-Science Agents Across the Natural and Social Sciences|Mingda Zhang|[2610.08691v1](https://arxiv.org/pdf/2610.08691v1)|
+|2026-10-06|2026-10-06|Coupled but Late: Turn-Taking Between Full-Duplex Speech Models in Unscripted Dialogue|Lichen Zhu|[2610.08683v1](https://arxiv.org/pdf/2610.08683v1)|
 ## Update on 2026-10-03
 
 ### World Model
