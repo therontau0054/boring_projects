@@ -336,6 +336,48 @@ TODO:
 
 
 
+
+## Update on 2026-10-11
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-08|2026-10-08|DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training|Junyan Li|[2610.12468v1](https://arxiv.org/pdf/2610.12468v1)|
+|2026-10-08|2026-10-08|CSF: Contextual Safety Filtering for Motion Generators|Lizhi Yang|[2610.12467v1](https://arxiv.org/pdf/2610.12467v1)|
+|2026-10-08|2026-10-08|From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents|Abbas Raftari|[2610.12463v1](https://arxiv.org/pdf/2610.12463v1)|
+|2026-10-08|2026-10-08|What 30,000 Hours of Ego-centric Video Does Not Teach|Jiahua Dong|[2610.12464v1](https://arxiv.org/pdf/2610.12464v1)|
+|2026-10-08|2026-10-08|OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs|You-Zhe Xie|[2610.12461v1](https://arxiv.org/pdf/2610.12461v1)|
+|2026-10-08|2026-10-08|WorldGuide: Goal-Directed Video World Model for Procedural Task Execution|Ankan Deria|[2610.12459v1](https://arxiv.org/pdf/2610.12459v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-08|2026-10-08|A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control|Octi Zhang|[2610.12465v1](https://arxiv.org/pdf/2610.12465v1)|
+|2026-10-08|2026-10-08|Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems|Anna Zimmel|[2610.12449v1](https://arxiv.org/pdf/2610.12449v1)|
+|2026-10-08|2026-10-08|Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff|Erin Crawley|[2610.12436v1](https://arxiv.org/pdf/2610.12436v1)|
+|2026-10-08|2026-10-08|Toward Joint Optimization of Circuit Depth and Training Data Size in Adaptively Grown Quantum Classifiers|Saeefa Rubaiyet Nowmi|[2610.12428v1](https://arxiv.org/pdf/2610.12428v1)|
+|2026-10-08|2026-10-08|Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching|Luping Liu|[2610.12421v1](https://arxiv.org/pdf/2610.12421v1)|
+|2026-10-08|2026-10-08|WOVEN: Weaving Visual World Modeling into Multimodal LLMs|Zheyu Fan|[2610.12417v1](https://arxiv.org/pdf/2610.12417v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-08|2026-10-08|VioLA: Learning Generalist Humanoid Control Policies from Human Data|Mert Albaba|[2610.12435v1](https://arxiv.org/pdf/2610.12435v1)|
+|2026-10-08|2026-10-08|ARC: A Reasoning Recipe for Robot Foundation Models|Gokul Puthumanaillam|[2610.12386v1](https://arxiv.org/pdf/2610.12386v1)|
+|2026-10-08|2026-10-08|Recompose and Refine Latent Reasoning Flows for Vision-Language-Action Models|Hongyu Shi|[2610.12090v1](https://arxiv.org/pdf/2610.12090v1)|
+|2026-10-08|2026-10-08|Humanoid World Action Model With Joint State--Action Generation|Yan Yang|[2610.12026v1](https://arxiv.org/pdf/2610.12026v1)|
+|2026-10-08|2026-10-08|REACT: Rolling Denoising and Dual Decoupling for Reactive Robot Control with VLA Models|Houlong Xiong|[2610.12007v1](https://arxiv.org/pdf/2610.12007v1)|
+|2026-10-08|2026-10-08|CAPABLE: Capability-Aware Policy Adaptation via Behavioral Latent Encoding|Mohammad Khoshnazar|[2610.11971v1](https://arxiv.org/pdf/2610.11971v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-08|2026-10-08|BrickBench: Evaluating Agentic Brick Design|Peter Kulits|[2610.12452v1](https://arxiv.org/pdf/2610.12452v1)|
+|2026-10-08|2026-10-08|Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception|Oskar J. Hollinsworth|[2610.12445v1](https://arxiv.org/pdf/2610.12445v1)|
+|2026-10-08|2026-10-08|RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments|Zimo Wen|[2610.12424v1](https://arxiv.org/pdf/2610.12424v1)|
+|2026-10-08|2026-10-08|OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport|Babak Barazandeh|[2610.12375v1](https://arxiv.org/pdf/2610.12375v1)|
+|2026-10-08|2026-10-08|Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict|Kaiser Sun|[2610.12360v1](https://arxiv.org/pdf/2610.12360v1)|
+|2026-10-08|2026-10-08|Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competition|Kaisen Yang|[2610.12341v1](https://arxiv.org/pdf/2610.12341v1)|
 ## Update on 2026-10-07
 
 ### World Model
