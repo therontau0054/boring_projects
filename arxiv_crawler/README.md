@@ -337,6 +337,48 @@ TODO:
 
 
 
+
+## Update on 2026-10-13
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-09|2026-10-09|Can Language Models Play the Wikipedia Game?|Alexander Hickey|[2610.13948v1](https://arxiv.org/pdf/2610.13948v1)|
+|2026-10-09|2026-10-09|Hide and Seek: HIDE Concepts to SEEK explanations for black box models|Bhanu Tokas|[2610.13935v1](https://arxiv.org/pdf/2610.13935v1)|
+|2026-10-09|2026-10-09|Chronos Policy: Learning Robot Policies on Physical Time|Changhao Wang|[2610.13929v1](https://arxiv.org/pdf/2610.13929v1)|
+|2026-10-09|2026-10-09|AI Models Can Provably Hide Arbitrary Capabilities|Andis Draguns|[2610.13928v1](https://arxiv.org/pdf/2610.13928v1)|
+|2026-10-09|2026-10-09|Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning|Sajjad Baghaeea|[2610.13923v1](https://arxiv.org/pdf/2610.13923v1)|
+|2026-10-09|2026-10-09|DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness|Daniel Szelogowski|[2610.13918v1](https://arxiv.org/pdf/2610.13918v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-09|2026-10-09|KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling|Tianyi Wu|[2610.13924v1](https://arxiv.org/pdf/2610.13924v1)|
+|2026-10-09|2026-10-09|Designing Protein Structures from Natural Language|Joseph Lee|[2610.13917v1](https://arxiv.org/pdf/2610.13917v1)|
+|2026-10-09|2026-10-09|X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems|Yeonsung Jung|[2610.13886v1](https://arxiv.org/pdf/2610.13886v1)|
+|2026-10-09|2026-10-09|Finite-Sample Guarantees for Fully Discrete Conditional Diffusion Models|Qiuyun Zhu|[2610.13851v1](https://arxiv.org/pdf/2610.13851v1)|
+|2026-10-09|2026-10-09|Inference-Time Steering Across Scaffolds and Epitopes for Sample-Efficient De Novo Nanobody Design|Mason Minot|[2610.13844v1](https://arxiv.org/pdf/2610.13844v1)|
+|2026-10-09|2026-10-09|Studying Comics at Scale with Artificial Intelligence: The PAGE Framework and Three Studies of American Comics and Japanese Manga|Emilio Ferrara|[2610.13840v1](https://arxiv.org/pdf/2610.13840v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-09|2026-10-09|LAPT-Scale: Scaling Embodied Policies with Latent Action Pre-Training on Human Videos|Zhiyuan Xiang|[2610.13732v1](https://arxiv.org/pdf/2610.13732v1)|
+|2026-10-09|2026-10-09|JitterVLA: A Replay Benchmark for Motion Quality in VLA-Driven Human-Robot Manipulation|Faith Ogunwoye|[2610.13628v1](https://arxiv.org/pdf/2610.13628v1)|
+|2026-10-09|2026-10-09|RARA: Robust Policy Fine-Tuning through Retrieval-Anchored Representation Alignment for Robotic Manipulation|Xuhui Kang|[2610.13578v1](https://arxiv.org/pdf/2610.13578v1)|
+|2026-10-09|2026-10-09|RESCUE: Is This Alarm Worth Acting On? Counterfactual Evaluation of VLA Runtime Monitors|David Ahmedt-Aristizabal|[2610.13516v1](https://arxiv.org/pdf/2610.13516v1)|
+|2026-10-09|2026-10-09|Beyond Actions: Learning Future Operation Targets for Vision-Language-Action Models|Min Lin|[2610.13212v1](https://arxiv.org/pdf/2610.13212v1)|
+|2026-10-09|2026-10-09|OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models|Xule Gao|[2610.12914v1](https://arxiv.org/pdf/2610.12914v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-09|2026-10-09|RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics|Weiliang Chen|[2610.13889v1](https://arxiv.org/pdf/2610.13889v1)|
+|2026-10-09|2026-10-09|Returning to Development States: When Full Sandbox Snapshots Help Coding Agents|Daniel Thi Graviet|[2610.13841v1](https://arxiv.org/pdf/2610.13841v1)|
+|2026-10-09|2026-10-09|MC-EvoBench: Auditing Experience-Driven Self-Improvement in Minecraft Agents|Jingwei Song|[2610.13829v1](https://arxiv.org/pdf/2610.13829v1)|
+|2026-10-09|2026-10-09|Matched-Context Group Policy Optimization for LLM Agent Training|Chenxu Zhang|[2610.13755v1](https://arxiv.org/pdf/2610.13755v1)|
+|2026-10-09|2026-10-09|SafeDiSTL: Decomposing Joint Constraints for Safe Multi-Agent Reinforcement Learning|Hongrui Zheng|[2610.13737v1](https://arxiv.org/pdf/2610.13737v1)|
+|2026-10-09|2026-10-09|A Baseline Assessment for the Agentic Web Technology Stack|Vagner Figueredo de Santana|[2610.13703v1](https://arxiv.org/pdf/2610.13703v1)|
 ## Update on 2026-10-11
 
 ### World Model
