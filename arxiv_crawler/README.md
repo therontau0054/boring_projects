@@ -338,6 +338,48 @@ TODO:
 
 
 
+
+## Update on 2026-10-15
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-14|2026-10-14|SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving|Shaoyuan Xie|[2610.20609v1](https://arxiv.org/pdf/2610.20609v1)|
+|2026-10-14|2026-10-14|Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion|Huixuan Cheng|[2610.20606v1](https://arxiv.org/pdf/2610.20606v1)|
+|2026-10-14|2026-10-14|Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance|Zhefei Gong|[2610.20607v1](https://arxiv.org/pdf/2610.20607v1)|
+|2026-10-14|2026-10-14|VITAL: From Visual Motion to Precise Action|Ao Liang|[2610.20604v1](https://arxiv.org/pdf/2610.20604v1)|
+|2026-10-14|2026-10-14|Heavy-Heavy-Light-Light correlators from holography on the worldsheet|Matías Colaneri|[2610.20602v1](https://arxiv.org/pdf/2610.20602v1)|
+|2026-10-14|2026-10-14|Co-Evolving Acting and Forecasting for Language Agents|Haofei Yu|[2610.20597v1](https://arxiv.org/pdf/2610.20597v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-14|2026-10-14|Price of Anarchy of First-Price Auctions in Agentic Markets|Shubhendu Trivedi|[2610.20587v1](https://arxiv.org/pdf/2610.20587v1)|
+|2026-10-14|2026-10-14|Continuum Attention|Afshin Khadangi|[2610.20586v1](https://arxiv.org/pdf/2610.20586v1)|
+|2026-10-14|2026-10-14|Player-1: Learning to Play from Synthetic Experience|Mingyu Ouyang|[2610.20584v1](https://arxiv.org/pdf/2610.20584v1)|
+|2026-10-14|2026-10-14|Latent Compaction with Test-Time Training|Yingfa Chen|[2610.20582v1](https://arxiv.org/pdf/2610.20582v1)|
+|2026-10-14|2026-10-14|PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition|Weichen Lyu|[2610.20560v1](https://arxiv.org/pdf/2610.20560v1)|
+|2026-10-14|2026-10-14|PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios|Ali Zamani|[2610.20548v1](https://arxiv.org/pdf/2610.20548v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-14|2026-10-14|FoveaVLA: Foveation Actions Replace the Wrist Camera in VLAs|Bingao Chen|[2610.20064v1](https://arxiv.org/pdf/2610.20064v1)|
+|2026-10-14|2026-10-14|MorphAct: Robot Policies Morphing with the Worlds They Act In|Ziyan Liu|[2610.20019v1](https://arxiv.org/pdf/2610.20019v1)|
+|2026-10-14|2026-10-14|VLRLA: Deployment-Time Adaptation of Vision-Language-Action Models through In-Context Reinforcement Learning|Diyuan Shi|[2610.19517v1](https://arxiv.org/pdf/2610.19517v1)|
+|2026-10-13|2026-10-13|ChunkAct: Action Chunking for Agentic Robotics|Bingxin Xu|[2610.18874v1](https://arxiv.org/pdf/2610.18874v1)|
+|2026-10-13|2026-10-13|What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study|Mingxuan Yan|[2610.18869v1](https://arxiv.org/pdf/2610.18869v1)|
+|2026-10-13|2026-10-13|ACCRUE: Continual Off-Policy Reinforcement Learning for Robot Foundation Models|Changyeon Kim|[2610.18596v1](https://arxiv.org/pdf/2610.18596v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-14|2026-10-14|One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness|Artin Tajdini|[2610.20576v1](https://arxiv.org/pdf/2610.20576v1)|
+|2026-10-14|2026-10-14|Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization|Anna Mei|[2610.20573v1](https://arxiv.org/pdf/2610.20573v1)|
+|2026-10-14|2026-10-14|Scaling Discovery Requires Forgetting|Shangyin Tan|[2610.20563v1](https://arxiv.org/pdf/2610.20563v1)|
+|2026-10-14|2026-10-14|ActiveEvidence: Decision-Focused Evidence Graphs with Verifiable Acquisition Gaps|Miaobo Hu|[2610.20532v1](https://arxiv.org/pdf/2610.20532v1)|
+|2026-10-14|2026-10-14|The Wealth of Agents: Scaling Agentic AI Across Developers|Austin W. Hanjie|[2610.20518v1](https://arxiv.org/pdf/2610.20518v1)|
+|2026-10-14|2026-10-14|Bayesian Learning to Select Fair Classifiers|Saatvik Kher|[2610.20514v1](https://arxiv.org/pdf/2610.20514v1)|
 ## Update on 2026-10-13
 
 ### World Model
