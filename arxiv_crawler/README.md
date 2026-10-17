@@ -339,6 +339,48 @@ TODO:
 
 
 
+
+## Update on 2026-10-17
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-15|2026-10-15|Value as Memory: Online Value-Guided Post-training for General Robot Policies|Wenye Yu|[2610.22368v1](https://arxiv.org/pdf/2610.22368v1)|
+|2026-10-15|2026-10-15|Discovering state-of-the-art quantum circuits with large language models|Andi Gu|[2610.22367v1](https://arxiv.org/pdf/2610.22367v1)|
+|2026-10-15|2026-10-15|T2-z: Test-Time Optimization of Environment Latents for Robotic World Models|Chenyuan Zhou|[2610.22364v1](https://arxiv.org/pdf/2610.22364v1)|
+|2026-10-15|2026-10-15|Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation|Zirui Wu|[2610.22363v1](https://arxiv.org/pdf/2610.22363v1)|
+|2026-10-15|2026-10-15|PathFM: Fast Generative Forecasting of Multivariate Trajectories|Jiachen Yao|[2610.22358v1](https://arxiv.org/pdf/2610.22358v1)|
+|2026-10-15|2026-10-15|OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling|Bowei Liu|[2610.22355v1](https://arxiv.org/pdf/2610.22355v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-15|2026-10-15|LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation|Zhixu Li|[2610.22372v1](https://arxiv.org/pdf/2610.22372v1)|
+|2026-10-15|2026-10-15|CoDA: Co-Evolution of Data Engines and Action Policies|Tianjiao Yu|[2610.22362v1](https://arxiv.org/pdf/2610.22362v1)|
+|2026-10-15|2026-10-15|MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering|Shangheng Du|[2610.22344v1](https://arxiv.org/pdf/2610.22344v1)|
+|2026-10-15|2026-10-15|GeoState: Learning View-Decoupled Geometry States for 3D World Modeling|Hongchang Liu|[2610.22343v1](https://arxiv.org/pdf/2610.22343v1)|
+|2026-10-15|2026-10-15|3DCodeVerse: Exploring 3D Worlds as Code|Yipeng Gao|[2610.22341v1](https://arxiv.org/pdf/2610.22341v1)|
+|2026-10-15|2026-10-15|Robust Reinforcement Learning for Dynamic Treatment Regimes under Model and Measurement Uncertainty|Chengze Xie|[2610.22336v1](https://arxiv.org/pdf/2610.22336v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-15|2026-10-15|REKI: Registering Knowledge in VLAs|Juliette Marrie|[2610.22178v1](https://arxiv.org/pdf/2610.22178v1)|
+|2026-10-15|2026-10-15|Policy-Aligned Predictive Verification for Adaptive VLA Action-Chunk Execution|Minkyu Kim|[2610.21434v1](https://arxiv.org/pdf/2610.21434v1)|
+|2026-10-14|2026-10-14|A Phenomenology of Neural Geometry in Vision-Language-Action Models|Mozes Jacobs|[2610.20840v1](https://arxiv.org/pdf/2610.20840v1)|
+|2026-10-13|2026-10-13|TacitVLA: Reasoning Vision-Language-Action Models Without Reasoning Latency|Jack Lu|[2610.17540v1](https://arxiv.org/pdf/2610.17540v1)|
+|2026-10-13|2026-10-13|YUBI-Real2Sim: 3DGS Scene Verification for Reliable Policy Evaluation|Hiroki Nishizawa|[2610.17521v1](https://arxiv.org/pdf/2610.17521v1)|
+|2026-10-12|2026-10-12|AUGUstus: Autonomous Driving VLA Model with Unified Generation and Understanding|Yuqi Ye|[2610.16985v1](https://arxiv.org/pdf/2610.16985v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-15|2026-10-15|FDE-Gym: The Last Mile of AI Delivery|Dongxu Yang|[2610.22350v1](https://arxiv.org/pdf/2610.22350v1)|
+|2026-10-15|2026-10-15|KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents|Siqi Chen|[2610.22331v1](https://arxiv.org/pdf/2610.22331v1)|
+|2026-10-15|2026-10-15|Learning Self-Orchestration in Decentralized Agent Swarms|Guowei Xu|[2610.22322v1](https://arxiv.org/pdf/2610.22322v1)|
+|2026-10-15|2026-10-15|A team of Gemini 4 Argon agents beats Minecraft|Maxence Faldor|[2610.22319v1](https://arxiv.org/pdf/2610.22319v1)|
+|2026-10-15|2026-10-15|Learning to Steer LLM Agents and Multi-Agent Systems|Leyang Shen|[2610.22316v1](https://arxiv.org/pdf/2610.22316v1)|
+|2026-10-15|2026-10-15|CAT-alyzing Honesty: Continuous Adversarial Training for Transferable LLM Honesty|Yuan-Chen Chang|[2610.22292v1](https://arxiv.org/pdf/2610.22292v1)|
 ## Update on 2026-10-15
 
 ### World Model
