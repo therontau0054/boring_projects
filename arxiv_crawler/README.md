@@ -340,6 +340,48 @@ TODO:
 
 
 
+
+## Update on 2026-10-19
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-16|2026-10-16|Rethinking the design space of Vanilla Pixel Diffusion Transformers|Soumik Mukhopadhyay|[2610.23854v1](https://arxiv.org/pdf/2610.23854v1)|
+|2026-10-16|2026-10-16|Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts|Antonia Bronars|[2610.23849v1](https://arxiv.org/pdf/2610.23849v1)|
+|2026-10-16|2026-10-16|Behavioral Couplings: From Formation to Behavioral Emergence in Language Models|Dongyoon Hahm|[2610.23847v1](https://arxiv.org/pdf/2610.23847v1)|
+|2026-10-16|2026-10-16|StopWatch: Goal Grounding for Object-goal Navigation|Xinhao Liu|[2610.23841v1](https://arxiv.org/pdf/2610.23841v1)|
+|2026-10-16|2026-10-16|Waiting Buys Exactly Two Moments: Endogenous Identification in Prediction-Driven Allocation|Rama AlHamidi|[2610.23830v1](https://arxiv.org/pdf/2610.23830v1)|
+|2026-10-16|2026-10-16|Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Learn?|Anis Bekri|[2610.23827v1](https://arxiv.org/pdf/2610.23827v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-16|2026-10-16|ENFR: Evidence Networks with Flow-Matched References for Amortized Simulation-Based Model Inference|Kai Lehman|[2610.23825v1](https://arxiv.org/pdf/2610.23825v1)|
+|2026-10-16|2026-10-16|Learning without relearning physical symmetry: an SO(3)-equivariant convolutional network (CNN) on the sphere|Joshua Williamson|[2610.23821v1](https://arxiv.org/pdf/2610.23821v1)|
+|2026-10-16|2026-10-16|CocoRNA: Collective RNA Design with Cooperative Multi-agent Reinforcement Learning|Tianmeng Hu|[2610.23820v1](https://arxiv.org/pdf/2610.23820v1)|
+|2026-10-16|2026-10-16|Logic-Guided Graph Denoising Diffusion Models|Samuel Cognolato|[2610.23766v1](https://arxiv.org/pdf/2610.23766v1)|
+|2026-10-16|2026-10-16|From Flow-Box Invariants to Global Conservation Laws: Machine Learning-Assisted Detection of Singularities and Near-Integrability|Jimmie Adriazola|[2610.23760v1](https://arxiv.org/pdf/2610.23760v1)|
+|2026-10-16|2026-10-16|Escaping Parameter Space: Tight Generalization Bounds via Representation Quality|Niclas Göring|[2610.23729v1](https://arxiv.org/pdf/2610.23729v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-16|2026-10-16|Beyond Success Rate: Interventional Evaluation of Memory in Vision-Language-Action Systems|Keyuan Luo|[2610.23372v1](https://arxiv.org/pdf/2610.23372v1)|
+|2026-10-16|2026-10-16|NestedVLA: Learning to Consolidate and Generate Skills for Vision-Language-Action Models|Guodong Du|[2610.23271v1](https://arxiv.org/pdf/2610.23271v1)|
+|2026-10-16|2026-10-16|Unifying Embodied Foundation Models via a Model-to-Policy Formulation|Xinyi Hong|[2610.23053v1](https://arxiv.org/pdf/2610.23053v1)|
+|2026-10-15|2026-10-15|Embodiment-Classifier Guidance: Transferring Frozen VLAs Across Robot Dynamics without Demonstrations|Devin Han|[2610.22576v1](https://arxiv.org/pdf/2610.22576v1)|
+|2026-10-15|2026-10-15|When Plans Change, Remember: Replanning-Guided Visual Memory for Vision-Language-Action Models|Victoria Smelova|[2610.22556v1](https://arxiv.org/pdf/2610.22556v1)|
+|2026-10-12|2026-10-12|VLA-GAUGE: Systematically Evaluating Generalization and Robustness in Vision-Language-Action Models|Jun Xiao|[2610.16567v1](https://arxiv.org/pdf/2610.16567v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-16|2026-10-16|AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery|Shicheng Liu|[2610.23845v1](https://arxiv.org/pdf/2610.23845v1)|
+|2026-10-16|2026-10-16|Self-Building Labs|Jiaru Bai|[2610.23826v1](https://arxiv.org/pdf/2610.23826v1)|
+|2026-10-16|2026-10-16|Learning Personalized Memory Gating from Delayed One-Sided Feedback|Kaixuan Ji|[2610.23812v1](https://arxiv.org/pdf/2610.23812v1)|
+|2026-10-16|2026-10-16|DrugHarness: An Evolvable Agent Harness for Computational Drug Discovery|Yuxing Chen|[2610.23791v1](https://arxiv.org/pdf/2610.23791v1)|
+|2026-10-16|2026-10-16|Parametric Resonance in Primal-Dual Learning for Slowly Non-Stationary Constrained MDPs|Maxime Baelde|[2610.23788v1](https://arxiv.org/pdf/2610.23788v1)|
+|2026-10-16|2026-10-16|GLOBE: Evolving Structured Agentic Memory for E-commerce Product Optimization in Generative Search|Hyunseo Kim|[2610.23709v1](https://arxiv.org/pdf/2610.23709v1)|
 ## Update on 2026-10-17
 
 ### World Model
