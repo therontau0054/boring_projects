@@ -341,6 +341,48 @@ TODO:
 
 
 
+
+## Update on 2026-10-21
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-20|2026-10-20|Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs|Noam Rotstein|[2610.28632v1](https://arxiv.org/pdf/2610.28632v1)|
+|2026-10-20|2026-10-20|AEON: Unifying Video and 3D World Models|Weiqi Zhang|[2610.28631v1](https://arxiv.org/pdf/2610.28631v1)|
+|2026-10-20|2026-10-20|GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery|Yazhuo Liu|[2610.28629v1](https://arxiv.org/pdf/2610.28629v1)|
+|2026-10-20|2026-10-20|Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking|Yuxuan Kuang|[2610.28628v1](https://arxiv.org/pdf/2610.28628v1)|
+|2026-10-20|2026-10-20|UniWALM: Unified World Action Language Model for Embodied Robot Control|Rahul Sajnani|[2610.28626v1](https://arxiv.org/pdf/2610.28626v1)|
+|2026-10-20|2026-10-20|Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets|Jad Yammine|[2610.28624v1](https://arxiv.org/pdf/2610.28624v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-20|2026-10-20|MindView: Benchmarking Generative Multi-View Spatial Intelligence|Yanbo Wang|[2610.28622v1](https://arxiv.org/pdf/2610.28622v1)|
+|2026-10-20|2026-10-20|Efficient Edge-aware Attention Network for Graph Generation|Vincent Jung|[2610.28618v1](https://arxiv.org/pdf/2610.28618v1)|
+|2026-10-20|2026-10-20|Semantic Observability for Autonomous Systems Diagnostics|Jitendra Solanki|[2610.28611v1](https://arxiv.org/pdf/2610.28611v1)|
+|2026-10-20|2026-10-20|Benchmarking Arabic Dialects for Math Problems|Noor Abo Mokh|[2610.28607v1](https://arxiv.org/pdf/2610.28607v1)|
+|2026-10-20|2026-10-20|Value-Rich, Differently Organized: Measuring Value Expression and Organization in AI-Generated Debates|Maoyuan Li|[2610.28604v1](https://arxiv.org/pdf/2610.28604v1)|
+|2026-10-20|2026-10-20|Evolving Agent Interfaces|Saaket Agashe|[2610.28601v1](https://arxiv.org/pdf/2610.28601v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-20|2026-10-20|Perceives but Doesn't Brake: A Perception-Action Binding Gap in Reasoning Driving VLAs|Matteo Cercola|[2610.28184v1](https://arxiv.org/pdf/2610.28184v1)|
+|2026-10-20|2026-10-20|VLA-Retain: Benchmarking Cross-Dimension Effects of Vision Tuning in VLAs|Borui Xu|[2610.27698v1](https://arxiv.org/pdf/2610.27698v1)|
+|2026-10-19|2026-10-19|What Would Removing This Corruption Change? Failure Attribution for Vision-Language-Action Models|Carson Sobolewski|[2610.27277v1](https://arxiv.org/pdf/2610.27277v1)|
+|2026-10-19|2026-10-19|SPAR: Structural Pruning and Action Recovery for Vision-Language-Action Models|Shenli Zheng|[2610.26487v1](https://arxiv.org/pdf/2610.26487v1)|
+|2026-10-19|2026-10-19|Robotic Photography System based on Vision-Language-Action Model|Song-Li Wu|[2610.26287v1](https://arxiv.org/pdf/2610.26287v1)|
+|2026-10-19|2026-10-19|PaceVLA: Adaptive Temporal Action Quantization in Vision-Language-Action Models|Hojin Jeon|[2610.25961v1](https://arxiv.org/pdf/2610.25961v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-20|2026-10-20|Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation|Shu Zhao|[2610.28586v1](https://arxiv.org/pdf/2610.28586v1)|
+|2026-10-20|2026-10-20|SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images|Rundong Luo|[2610.28585v1](https://arxiv.org/pdf/2610.28585v1)|
+|2026-10-20|2026-10-20|Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition|Wenjie Lou|[2610.28578v1](https://arxiv.org/pdf/2610.28578v1)|
+|2026-10-20|2026-10-20|OptScientist: Automated Discovery of Optimization Laws|Ma ZhenYao|[2610.28562v1](https://arxiv.org/pdf/2610.28562v1)|
+|2026-10-20|2026-10-20|Agentic Ensemble with Vision-Language Models for Visual Anomaly Detection|Shangquan Sun|[2610.28560v1](https://arxiv.org/pdf/2610.28560v1)|
+|2026-10-20|2026-10-20|Proof-Carrying Contracts: Commitments AI Agents Cannot Break|Carlo Ciliberto|[2610.28484v1](https://arxiv.org/pdf/2610.28484v1)|
 ## Update on 2026-10-19
 
 ### World Model
