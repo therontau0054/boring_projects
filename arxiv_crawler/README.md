@@ -342,6 +342,48 @@ TODO:
 
 
 
+
+## Update on 2026-10-23
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-22|2026-10-22|Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success|Yunfei Xie|[2610.31670v1](https://arxiv.org/pdf/2610.31670v1)|
+|2026-10-22|2026-10-22|Reading, Writing, Sharing, and Interacting with the World through Video|Shengqiong Wu|[2610.31668v1](https://arxiv.org/pdf/2610.31668v1)|
+|2026-10-22|2026-10-22|Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning|Mahdi Salmani|[2610.31667v1](https://arxiv.org/pdf/2610.31667v1)|
+|2026-10-22|2026-10-22|Reliable AI-Assisted Decisions via Selective Auditing|Isaac Gibbs|[2610.31662v1](https://arxiv.org/pdf/2610.31662v1)|
+|2026-10-22|2026-10-22|OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing|Ariel Slepyan|[2610.31661v1](https://arxiv.org/pdf/2610.31661v1)|
+|2026-10-22|2026-10-22|SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing|Sy-Tuyen Ho|[2610.31659v1](https://arxiv.org/pdf/2610.31659v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-22|2026-10-22|Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation|Gabriele Dominici|[2610.31639v1](https://arxiv.org/pdf/2610.31639v1)|
+|2026-10-22|2026-10-22|BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing|Hayden Prairie|[2610.31633v1](https://arxiv.org/pdf/2610.31633v1)|
+|2026-10-22|2026-10-22|Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3|Barış Alparslan|[2610.31624v1](https://arxiv.org/pdf/2610.31624v1)|
+|2026-10-22|2026-10-22|How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions|Miguel Mochizuki Silva|[2610.31606v1](https://arxiv.org/pdf/2610.31606v1)|
+|2026-10-22|2026-10-22|CRANE: Post-Hoc Counterfactual Retrieval for Multimodal Classifiers|Franco Rugolon|[2610.31594v1](https://arxiv.org/pdf/2610.31594v1)|
+|2026-10-22|2026-10-22|Action Learning for Scientific Simulations|Sarah Liaw|[2610.31585v1](https://arxiv.org/pdf/2610.31585v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-22|2026-10-22|FocusVLA: Future-Intent Guided Dynamic View Routing for Vision-Language-Action Models|Huixin Xu|[2610.31423v1](https://arxiv.org/pdf/2610.31423v1)|
+|2026-10-22|2026-10-22|Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation|Chenyuan Chen|[2610.31166v1](https://arxiv.org/pdf/2610.31166v1)|
+|2026-10-22|2026-10-22|Measuring the Reasoning-Action Coupling in Driving Vision-Language-Action Models through Counterfactuals|Gabriel Manalu|[2610.30953v1](https://arxiv.org/pdf/2610.30953v1)|
+|2026-10-21|2026-10-21|AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation|Likui Zhang|[2610.30097v1](https://arxiv.org/pdf/2610.30097v1)|
+|2026-10-21|2026-10-21|SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation|Zhaohui Yang|[2610.30044v1](https://arxiv.org/pdf/2610.30044v1)|
+|2026-10-21|2026-10-21|Post-hoc Epistemic Uncertainty for Vision-Language-Action Policies|Johannes Keller|[2610.29730v1](https://arxiv.org/pdf/2610.29730v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-22|2026-10-22|METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning|Ali Najar|[2610.31656v1](https://arxiv.org/pdf/2610.31656v1)|
+|2026-10-22|2026-10-22|EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence|Qijin Zhang|[2610.31650v1](https://arxiv.org/pdf/2610.31650v1)|
+|2026-10-22|2026-10-22|Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure|Pellegrino Casoria|[2610.31573v1](https://arxiv.org/pdf/2610.31573v1)|
+|2026-10-22|2026-10-22|Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems|Humza Akhtar|[2610.31553v1](https://arxiv.org/pdf/2610.31553v1)|
+|2026-10-22|2026-10-22|Same Luck, Different Choice: Twin-World Credit Assignment for Agentic Reinforcement Learning|Zeropy Surio|[2610.31544v1](https://arxiv.org/pdf/2610.31544v1)|
+|2026-10-22|2026-10-22|DuoCook: An Overcooked-Inspired Benchmark for Visual Planning and Coordination|Ziyi Jiao|[2610.31511v1](https://arxiv.org/pdf/2610.31511v1)|
 ## Update on 2026-10-21
 
 ### World Model
