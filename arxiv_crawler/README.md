@@ -343,6 +343,47 @@ TODO:
 
 
 
+
+## Update on 2026-10-25
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-22|2026-10-22|Cost-Aware Abstention for LLM-Based IT Ticket Classification|Sachin Gupta|[2610.31657v1](https://arxiv.org/pdf/2610.31657v1)|
+|2026-10-22|2026-10-22|BrickWright: Agentic Creation of Physically Feasible Brick Builds|Ava Pun|[2610.31651v1](https://arxiv.org/pdf/2610.31651v1)|
+|2026-10-22|2026-10-22|Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation|Xiaolin Li|[2610.31649v1](https://arxiv.org/pdf/2610.31649v1)|
+|2026-10-22|2026-10-22|Low-Bit N-Gram Embeddings for Language Models|Stephen Chung|[2610.31646v1](https://arxiv.org/pdf/2610.31646v1)|
+|2026-10-22|2026-10-22|UniVOE: A Removal-Driven Framework for Interaction-Aware Universal Video Object Editing|Shuzhou Yang|[2610.31641v1](https://arxiv.org/pdf/2610.31641v1)|
+|2026-10-22|2026-10-22|F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation|Jinyu Zhang|[2610.31623v1](https://arxiv.org/pdf/2610.31623v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-22|2026-10-22|What Makes a Good Unmasking Policy? A Controlled Study of Learned Unmasking in Diffusion Language Models|Jinya Sakurai|[2610.31576v1](https://arxiv.org/pdf/2610.31576v1)|
+|2026-10-22|2026-10-22|Rethinking Sequence Compression with Test-time Regression|Sihan Yang|[2610.31574v1](https://arxiv.org/pdf/2610.31574v1)|
+|2026-10-22|2026-10-22|On the Token Collapse Phenomenon in Textual Graph Soft Prompting|Andrea Giuseppe Di Francesco|[2610.31572v1](https://arxiv.org/pdf/2610.31572v1)|
+|2026-10-22|2026-10-22|Diffusion Language Models for Perplexity-Aware Black-Box Attacks|Ali Al-Lawati|[2610.31558v1](https://arxiv.org/pdf/2610.31558v1)|
+|2026-10-22|2026-10-22|Fine-Grained Analysis of Catastrophic Forgetting in Continual Learning via Algorithmic Stability|Guodong Zheng|[2610.31551v1](https://arxiv.org/pdf/2610.31551v1)|
+|2026-10-22|2026-10-22|Beyond Causal Masks: Auditing and Localizing Hidden Future-Token Leakage in Adaptive Sequence Models|Huiting Liu|[2610.31522v1](https://arxiv.org/pdf/2610.31522v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-21|2026-10-21|From Association to Decision Value: Testing Paired Instruction Dependence for VLA Corpus Selection|Nurmukhambet Serikbayev|[2610.29646v1](https://arxiv.org/pdf/2610.29646v1)|
+|2026-10-18|2026-10-21|VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse|Sicheng He|[2610.25043v3](https://arxiv.org/pdf/2610.25043v3)|
+|2026-10-17|2026-10-17|Scene-Adaptive VLA: Efficient Autonomous Driving via Dynamic Layer Routing|Yujia Yang|[2610.24590v1](https://arxiv.org/pdf/2610.24590v1)|
+|2026-10-17|2026-10-17|GazeAct: A Human-Gaze-Annotated Manipulation Dataset for Attention-Regularized Policies|Anupam Pani|[2610.24507v1](https://arxiv.org/pdf/2610.24507v1)|
+|2026-10-17|2026-10-17|FlashRT-PAI: Fast Kernels Are Not Fast Pipelines for Physical AI Inference|Liang Su|[2610.24349v1](https://arxiv.org/pdf/2610.24349v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-22|2026-10-22|Training Small Language Models for Transferable Tool Selection|Zhaoyi Zhou|[2610.31483v1](https://arxiv.org/pdf/2610.31483v1)|
+|2026-10-22|2026-10-22|Adaptive Skill Granularity for Coding Agents: Runtime Routing and Macro-to-Micro Recovery|Dingxuan Zhang|[2610.31461v1](https://arxiv.org/pdf/2610.31461v1)|
+|2026-10-22|2026-10-22|Conservative Meta-Agent Search: Architecture Adaptation under Non-Stationarity|Ali Atiah Alzahrani|[2610.31436v1](https://arxiv.org/pdf/2610.31436v1)|
+|2026-10-22|2026-10-22|AgentPhishing: A Benchmark of LLM Email Agents Under Adaptive Attack|Justin Tan|[2610.31404v1](https://arxiv.org/pdf/2610.31404v1)|
+|2026-10-22|2026-10-22|Certified Execution Harness for Agentic AI: Safe and Least-Intrusive Petri-Net Supervisory Control Between Reasoning and Action|Chao Gu|[2610.31376v1](https://arxiv.org/pdf/2610.31376v1)|
+|2026-10-22|2026-10-22|RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention|Jiening Siow|[2610.31372v1](https://arxiv.org/pdf/2610.31372v1)|
 ## Update on 2026-10-23
 
 ### World Model
