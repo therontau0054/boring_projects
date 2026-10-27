@@ -344,6 +344,48 @@ TODO:
 
 
 
+
+## Update on 2026-10-27
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-26|2026-10-26|Retriever-Free Retrieval: Navigating Documents with Decision Models|Chao Wan|[2610.35868v1](https://arxiv.org/pdf/2610.35868v1)|
+|2026-10-26|2026-10-26|Center-of-Mass Interpretation of Evolution Strategies|Akshat Gupta|[2610.35865v1](https://arxiv.org/pdf/2610.35865v1)|
+|2026-10-26|2026-10-26|Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling|Xi Chen|[2610.35866v1](https://arxiv.org/pdf/2610.35866v1)|
+|2026-10-26|2026-10-26|On the stability of learning|John J. Vastola|[2610.35856v1](https://arxiv.org/pdf/2610.35856v1)|
+|2026-10-26|2026-10-26|FL4N: Feed-forward Latent Model for 4D Novel View Synthesis|Eunbeen Hong|[2610.35854v1](https://arxiv.org/pdf/2610.35854v1)|
+|2026-10-26|2026-10-26|OSWAM: An Effective World Action Model with One-Step Action Generation|Guowen Zhang|[2610.35850v1](https://arxiv.org/pdf/2610.35850v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-26|2026-10-26|Patient-specific rubric-based evaluation of large language models across longitudinal cancer care|Wei-Wei Zhang|[2610.35847v1](https://arxiv.org/pdf/2610.35847v1)|
+|2026-10-26|2026-10-26|Work Agents: Systems, Capabilities, and Optimization|Zishan Xu|[2610.35845v1](https://arxiv.org/pdf/2610.35845v1)|
+|2026-10-26|2026-10-26|Information-Theoretic Secure Aggregation With Heterogeneous Client Quantization|Shreya Meel|[2610.35833v1](https://arxiv.org/pdf/2610.35833v1)|
+|2026-10-26|2026-10-26|Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy|Yifei Yao|[2610.35832v1](https://arxiv.org/pdf/2610.35832v1)|
+|2026-10-26|2026-10-26|Reva: Real-Time Vulnerability Detection through Contextual Probing of Large Language Models|Amine Lbath|[2610.35829v1](https://arxiv.org/pdf/2610.35829v1)|
+|2026-10-26|2026-10-26|Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent|Benjamin Pikus|[2610.35817v1](https://arxiv.org/pdf/2610.35817v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-26|2026-10-26|VLA-HWBench: Where the Time Goes When VLA Models Run on Edge Hardware|Borui Xu|[2610.34717v1](https://arxiv.org/pdf/2610.34717v1)|
+|2026-10-26|2026-10-26|Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation|Hyunwoong Bae|[2610.34674v1](https://arxiv.org/pdf/2610.34674v1)|
+|2026-10-26|2026-10-26|RobotAgentBench: Towards Open-world Robot Autonomy|Lingjun Mao|[2610.34649v1](https://arxiv.org/pdf/2610.34649v1)|
+|2026-10-25|2026-10-25|TRIAGE: Efficient Vision-Language-Action Inference Needs Both Reuse and Pruning|Sooyoung Kwon|[2610.34519v1](https://arxiv.org/pdf/2610.34519v1)|
+|2026-10-25|2026-10-25|Variational Cognitive Memory Abstraction for Long-Horizon Vision-Language-Action Models|Xinyu Liu|[2610.34251v1](https://arxiv.org/pdf/2610.34251v1)|
+|2026-10-24|2026-10-24|One Scan is Enough: Demonstration-Free Adaptation for Language-Guided Navigation|Zhuoyuan Yu|[2610.33794v1](https://arxiv.org/pdf/2610.33794v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-26|2026-10-26|I-HITL: Inalienable Human-in-the-Loop|Samuel Breckenridge|[2610.35835v1](https://arxiv.org/pdf/2610.35835v1)|
+|2026-10-26|2026-10-26|FOCUS: Active Critic Learning for Long-Horizon Language Model Agents|Zhengping Jiang|[2610.35801v1](https://arxiv.org/pdf/2610.35801v1)|
+|2026-10-26|2026-10-26|A Unified Arena for LLM Agents across Diverse Eurogame|Fengrui Zhang|[2610.35773v1](https://arxiv.org/pdf/2610.35773v1)|
+|2026-10-26|2026-10-26|Free to Look, Free to Reason: Simple LLM Harnesses Outdiagnose Hand-Crafted Root Cause Analysis Agents|Tingzhu Bi|[2610.35767v1](https://arxiv.org/pdf/2610.35767v1)|
+|2026-10-26|2026-10-26|Preference-Guided Cooperation in Multi-Objective Multi-Agent Reinforcement Learning|Qiyue Xia|[2610.35736v1](https://arxiv.org/pdf/2610.35736v1)|
+|2026-10-26|2026-10-26|MiRL: Error-Targeted Reinforcement Learning for Correcting Terminal Agent Misbehaviors|Runchu Tian|[2610.35697v1](https://arxiv.org/pdf/2610.35697v1)|
 ## Update on 2026-10-25
 
 ### World Model
