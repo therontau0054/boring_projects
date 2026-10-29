@@ -345,6 +345,48 @@ TODO:
 
 
 
+
+## Update on 2026-10-29
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-27|2026-10-27|ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning|Chaehyun Kim|[2610.37666v1](https://arxiv.org/pdf/2610.37666v1)|
+|2026-10-27|2026-10-27|When Should We Intervene at Test Time?|Jiahao Zhang|[2610.37658v1](https://arxiv.org/pdf/2610.37658v1)|
+|2026-10-27|2026-10-27|Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness|Igor Shilov|[2610.37657v1](https://arxiv.org/pdf/2610.37657v1)|
+|2026-10-27|2026-10-27|KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry|Wenqing Peng|[2610.37655v1](https://arxiv.org/pdf/2610.37655v1)|
+|2026-10-27|2026-10-27|Can LLMs Uncover Hidden Physical Laws through Free Exploration?|Zhen Yang|[2610.37649v1](https://arxiv.org/pdf/2610.37649v1)|
+|2026-10-27|2026-10-27|Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis|Andrew Szot|[2610.37648v1](https://arxiv.org/pdf/2610.37648v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-27|2026-10-27|Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction|Prakhar Kaushik|[2610.37668v1](https://arxiv.org/pdf/2610.37668v1)|
+|2026-10-27|2026-10-27|Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops|Aakash Sarkar|[2610.37656v1](https://arxiv.org/pdf/2610.37656v1)|
+|2026-10-27|2026-10-27|Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well|Ian Chuang|[2610.37652v1](https://arxiv.org/pdf/2610.37652v1)|
+|2026-10-27|2026-10-27|What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-Time Models|Chang Su|[2610.37631v1](https://arxiv.org/pdf/2610.37631v1)|
+|2026-10-27|2026-10-27|VideoLVR: Latent Visual Reasoning over Grounded Video Evidence|Shilong Li|[2610.37613v1](https://arxiv.org/pdf/2610.37613v1)|
+|2026-10-27|2026-10-27|EnvSched: Environment-Aware Scheduling for Rollout-Efficient Agent Reinforcement Learning|Sihan Yang|[2610.37609v1](https://arxiv.org/pdf/2610.37609v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-27|2026-10-27|PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations|Hanqing Wang|[2610.37381v1](https://arxiv.org/pdf/2610.37381v1)|
+|2026-10-27|2026-10-27|Retrieve to Act: Motion Primitive Graph Retrieval for Robust VLA Execution|Pham Tri Quang|[2610.37215v1](https://arxiv.org/pdf/2610.37215v1)|
+|2026-10-24|2026-10-24|Power-of-Two Leaky Integrate-and-Fire Neurons for Event-Driven Vision-Language-Action Inference|Rui Liu|[2610.33658v1](https://arxiv.org/pdf/2610.33658v1)|
+|2026-10-24|2026-10-24|TAD: Distilling Vision-Language-Action Policies from Teacher Trajectories Alone|Yun Zhu|[2610.33650v1](https://arxiv.org/pdf/2610.33650v1)|
+|2026-10-23|2026-10-23|If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs|Thomas Landeg|[2610.32941v1](https://arxiv.org/pdf/2610.32941v1)|
+|2026-10-23|2026-10-23|When Human Corrections Travel: Safety in Federated VLA Adaptation|Vigneshwaran Subbaraju|[2610.32888v1](https://arxiv.org/pdf/2610.32888v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-27|2026-10-27|Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions|Anouar Imel|[2610.37624v1](https://arxiv.org/pdf/2610.37624v1)|
+|2026-10-27|2026-10-27|Understanding the limits of latent world models|Rodrigo Gonzalez Laiz|[2610.37588v1](https://arxiv.org/pdf/2610.37588v1)|
+|2026-10-27|2026-10-27|TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information|Chanwoo Park|[2610.37571v1](https://arxiv.org/pdf/2610.37571v1)|
+|2026-10-27|2026-10-27|Gym-Anything-RT: Scaling Real-Time Environments for Vision-Language Agents|Pranjal Aggarwal|[2610.37567v1](https://arxiv.org/pdf/2610.37567v1)|
+|2026-10-27|2026-10-27|Strategyproof Deep Reinforcement Learning for Online Resource Allocation|Fariba Dehghan|[2610.37504v1](https://arxiv.org/pdf/2610.37504v1)|
+|2026-10-27|2026-10-27|From Interaction to Capability: Task Advancement as State and Supervision for GUI Agents|Ziyang Chen|[2610.37482v1](https://arxiv.org/pdf/2610.37482v1)|
 ## Update on 2026-10-27
 
 ### World Model
