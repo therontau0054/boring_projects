@@ -346,6 +346,48 @@ TODO:
 
 
 
+
+## Update on 2026-10-31
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-29|2026-10-29|Rethinking Neural Thickets Without Weight Perturbations|Nicolas Dufour|[2610.40649v1](https://arxiv.org/pdf/2610.40649v1)|
+|2026-10-29|2026-10-29|Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers|Jiongfan Yang|[2610.40647v1](https://arxiv.org/pdf/2610.40647v1)|
+|2026-10-29|2026-10-29|Adaptive Scenario Generation for KL-DRO Around a Learned Density Model|Aron Brenner|[2610.40644v1](https://arxiv.org/pdf/2610.40644v1)|
+|2026-10-29|2026-10-29|Luggage re-identification: A study of strategies towards a real-world application|Quentin Dhôte|[2610.40643v1](https://arxiv.org/pdf/2610.40643v1)|
+|2026-10-29|2026-10-29|From extreme weather to agricultural consequences with agentic AI|Minghan Yu|[2610.40641v1](https://arxiv.org/pdf/2610.40641v1)|
+|2026-10-29|2026-10-29|SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization|Derong Jin|[2610.40640v1](https://arxiv.org/pdf/2610.40640v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-29|2026-10-29|Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering|Moshe Shenfeld|[2610.40654v1](https://arxiv.org/pdf/2610.40654v1)|
+|2026-10-29|2026-10-29|An ODE-based Sampler for Discrete Diffusion Models|Samson Gourevitch|[2610.40618v1](https://arxiv.org/pdf/2610.40618v1)|
+|2026-10-29|2026-10-29|Difficulty Calibration Across Time for Membership Inference in Diffusion Models|Michael Joseph|[2610.40616v1](https://arxiv.org/pdf/2610.40616v1)|
+|2026-10-29|2026-10-29|When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder|A. J. A. Jubayer Talukder|[2610.40611v1](https://arxiv.org/pdf/2610.40611v1)|
+|2026-10-29|2026-10-29|Collaborative AI agents for autonomous experimental research with solid-state quantum spins|El Mustapha Mansouri|[2610.40589v1](https://arxiv.org/pdf/2610.40589v1)|
+|2026-10-29|2026-10-29|Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In|Leonidas Raghav|[2610.40588v1](https://arxiv.org/pdf/2610.40588v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-29|2026-10-29|Gym-Anything for Robotics: Scaling physical simulations with digital agents|Pranjal Aggarwal|[2610.40565v1](https://arxiv.org/pdf/2610.40565v1)|
+|2026-10-29|2026-10-29|BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing|Xiangyu Xu|[2610.40532v1](https://arxiv.org/pdf/2610.40532v1)|
+|2026-10-29|2026-10-29|How Much Should a VLA Trust Its Reasoning? Step-Level Guidance as a Measured Action-Value Function|Dabin Seo|[2610.40002v1](https://arxiv.org/pdf/2610.40002v1)|
+|2026-10-29|2026-10-29|UMI-Live for In-The-Wild Bimanual Robotics Data Collection|Govind Velamoor|[2610.39385v1](https://arxiv.org/pdf/2610.39385v1)|
+|2026-10-28|2026-10-28|SaiVLA-JEPA: Evaluating Future Latent Prediction in JEPA-Conditioned VLA Control|Rufeng Xiao|[2610.38508v1](https://arxiv.org/pdf/2610.38508v1)|
+|2026-10-28|2026-10-28|Embodied at Sea: Imitation Learning for Multi-Task Underwater Manipulation|Greta Perez-Haiek|[2610.38199v1](https://arxiv.org/pdf/2610.38199v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-29|2026-10-29|VeriCUA: Verification as Agentic Exploration for Computer-Using Agents|Qiushi Sun|[2610.40578v1](https://arxiv.org/pdf/2610.40578v1)|
+|2026-10-29|2026-10-29|Advancing Clinical Genomic Analysis with a Skill-Centred Agent|Qiaoyu Zheng|[2610.40556v1](https://arxiv.org/pdf/2610.40556v1)|
+|2026-10-29|2026-10-29|Retrieval as Traversal: Value-Indexed Memory for Stateful Long-Context Agents|Daniel Strauß|[2610.40545v1](https://arxiv.org/pdf/2610.40545v1)|
+|2026-10-29|2026-10-29|Machine Learning-Based Detection of Mobile Money Scan Messages in Ghana: A Comparative Evaluation of Naive Bayes, Support Vector Machine, and Randon Forest Classifiers|Ibrahim Salifu|[2610.40544v1](https://arxiv.org/pdf/2610.40544v1)|
+|2026-10-29|2026-10-29|Agentic University: Collaborative Agents for Personalized Learning|Jingru Fan|[2610.40492v1](https://arxiv.org/pdf/2610.40492v1)|
+|2026-10-29|2026-10-29|Training language models in simulation for psychiatric intake|Samuel Schmidgall|[2610.40476v1](https://arxiv.org/pdf/2610.40476v1)|
 ## Update on 2026-10-29
 
 ### World Model
