@@ -347,6 +347,46 @@ TODO:
 
 
 
+
+## Update on 2026-11-01
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-29|2026-10-29|world2vec: Mechanistic world models through latent dynamics learning|Tobias Schmidt|[2610.40637v1](https://arxiv.org/pdf/2610.40637v1)|
+|2026-10-29|2026-10-29|Probing Spatial State Representations in Visual Foundation Models|Baiqiao Yin|[2610.40636v1](https://arxiv.org/pdf/2610.40636v1)|
+|2026-10-29|2026-10-29|L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory|Jinhyeok Choi|[2610.40614v1](https://arxiv.org/pdf/2610.40614v1)|
+|2026-10-29|2026-10-29|TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races|Tom Sander|[2610.40613v1](https://arxiv.org/pdf/2610.40613v1)|
+|2026-10-29|2026-10-29|Fight World Model: Customizable Combat through Visual Interaction Proxies|Jiahua Li|[2610.40607v1](https://arxiv.org/pdf/2610.40607v1)|
+|2026-10-29|2026-10-29|An Adian-Rabin theorem for quantum automorphism groups of graphs|Josse van Dobben de Bruyn|[2610.40590v1](https://arxiv.org/pdf/2610.40590v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-29|2026-10-29|Training Foundation Models with a Single Algorithm|Yuda Song|[2610.40564v1](https://arxiv.org/pdf/2610.40564v1)|
+|2026-10-29|2026-10-29|Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns|Eric Rudolph|[2610.40563v1](https://arxiv.org/pdf/2610.40563v1)|
+|2026-10-29|2026-10-29|Homebrewed SLMs: Autoregressive and Masked Diffusion Language Models Built at Home for Portuguese|Pedro Carvalho Brom|[2610.40533v1](https://arxiv.org/pdf/2610.40533v1)|
+|2026-10-29|2026-10-29|NEOPIC: A Neural Operator Framework for Particle-based Kinetic Plasma Simulations|Sriramkrishnan Muralikrishnan|[2610.40528v1](https://arxiv.org/pdf/2610.40528v1)|
+|2026-10-29|2026-10-29|Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models|Anuj Diwan|[2610.40505v1](https://arxiv.org/pdf/2610.40505v1)|
+|2026-10-29|2026-10-29|Algebraic World Model: From Exploration to Proofs|Guancheng Pan|[2610.40503v1](https://arxiv.org/pdf/2610.40503v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-27|2026-10-27|What Actually Matters? A Paired Evaluation of Inference Settings for $π_{0.5}$ on BEHAVIOR-1K|Ruben Hammele|[2610.37917v1](https://arxiv.org/pdf/2610.37917v1)|
+|2026-10-23|2026-10-23|When to Stop Penalizing Actions? Martingale GRPO for VLA Reinforcement Learning|Zongyao Zhao|[2610.32431v1](https://arxiv.org/pdf/2610.32431v1)|
+|2026-10-23|2026-10-23|Do VLAs Know They Will Fail? Interpretable Success and Failure Patterns in Physical AI Systems|Christian A. Rogers|[2610.32208v1](https://arxiv.org/pdf/2610.32208v1)|
+|2026-10-23|2026-10-23|TTT in VLA Models: Exploring Training with Human Demonstrations|Qiangong Zhou|[2610.32094v1](https://arxiv.org/pdf/2610.32094v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-10-29|2026-10-29|Reinforcement learning for control of partial differential equations|Nicolò Botteghi|[2610.40449v1](https://arxiv.org/pdf/2610.40449v1)|
+|2026-10-29|2026-10-29|Prefix Executability: Evaluating Tool-Using Agents Beyond Final Success|Amir H. Rezaeian|[2610.40444v1](https://arxiv.org/pdf/2610.40444v1)|
+|2026-10-29|2026-10-29|Retrieving from Your Own Mistakes: On-Policy Training of Embedding Models for Multi-Hop Retrieval-Augmented Generation|Chenjie Qiu|[2610.40409v1](https://arxiv.org/pdf/2610.40409v1)|
+|2026-10-29|2026-10-29|Understanding and Mitigating Role Spoofing in LLMs|Ezra Edelman|[2610.40396v1](https://arxiv.org/pdf/2610.40396v1)|
+|2026-10-29|2026-10-29|The Athlete as a Scientist of One: Agentic Bayesian Experimental Design for Individualized Physiology from Consumer Wearables|Behnam Moradi|[2610.40370v1](https://arxiv.org/pdf/2610.40370v1)|
+|2026-10-29|2026-10-29|TaskFrame: Connecting Task-Level Planning with Frame-Level Control for Game Agents|Guangzhi Wang|[2610.40276v1](https://arxiv.org/pdf/2610.40276v1)|
 ## Update on 2026-10-31
 
 ### World Model
