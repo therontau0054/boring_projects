@@ -348,6 +348,48 @@ TODO:
 
 
 
+
+## Update on 2026-11-03
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-02|2026-11-02|From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles|Paulius Skaisgiris|[2611.03641v1](https://arxiv.org/pdf/2611.03641v1)|
+|2026-11-02|2026-11-02|WebHarbor: Docking Real Websites for Evolving GUI Agent Environments|Zhaoyang Wang|[2611.03634v1](https://arxiv.org/pdf/2611.03634v1)|
+|2026-11-02|2026-11-02|Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap|Catherine Li|[2611.03633v1](https://arxiv.org/pdf/2611.03633v1)|
+|2026-11-02|2026-11-02|Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in RLVR|Ziqi Pang|[2611.03627v1](https://arxiv.org/pdf/2611.03627v1)|
+|2026-11-02|2026-11-02|Isekai3D SDG: A Platform for Diverse Synthetic Gameplay Visual Data|Rafal Karp|[2611.03626v1](https://arxiv.org/pdf/2611.03626v1)|
+|2026-11-02|2026-11-02|FADE: Factored Ability--Difficulty Filtering for Online RLVR Scheduling|Tomas Duncun|[2611.03625v1](https://arxiv.org/pdf/2611.03625v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-02|2026-11-02|Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations|Jason Jingzhou Liu|[2611.03647v1](https://arxiv.org/pdf/2611.03647v1)|
+|2026-11-02|2026-11-02|Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation|Tony Tao|[2611.03648v1](https://arxiv.org/pdf/2611.03648v1)|
+|2026-11-02|2026-11-02|Thought-deciphering via hierarchical EEG-to-text alignment|Xiaopeng Mao|[2611.03623v1](https://arxiv.org/pdf/2611.03623v1)|
+|2026-11-02|2026-11-02|D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models|Marius Memmel|[2611.03622v1](https://arxiv.org/pdf/2611.03622v1)|
+|2026-11-02|2026-11-02|Benchmark Prediction with Sparse and Unpaired Cached Responses|Hayden Helm|[2611.03614v1](https://arxiv.org/pdf/2611.03614v1)|
+|2026-11-02|2026-11-02|Structured Visual Landscape: Generating Preferred Representations in Biological and Artificial Neural Networks|Yusong Zhao|[2611.03597v1](https://arxiv.org/pdf/2611.03597v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-02|2026-11-02|RoboColosseum: Evaluating Physical Intelligence at Scale In-The-Wild|Tan Sang Nguyen|[2611.02497v1](https://arxiv.org/pdf/2611.02497v1)|
+|2026-11-01|2026-11-01|Scene-Adaptive Readout and Decoding in Diffusion Driving VLAs|Seungjun Yu|[2611.02076v1](https://arxiv.org/pdf/2611.02076v1)|
+|2026-11-01|2026-11-01|Route-Guided CBF-QP Repair for Safe Vision-Language-Action Models|Chan Park|[2611.01713v1](https://arxiv.org/pdf/2611.01713v1)|
+|2026-11-01|2026-11-01|SCOUT: Planning under Occlusion via Object-Centric World Model Rollouts|Amir Hossain Raj|[2611.01600v1](https://arxiv.org/pdf/2611.01600v1)|
+|2026-11-01|2026-11-01|Same Path, Less Time: Training-Free Fast Execution of Vision-Language-Action Models under Inference Latency|Fuyi Chen|[2611.01390v1](https://arxiv.org/pdf/2611.01390v1)|
+|2026-10-31|2026-10-31|Vision-Language Models Are Joint Denoisers in Robotic Action Generation|Xicheng Gong|[2611.01215v1](https://arxiv.org/pdf/2611.01215v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-02|2026-11-02|Strategist: Evolving Reasoning with Agents|Taiming Lu|[2611.03618v1](https://arxiv.org/pdf/2611.03618v1)|
+|2026-11-02|2026-11-02|DiabAgent: Toward Agentic Physiological Control|Chengxi Li|[2611.03601v1](https://arxiv.org/pdf/2611.03601v1)|
+|2026-11-02|2026-11-02|Four Bridges: Measuring Deception Propensity in a Multi-Agent Game|Raphael Casey|[2611.03600v1](https://arxiv.org/pdf/2611.03600v1)|
+|2026-11-02|2026-11-02|Should We Combine Our Data? Algorithms and Limits for Privately Assessing Data Sharing|Mahdi Haghifam|[2611.03599v1](https://arxiv.org/pdf/2611.03599v1)|
+|2026-11-02|2026-11-02|Spacetime Emergence in the Memory of a Learning Agent|Philip A. LeMaitre|[2611.03596v1](https://arxiv.org/pdf/2611.03596v1)|
+|2026-11-02|2026-11-02|FedReady: Bounded Agents for Federation Formation|Ziyue Xu|[2611.03586v1](https://arxiv.org/pdf/2611.03586v1)|
 ## Update on 2026-11-01
 
 ### World Model
