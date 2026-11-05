@@ -349,6 +349,48 @@ TODO:
 
 
 
+
+## Update on 2026-11-05
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-04|2026-11-04|A Framework for Context Enrichment and Selective Robustness in LLM Social Agents|Mattia Greiche|[2611.06914v1](https://arxiv.org/pdf/2611.06914v1)|
+|2026-11-04|2026-11-04|FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors|Nicolas Tricard|[2611.06912v1](https://arxiv.org/pdf/2611.06912v1)|
+|2026-11-04|2026-11-04|BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories|Fei Lin|[2611.06911v1](https://arxiv.org/pdf/2611.06911v1)|
+|2026-11-04|2026-11-04|FrontierPhysics: Evaluating Agents for End-to-End Physics Research|Bingran You|[2611.06910v1](https://arxiv.org/pdf/2611.06910v1)|
+|2026-11-04|2026-11-04|Perceptive Humanoid Motion from Simulation|Siyuan Hu|[2611.06908v1](https://arxiv.org/pdf/2611.06908v1)|
+|2026-11-04|2026-11-04|Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement|Michal Korniak|[2611.06905v1](https://arxiv.org/pdf/2611.06905v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-04|2026-11-04|Learning to Decode Linear Codes with Generalized Belief Propagation Network|Samira Malek|[2611.06874v1](https://arxiv.org/pdf/2611.06874v1)|
+|2026-11-04|2026-11-04|On Turn-Level Best-of-N Sampling for Scaling LLM Agents|Jalaj Bhandari|[2611.06868v1](https://arxiv.org/pdf/2611.06868v1)|
+|2026-11-04|2026-11-04|CounterFactual Retrieval for Evidence-Aware Individual Animal Identification|Ankit K. Upadhyay|[2611.06864v1](https://arxiv.org/pdf/2611.06864v1)|
+|2026-11-04|2026-11-04|CompressionBench: How can your coding agents compress LLMs?|Xinrui Zhong|[2611.06858v1](https://arxiv.org/pdf/2611.06858v1)|
+|2026-11-04|2026-11-04|Navigating Disagreement Among Criteria for Evaluating Explanation Faithfulness|Grant Shanklin|[2611.06846v1](https://arxiv.org/pdf/2611.06846v1)|
+|2026-11-04|2026-11-04|Thermally Conditioned Time-Series Forecasting of Grain Growth in Polycrystalline Materials|Eliane Younes|[2611.06843v1](https://arxiv.org/pdf/2611.06843v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-03|2026-11-03|MESA: An Evaluation Framework for Compositional, Semantic, and Spatial Generalization in Robotics|Albert Wilcox|[2611.05567v1](https://arxiv.org/pdf/2611.05567v1)|
+|2026-11-03|2026-11-03|PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning|Yuhan Liu|[2611.05372v1](https://arxiv.org/pdf/2611.05372v1)|
+|2026-11-03|2026-11-03|Asynchronous Robot Policies|Sombit Dey|[2611.05155v1](https://arxiv.org/pdf/2611.05155v1)|
+|2026-11-03|2026-11-03|CRONOS: Benchmarking Non-Episodic Reinforcement Learning for Robotic Manipulation|Po-Yi Wu|[2611.05080v1](https://arxiv.org/pdf/2611.05080v1)|
+|2026-11-03|2026-11-03|Aero-VPA: Few-Step Flow-Matching Control over Non-Reconstructive JEPA Latents for Agile Flight on Edge Hardware|Yeonseok Lee|[2611.04392v1](https://arxiv.org/pdf/2611.04392v1)|
+|2026-11-03|2026-11-03|Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs|Junhyeong Park|[2611.04391v1](https://arxiv.org/pdf/2611.04391v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-04|2026-11-04|Visual Token Routing: Learning to keep tokens that matter|Pranjal Aggarwal|[2611.06854v1](https://arxiv.org/pdf/2611.06854v1)|
+|2026-11-04|2026-11-04|ServerBench: How can your coding agents design specialized LLM serving systems?|Xinrui Zhong|[2611.06841v1](https://arxiv.org/pdf/2611.06841v1)|
+|2026-11-04|2026-11-04|Enabling AWS Cloud FPGA Development Using High-Level Vitis HLS|David Rostcheck|[2611.06829v1](https://arxiv.org/pdf/2611.06829v1)|
+|2026-11-04|2026-11-04|Task-Efficient Agent Evaluation Using Cached Traces|Ben Johnson|[2611.06803v1](https://arxiv.org/pdf/2611.06803v1)|
+|2026-11-04|2026-11-04|Transforming Integer Grids to Spatial Intuition: Perception, Not Planning, Governs ARC-AGI-3|Harsidak Singh Banwait|[2611.06793v1](https://arxiv.org/pdf/2611.06793v1)|
+|2026-11-04|2026-11-04|Route First, See Later: Enabling Vision Agents to Reason Scientifically by Separating Routing Policy from Action Spaces|Shubhabrata Mukherjee|[2611.06760v1](https://arxiv.org/pdf/2611.06760v1)|
 ## Update on 2026-11-03
 
 ### World Model
