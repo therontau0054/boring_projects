@@ -350,6 +350,48 @@ TODO:
 
 
 
+
+## Update on 2026-11-07
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-05|2026-11-05|User Embeddings are Superpositions of Interpretable Behavioral Modes|Jonathan Kozaczuk|[2611.08487v1](https://arxiv.org/pdf/2611.08487v1)|
+|2026-11-05|2026-11-05|Scientist World: Grow a Research World for AI-Scientists|Taiming Lu|[2611.08478v1](https://arxiv.org/pdf/2611.08478v1)|
+|2026-11-05|2026-11-05|Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information|Linqian Wu|[2611.08469v1](https://arxiv.org/pdf/2611.08469v1)|
+|2026-11-05|2026-11-05|Towards interpreting any residual stream direction by scaling activation inversion|Celeste De Schamphelaere|[2611.08465v1](https://arxiv.org/pdf/2611.08465v1)|
+|2026-11-05|2026-11-05|Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness|Yi Feng|[2611.08457v1](https://arxiv.org/pdf/2611.08457v1)|
+|2026-11-05|2026-11-05|Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO|Zeyu Leo Liu|[2611.08453v1](https://arxiv.org/pdf/2611.08453v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-05|2026-11-05|SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization|Qile Jiang|[2611.08483v1](https://arxiv.org/pdf/2611.08483v1)|
+|2026-11-05|2026-11-05|The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI|Julian Kunkel|[2611.08428v1](https://arxiv.org/pdf/2611.08428v1)|
+|2026-11-05|2026-11-05|Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing|Michal P. Podolinsky|[2611.08425v1](https://arxiv.org/pdf/2611.08425v1)|
+|2026-11-05|2026-11-05|Data-driven discovery of intrinsic Lie point symmetries of differential equation systems|Ilker Gurcan|[2611.08421v1](https://arxiv.org/pdf/2611.08421v1)|
+|2026-11-05|2026-11-05|The Gold Rush in AI4Math, II: What are signatures of AI-assisted Proofs?|Yuanchuan Guo|[2611.08412v1](https://arxiv.org/pdf/2611.08412v1)|
+|2026-11-05|2026-11-05|Social Humanoid: Socially Responsive Human-Humanoid Interaction|Vongani H. Maluleke|[2611.08407v1](https://arxiv.org/pdf/2611.08407v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-05|2026-11-05|Concertina: Embodying Manipulation and Cognition in One Diffusion Vision-Language Model|Chengcheng Wang|[2611.07513v1](https://arxiv.org/pdf/2611.07513v1)|
+|2026-11-03|2026-11-03|AceAction-5M: Hierarchical Goals for Generalist Action Learning Across 3D Game Worlds|Kailing Li|[2611.04241v1](https://arxiv.org/pdf/2611.04241v1)|
+|2026-11-03|2026-11-03|DiMuRe: Diagnosis-Guided Multilevel Recovery for Robotic Task Execution|Renkai Yi|[2611.04226v1](https://arxiv.org/pdf/2611.04226v1)|
+|2026-11-03|2026-11-03|Say the Same, Act Differently: Diagnosing and Steering Text-Action Divergence in Reasoning VLAs|Zihao Feng|[2611.04166v1](https://arxiv.org/pdf/2611.04166v1)|
+|2026-11-02|2026-11-02|Controlling Action-Head Co-Adaptation to VLM Representation Anisotropy|Ruijie Zhang|[2611.04006v1](https://arxiv.org/pdf/2611.04006v1)|
+|2026-11-02|2026-11-02|RoboScope Kit: Unified Interfaces for Fast and Scalable Embodied-AI Evaluation|Deng-Ke Wu|[2611.03850v1](https://arxiv.org/pdf/2611.03850v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-05|2026-11-05|XStack: A Benchmark for ML Repo Migration|Linrong Cai|[2611.08472v1](https://arxiv.org/pdf/2611.08472v1)|
+|2026-11-05|2026-11-05|ReproBridge: Building Reproducibility into ML Research Artifacts|Yubo Wang|[2611.08452v1](https://arxiv.org/pdf/2611.08452v1)|
+|2026-11-05|2026-11-05|Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks|E. Kelly Buchanan|[2611.08417v1](https://arxiv.org/pdf/2611.08417v1)|
+|2026-11-05|2026-11-05|Enhancing Local and Global Structure in Compressed AI Agent Memory|Henry Han|[2611.08341v1](https://arxiv.org/pdf/2611.08341v1)|
+|2026-11-05|2026-11-05|Discovering Learning Rules that Shape Others|Hong Jun Lee|[2611.08335v1](https://arxiv.org/pdf/2611.08335v1)|
+|2026-11-05|2026-11-05|Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement|Wenbo Huang|[2611.08318v1](https://arxiv.org/pdf/2611.08318v1)|
 ## Update on 2026-11-05
 
 ### World Model
