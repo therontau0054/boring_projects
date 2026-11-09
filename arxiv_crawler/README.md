@@ -351,6 +351,48 @@ TODO:
 
 
 
+
+## Update on 2026-11-09
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-06|2026-11-06|On Agentic Manipulation Policies|Chen Chen|[2611.09892v1](https://arxiv.org/pdf/2611.09892v1)|
+|2026-11-06|2026-11-06|CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse|Peter Belcak|[2611.09891v1](https://arxiv.org/pdf/2611.09891v1)|
+|2026-11-06|2026-11-06|FlowMoP: Stochastic Multi-Person Motion Prediction|Aadya Agrawal|[2611.09882v1](https://arxiv.org/pdf/2611.09882v1)|
+|2026-11-06|2026-11-06|On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning|Haoyu Wang|[2611.09872v1](https://arxiv.org/pdf/2611.09872v1)|
+|2026-11-06|2026-11-06|An Empirical Study on Clustering-based Quantum Approximate Optimization Algorithm for Regression Test Case Selection|Antonio Trovato|[2611.09869v1](https://arxiv.org/pdf/2611.09869v1)|
+|2026-11-06|2026-11-06|Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation|Xun Tu|[2611.09864v1](https://arxiv.org/pdf/2611.09864v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-06|2026-11-06|GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description|Rochak Dhakal|[2611.09866v1](https://arxiv.org/pdf/2611.09866v1)|
+|2026-11-06|2026-11-06|Computer-Use Agents Are Embodied Generalists|Pranjal Aggarwal|[2611.09847v1](https://arxiv.org/pdf/2611.09847v1)|
+|2026-11-06|2026-11-06|Ensemble Methodology for Reference-Free Confidence Estimation in LLM-based Code Summarization|Marco Colombo|[2611.09846v1](https://arxiv.org/pdf/2611.09846v1)|
+|2026-11-06|2026-11-06|Can Agentic Systems Close the Gap in Radiology with Production AI Tools?|Aubin Charley|[2611.09836v1](https://arxiv.org/pdf/2611.09836v1)|
+|2026-11-06|2026-11-06|Designing Effective Monitor-Based Interventions for Mitigating Reward Hacking During RL|Aria Wong|[2611.09828v1](https://arxiv.org/pdf/2611.09828v1)|
+|2026-11-06|2026-11-06|Generative Latent Priors for Interpreting and Steering Protein Language Models|Daniel Hinjos|[2611.09818v1](https://arxiv.org/pdf/2611.09818v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-06|2026-11-06|SURE:Spatiotemporal Uncertainty Representation for Efficient Vision-Language-Action Learning|Jingye Zhang|[2611.09684v1](https://arxiv.org/pdf/2611.09684v1)|
+|2026-11-06|2026-11-06|Can LLMs Debug Robots by Editing Their Weights?|Jusheng Zhang|[2611.09376v1](https://arxiv.org/pdf/2611.09376v1)|
+|2026-11-06|2026-11-06|HiMEM: Hippocampus-Inspired Memory Consolidation, Pruning, and Composition for Vision-Language-Action Models in 3D Scenes|Boran Zhao|[2611.09355v1](https://arxiv.org/pdf/2611.09355v1)|
+|2026-11-06|2026-11-06|VLA Handover: Failure-Prediction-Based Switching from On-Robot to Server VLA Models|Takayuki Nishio|[2611.08987v1](https://arxiv.org/pdf/2611.08987v1)|
+|2026-11-05|2026-11-05|Q-OIL: Optimistic Exploration in Learning from Human Interventions|Pranav Teegavarapu|[2611.08576v1](https://arxiv.org/pdf/2611.08576v1)|
+|2026-10-31|2026-10-31|Auriga Technical Report: A Task-Agnostic Agent Harness for Zero-Shot Embodied Manipulation|Chengcheng Wang|[2611.01112v1](https://arxiv.org/pdf/2611.01112v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-06|2026-11-06|Discovering formally verified quantum programs with AI|Sergey Shirobokov|[2611.09822v1](https://arxiv.org/pdf/2611.09822v1)|
+|2026-11-06|2026-11-06|When Instruction Files Go Stale: Documentation Debt and Hidden Cost in Coding Agents|Tural Mehtiyev|[2611.09802v1](https://arxiv.org/pdf/2611.09802v1)|
+|2026-11-06|2026-11-06|Test-Time Compute Scales Better with Parallel Agent Teams|Junlin Wang|[2611.09798v1](https://arxiv.org/pdf/2611.09798v1)|
+|2026-11-06|2026-11-06|Knowing When to Intervene: Causal Evaluation of AI Agents|Ayush Sawarni|[2611.09792v1](https://arxiv.org/pdf/2611.09792v1)|
+|2026-11-06|2026-11-06|Language as Trait, Politeness as Strategy: Controlled Tests of Linguistic Effects in LLM Social-Deduction Agents|Yuchen Li|[2611.09768v1](https://arxiv.org/pdf/2611.09768v1)|
+|2026-11-06|2026-11-06|Safety Is $Π_1$, Provability Is $Σ_1$: One Framework for the Hugging Face Breach and OpenAI's Mathematical Proofs|Jinho Kang|[2611.09736v1](https://arxiv.org/pdf/2611.09736v1)|
 ## Update on 2026-11-07
 
 ### World Model
