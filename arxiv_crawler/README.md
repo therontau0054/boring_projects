@@ -352,6 +352,48 @@ TODO:
 
 
 
+
+## Update on 2026-11-11
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-10|2026-11-10|Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training|Emre Kutlusan|[2611.14519v1](https://arxiv.org/pdf/2611.14519v1)|
+|2026-11-10|2026-11-10|Toward Foundation Detection Models via Example-Based Grounding in EM-DETR|Sheethal Bhat|[2611.14518v1](https://arxiv.org/pdf/2611.14518v1)|
+|2026-11-10|2026-11-10|TorchCurves: Differentiable Parametric Curves|Alex Shtoff|[2611.14516v1](https://arxiv.org/pdf/2611.14516v1)|
+|2026-11-10|2026-11-10|AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models|Zijian Zhang|[2611.14515v1](https://arxiv.org/pdf/2611.14515v1)|
+|2026-11-10|2026-11-10|Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents|Megha Srivastava|[2611.14511v1](https://arxiv.org/pdf/2611.14511v1)|
+|2026-11-10|2026-11-10|When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology|Yeyuan Liu|[2611.14508v1](https://arxiv.org/pdf/2611.14508v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-10|2026-11-10|Continual-ARC: Measuring Skill Acquisition over a Working Lifetime|Daniel Lenton|[2611.14505v1](https://arxiv.org/pdf/2611.14505v1)|
+|2026-11-10|2026-11-10|Emergent Biological Capabilities in a Foundation Model for Molecular Interactions|Adi Mashiach|[2611.14504v1](https://arxiv.org/pdf/2611.14504v1)|
+|2026-11-10|2026-11-10|Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents|Howard Zhang|[2611.14493v1](https://arxiv.org/pdf/2611.14493v1)|
+|2026-11-10|2026-11-10|ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows|Kaiyuan Hou|[2611.14492v1](https://arxiv.org/pdf/2611.14492v1)|
+|2026-11-10|2026-11-10|TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics|Peng Chen|[2611.14491v1](https://arxiv.org/pdf/2611.14491v1)|
+|2026-11-10|2026-11-10|Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game|Muhan Gao|[2611.14487v1](https://arxiv.org/pdf/2611.14487v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-10|2026-11-10|One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge|Ilia Larchenko|[2611.14432v1](https://arxiv.org/pdf/2611.14432v1)|
+|2026-11-09|2026-11-09|How Much of Your VLA Is kNN|Denis Grachev|[2611.13160v1](https://arxiv.org/pdf/2611.13160v1)|
+|2026-11-09|2026-11-09|VLA Adaptation with Real and Simulated Data: A Case Study on Robotic Chess|Matěj Kripner|[2611.12676v1](https://arxiv.org/pdf/2611.12676v1)|
+|2026-11-09|2026-11-09|Be My Eye: Learning to See Beyond a Robot's Own Perspective|Baifu Huang|[2611.12295v1](https://arxiv.org/pdf/2611.12295v1)|
+|2026-11-09|2026-11-09|APS-VLA: Action-Guided and Future-Aware Token Pruning for Efficient Vision-Language-Action Models|Xiaoyang Xing|[2611.13030v1](https://arxiv.org/pdf/2611.13030v1)|
+|2026-11-09|2026-11-09|Thermo-VLA: A Thermal-Aware Vision-Language-Action Model with Gated Residual Modulation for Robotic Manipulation|Jingxuan Chen|[2611.11981v1](https://arxiv.org/pdf/2611.11981v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-10|2026-11-10|Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations|Ziang Liu|[2611.14514v1](https://arxiv.org/pdf/2611.14514v1)|
+|2026-11-10|2026-11-10|Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning|Souhaila Djaffal|[2611.14419v1](https://arxiv.org/pdf/2611.14419v1)|
+|2026-11-10|2026-11-10|EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities|Zhengxiang Huang|[2611.14356v1](https://arxiv.org/pdf/2611.14356v1)|
+|2026-11-10|2026-11-10|When Should Agents Remember? Falsification-Gated Self-Evolution for LLM Agents|Runxuan Tang|[2611.14326v1](https://arxiv.org/pdf/2611.14326v1)|
+|2026-11-10|2026-11-10|Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents|Yukyeong Lee|[2611.14320v1](https://arxiv.org/pdf/2611.14320v1)|
+|2026-11-10|2026-11-10|MMDM: Measuring Massive Multitask Decision Making|Junhao Shen|[2611.14309v1](https://arxiv.org/pdf/2611.14309v1)|
 ## Update on 2026-11-09
 
 ### World Model
