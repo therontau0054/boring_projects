@@ -353,6 +353,48 @@ TODO:
 
 
 
+
+## Update on 2026-11-13
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-12|2026-11-12|Unbundling Multimodal Vision Encoding|Ellis Brown|[2611.17334v1](https://arxiv.org/pdf/2611.17334v1)|
+|2026-11-12|2026-11-12|ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research|Jie Wang|[2611.17332v1](https://arxiv.org/pdf/2611.17332v1)|
+|2026-11-12|2026-11-12|Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation|Zeynep Yıldız|[2611.17329v1](https://arxiv.org/pdf/2611.17329v1)|
+|2026-11-12|2026-11-12|AgentSSL: Can MLE Agents Leverage Unlabeled Data?|Ethan Lin|[2611.17323v1](https://arxiv.org/pdf/2611.17323v1)|
+|2026-11-12|2026-11-12|Spatial Foundry: A Multimodal Dataset for Spatial Intelligence|Ethan Lin|[2611.17318v1](https://arxiv.org/pdf/2611.17318v1)|
+|2026-11-12|2026-11-12|CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation|Peiwen Li|[2611.17316v1](https://arxiv.org/pdf/2611.17316v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-12|2026-11-12|Quantifying structural stability of transparent models for general insurance pricing|Félix Côté|[2611.17308v1](https://arxiv.org/pdf/2611.17308v1)|
+|2026-11-12|2026-11-12|Consistent Video-to-Video Translation via Explicit Correspondences|Gaurav Parmar|[2611.17298v1](https://arxiv.org/pdf/2611.17298v1)|
+|2026-11-12|2026-11-12|Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon|Haozhe Wang|[2611.17294v1](https://arxiv.org/pdf/2611.17294v1)|
+|2026-11-12|2026-11-12|Negative-Only Policy Optimization for One-Sided Verifiable Rewards|Jiacheng Xu|[2611.17287v1](https://arxiv.org/pdf/2611.17287v1)|
+|2026-11-12|2026-11-12|Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs|Gautam Galada|[2611.17280v1](https://arxiv.org/pdf/2611.17280v1)|
+|2026-11-12|2026-11-12|LiveGeo: Benchmarking Geographic Agents in Continuously Evolving Worlds|Pengcheng Zhou|[2611.17267v1](https://arxiv.org/pdf/2611.17267v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-12|2026-11-12|What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation|Jinze Tao|[2611.16246v1](https://arxiv.org/pdf/2611.16246v1)|
+|2026-11-11|2026-11-11|What Makes a VLA Reactive? A Study of Execution Strategies for Dynamic Manipulation|Zhuoyue Li|[2611.15491v1](https://arxiv.org/pdf/2611.15491v1)|
+|2026-11-11|2026-11-11|CARE-Drive: Coupled Alternating Refinement for Ego-trajectories|Xiao Ma|[2611.15360v1](https://arxiv.org/pdf/2611.15360v1)|
+|2026-11-10|2026-11-10|Learning Low-Latency Action Verification for Frozen Vision-Language-Action Models|Wen-Han Hsieh|[2611.14834v1](https://arxiv.org/pdf/2611.14834v1)|
+|2026-11-09|2026-11-09|DeltaForge: A Post-hoc Mixture-of-Experts VLA for Multi-Domain Autonomous Driving|Bingzhang Wang|[2611.11856v1](https://arxiv.org/pdf/2611.11856v1)|
+|2026-11-09|2026-11-12|Decoupled Asynchronous System for Humanoids (DASH): Latency-Agnostic Scaling of Vision-Language-Action Models for Humanoid Manipulation|Bingzhang Wang|[2611.11854v2](https://arxiv.org/pdf/2611.11854v2)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-12|2026-11-12|Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline|Geoffrey Challen|[2611.17220v1](https://arxiv.org/pdf/2611.17220v1)|
+|2026-11-12|2026-11-12|Cortex-FL: Agent-Mediated Collaboration for Federated Learning|Rui Sun|[2611.17186v1](https://arxiv.org/pdf/2611.17186v1)|
+|2026-11-12|2026-11-12|Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents|Haochen Liu|[2611.17167v1](https://arxiv.org/pdf/2611.17167v1)|
+|2026-11-12|2026-11-12|Paper-Faithful Federated Learning: Scientific Checks for Practitioner and Agent Development|Ali Dadras|[2611.17129v1](https://arxiv.org/pdf/2611.17129v1)|
+|2026-11-12|2026-11-12|CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts|Zimo Xu|[2611.17115v1](https://arxiv.org/pdf/2611.17115v1)|
+|2026-11-12|2026-11-12|Designing Institutions for Autonomous AI|Petter Törnberg|[2611.17114v1](https://arxiv.org/pdf/2611.17114v1)|
 ## Update on 2026-11-11
 
 ### World Model
