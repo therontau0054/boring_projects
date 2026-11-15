@@ -354,6 +354,46 @@ TODO:
 
 
 
+
+## Update on 2026-11-15
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-12|2026-11-12|Sketching Language Models for Context Attribution|Christopher Liaw|[2611.17313v1](https://arxiv.org/pdf/2611.17313v1)|
+|2026-11-12|2026-11-12|Classical Energies Learn to Reason 1,000x Faster than Looped Models|Benjamin Hoover|[2611.17309v1](https://arxiv.org/pdf/2611.17309v1)|
+|2026-11-12|2026-11-12|Towards a Theory of Learnability via Debate|Tosca Lechner|[2611.17303v1](https://arxiv.org/pdf/2611.17303v1)|
+|2026-11-12|2026-11-12|FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification|Mohamed Alimoussa|[2611.17302v1](https://arxiv.org/pdf/2611.17302v1)|
+|2026-11-12|2026-11-12|JWST Rocky Worlds DDT Observations of LTT 1445 A b and c in Secondary Eclipse Using MIRI/F1500W|Jegug Ih|[2611.17300v1](https://arxiv.org/pdf/2611.17300v1)|
+|2026-11-12|2026-11-12|Programming Quantum Circuit Parameters with Large Language Models|Tiago de Souza Farias|[2611.17246v1](https://arxiv.org/pdf/2611.17246v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-12|2026-11-12|When Both Sides Adapt: The Challenges of Evaluating Interactive LLM Systems|Hannah Li|[2611.17239v1](https://arxiv.org/pdf/2611.17239v1)|
+|2026-11-12|2026-11-12|Al-Ghasali: A Computational Framework for Simulating Islamic Jurisprudential Rulings via Finite State Automata and Large Language Models|Elnaserledinellah Mahmoud Abdelwahab|[2611.17235v1](https://arxiv.org/pdf/2611.17235v1)|
+|2026-11-12|2026-11-12|Two mathematical models of knowledge distillation|Audrey Xie|[2611.17230v1](https://arxiv.org/pdf/2611.17230v1)|
+|2026-11-12|2026-11-12|Introducing Feedback Delays to Non-Delayed Adversarial MDPs: Optimal $\sqrt S$ and $\sqrt K$ Dependencies in Tabular and Linear AMDPs|Aarush Kulkarni|[2611.17214v1](https://arxiv.org/pdf/2611.17214v1)|
+|2026-11-12|2026-11-12|Maximizing Capacity Utilization of LoRA Adapters for Mitigating the Learning-Forgetting Trade-off|Tomohiro Sawada|[2611.17191v1](https://arxiv.org/pdf/2611.17191v1)|
+|2026-11-12|2026-11-12|Symmetry in Time: A Representation Theory of Linear Recurrent Memory|Anif N. Shikder|[2611.17162v1](https://arxiv.org/pdf/2611.17162v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-08|2026-11-08|Streaming Failure Forecasting: VLA Failure Monitors That Keep Learning After Deployment|Amit Jadhav|[2611.11688v1](https://arxiv.org/pdf/2611.11688v1)|
+|2026-11-07|2026-11-07|Where Should Models Run? A Collaborative Inference Framework for Embodied Intelligence in 6G|Wanlu Sun|[2611.11023v1](https://arxiv.org/pdf/2611.11023v1)|
+|2026-11-07|2026-11-07|Zero-Shot VLA Adaptation with Retrieved Guidance|Subin Kim|[2611.10894v1](https://arxiv.org/pdf/2611.10894v1)|
+|2026-11-07|2026-11-07|Look Ahead: Search-Driven Reasoning in Embodied AI|Ahmed Zeer|[2611.10769v1](https://arxiv.org/pdf/2611.10769v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-12|2026-11-12|Discovering Effective Agent Memory Designs through Program Evolution|Xinheng Ding|[2611.17068v1](https://arxiv.org/pdf/2611.17068v1)|
+|2026-11-12|2026-11-12|Auditing AI peer reviewers: a benchmark on real scientific papers|Íñigo Zubeldia|[2611.17052v1](https://arxiv.org/pdf/2611.17052v1)|
+|2026-11-12|2026-11-12|From Delegation to Coordination: Learning Efficient Multi-Agent Deep Research|Yuyang Wu|[2611.17041v1](https://arxiv.org/pdf/2611.17041v1)|
+|2026-11-12|2026-11-12|AI for Biologists: The Knowledge Boundaries of Foundation Models in the Age of Agentic Systems|Tian Cai|[2611.17015v1](https://arxiv.org/pdf/2611.17015v1)|
+|2026-11-12|2026-11-12|Skill Adapter: Personalized Modification and Online Routing of General-Purpose Skills|Qijia Zhuang|[2611.17007v1](https://arxiv.org/pdf/2611.17007v1)|
+|2026-11-12|2026-11-12|AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design| NovaSilicon Team|[2611.16991v1](https://arxiv.org/pdf/2611.16991v1)|
 ## Update on 2026-11-13
 
 ### World Model
