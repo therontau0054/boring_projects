@@ -1,0 +1,295 @@
+# Abstracts of Papers
+
+## World Model
+### Latent Lattice Language Models
+**Authors**: Shivam Duggal, Zongze Wu, William T. Freeman, Antonio Torralba, Richard Zhang, Eli Shechtman
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.21608v1](https://arxiv.org/pdf/2611.21608v1)
+
+**Abstract**: Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instead increase computational capacity: the number of active computational states a model maintains. We introduce the Lattice of Latents, a set of per-layer horizontal latent streams that run recurrently along time, alongside the vertical residual stream that flows through depth. Like hyper-connections, mHC, and attention or value residuals, the Lattice enhances the residual stream, but rather than adding or rerouting residual pathways through depth, it provides companion computational states that persist across tokens. Unlike hybrid Transformer-SSM architectures, whose recurrent states primarily serve as internal memory for sequence mixing, these latents directly condition the vertical stream's attention, KV-cache writes, MLP computation, and decoding. On Transformers trained on 20B FineWeb-Edu tokens, a 406M-parameter Lattice model lowers validation perplexity from 15.41 to 14.40 over a parameter-matched Transformer. These gains extend across architectural variants. The Lattice composes with prior residual-stream enhancements: with hyper-connections and input residuals, it lowers validation perplexity from 15.41 (base Transformer) and 14.22 (Transformer with the same enhancements) to 13.61. On Gated DeltaNet, Mamba-2, Triadic GDN, and GDN-Mamba-2 hybrids, it improves perplexity at every tested native state size, with Lattice-GDN and Lattice-Triadic-GDN variants outperforming pure baselines with 4x larger native states. These results identify persistent per-layer state as a complementary axis for scaling language-model computation.
+
+
+### ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters
+**Authors**: Ruixi Yu, Dairu Liu, Xuchuan Chen, Zekun Qi, Zekai Li, Zhuo Cao, Luyang Niu, Yingsheng Zhang, Sikai Liang, Ke Fan, He Wang, Li Yi
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.21607v1](https://arxiv.org/pdf/2611.21607v1)
+
+**Abstract**: Frontier Vision-Language Models (VLMs) such as GPT-6 Astra have demonstrated remarkable capabilities in robot control, suggesting that broad pretraining provides knowledge valuable for physical action. Yet most Vision-Language-Action (VLA) policies still rely on much smaller VLM backbones, leaving this potential largely untapped. We ask whether frontier-scale representations can provide a stronger foundation for robot learning. We introduce ScaleVLA, which connects a 552B DeepSeek-V4.1-Flash backbone to a trainable action DiT, and systematically compare VLMs from 2B to 552B under a shared training setup. We evaluate three fundamental capabilities of robot foundation models. In sample efficiency, just 10 demonstrations outperform a 2B backbone trained with 50 (87.8% vs. 85.6%). In generalization, LIBERO-PRO success reaches 45.1%, compared with at most 31.3% for smaller backbones. In precise manipulation, real-world charger insertion improves from 4/10 to 9/10 successes, with gains concentrated in contact-sensitive alignment. Despite its scale, ScaleVLA achieves 216 ms median latency per action chunk. Our findings suggest that frontier VLMs can serve not only as reasoning agents, but also as powerful representational foundations for efficient and generalizable robot policies.
+
+
+### ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization
+**Authors**: Huawei Lin, Jinting Liu, Tongyan Wang, Xuyang Chen, Ruihua Shi, Zhichao Xu, Jiaxin Qin, Guoshenghui Zhao, Baijian Yang, Yingjie Victor Chen, Tan Yu, Weijie Zhao
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.21605v1](https://arxiv.org/pdf/2611.21605v1)
+
+**Abstract**: Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinforcement learning (RL) on the final answer cannot correct this, because a guess earns the same reward as reading. We propose Cross-Input Relative Policy Optimization (CrossRPO), which trains agents on contrast sets. A contrast set asks one question about several versions of an image that differ only in a small region with the evidence and have different answers, so only reading the evidence solves the whole set. CrossRPO rewards solving the whole set, and we prove that it does not reinforce a set answered from common sense. We build contrast sets for training (ViRA-Train) and evaluation (ViRA-Bench) by editing one small object in images of 21 to 120 megapixels, and we photograph further sets with real changes (ViRA-Bench-Real) to exclude editing traces. We train two Visual Reasoning Agents, ViRA-9B and ViRA-27B, with CrossRPO on only about 3,500 items of ViRA-Train each. CrossRPO achieves 63.3% set accuracy on ViRA-Bench at the maximum resolution, against 59.3% for GRPO. ViRA-9B is the most accurate open model of its size on all benchmarks, and ViRA-27B outperforms Claude Haiku 5.5 and GPT-6-Luna, both at their highest thinking level, on most benchmarks.
+
+
+### Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction
+**Authors**: Ilia Azizi, Frederick Iat-Hin Tam, Marc-Olivier Boldi, Valérie Chavez-Demoulin, Tom Beucler
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.21602v1](https://arxiv.org/pdf/2611.21602v1)
+
+**Abstract**: The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for intensity forecasting beyond a set of numerical predictors. For 637 Atlantic and eastern North Pacific tropical cyclones from the 2002-2023 hurricane seasons, we analyze the discussion text and its combination with 13 hurricane environmental predictors from SHIPS and ERA5 10-meter wind fields, for forecasting intensity changes at lead times of 24 to 120 hours using three modeling methods. In one approach, an end-to-end deep learning framework for the text shows that the discussions alone offer comparable value for 24-hour intensity forecasts to the SHIPS predictors. Adding discussion information to the SHIPS predictors in an ensemble of five such models reduces the mean absolute error of 24-hour maximum sustained wind forecasts for 2022-2023 cyclones from 9.89 to 8.90 kt, with a confidence interval that excludes zero when whole storms are resampled. The ERA5 wind fields have a minor effect on mean absolute error in wind predictions, and model rankings differ across predicted variables, lead times and model types. We provide prediction intervals for these forecasts, whose coverage falls below the 90% target during rapid intensification. Analysis of the text shows that words related to intensity and intensity change (such as intensify, weaken, eyewall and category) are important for the model predictions. This retrospective study shows the added value of the forecasters' discussions and suggests that multi-modal learning can help understand the predictive contribution of expert human judgment. The reanalysis data differ from real-time analyses, and the discussions are issued at least three hours after the valid time of the other inputs, so these results should not be interpreted operationally.
+
+
+### How VLMs Plan What's Next
+**Authors**: Rohit Gandikota, Arnab Sen Sharma, Adam Belfki, David Bau
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.21600v1](https://arxiv.org/pdf/2611.21600v1)
+
+**Abstract**: When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM uses to decide where to look before it looks. The mechanism has four main parts. First, binding heads match the relevant text tokens against the image and resolve them into pointers to the matched image region. Second, the same binding heads bind each written answer to the region it came from, and the model turns it into a progress signal: a cursor, the position in the image up to which the list has been written. Third, a select step chooses the nearest unwritten region after the cursor, or stops. Finally, gaze heads execute the chosen pointer and return a concept of what is drawn there, which language heads and the late MLPs turn into a word in the language of the question. We validate each part of this mechanism through causal patching in Qwen3-VL models on a synthetic visual retrieval task, and test our mechanisms against alternative hypotheses. We further show that the mechanism holds across input formats, natural photographs, and languages, and that its binding, relay, and gaze heads appear at every model size from 2B to 32B. This work allows us to investigate how a VLM turns a question and an image into a sequence of answers, layer by layer and token by token. More broadly, it opens a way to study how models plan over complex multi-step tasks with long rollouts. Our project is available at https://plan.baulab.info/
+
+
+### Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K
+**Authors**: Aaron Wang, Olivia Gzamouranis, Vaibhav Lohia, Hershel Fei Xun Weiner, Olivia Seidel, Richard Cavanaugh, Giuseppe Di Guglielmo, Nhan Tran, Davide Braga
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.21594v1](https://arxiv.org/pdf/2611.21594v1)
+
+**Abstract**: Cryogenic circuit design requires compact transistor models that reproduce measured low-temperature behavior and run in standard circuit simulators. We fit BSIM4 parameters to measured I-V curves of SkyWater 130 nm (SKY130) transistors at 77 K using a neural surrogate of NGSpice. The surrogate maps compact-model parameters and device geometry to the complete set of output and transfer characteristics. Extraction is a bounded least-squares search: a bank of NGSpice simulations supplies initial candidates, finite differences of the surrogate supply the local Jacobian, and NGSpice re-simulates the resulting cards before selection. On 18 measured geometries, we compare a search over seven card parameters with a search over 43 parameters selected by NGSpice sensitivity. Relative to NGSpice re-simulations of the previously released cards, the two searches reduce the in-sample mean relative root-mean-square error (RRMS) by 17% and 26%, respectively. The 43-parameter search has the lower overall error, but the seven-parameter search has the lower mean on high-bias curves, and some individual curves have higher error than with the released cards under both searches.
+
+
+## Generation
+### Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent
+**Authors**: Blas Eugenio Vicco Zarate, Miguel Hernán Vicco
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.21598v1](https://arxiv.org/pdf/2611.21598v1)
+
+**Abstract**: Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether specialists generated by evolutionary search can provide a reusable memory when combined with environment detection and failure-driven search. The Evolutionary Neuroplastic Agent (ENA) evolves small neural networks without gradients, archives selected policies by detected dynamic regime, and retrieves them through Bayesian policy reuse. The architecture was evaluated in non-stationary CartPole and HalfCheetah environments. In the 30-replicate CartPole ablation, the complete architecture achieved a mean success rate of 83.2% across the five test environments. Among variants that learned the harder CartPole environments, the complete architecture showed the most consistent retention. A selection ablation also showed that the retrieval rule affected performance. In the evaluated sequences, ENA adapted more slowly than PPO on CartPole and achieved lower returns than SAC on HalfCheetah. The evidence concerns the complete architecture and does not isolate gradient-free optimization as the cause of retention or establish superiority over other continual-learning methods.
+
+
+### Optimal Autoregressive Chain-of-Thought Learning via Bagging
+**Authors**: Awni Altabaa, John Lafferty, Omar Montasser
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.21597v1](https://arxiv.org/pdf/2611.21597v1)
+
+**Abstract**: We study how to learn an autoregressive next-token generator $f\colonΣ^\star\toΣ$ from a class $\mathcal{F}$, given chain-of-thought (CoT) demonstrations of length $T$ generated by $f$. We present a simple algorithm based on bagging, which outputs a majority vote of generators that are trained to be CoT-consistent on bootstrap samples of the training data. For binary token sets, it achieves the optimal sample complexity of $O((d_{\mathrm{VC}}+\log(1/δ))/ε)$, independent of the CoT length $T$, where $d_{\mathrm{VC}}$ is the VC dimension of $\mathcal{F}$. For finite token sets $Σ$, the VC dimension is replaced by a multiclass analogue, the Graph dimension $d_{\mathrm{G}}$, and the sample complexity is optimal up to a $\log|Σ|$ factor. The number of generators in the majority-vote ensemble is $O(\log(T/δ))$, and we show that the ensemble can be distilled into a single generator in $\mathcal{F}$ at the expense of $n\log(nT)$ unlabeled prompts.
+
+
+### ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises
+**Authors**: Jaime C. Acosta, Anantaa Kotal, Aritran Piplai
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.21579v1](https://arxiv.org/pdf/2611.21579v1)
+
+**Abstract**: Cyber-range and capture-the-flag scenario construction remains labor-intensive because authors must coordinate infrastructure, vulnerable services, attack paths, artifacts, and success conditions. LLMs can propose detailed exercises, but plausible descriptions do not guarantee deployable software or verifiable objectives. We present ScenarioForge, which turns high-level requirements into resource-grounded topologies, services, traffic, segmentation, and challenge chains, then instantiates and validates them in the Common Open Research Emulator (CORE). The ScenarioForge Execution Dataset contains 226 materialized scenarios covering 294 Vulhub images and all 85 custom-built challenge-resource generators developed with our AI-assisted scaffolding. All 226 passed construction, preview, sequencing, deployment, strict runtime validation, and live artifact checks; their 867 steps, each an individually verifiable challenge objective, comprise 457 vulnerability-backed and 410 generated-resource-backed instances. In a separate 50-prompt matched benchmark, ScenarioForge+Qwen3.8 and ScenarioForge+GPT5.6 each achieved 50/50 (100%) topology/build success and 160/160 intent fields; direct frontier generation reached 41/50 builds and 147/160 fields only with the full cumulative scaffold: structure, vocabulary, policy, and container-image guidance. The test still omitted ScenarioForge's downstream challenge-resource generation, dependency/flag sequencing, deployment, and live validation. The artifacts support operationally rich, reproducible exercises for training and evaluation.
+
+
+### When Do Histology Foundation Models Need Geometric Test-Time Augmentation?
+**Authors**: Lars Chen, Valentino F. Foit, Dorry Segev, Michal Mankowski
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.21565v1](https://arxiv.org/pdf/2611.21565v1)
+
+**Abstract**: Test-time augmentation (TTA) aggregates model predictions across multiple transformed views of an input during inference. Because histology images lack a canonical orientation, $D_4$ TTA---pooling across the 8 rotations and reflections of a square---is a standard default in computational pathology. However, the rise of self-supervised histology foundation models (FMs) with inherent rotational invariance calls its continued utility into question. We benchmark 9 histology FMs and 6 general-purpose models across four patch-level and two whole-slide image (WSI) datasets. We find that $D_4$ TTA remains a reliable post hoc improvement, but benefits diminish from $+1.98$ percentage points (pp) for general-purpose backbones to $+0.50$ pp for histology FMs on TCGA-UT, and shrink further for the largest models. To eliminate computational overhead, our experiments demonstrate that entropy routing---applying TTA selectively to uncertain predictions---recovers most of the gain while augmenting only ${\sim}13\%$ of samples. Finally, we show that patch-level TTA improvements do not transfer to slide-level multiple instance learning (MIL). Code: https://github.com/lars-chen/histology-tta
+
+
+### Benchmarking memory and nonlinear processing capacity of quantum recurrent neural networks for time series prediction
+**Authors**: José Daniel Viqueira, Andrés Gómez, David Mera
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.21552v1](https://arxiv.org/pdf/2611.21552v1)
+
+**Abstract**: Quantum machine learning has emerged as a promising approach to time series prediction. While quantum reservoir computing has been widely explored for this setting, variational quantum models tailored to sequential data remain comparatively understudied, largely because they are difficult to train. In this work, we present a rigorous benchmark of variational quantum recurrent neural networks (QRNNs) on time series prediction tasks, focusing on two key capabilities: memory and nonlinear processing. We introduce a task-driven methodology that quantifies model capacity, enabling an intuitive and fair comparison across architectures, including classical recurrent baselines. We evaluate the proposed framework on two generic benchmark tasks and on a synthetic dataset describing a chaotic system. Overall, the quantum models achieve performance comparable to their classical counterparts, but classical models scale better with the memory size within the range studied. Notably, one QRNN variant shows higher average capacity on the task designed to jointly probe memory and nonlinear capacity. Moreover, our results show that quantum models offer better capacity when we are able to find a good parameter initialization. However, the increasing sensitivity to initialization leads to a lower probability of finding good solutions as the model size increases. These results provide a principled starting point for designing richer quantum recurrent architectures and for assessing where they may offer practical benefits.
+
+
+### The cost of enforcing long-run coverage: a phase transition in online conformal prediction
+**Authors**: Yu Gui, Rina Foygel Barber, Cong Ma
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.21542v1](https://arxiv.org/pdf/2611.21542v1)
+
+**Abstract**: Consider an online prediction setting, where at each time, we are given a new feature vector and asked to provide a prediction interval or prediction set that will likely contain the corresponding response. In this setting, if the data points are i.i.d. (or more generally, exchangeable), conformal prediction provides a mechanism for building valid prediction sets around the output of any trained model, offering coverage probability $\geq 1-α$ at each time $t$. In practice, however, issues such as distribution drift, changepoints, or other challenges may cause violations of the i.i.d. assumption. In this adversarial setting, online conformal prediction methods can still offer guarantees on long-run empirical coverage. However, there is a trade-off between these two types of goals: enforcing tight constraints on long-run empirical coverage to protect against the adversarial setting can lead to unstable oscillations in the instantaneous training-conditional coverage in the i.i.d. setting.
+  In this work, we seek best-of-both-worlds algorithms that aim to minimize cumulative error in instantaneous training-conditional coverage when in the i.i.d. setting, while also offering long-run empirical coverage guarantees in the adversarial setting. Specifically, consider a condition that requires long-run empirical coverage to deviate from the target level $1-α$ by at most $\mathcal{O}(T^{-β})$, for some $β\in[0,1]$. We prove that this family of conditions can be described with a phase transition. For $β\in[0,\frac{1}{2}]$, it is possible to construct algorithms satisfying such a constraint in the adversarial setting, while offering the same instantaneous coverage performance as split conformal prediction if the data is in fact i.i.d. On the other hand, for $β\in(\frac{1}{2},1]$, this type of condition comes at a cost, and does not achieve best-of-both-worlds behavior.
+
+
+## VLA
+### Instructions Before Actions: Prospective and Retrospective Language Supervision for Driving Vision-Language-Action Data
+**Authors**: Angel Martinez-Sanchez, Ross Greer
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.20631v1](https://arxiv.org/pdf/2611.20631v1)
+
+**Abstract**: Driving vision-language-action (VLA) models can accept navigation instructions, yet predicting a driver's trajectory does not establish that a model follows the instruction. We study how driving-language supervision is collected and evaluated, distinguishing prospective instructions issued before an action from retrospective labels written after observing it. We develop ADVLAT-Engine to synchronize spoken instructions, road-scene video, and vehicle trajectories, and compare three navigation apps on 48 replayed routes. On 87 maneuvers announced by both Google Maps and a passenger, the passenger uses more scene-dependent language. We evaluate four open driving VLAs before and after fine-tuning on prospective navigation-app drives. Fine-tuning reduces passenger-drive trajectory error by 23-59%, but instruction effects remain inconsistent. At real intersections, counterfactual instructions reveal stronger responsiveness: fine-tuned Alpamayo~2 Super gains 31 and 18 accuracy points at 15 and 5~m, while Qwen-Drive follows alternative maneuvers more reliably with a discrete command than with a sentence. We additionally collected retrospective annotations from four people for the driving recordings and describe controlled comparisons of annotation content, timing, and downstream learning; those analyses are pending. Our findings separate maneuver prediction from instruction-following and establish a framework for comparing prospective and retrospective supervision.
+
+
+### ReRead: Wrong Predictions, Useful Representations - Correcting Frozen Robot Policies by Re-reading Their Own Representations
+**Authors**: Xu Su, Shunlong Xiao, Qintao Yi, Mingkuan Zhao, Xinmiao Yu, Yizhe Li, Zihan Wang, Bokui Chen
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.20465v1](https://arxiv.org/pdf/2611.20465v1)
+
+**Abstract**: When a pretrained robot policy fails on challenging tasks, common remedies include retraining the backbone, adding an external visual encoder, or introducing a memory module. We argue that wrong predictions do not imply wrong representations: a policy can retain the required information yet fail to read it out as the correct action. To test this view, we propose ReRead: with the backbone frozen, a corrector re-reads the current and two previous caches to predict an action residual. The corrector sees no images, is trained solely on offline demonstrations from all 50 RoboTwin 2.0 tasks, and adds only 4.17% latency. Ablations and interventions show that the correction relies on the backbone's own representations: none of four external visual encoders adds further gain, and swapping in past caches from other trajectories sharply increases action error. On the 11 hardest RoboTwin 2.0 tasks, ReRead improves the success rates of LingBot-VLA, $π_{0.5}$, and Fast-WAM by 23.45, 13.09, and 8.00 percentage points, respectively. In paired evaluation on all 50 tasks, it raises Fast-WAM's average success rate from 90.73% to 92.66%. On a Flexiv dual-arm robot, it raises success on a phase-ambiguous task from 0% to 36%.
+
+
+### NF-VLA: A Normalizing-Flow Baseline for Vision-Language-Action Learning
+**Authors**: Ruichen Deng, Qinyu Zhao, Yong-Hyun Park, Mutian Tong, Liang Zheng, Jiatao Gu
+
+**Published Date**: 2026-11-15
+
+**Updated Date**: 2026-11-15
+
+**PDF Url**: [2611.20314v1](https://arxiv.org/pdf/2611.20314v1)
+
+**Abstract**: Autoregressive normalizing flows (NFs) provide a tractable density for learning and sampling continuous robot actions. We show that a single maximum-likelihood objective can train vision--language--action (VLA) policies competitive with leading methods on manipulation benchmarks. We present NF-VLA, which combines conditional autoregressive normalizing flows with score-based action refinement. Its deep--shallow architecture concentrates visual, language, and proprioceptive prefix conditioning in a high-capacity deep block, while unconditioned shallow blocks provide a shared invertible action transformation. The vision--language backbone and flow are jointly trained by exact maximum likelihood on Gaussian-smoothed action chunks. The same learned density supplies a single score-based correction at inference, refining generated actions to account for training-time smoothing without a separately trained denoiser. Trained on LIBERO from a pretrained vision--language backbone without robot pretraining, NF-VLA achieves 98.35\% success across the four standard suites and 72.6\% on LIBERO-Plus using the same checkpoint without further fine-tuning. Ablations show that deep-only prefix conditioning and score-based refinement both improve closed-loop success. Together, these results establish carefully structured autoregressive flows as a competitive approach to VLA control, with one learned density supporting policy training, action generation, and refinement.
+
+
+### Right Goal, Wrong Body: Re-grounding Frozen VLAs under Actuation Shift
+**Authors**: Umer Siddique, Peilang Li, Yongcan Cao
+
+**Published Date**: 2026-11-15
+
+**Updated Date**: 2026-11-15
+
+**PDF Url**: [2611.20244v1](https://arxiv.org/pdf/2611.20244v1)
+
+**Abstract**: Vision-language-action (VLA) models are capable of producing desired robotic behaviors in ideal settings. However, they often fail when the robot's actuation changes at deployment. For example, remounting, mechanical wear, or command latency changes can lead to failed tasks and unsafe behaviors. To address the inevitable actuation shift, we propose ReGround, an inference-time method that keeps the VLA frozen and re-grounds its intended motion. ReGround learns the deployed robot's dynamics from task-agnostic motor babbling, and then tracks the policy's intended motion while staying close to the policy's own plan. ReGround activates only upon detecting a shift, and needs no rewards, demonstrations, or retraining. We show via two VLAs, eight LIBERO tasks, and five shift settings that ReGround can restore near-oracle success, such as raising $π_{0.5}$'s success from 0.16 to 0.90 under 400 ms latency, while remaining safer than a linear-calibration baseline. Project website and open-source code: https://umersiddique94.github.io/ReGround/.
+
+
+### ReactBench-AD: Do Driving VLAs and World-Action Models React to Imminent Hazards in Their Path?
+**Authors**: Nikos Theodoridis, Reenu Mohandas, Sushil Sharma, Ciarán Hogan, Ganesh Sistu, Anthony Scanlan, Tim Brophy, Ciarán Eising
+
+**Published Date**: 2026-11-15
+
+**Updated Date**: 2026-11-15
+
+**PDF Url**: [2611.20011v1](https://arxiv.org/pdf/2611.20011v1)
+
+**Abstract**: Vision-Language-Action models (VLAs) and World-Action Models (WAMs) have emerged in autonomous driving with the promise of strong generalization to long-tail scenarios. Although these models achieve state-of-the-art results on autonomous driving benchmarks, most existing benchmarks are dominated by nominal scenarios and therefore cannot test this promise. To test one such long-tail capability that is critical for safety, we introduce ReactBench-AD, a benchmark that measures how driving models react to objects that appear in the ego vehicle's path. Built on real NAVSIM and PhysicalAI-Autonomous-Vehicles scenes, ReactBench-AD composites a crossing pedestrian, a standing pedestrian, or a stationary car consistently across all camera views and history frames. Each edited scene thus forms an exact, pixel-level counterfactual pair with its original, which allows us to isolate the causal effect of the inserted object on the predicted trajectory. Evaluating four VLAs and two WAMs, we find that they react weakly, often barely at all. Finally, we test how easily one of the evaluated VLAs, ReCogDrive, can be taught to brake hard for imminent hazards: a short fine-tuning stage on edited scenes substantially improves its reactions, with the learned behavior generalizing to unseen objects and fully real scenes, at minimal cost to nominal driving. These results call into question the out-of-the-box long-tail capabilities of these models, but suggest that they can be a strong foundation for acquiring them with little additional training, highlighting the value of real or synthetic data that demonstrates the long-tail behaviors nominal datasets rarely contain. Code and data will be made publicly available.
+
+
+### PlanDiv: Test-Time Scaling with Latent Plans for Vision-Language-Action Models
+**Authors**: Hanbo Zhang, Lianlei Shan, Liuhaichen Yang, Zezhi Tang
+
+**Published Date**: 2026-11-15
+
+**Updated Date**: 2026-11-15
+
+**PDF Url**: [2611.20010v1](https://arxiv.org/pdf/2611.20010v1)
+
+**Abstract**: Test-time scaling improves vision-language-action (VLA) policies by drawing several action candidates and executing the best one. We find that its returns diminish quickly when the candidates are resampled from one decoder: they differ by noise rather than by plan, and for each of three resampling sources, going from four to eight candidates adds only 0.06-0.07 to the average number of completed tasks on CALVIN. We introduce PlanDiv, an action head that makes the candidates differ by plan: a lightweight planner proposes K latent plan hypotheses, a shared masked-diffusion executor decodes one action chunk per plan from a single backbone pass, and the policy executes the chunk that its own likelihood ranks highest. The plans are learned from demonstrations alone, without plan labels or rewards. With the backbone, data and training recipe held fixed, eight plan-conditioned candidates raise five-task chain success on CALVIN ABC$\rightarrow$D from 56.9% to 69.9%, while eight candidates from autoregressive, plan-free or same-plan resampling reach at most 64.9%. The same-plan baseline is PlanDiv's own checkpoint with the plan held fixed, so this gap comes from the plans, not from drawing more samples. On LIBERO-Long, four plans remove 40% of single-candidate failures, against at most 21% for matched resampling. On a real Franka arm the gain appears where a task admits more than one solution: PlanDiv is on par with a single-output OpenVLA-OFT+ baseline on a one-solution task and succeeds in 51 of 54 trials against 40 of 54 on two tasks with two solutions.
+
+
+## Agent
+### When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents
+**Authors**: Zeynab Anbiaee, Sajjad Dadkhah, Ali A. Ghorbani
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.21577v1](https://arxiv.org/pdf/2611.21577v1)
+
+**Abstract**: Large language model (LLM) applications increasingly act as agents that select and invoke external tools. The Model Context Protocol (MCP) standardizes this interaction by allowing clients to compose tools advertised by multiple servers. However, tool metadata used for discovery and selection is not, by itself, necessarily bound to a verified provider identity. This paper studies this gap as tool-provider misbinding: a failure in which a request intended for a legitimate provider is instead resolved to an attacker-controlled tool. The attacker does not compromise the host, LLM, legitimate server, or network channel; it only operates another MCP server that advertises tools with chosen metadata. We formulate tool provider misbinding as an attacker-controlled tool-selection optimization problem and evaluate it in a controlled MCP environment across five LLM-based clients. The results show that interactions drive misbinding. The strongest failures occur when exact-name collision, task-aligned description, and compatible schema reinforce one another, but authority-enhanced descriptions with compatible schema can also cause wrong-provider execution or unresolved provider ambiguity without name collision. Different models expose the same provider-binding weakness differently, including attacker-controlled provider selection, clarification requests, and unstable or inconsistent provider resolution.
+
+
+### SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents
+**Authors**: Brian T. Weston, Alondra Torres Contreras, Aldair E. Gongora
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.21541v1](https://arxiv.org/pdf/2611.21541v1)
+
+**Abstract**: We introduce SciResearch-Eval, an interactive benchmark of scientific judgment built on a standard laboratory problem: measuring a material's thermal properties by heating it and fitting a heat-conduction simulator. An agent designs its own experiments, uses a supplied simulator that may be under-resolved or physically wrong, and reports each property with a 95% interval. To our knowledge it is the first benchmark to combine agent-designed experiments, a deliberately flawed simulator, and proper scoring of calibrated intervals against exact ground truth. On a held-out split (93 tasks, 9 models, 2,511 episodes), models handle procedural traps. When the simulator is missing physics, most report wrong values while stating they are 95% sure: their ranges contain the truth in 20-62% of cases, against 94% for GPT-6 Astra and 99% for Claude Fable 5.2. At default effort the failing Claude 5.5 models rarely diagnose the missing physics (Opus in 35% of episodes, against 66% for Astra), and even when they do, their ranges often miss; Astra and Fable design experiments in which the flawed simulator is accurate, such as gentle heating, which keeps Astra calibrated even when it does not name the cause. Asking for wider intervals does not help; stating the strategy improves interval scores 1.6-2.5-fold, replicated on a pre-registered fresh split, but coverage barely moves. A pre-registered effort ablation shows that the correction is latent in the Claude 5.5 models: at maximum effort Opus improves more than tenfold and is no longer detectably behind Astra at default, but only with 13-31 times more reasoning; older and open-weight models gain nothing. Fable 5.2 is the most accurate model at default effort (interval score 1.9 times better than Astra's) but writes 6 times as many tokens, and at Astra's token count it falls short. We release the environment, graders and harness.
+
+
+### Procedure without Judgment: What Small Language Models Learn under an Exact Verifier
+**Authors**: Arunkumar V, Manoranjan Gandhudi, Gangadharan G. R., Arun Prakash, S. Senthilkumar
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.21529v1](https://arxiv.org/pdf/2611.21529v1)
+
+**Abstract**: When an authorization policy blocks an agent's tool call, the audit log should name the facts that forced the decision and nothing more. For an executable policy over an enumerable context space this minimal sufficient reason can be computed exactly, so an explanation is scored against ground truth rather than a proxy for it. We use that exactness to ask what a model can learn from a verifier that has no error in it. The explainer sees one request and one decision, never the policy, and has thirty turns in which it may call the policy on altered requests and ask whether a candidate set of facts is sufficient. Frontier models find the exact reason about half the time with the tools alone, and one sentence telling them to shrink the answer lifts Haiku 4.5 from 58% to 75%. A 4B model fine-tuned on 2000 traces of the deletion algorithm reaches 92% on the policy it was trained on. Teacher kind is what moves this: at matched data size the algorithm-taught student leads the frontier-taught one in all three training seeds, and the two arms never overlap. What the student learns is a fixed schedule of sufficiency checks, and the schedule does not travel. On three public policies it never saw, its answers stay sufficient (94%) and stop being minimal (48%), while Haiku under the same sentence is exact on all 47 episodes. Reinforcement learning from the exact reward leaves held-out accuracy where it was and inverts the strategy, from probing the policy to spending the entire budget on sufficiency checks. The oracle made the effect of training legible, but it did not make training better.
+
+
+### Safe Resemblance, Silent Propagation: Limits of Text-Similarity Guardrails for AI Agent Safety
+**Authors**: Charles Xiao
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.21520v1](https://arxiv.org/pdf/2611.21520v1)
+
+**Abstract**: When AI agents relay information to one another, an output can preserve an injected instruction's effect on downstream agents even after its wording changes, yet legitimate quotation and template reuse can produce high textual overlap with the source, so text-similarity guardrails that attempt to flag the former risk conflating these two cases. We test this distinction using DonkeyRail, a public classifier combining BLEU, ROUGE-L, and METEOR features, deployed in a controlled three-agent email relay, defining a behavioral measure in which an output counts as functional (the injected procedure induces fresh computations in two subsequent agents) independent of the detector's score, alongside legitimate controls that explicitly authorize quotation and reuse. At its default threshold the classifier misses 8 of 19 functional outputs while flagging 70 of 192 legitimate replies, with every completed quotation and template-reuse reply triggering a false alert; calibrating for low false positives on one template set does not transfer, as the recalibrated threshold detects only one functional output and still produces 15 false alerts on new templates. We also identify an operating-point error in all 21 published classifier configurations, where ROC interpolation replaces direct threshold application, and show formally that high AUC against a surface-level text criterion provides no distribution-free guarantee of high AUC against the behavioral target, while the existing evaluation labels lack the joint observations needed to estimate the gap. An authorization analysis further shows that identical visible transcripts can require different safety decisions depending on the governing policy, a distinction no observation-only classifier can resolve. These results argue for behavioral and policy-grounded evaluation over text-similarity guardrails.
+
+
+### RESILAGENT: A Three-Pillar Architecture for Cyber-Physical Resilience in Electrical Power and Energy Systems
+**Authors**: Nikolaos Kekatos, Georgios Koutidis, Konstantinos Antonakopoulos, Stylianos Basagiannis, Sokratis Katsikas, Georgios Kavallieratos, Alexios Lekidis, Tom Nianios, Elpiniki Papageorgiou
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.21480v1](https://arxiv.org/pdf/2611.21480v1)
+
+**Abstract**: Electrical Power and Energy Systems face hybrid threats that combine cyber intrusions, physical sabotage and climate-driven stress, and routinely outpace today's siloed monitoring stacks. We present RESILAGENT, a concept architecture organised around three operational pillars, Sensing & Data Intelligence, Resilience Analytics & Reporting, and Incident Response & Recovery, mediated by a Cloud-based Orchestrator and exercised through a closed Detect-Simulate-Decide-Sign loop. The framework fuses agentic artificial intelligence and multimodal large language models for cross-modal detection, real-time digital twins for what-if simulation, and a permissioned blockchain anchor for tamper-evident threat intelligence and CER/NIS2-aligned evidence. We instantiate it on two scenarios, a transmission operator under coordinated cyber compromise, sabotage and heatwave, and a distribution operator under a supply-chain compromise during a storm, and report an IEEE-bus micro-benchmark that quantifies each pillar through false-data-injection attack detection, cyber-physical fusion lift, N-1 contingency screening and anchor cost.
+
+
+### A Reinforcement Learning Method to Navigate SMEFT Operator Space
+**Authors**: Jacky Kumar
+
+**Published Date**: 2026-11-16
+
+**Updated Date**: 2026-11-16
+
+**PDF Url**: [2611.21439v1](https://arxiv.org/pdf/2611.21439v1)
+
+**Abstract**: In particle physics, discrepancies between experimental measurements and Standard Model (SM) predictions are commonly interpreted within new theoretical models. In this context, the Standard Model Effective Field Theory (SMEFT) provides a general framework encompassing a broad class of models. However, exploring the enormous space of possible SMEFT operators rapidly becomes a challenging combinatorial problem: many operators can contribute simultaneously to different observables, their effects are correlated, and distinct operator combinations can provide comparably good descriptions of the data. In this work, we formulate the exploration of the SMEFT operator space as a sequential decision-making problem using reinforcement learning (RL). Our RL agent employs a lightweight actor-critic architecture with approximately 40K trainable parameters in total. Rather than searching for a single best-fit theory, our method is designed to discover a diverse set of high-quality theory hypotheses. We test the method in a complex phenomenological environment comprising 132 observables across several sectors of particle physics, including 24 measurements that deviate from their SM predictions by more than $1.5σ$. We show that the learned RL policy efficiently constructs multi-operator theories that substantially improve the global fit. Comparisons with independent random-subset and random-sequential searches demonstrate the ability of the RL policy to navigate this large combinatorial space. Our results establish RL as a systematic framework for exploring diverse patterns of new physics (NP) interactions within SMEFT.
+
+

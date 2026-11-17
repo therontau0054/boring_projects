@@ -355,6 +355,48 @@ TODO:
 
 
 
+
+## Update on 2026-11-17
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-16|2026-11-16|Latent Lattice Language Models|Shivam Duggal|[2611.21608v1](https://arxiv.org/pdf/2611.21608v1)|
+|2026-11-16|2026-11-16|ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters|Ruixi Yu|[2611.21607v1](https://arxiv.org/pdf/2611.21607v1)|
+|2026-11-16|2026-11-16|ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization|Huawei Lin|[2611.21605v1](https://arxiv.org/pdf/2611.21605v1)|
+|2026-11-16|2026-11-16|Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction|Ilia Azizi|[2611.21602v1](https://arxiv.org/pdf/2611.21602v1)|
+|2026-11-16|2026-11-16|How VLMs Plan What's Next|Rohit Gandikota|[2611.21600v1](https://arxiv.org/pdf/2611.21600v1)|
+|2026-11-16|2026-11-16|Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K|Aaron Wang|[2611.21594v1](https://arxiv.org/pdf/2611.21594v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-16|2026-11-16|Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent|Blas Eugenio Vicco Zarate|[2611.21598v1](https://arxiv.org/pdf/2611.21598v1)|
+|2026-11-16|2026-11-16|Optimal Autoregressive Chain-of-Thought Learning via Bagging|Awni Altabaa|[2611.21597v1](https://arxiv.org/pdf/2611.21597v1)|
+|2026-11-16|2026-11-16|ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises|Jaime C. Acosta|[2611.21579v1](https://arxiv.org/pdf/2611.21579v1)|
+|2026-11-16|2026-11-16|When Do Histology Foundation Models Need Geometric Test-Time Augmentation?|Lars Chen|[2611.21565v1](https://arxiv.org/pdf/2611.21565v1)|
+|2026-11-16|2026-11-16|Benchmarking memory and nonlinear processing capacity of quantum recurrent neural networks for time series prediction|José Daniel Viqueira|[2611.21552v1](https://arxiv.org/pdf/2611.21552v1)|
+|2026-11-16|2026-11-16|The cost of enforcing long-run coverage: a phase transition in online conformal prediction|Yu Gui|[2611.21542v1](https://arxiv.org/pdf/2611.21542v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-16|2026-11-16|Instructions Before Actions: Prospective and Retrospective Language Supervision for Driving Vision-Language-Action Data|Angel Martinez-Sanchez|[2611.20631v1](https://arxiv.org/pdf/2611.20631v1)|
+|2026-11-16|2026-11-16|ReRead: Wrong Predictions, Useful Representations - Correcting Frozen Robot Policies by Re-reading Their Own Representations|Xu Su|[2611.20465v1](https://arxiv.org/pdf/2611.20465v1)|
+|2026-11-15|2026-11-15|NF-VLA: A Normalizing-Flow Baseline for Vision-Language-Action Learning|Ruichen Deng|[2611.20314v1](https://arxiv.org/pdf/2611.20314v1)|
+|2026-11-15|2026-11-15|Right Goal, Wrong Body: Re-grounding Frozen VLAs under Actuation Shift|Umer Siddique|[2611.20244v1](https://arxiv.org/pdf/2611.20244v1)|
+|2026-11-15|2026-11-15|ReactBench-AD: Do Driving VLAs and World-Action Models React to Imminent Hazards in Their Path?|Nikos Theodoridis|[2611.20011v1](https://arxiv.org/pdf/2611.20011v1)|
+|2026-11-15|2026-11-15|PlanDiv: Test-Time Scaling with Latent Plans for Vision-Language-Action Models|Hanbo Zhang|[2611.20010v1](https://arxiv.org/pdf/2611.20010v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-16|2026-11-16|When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents|Zeynab Anbiaee|[2611.21577v1](https://arxiv.org/pdf/2611.21577v1)|
+|2026-11-16|2026-11-16|SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents|Brian T. Weston|[2611.21541v1](https://arxiv.org/pdf/2611.21541v1)|
+|2026-11-16|2026-11-16|Procedure without Judgment: What Small Language Models Learn under an Exact Verifier|Arunkumar V|[2611.21529v1](https://arxiv.org/pdf/2611.21529v1)|
+|2026-11-16|2026-11-16|Safe Resemblance, Silent Propagation: Limits of Text-Similarity Guardrails for AI Agent Safety|Charles Xiao|[2611.21520v1](https://arxiv.org/pdf/2611.21520v1)|
+|2026-11-16|2026-11-16|RESILAGENT: A Three-Pillar Architecture for Cyber-Physical Resilience in Electrical Power and Energy Systems|Nikolaos Kekatos|[2611.21480v1](https://arxiv.org/pdf/2611.21480v1)|
+|2026-11-16|2026-11-16|A Reinforcement Learning Method to Navigate SMEFT Operator Space|Jacky Kumar|[2611.21439v1](https://arxiv.org/pdf/2611.21439v1)|
 ## Update on 2026-11-15
 
 ### World Model
