@@ -356,6 +356,48 @@ TODO:
 
 
 
+
+## Update on 2026-11-19
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-18|2026-11-18|UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation|Jingzhi Bao|[2611.24941v1](https://arxiv.org/pdf/2611.24941v1)|
+|2026-11-18|2026-11-18|$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling|Junjie Ye|[2611.24940v1](https://arxiv.org/pdf/2611.24940v1)|
+|2026-11-18|2026-11-18|Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models|Yupeng Zheng|[2611.24938v1](https://arxiv.org/pdf/2611.24938v1)|
+|2026-11-18|2026-11-18|Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems|Priyanka Sinha|[2611.24932v1](https://arxiv.org/pdf/2611.24932v1)|
+|2026-11-18|2026-11-18|Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem|Sarah H. Cen|[2611.24927v1](https://arxiv.org/pdf/2611.24927v1)|
+|2026-11-18|2026-11-18|Render the Robot, Generate the World: One Video World Model Across Embodiments|Yash Jangir|[2611.24925v1](https://arxiv.org/pdf/2611.24925v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-18|2026-11-18|Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses|Jiahang Lin|[2611.24924v1](https://arxiv.org/pdf/2611.24924v1)|
+|2026-11-18|2026-11-18|Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation|Samet Demir|[2611.24908v1](https://arxiv.org/pdf/2611.24908v1)|
+|2026-11-18|2026-11-18|Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators|Michael Liaofan Liu|[2611.24896v1](https://arxiv.org/pdf/2611.24896v1)|
+|2026-11-18|2026-11-18|Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacity|Benjamin Novotny|[2611.24891v1](https://arxiv.org/pdf/2611.24891v1)|
+|2026-11-18|2026-11-18|Who are you? The Personal Imitation Game|Muhammad Rizky Wellyanto|[2611.24888v1](https://arxiv.org/pdf/2611.24888v1)|
+|2026-11-18|2026-11-18|Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs|Yuzhuo Li|[2611.24880v1](https://arxiv.org/pdf/2611.24880v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-18|2026-11-18|Towards Pose-Robust Few-Shot Vision-Language-Action Models|Wenhao Li|[2611.24360v1](https://arxiv.org/pdf/2611.24360v1)|
+|2026-11-18|2026-11-18|Adaptive Action Horizon Selection via Flow-Field Uncertainty|Idan Ben-Ami|[2611.24178v1](https://arxiv.org/pdf/2611.24178v1)|
+|2026-11-18|2026-11-18|AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation|Shiwei Wu|[2611.24077v1](https://arxiv.org/pdf/2611.24077v1)|
+|2026-11-18|2026-11-18|Meaning Reaches Object Choice but Not Completion: Where Is a VLA Vulnerable to Landmark Synonyms?|Ryoichi Kurihara|[2611.24076v1](https://arxiv.org/pdf/2611.24076v1)|
+|2026-11-18|2026-11-18|RePlan-VLA: Progress-Aware Replanning for Long-Horizon Vision-Language-Action Models|Apoorva Vashisth|[2611.23843v1](https://arxiv.org/pdf/2611.23843v1)|
+|2026-11-18|2026-11-18|Finetuning VLAs for Dexterous Manipulation: The Right Checkpoint Is All You Need|Artur Kuramshin|[2611.23676v1](https://arxiv.org/pdf/2611.23676v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-18|2026-11-18|On Evaluating User Simulators for Interactive Agents|Hengguang Zhou|[2611.24892v1](https://arxiv.org/pdf/2611.24892v1)|
+|2026-11-18|2026-11-18|Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Driving Scenario Generation|Beyazit Yalcinkaya|[2611.24876v1](https://arxiv.org/pdf/2611.24876v1)|
+|2026-11-18|2026-11-18|Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents|Ruiqi Liu|[2611.24867v1](https://arxiv.org/pdf/2611.24867v1)|
+|2026-11-18|2026-11-18|Vibe-Trading: Towards Agent-Native Trading|Haozhe Wu|[2611.24845v1](https://arxiv.org/pdf/2611.24845v1)|
+|2026-11-18|2026-11-18|Kaer: Security-Aware Replanning for Multi-Agent Systems|Tushin Mallick|[2611.24839v1](https://arxiv.org/pdf/2611.24839v1)|
+|2026-11-18|2026-11-18|Isabelle Pool Server: a pooled verification service for prover training and multi-agent proving|Xuanwei Ren|[2611.24788v1](https://arxiv.org/pdf/2611.24788v1)|
 ## Update on 2026-11-17
 
 ### World Model
