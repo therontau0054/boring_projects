@@ -357,6 +357,48 @@ TODO:
 
 
 
+
+## Update on 2026-11-21
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-19|2026-11-19|RL Post-Training in Diffusion Transformers Is Activation Steering|Tuna Han Salih Meral|[2611.26627v1](https://arxiv.org/pdf/2611.26627v1)|
+|2026-11-19|2026-11-19|TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming|Jinbin Luo|[2611.26619v1](https://arxiv.org/pdf/2611.26619v1)|
+|2026-11-19|2026-11-19|One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning|Yuxin Jiang|[2611.26617v1](https://arxiv.org/pdf/2611.26617v1)|
+|2026-11-19|2026-11-19|ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement|Yansong Qu|[2611.26615v1](https://arxiv.org/pdf/2611.26615v1)|
+|2026-11-19|2026-11-19|Bio-PM-Guided Synthetic IMU Generation|Deepali Singh|[2611.26607v1](https://arxiv.org/pdf/2611.26607v1)|
+|2026-11-19|2026-11-19|Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth|Peiyun Hu|[2611.26603v1](https://arxiv.org/pdf/2611.26603v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-19|2026-11-19|PlayCraft: Designing Engaging Games from Agent Play Experience|Weihao Cheng|[2611.26624v1](https://arxiv.org/pdf/2611.26624v1)|
+|2026-11-19|2026-11-19|ProtoDiffusion: Token-per-Layer Generative Modeling of Multi-Layer Images|Adrià Ciurana Lanau|[2611.26586v1](https://arxiv.org/pdf/2611.26586v1)|
+|2026-11-19|2026-11-19|Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs|Ziqing Yang|[2611.26569v1](https://arxiv.org/pdf/2611.26569v1)|
+|2026-11-19|2026-11-19|GEOHunter: Mapping a Generative Engine Optimization Network in the Wild|Sean Tang|[2611.26564v1](https://arxiv.org/pdf/2611.26564v1)|
+|2026-11-19|2026-11-19|AURA: AUdio-dRiven streaming Avatar|Nathaniel Cohen|[2611.26540v1](https://arxiv.org/pdf/2611.26540v1)|
+|2026-11-19|2026-11-19|Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models|Chang Yang|[2611.26531v1](https://arxiv.org/pdf/2611.26531v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-19|2026-11-19|PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation|Kai Lu|[2611.26596v1](https://arxiv.org/pdf/2611.26596v1)|
+|2026-11-19|2026-11-19|Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation|Yuzhi Huang|[2611.26444v1](https://arxiv.org/pdf/2611.26444v1)|
+|2026-11-19|2026-11-19|FastRoverVLA: Fast Vision-Language-Action Execution for Off-Road Autonomous Driving|Changtao Zhao|[2611.26242v1](https://arxiv.org/pdf/2611.26242v1)|
+|2026-11-19|2026-11-19|Full Rank and Stable Sampling of $\tanh$ Networks|Philipp Grohs|[2611.25867v1](https://arxiv.org/pdf/2611.25867v1)|
+|2026-11-19|2026-11-19|DMT-Attack: Diffusion-Prior Texture Search for Closed-Loop Vision-Language-Action Policies|Jun Xia|[2611.25695v1](https://arxiv.org/pdf/2611.25695v1)|
+|2026-11-19|2026-11-19|A$^2$-VLA: Adapting Vision-Language-Action Policies to New Tools through Agentic Affordance Discovery|Chenyuan Zhou|[2611.25656v1](https://arxiv.org/pdf/2611.25656v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-19|2026-11-19|SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research|Amine Lbath|[2611.26601v1](https://arxiv.org/pdf/2611.26601v1)|
+|2026-11-19|2026-11-19|Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)|Mengxiao Wang|[2611.26553v1](https://arxiv.org/pdf/2611.26553v1)|
+|2026-11-19|2026-11-19|Backtracking Agent Applications Security Incidents|Yicheng Cai|[2611.26525v1](https://arxiv.org/pdf/2611.26525v1)|
+|2026-11-19|2026-11-19|Grid Cells as Spectral Successor Features: A Reusable Basis for Continual Reinforcement Learning|Élodie Côté-Gauthier|[2611.26504v1](https://arxiv.org/pdf/2611.26504v1)|
+|2026-11-19|2026-11-19|FLUID: Flexible, Evidence-Grounded Situated Task Guidance|Yunqi Zhao|[2611.26491v1](https://arxiv.org/pdf/2611.26491v1)|
+|2026-11-19|2026-11-19|Seer: Guiding Small Deep-Research Agents with Shared Decision Models|Yuhao Zhou|[2611.26423v1](https://arxiv.org/pdf/2611.26423v1)|
 ## Update on 2026-11-19
 
 ### World Model
