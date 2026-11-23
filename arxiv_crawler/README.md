@@ -358,6 +358,48 @@ TODO:
 
 
 
+
+## Update on 2026-11-23
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-20|2026-11-20|A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning|Hari Sitaula|[2611.27978v1](https://arxiv.org/pdf/2611.27978v1)|
+|2026-11-20|2026-11-20|Non-penetrating World Models|Yuhang Dai|[2611.27963v1](https://arxiv.org/pdf/2611.27963v1)|
+|2026-11-20|2026-11-20|Model Carving: Training Transformers That Optimize Their Own Topology|Kaden Zheng|[2611.27962v1](https://arxiv.org/pdf/2611.27962v1)|
+|2026-11-20|2026-11-20|Topology Hub Optimal Transport: Eliminating Long Context Dilution at Flash Speed|Dylan Forde|[2611.27951v1](https://arxiv.org/pdf/2611.27951v1)|
+|2026-11-20|2026-11-20|Perceived Differences in Activity and Experience Between Developing Software With and Without AI|Rubash Mali|[2611.27947v1](https://arxiv.org/pdf/2611.27947v1)|
+|2026-11-20|2026-11-20|What Must a Model Tell a Planner? Outcome Interfaces for Risk-Aware Planning After Robot Damage|Hassan Iqbal|[2611.27939v1](https://arxiv.org/pdf/2611.27939v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-20|2026-11-20|Ranking-Preserving Coreset Selection for Efficient Evolutionary Hyperparameter Optimization|Mamoona Tasadduq|[2611.27959v1](https://arxiv.org/pdf/2611.27959v1)|
+|2026-11-20|2026-11-20|BioEmu2: Scalable Emulation of Biomolecular Dynamics|Michael Gastegger|[2611.27924v1](https://arxiv.org/pdf/2611.27924v1)|
+|2026-11-20|2026-11-20|StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning|Chi Yan|[2611.27915v1](https://arxiv.org/pdf/2611.27915v1)|
+|2026-11-20|2026-11-20|Decision Columns as an Index: Interpretable Embeddings for Explainable Entity Matching and Search|Aadharsh Kannan|[2611.27910v1](https://arxiv.org/pdf/2611.27910v1)|
+|2026-11-20|2026-11-20|TEA-Bench-BR: Can Coding Agents Turn a Branching Clinical Specification into Correct Code?|Marcio Andre de Souza Estevam|[2611.27895v1](https://arxiv.org/pdf/2611.27895v1)|
+|2026-11-20|2026-11-20|Speculative Decoding Is Less Speculative Than You Think|Guanning Zeng|[2611.27891v1](https://arxiv.org/pdf/2611.27891v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-20|2026-11-20|Efficient VLA Reinforcement Learning via Subchunk Rollouts in Latent World Models|Nan Tang|[2611.27645v1](https://arxiv.org/pdf/2611.27645v1)|
+|2026-11-20|2026-11-20|FoRe: A Force-Guided Framework for Autonomous Grasp Recovery in Vision-Language-Action Models|Shuai Peng|[2611.27011v1](https://arxiv.org/pdf/2611.27011v1)|
+|2026-11-19|2026-11-19|FlashX: Scaling Robotic Experience Reuse for Embodied Agents with CBA-Based NAND Flash|Yuseon Choi|[2611.25580v1](https://arxiv.org/pdf/2611.25580v1)|
+|2026-11-19|2026-11-19|ActMem: From Latent Memory Reasoning to Grounded Robotic Action|Linfeng Dong|[2611.25461v1](https://arxiv.org/pdf/2611.25461v1)|
+|2026-11-19|2026-11-19|LoongForge-Embodied: A Unified Framework for Training Heterogeneous Embodied Models| LoongForge Team|[2611.25460v1](https://arxiv.org/pdf/2611.25460v1)|
+|2026-11-19|2026-11-19|Dune: A Zeroth-Order Optimizer with Time-Conditioned Historical Error Regression for VLA Test-Time Adaptation|Chengyang Dong|[2611.25400v1](https://arxiv.org/pdf/2611.25400v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-20|2026-11-20|SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Improvement|Huaze Tang|[2611.27919v1](https://arxiv.org/pdf/2611.27919v1)|
+|2026-11-20|2026-11-20|LesionAgent: Training-Free Agentic Tumor Tracking and Response Assessment in Longitudinal CT|Maximilian Rokuss|[2611.27876v1](https://arxiv.org/pdf/2611.27876v1)|
+|2026-11-20|2026-11-20|SLICR: Strategy Logic-Guided Multi-Agent Reinforcement Learning|Arshia Rafieioskouie|[2611.27865v1](https://arxiv.org/pdf/2611.27865v1)|
+|2026-11-20|2026-11-20|Who Grades the Agent? Privilege Separation for Coding-Agent Benchmarks|Nathan Nour Houlamy|[2611.27860v1](https://arxiv.org/pdf/2611.27860v1)|
+|2026-11-20|2026-11-20|Beyond Self-Critique: Epistemic Convergence Control for Multi-Agent Research Verification|Chrisantus Eze|[2611.27839v1](https://arxiv.org/pdf/2611.27839v1)|
+|2026-11-20|2026-11-20|Search-RSI: Expanding Search Worlds Along Multimodal Agents' Capability Frontier|Chengchao Lv|[2611.27780v1](https://arxiv.org/pdf/2611.27780v1)|
 ## Update on 2026-11-21
 
 ### World Model
