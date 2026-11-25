@@ -359,6 +359,48 @@ TODO:
 
 
 
+
+## Update on 2026-11-25
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-24|2026-11-24|OmniAct: One Policy, One Million Embodiments|Xiang Fan|[2611.33158v1](https://arxiv.org/pdf/2611.33158v1)|
+|2026-11-24|2026-11-24|BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles|Yuwei Yang|[2611.33151v1](https://arxiv.org/pdf/2611.33151v1)|
+|2026-11-24|2026-11-24|Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild|Zehan Zheng|[2611.33145v1](https://arxiv.org/pdf/2611.33145v1)|
+|2026-11-24|2026-11-24|PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents|Feixiang Ruan|[2611.33144v1](https://arxiv.org/pdf/2611.33144v1)|
+|2026-11-24|2026-11-24|iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction|Vansh Kapoor|[2611.33141v1](https://arxiv.org/pdf/2611.33141v1)|
+|2026-11-24|2026-11-24|A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit|Hussamuddin Syed|[2611.33133v1](https://arxiv.org/pdf/2611.33133v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-24|2026-11-24|Exploratory Midtraining for Robot Policies| Kshitiz|[2611.33130v1](https://arxiv.org/pdf/2611.33130v1)|
+|2026-11-24|2026-11-24|MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing|Scott Piersall|[2611.33119v1](https://arxiv.org/pdf/2611.33119v1)|
+|2026-11-24|2026-11-24|Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions|Yuxing Liu|[2611.33111v1](https://arxiv.org/pdf/2611.33111v1)|
+|2026-11-24|2026-11-24|Reinforcement Learning Can Be Recovered From Its Own Rollouts|Jiayi Sheng|[2611.33102v1](https://arxiv.org/pdf/2611.33102v1)|
+|2026-11-24|2026-11-24|GREMLIN: Generating Random Environments for Meta-Learning with Interacting Networks|Octave Gaspard|[2611.33101v1](https://arxiv.org/pdf/2611.33101v1)|
+|2026-11-24|2026-11-24|EventDiffusion: Learning Native Event Stream Distribution from Videos|Karthik Sundar Senthilkumar|[2611.33096v1](https://arxiv.org/pdf/2611.33096v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-24|2026-11-24|DexWAC: A Unified World-Actor-Critic Model for Dexterous Robot Manipulation|Hongjia Liu|[2611.32654v1](https://arxiv.org/pdf/2611.32654v1)|
+|2026-11-24|2026-11-24|MXI-MemICL: Towards In-Context Robot Manipulation through Self-Retrieved Interaction Memory|Jialong Peng|[2611.32564v1](https://arxiv.org/pdf/2611.32564v1)|
+|2026-11-24|2026-11-24|Sparse Poison, Strong Hijack: Efficient Trajectory-Level Backdoors in Vision-Language-Action Models with Only 1\% Poisoning|Simin Huang|[2611.32304v1](https://arxiv.org/pdf/2611.32304v1)|
+|2026-11-24|2026-11-24|Roboclock: A Unified Benchmark for Time-Aware Robotic Intelligence|Yujie Zhao|[2611.32233v1](https://arxiv.org/pdf/2611.32233v1)|
+|2026-11-24|2026-11-24|Perception Is Enough, at the Right Scale: Scale-Adaptive Token Pruning for Vision-Language-Action Models|Yifeng Lin|[2611.31954v1](https://arxiv.org/pdf/2611.31954v1)|
+|2026-11-23|2026-11-23|Near-Zero Forgetting Is Not Enough: Out-of-Distribution Robustness in Continual Learning of Pretrained VLAs|Adrià Ruiz|[2611.31511v1](https://arxiv.org/pdf/2611.31511v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-24|2026-11-24|Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance|Lingwei Gu|[2611.33098v1](https://arxiv.org/pdf/2611.33098v1)|
+|2026-11-24|2026-11-24|AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design|Guangyuan Wang|[2611.33093v1](https://arxiv.org/pdf/2611.33093v1)|
+|2026-11-24|2026-11-24|U-Statistics-Powered LLM Reasoning|Shijin Gong|[2611.33064v1](https://arxiv.org/pdf/2611.33064v1)|
+|2026-11-24|2026-11-24|Hybrid AI for AI-Native RAN Control: A Functional Perspective|Sabrine Aroua|[2611.33035v1](https://arxiv.org/pdf/2611.33035v1)|
+|2026-11-24|2026-11-24|RecordRoute: Auditing Agent Failures with Localization-Guided Diagnosis|Yifan Duan|[2611.33022v1](https://arxiv.org/pdf/2611.33022v1)|
+|2026-11-24|2026-11-24|Can LLM Judges Catch Unsafe Clinical Actions? A Fault-Injection Study|Neda Ghafouri|[2611.33012v1](https://arxiv.org/pdf/2611.33012v1)|
 ## Update on 2026-11-23
 
 ### World Model
