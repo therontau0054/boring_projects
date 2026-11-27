@@ -360,6 +360,48 @@ TODO:
 
 
 
+
+## Update on 2026-11-27
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-25|2026-11-25|Tracking Any Point with Agentic Visual Reasoning|Xuweiyi Chen|[2611.34943v1](https://arxiv.org/pdf/2611.34943v1)|
+|2026-11-25|2026-11-25|Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning|Yalin E. Sagduyu|[2611.34942v1](https://arxiv.org/pdf/2611.34942v1)|
+|2026-11-25|2026-11-25|A Mesh for Every Moment|Roy Or-El|[2611.34939v1](https://arxiv.org/pdf/2611.34939v1)|
+|2026-11-25|2026-11-25|Can image generation help visual reasoning? An empirical study|Xueyang Yu|[2611.34935v1](https://arxiv.org/pdf/2611.34935v1)|
+|2026-11-25|2026-11-25|A gene informed benchmark for BioScoring of pathology foundation models|Paul Vilars|[2611.34930v1](https://arxiv.org/pdf/2611.34930v1)|
+|2026-11-25|2026-11-25|Diverse Alternative Reasoning Traces for Hard Math Problems|Lukas Aichberger|[2611.34928v1](https://arxiv.org/pdf/2611.34928v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-25|2026-11-25|Attack Policy Selection can Mislead Monitor Evaluators|Charlie Griffin|[2611.34934v1](https://arxiv.org/pdf/2611.34934v1)|
+|2026-11-25|2026-11-25|Shape-Aware Three-Way Merge for RDF Knowledge Graphs: The schema defines the conflict: an implementation and evaluation|Steve Brown|[2611.34870v1](https://arxiv.org/pdf/2611.34870v1)|
+|2026-11-25|2026-11-25|BOP-Refer: Benchmark for Monocular 3D and 2D Object Grounding|Tomas Hodan|[2611.34862v1](https://arxiv.org/pdf/2611.34862v1)|
+|2026-11-25|2026-11-25|From Prediction to Decision: Decision-Focused Fine-Tuning of Autoregressive Tabular Transformers for Cost-Sensitive Financial Events|Ashkan Golgoon|[2611.34858v1](https://arxiv.org/pdf/2611.34858v1)|
+|2026-11-25|2026-11-25|DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents|Han Huang|[2611.34852v1](https://arxiv.org/pdf/2611.34852v1)|
+|2026-11-25|2026-11-25|Probing Visual Idiosyncrasies in Text-to-Image Models|Yongqian Peng|[2611.34843v1](https://arxiv.org/pdf/2611.34843v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-25|2026-11-25|RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies|Insup Lee|[2611.34864v1](https://arxiv.org/pdf/2611.34864v1)|
+|2026-11-25|2026-11-25|A Failure-Driven Data Flywheel for Post-Training Vision-Language-Action Models|Yuhao Luo|[2611.34698v1](https://arxiv.org/pdf/2611.34698v1)|
+|2026-11-25|2026-11-25|Hetero-Associative Visuomotor Memory: Soft Recall as a Base for Learned Residuals in Few-Demonstration Imitation|Runcong Wang|[2611.34014v1](https://arxiv.org/pdf/2611.34014v1)|
+|2026-11-25|2026-11-25|Aegis-VLA: Reliability-Gated Action Refinement via a Trajectory World Model for Dynamic Object Manipulation|Lennox Wei|[2611.33993v1](https://arxiv.org/pdf/2611.33993v1)|
+|2026-11-25|2026-11-25|Towards 360$^\circ$ Embodied UAV Tracking Without Turning|Bingyu Li|[2611.33934v1](https://arxiv.org/pdf/2611.33934v1)|
+|2026-11-25|2026-11-25|Keep or Roll Back? Out-of-Loop Judges for Self-Improving VLA and End-to-End Embodied Policies|Zilin Huang|[2611.33794v1](https://arxiv.org/pdf/2611.33794v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-11-25|2026-11-25|$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents|Qihao Lin|[2611.34920v1](https://arxiv.org/pdf/2611.34920v1)|
+|2026-11-25|2026-11-25|How Much Do Coding Agents Over-Edit, and Why? An Empirical Study of Unneeded Edits in Repository-Level Agent Patches|Aakash Goel|[2611.34875v1](https://arxiv.org/pdf/2611.34875v1)|
+|2026-11-25|2026-11-25|Provably Efficient Offline Discounted Reinforcement Learning under Recursive Entropic Risk|Amirparsa Bahrami|[2611.34840v1](https://arxiv.org/pdf/2611.34840v1)|
+|2026-11-25|2026-11-25|Deep Reinforcement Learning for Multi-UAV Data Harvesting Under Variable Team Sizes and Agent Loss|Thiago de Souza Lamenza|[2611.34818v1](https://arxiv.org/pdf/2611.34818v1)|
+|2026-11-25|2026-11-25|Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models|Dezhi Luo|[2611.34813v1](https://arxiv.org/pdf/2611.34813v1)|
+|2026-11-25|2026-11-25|When Every Rollout Fails: Splicing Learner-Conditioned Options into Long-Horizon Agent RL|Haowen Hou|[2611.34777v1](https://arxiv.org/pdf/2611.34777v1)|
 ## Update on 2026-11-25
 
 ### World Model
